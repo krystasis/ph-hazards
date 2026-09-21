@@ -17,5 +17,11 @@ This is not an official source. For decisions that affect safety, use PAGASA and
 The collector sends one request per page per run, identifies itself, honours 403/429 by stopping,
 and never tries to get around a block. See `docs/sources/` for what was checked before each source was added.
 
+Changed rows are also pushed to a Cloudflare D1 database that a separate site reads. That step is
+skipped unless `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID` and `D1_DATABASE_ID` are set, so a
+fork keeps working without them. It stops for the day once it has written the configured number of
+rows (default 60,000), to stay inside the free plan.
+
     python3 -m unittest discover -s tests
     python3 -m collector.run
+    python3 -m db.send data --dry-run

@@ -17,7 +17,7 @@ permissions:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
 
@@ -26,6 +26,7 @@ jobs:
         run: python3 -m collector.run
         continue-on-error: true  # 失敗しても取れた分と state(クールダウン等)は残す
 
+      # 取れた分はここで確定させる。この後の D1 送信が失敗しても、データは残る。
       - name: Commit
         run: |
           git config user.name "ph-hazards-bot"
@@ -38,6 +39,33 @@ jobs:
             git pull -q --rebase && git push -q
           fi
 
-      - name: 解析失敗・拒否があれば赤にする
-        if: steps.collect.outcome == 'failure'
+      # 変わった行だけ D1 へ。secrets が無いフォークでは何もせずに 0 で終わる。
+      # 1 日の書き込み上限に当たって止まるのも 0(失敗ではない)。
+      - name: Send to D1
+        id: d1
+        continue-on-error: true  # 送れた分の manifest を必ず残してから赤くする
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          D1_DATABASE_ID: ${{ secrets.D1_DATABASE_ID }}
+        run: python3 -m db.send data
+
+      # 送れたところまでの manifest と、その日に書いた行数。次の回がここから続ける。
+      - name: Commit D1 state
+        if: always()
+        run: |
+          git config user.name "ph-hazards-bot"
+          git config user.email "actions@users.noreply.github.com"
+          for f in state/d1-manifest.json state/d1-usage.json; do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "変更なし"
+          else
+            git commit -q -m "d1: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull -q --rebase && git push -q
+          fi
+
+      - name: 解析失敗・拒否・D1 の失敗があれば赤にする
+        if: steps.collect.outcome == 'failure' || steps.d1.outcome == 'failure'
         run: exit 1

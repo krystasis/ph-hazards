@@ -8,7 +8,7 @@ import sys
 import time
 from pathlib import Path
 
-from .export import build, diff
+from .export import build, diff, plan
 
 DATA = Path(sys.argv[1] if len(sys.argv) > 1 else "data")
 con = sqlite3.connect(":memory:")
@@ -56,11 +56,16 @@ queries = {
     "観測所の直近の水位": ("select * from river_levels where station_code=? order by time_pht desc limit 12", ("11103201",)),
 }
 for name, (sql, params) in queries.items():
-    plan = " / ".join(r[3] for r in con.execute("explain query plan " + sql, params))
-    bad = "SCAN" in plan and "USING" not in plan  # インデックス順に読んで LIMIT で止まる SCAN は問題ない
-    print(f"  {name}: {'全件走査!' if bad else 'OK'} — {plan}")
+    how = " / ".join(r[3] for r in con.execute("explain query plan " + sql, params))
+    bad = "SCAN" in how and "USING" not in how  # インデックス順に読んで LIMIT で止まる SCAN は問題ない
+    print(f"  {name}: {'全件走査!' if bad else 'OK'} — {how}")
 print("\n行数:", {t: con.execute(f"select count(*) from {t}").fetchone()[0] for t in manifest})
 print("manifest の大きさ:", len(json.dumps(manifest)) // 1024, "KB")
+
+print("\n--- 送る順(初回。小さい表 → 直近の月 → 過去分は新しい月から)")
+first = [u for u in plan(tables_fresh, {}, max_rows=20000) if u.statements]
+print("  " + " → ".join(u.key for u in first[:8]) + " → …")
+print("  過去分より前に送る行:", sum(u.rows for u in first if not u.backlog))
 
 print("\n--- 初回投入を 1 日 2 万行に区切った場合")
 m, day = {}, 0

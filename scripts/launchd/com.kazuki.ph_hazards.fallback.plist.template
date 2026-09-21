@@ -10,7 +10,7 @@
 	<array>
 		<string>/bin/bash</string>
 		<string>-lc</string>
-		<string>cd __REPO__ &amp;&amp; scripts/fallback_collect.sh; s=$?; [ $s -ge 2 ] &amp;&amp; osascript -e 'display notification "fallback_collect.sh が壊れている。logs/launchd-fallback.log を見る" with title "ph_hazards"'; exit $s</string>
+		<string>cd "__REPO__" &amp;&amp; scripts/fallback_collect.sh; s=$?; [ $s -ge 2 ] &amp;&amp; osascript -e 'display notification "fallback_collect.sh が壊れている。logs/launchd-fallback.log を見る" with title "ph_hazards"'; exit $s</string>
 	</array>
 	<key>EnvironmentVariables</key>
 	<dict>
