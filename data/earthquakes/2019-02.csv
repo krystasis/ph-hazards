@@ -1,0 +1,931 @@
+event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
+20190201T0540_12.99_124.32,2019-02-01T05:40:00+08:00,12.99,124.32,32.0,1.7,016 km S 62° E of Prieto Diaz (Sorsogon),2019_Earthquake_Information/January/2019_0131_2140_B2.html
+20190201T0550_8.45_122.9,2019-02-01T05:50:00+08:00,8.45,122.9,16.0,2.7,022 km S 68° W of Manukan (Zamboanga Del Norte),2019_Earthquake_Information/February/2019_0131_2150_B2.html
+20190201T1537_11.5_122.82,2019-02-01T15:37:00+08:00,11.5,122.82,30.0,2.2,007 km S 28° E of Panay (Capiz),2019_Earthquake_Information/February/2019_0201_0737_B2.html
+20190201T2031_10.18_122.72,2019-02-01T20:31:00+08:00,10.18,122.72,35.0,1.9,034 km N 61° W of Ilog (Negros Occidental),2019_Earthquake_Information/February/2019_0201_1231_B2.html
+20190201T2106_7.02_126.06,2019-02-01T21:06:00+08:00,7.02,126.06,27.0,1.8,008 km N 40° E of Banaybanay (Davao Oriental),2019_Earthquake_Information/February/2019_0201_1306_B2.html
+20190201T2155_8.01_121.72,2019-02-01T21:55:00+08:00,8.01,121.72,21.0,2.4,051 km N 65° W of Baliguian (Zamboanga Del Norte),2019_Earthquake_Information/February/2019_0201_1355_B2.html
+20190201T2358_5.89_126.6,2019-02-01T23:58:00+08:00,5.89,126.6,1.0,3.0,102 km S 35° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0201_1558_B2.html
+20190202T0028_5.95_124.55,2019-02-02T00:28:00+08:00,5.95,124.55,25.0,2.5,009 km S 61° W of Kiamba (Sarangani),2019_Earthquake_Information/February/2019_0201_1628_B2.html
+20190202T0049_10.26_125.82,2019-02-02T00:49:00+08:00,10.26,125.82,79.0,2.2,0 38 km N 47° E of San Jose (Dinagat),2019_Earthquake_Information/February/2019_0201_1649_B2.html
+20190202T0121_10.06_125.56,2019-02-02T01:21:00+08:00,10.06,125.56,165.0,3.1,00 4 km N 27° W of San Jose (Dinagat),2019_Earthquake_Information/February/2019_0201_1721_B2.html
+20190202T0136_16.88_121.6,2019-02-02T01:36:00+08:00,16.88,121.6,5.0,2.5,002 km S 66° E of San Mateo (Isabela),2019_Earthquake_Information/February/2019_0201_1736_B2.html
+20190202T0215_10.4_125.16,2019-02-02T02:15:00+08:00,10.4,125.16,27.0,2.3,004 km N 82° W of Hinunangan (Southern Leyte),2019_Earthquake_Information/February/2019_0201_1815_B2.html
+20190202T0253_4.03_126.78,2019-02-02T02:53:00+08:00,4.03,126.78,37.0,2.8,212 km S 43° E of Sarangani (Davao Occidental),2019_Earthquake_Information/February/2019_0201_1853_B2.html
+20190202T0336_7.61_126.6,2019-02-02T03:36:00+08:00,7.61,126.6,29.0,2.5,006 km N 52° E of Baganga (Davao Oriental),2019_Earthquake_Information/February/2019_0201_1936_B2.html
+20190202T0416_10.17_122.29,2019-02-02T04:16:00+08:00,10.17,122.29,5.0,2.3,0 43 km N 63° W of Cauayan (Negros Occidental),2019_Earthquake_Information/February/2019_0201_2016_B2.html
+20190202T0536_8.3_123.32,2019-02-02T05:36:00+08:00,8.3,123.32,19.0,2.5,0 03 km N 72° E of Sergio Osmeña Sr. (Zamboanga del Norte),2019_Earthquake_Information/February/2019_0201_2136_B2.html
+20190202T0629_8.1_126.15,2019-02-02T06:29:00+08:00,8.1,126.15,1.0,2.6,005 km N 15° E of San Isidro (Agusan Del Sur),2019_Earthquake_Information/February/2019_0201_2229_B2.html
+20190202T1020_11.41_125.74,2019-02-02T10:20:00+08:00,11.41,125.74,9.0,3.4,0 16 km N 54° E of Hernani (Eastern Samar),2019_Earthquake_Information/February/2019_0202_0220_B2.html
+20190202T1237_11.88_125.91,2019-02-02T12:37:00+08:00,11.88,125.91,23.0,2.8,049 km S 69° E of Dolores (Eastern Samar),2019_Earthquake_Information/February/2019_0202_0437_B2.html
+20190202T1310_6.37_123.71,2019-02-02T13:10:00+08:00,6.37,123.71,33.0,2.2,0 45 km S 59° W of Kalamansig (Sultan Kudarat),2019_Earthquake_Information/February/2019_0202_0510_B2.html
+20190202T1312_6.42_123.86,2019-02-02T13:12:00+08:00,6.42,123.86,32.0,2.4,0 27 km S 52° W of Kalamansig (Sultan Kudarat),2019_Earthquake_Information/February/2019_0202_0512_B2.html
+20190202T1321_6.39_123.77,2019-02-02T13:21:00+08:00,6.39,123.77,3.0,3.1,038 km S 57° W of Kalamansig (Sultan Kudarat),2019_Earthquake_Information/February/2019_0202_0521_B2.html
+20190202T1323_6.09_125.81,2019-02-02T13:23:00+08:00,6.09,125.81,143.0,2.4,0 18 km S 45° E of Don Marcelino (Davao Occidental),2019_Earthquake_Information/February/2019_0202_0523_B2.html
+20190202T1450_9.4_125.66,2019-02-02T14:50:00+08:00,9.4,125.66,28.0,2.1,0 11 km S 59° E of Kitcharao (Agusan Del Sur),2019_Earthquake_Information/February/2019_0202_0650_B2.html
+20190202T1451_16.96_120.82,2019-02-02T14:51:00+08:00,16.96,120.82,9.0,2.0,004 km S 05° E of Tadian (Mountain Province),2019_Earthquake_Information/February/2019_0202_0651_B2.html
+20190202T1739_9.7_126.51,2019-02-02T17:39:00+08:00,9.7,126.51,10.0,3.0,0 40 km S 77° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0202_0939_B2.html
+20190202T2027_19.1_121.24,2019-02-02T20:27:00+08:00,19.1,121.24,9.0,2.4,0 31 km S 49° W of Calayan (Cagayan),2019_Earthquake_Information/February/2019_0202_1227_B2.html
+20190202T2353_20.19_122.47,2019-02-02T23:53:00+08:00,20.19,122.47,56.0,2.0,0 58 km S 72° E of Uyugan (Batanes),2019_Earthquake_Information/February/2019_0202_1553_B2.html
+20190203T0024_10.43_125.13,2019-02-03T00:24:00+08:00,10.43,125.13,15.0,2.0,009 km N 60° E of Hinunangan (Southern Leyte),2019_Earthquake_Information/February/2019_0202_1624_B2.html
+20190203T0106_13.65_121.92,2019-02-03T01:06:00+08:00,13.65,121.92,10.0,1.8,020 km N 19° E of Boac (Marinduque),2019_Earthquake_Information/February/2019_0202_1706_B2.html
+20190203T0451_11.39_126.72,2019-02-03T04:51:00+08:00,11.39,126.72,28.0,3.7,116 km N 70° E of Guiuan (Eastern Samar),2019_Earthquake_Information/February/2019_0202_2051_B3.html
+20190203T0634_6.45_126.29,2019-02-03T06:34:00+08:00,6.45,126.29,29.0,2.5,0 33 km S 47° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0202_2234_B2.html
+20190203T1043_6.49_125.74,2019-02-03T10:43:00+08:00,6.49,125.74,194.0,3.6,0 16 km N 61° E of Malita (Davao Occidental),2019_Earthquake_Information/February/2019_0203_0243_B2.html
+20190203T1245_9.98_126.23,2019-02-03T12:45:00+08:00,9.98,126.23,15.0,4.1,017 km S 74° E of San Isidro (Surigao Del Norte),2019_Earthquake_Information/February/2019_0203_0445_B2.html
+20190203T1248_9.83_126.13,2019-02-03T12:48:00+08:00,9.83,126.13,31.0,2.5,013 km S 00° E of San Isidro (Surigao Del Norte),2019_Earthquake_Information/February/2019_0203_0448_B2.html
+20190203T1440_16.4_120.08,2019-02-03T14:40:00+08:00,16.4,120.08,21.0,2.3,0 21 km N 87° E of Bolinao (Pangasinan),2019_Earthquake_Information/February/2019_0203_0640_B2.html
+20190203T1541_9.7_126.48,2019-02-03T15:41:00+08:00,9.7,126.48,14.0,2.5,0 37 km S 76° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0203_0741_B2.html
+20190203T1632_9.78_126.49,2019-02-03T16:32:00+08:00,9.78,126.49,21.0,3.0,037 km S 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0203_0832_B2.html
+20190203T1758_6.13_126.3,2019-02-03T17:58:00+08:00,6.13,126.3,19.0,3.3,0 67 km S 84° E of Don Marcelino (Davao Occidental),2019_Earthquake_Information/February/2019_0203_0958_B2.html
+20190203T2037_14.69_122.0,2019-02-03T20:37:00+08:00,14.69,122.0,8.0,2.2,007 km S 63° E of Polillo (Quezon),2019_Earthquake_Information/February/2019_0203_1237_B2.html
+20190203T2111_9.88_124.32,2019-02-03T21:11:00+08:00,9.88,124.32,32.0,2.3,005 km S 63° W of Dagohoy (Bohol),2019_Earthquake_Information/February/2019_0203_1311_B2.html
+20190203T2251_20.06_122.02,2019-02-03T22:51:00+08:00,20.06,122.02,11.0,3.5,0 35 km S 27° E of Sabtang (Batanes),2019_Earthquake_Information/February/2019_0203_1451_B2.html
+20190203T2308_19.61_120.18,2019-02-03T23:08:00+08:00,19.61,120.18,33.0,3.0,130 km N 22° W of Burgos (Ilocos Norte),2019_Earthquake_Information/February/2019_0203_1508_B2.html
+20190203T2337_13.85_124.7,2019-02-03T23:37:00+08:00,13.85,124.7,11.0,,035 km N 76° E of Gigmoto (Catanduanes),2019_Earthquake_Information/February/2019_0203_1537_B3.html
+20190203T2341_19.98_121.72,2019-02-03T23:41:00+08:00,19.98,121.72,34.0,1.8,043 km S 22° W of Sabtang (Batanes),2019_Earthquake_Information/February/2019_0203_1541_B2.html
+20190203T2348_14.64_121.95,2019-02-03T23:48:00+08:00,14.64,121.95,1.0,3.2,0 08 km S 07° E of Polillo (Quezon),2019_Earthquake_Information/February/2019_0203_1548_B2.html
+20190203T2353_6.35_126.04,2019-02-03T23:53:00+08:00,6.35,126.04,25.0,3.2,03 3 km S 06° W of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0203_1553_B2.html
+20190204T0038_5.63_126.06,2019-02-04T00:38:00+08:00,5.63,126.06,63.0,2.4,0 56 km S 59° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/February/2019_0203_1638_B2.html
+20190204T0135_5.89_126.66,2019-02-04T01:35:00+08:00,5.89,126.66,6.0,2.4,106 km S 38° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0203_1735_B2.html
+20190204T0152_9.75_126.47,2019-02-04T01:52:00+08:00,9.75,126.47,8.0,2.6,0 35 km S 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0203_1752_B2.html
+20190204T0157_13.1_120.85,2019-02-04T01:57:00+08:00,13.1,120.85,19.0,2.8,0 14 km N 78° E of Santa Cruz (Occidental Mindoro),2019_Earthquake_Information/February/2019_0203_1757_B2.html
+20190204T0207_8.63_123.22,2019-02-04T02:07:00+08:00,8.63,123.22,21.0,2.2,0 15 km N 69° W of Dipolog City (Zamboanga Del Norte),2019_Earthquake_Information/February/2019_0203_1807_B2.html
+20190204T0340_3.19_126.43,2019-02-04T03:40:00+08:00,3.19,126.43,10.0,3.6,2 67 km S 23° E of Sarangani (Davao Occidental),2019_Earthquake_Information/February/2019_0203_1940_B2.html
+20190204T0619_6.19_126.61,2019-02-04T06:19:00+08:00,6.19,126.61,63.0,2.6,078 km S 49° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0203_2219_B2.html
+20190204T0753_16.0_120.05,2019-02-04T07:53:00+08:00,16.0,120.05,19.0,2.1,0 09 km S 29° W of Sual (Pangasinan),2019_Earthquake_Information/February/2019_0203_2353_B2.html
+20190204T0832_13.25_125.09,2019-02-04T08:32:00+08:00,13.25,125.09,3.0,4.7,076 km N 06° E of Laoang (Northern Samar),2019_Earthquake_Information/February/2019_0204_0032_B3.html
+20190204T0920_9.39_123.95,2019-02-04T09:20:00+08:00,9.39,123.95,33.0,2.2,030 km S 46° E of Panglao (Bohol),2019_Earthquake_Information/February/2019_0204_0120_B2.html
+20190204T0927_15.72_121.8,2019-02-04T09:27:00+08:00,15.72,121.8,22.0,2.1,0 25 km S 81° E of Baler (Aurora),2019_Earthquake_Information/February/2019_0204_0127_B2.html
+20190204T0935_15.51_119.55,2019-02-04T09:35:00+08:00,15.51,119.55,18.0,2.3,0 39 km N 77° W of Palauig (Zambales),2019_Earthquake_Information/February/2019_0204_0135_B2_Zambales.html
+20190204T0935_5.46_127.66,2019-02-04T09:35:00+08:00,5.46,127.66,33.0,3.4,21 9 km S 53° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0204_0135_B2.html
+20190204T1257_12.14_121.69,2019-02-04T12:57:00+08:00,12.14,121.69,4.0,3.4,0 28 km N 35° E of Caluya (Antique),2019_Earthquake_Information/February/2019_0204_0457_B2.html
+20190204T1331_10.6_125.97,2019-02-04T13:31:00+08:00,10.6,125.97,16.0,3.5,0 51 km N 58° E of Loreto (Dinagat),2019_Earthquake_Information/February/2019_0204_0531_B2.html
+20190204T1526_9.93_124.28,2019-02-04T15:26:00+08:00,9.93,124.28,28.0,2.2,009 km S 44° W of San Miguel (Bohol),2019_Earthquake_Information/February/2019_0204_0726_B2.html
+20190204T1537_13.65_120.51,2019-02-04T15:37:00+08:00,13.65,120.51,103.0,2.5,0 29 km S 73° W of Looc (Occidental Mindoro),2019_Earthquake_Information/February/2019_0204_0737_B2.html
+20190204T1704_4.19_127.94,2019-02-04T17:04:00+08:00,4.19,127.94,78.0,3.5,3 06 km S 63° E of Sarangani (Davao Occidental),2019_Earthquake_Information/February/2019_0204_0905_B2.html
+20190204T1918_11.64_125.26,2019-02-04T19:18:00+08:00,11.64,125.26,33.0,1.9,0 19 km N 79° W of Borongan (Eastern Samar),2019_Earthquake_Information/February/2019_0204_1118_B2.html
+20190204T1927_9.18_126.4,2019-02-04T19:27:00+08:00,9.18,126.4,32.0,2.1,0 26 km S 65° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/February/2019_0204_1127_B2.html
+20190204T1931_4.65_125.74,2019-02-04T19:31:00+08:00,4.65,125.74,177.0,3.3,0 91 km S 19° E of Sarangani (Davao Occidental),2019_Earthquake_Information/February/2019_0204_1131_B2.html
+20190204T2041_13.72_120.48,2019-02-04T20:41:00+08:00,13.72,120.48,101.0,3.1,021 km S 52° W of Calatagan (Batangas),2019_Earthquake_Information/February/2019_0204_1241_B2.html
+20190204T2048_14.07_124.06,2019-02-04T20:48:00+08:00,14.07,124.06,9.0,2.9,011 km N 80° W of Pandan (Catanduanes),2019_Earthquake_Information/February/2019_0204_1248_B2.html
+20190204T2055_17.15_120.51,2019-02-04T20:55:00+08:00,17.15,120.51,73.0,4.8,00 4 km S 88° W of Bauguen (Salcedo) (Ilocos Sur),2019_Earthquake_Information/February/2019_0204_1255_B3F.html
+20190204T2231_10.02_126.13,2019-02-04T22:31:00+08:00,10.02,126.13,10.0,2.3,006 km N 87° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/February/2019_0204_1431_B2.html
+20190205T0117_18.73_120.94,2019-02-05T01:17:00+08:00,18.73,120.94,9.0,2.2,0 20 km N 47° W of Claveria (Cagayan),2019_Earthquake_Information/February/2019_0204_1717_B2.html
+20190205T0127_13.13_124.54,2019-02-05T01:27:00+08:00,13.13,124.54,13.0,2.8,0 41 km N 78° E of Prieto Diaz (Sorsogon),2019_Earthquake_Information/February/2019_0204_1727_B2.html
+20190205T0153_9.35_125.66,2019-02-05T01:53:00+08:00,9.35,125.66,10.0,2.2,0 15 km N 50° E of Santiago (Agusan del Norte),2019_Earthquake_Information/February/2019_0204_1753_B2.html
+20190205T0320_18.4_122.13,2019-02-05T03:20:00+08:00,18.4,122.13,4.0,2.7,006 km S 11° W of Santa Ana (Cagayan),2019_Earthquake_Information/February/2019_0204_1920_B1.html
+20190205T0912_12.09_125.28,2019-02-05T09:12:00+08:00,12.09,125.28,32.0,2.4,018 km S 71° W of Oras (Eastern Samar),2019_Earthquake_Information/February/2019_0205_0112_B2.html
+20190205T0928_10.22_125.26,2019-02-05T09:28:00+08:00,10.22,125.26,32.0,1.9,0 06 km S 02° E of Anahawan (Southern Leyte),2019_Earthquake_Information/February/2019_0205_0128_B2_secondevent.html
+20190205T0928_10.24_125.27,2019-02-05T09:28:00+08:00,10.24,125.27,31.0,1.4,004 km S 12° E of Anahawan (Southern Leyte),2019_Earthquake_Information/February/2019_0205_0112_B2.html
+20190205T1111_8.11_126.72,2019-02-05T11:11:00+08:00,8.11,126.72,18.0,2.2,0 34 km N 78° E of Lingig (Surigao Del Sur),2019_Earthquake_Information/February/2019_0205_0311_B2.html
+20190205T1208_5.73_126.02,2019-02-05T12:08:00+08:00,5.73,126.02,139.0,2.5,0 48 km S 69° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/February/2019_0205_0408_B2.html
+20190205T1225_4.98_125.54,2019-02-05T12:25:00+08:00,4.98,125.54,154.0,4.0,050 km S 08° E of Sarangani (Davao Occidental),2019_Earthquake_Information/February/2019_0205_0425_B2.html
+20190205T1412_9.96_124.19,2019-02-05T14:12:00+08:00,9.96,124.19,4.0,2.9,004 km N 68° W of Danao (Bohol),2019_Earthquake_Information/February/2019_0205_0612_B2.html
+20190205T1420_19.31_120.78,2019-02-05T14:20:00+08:00,19.31,120.78,35.0,2.0,0 72 km N 88° W of Calayan (Cagayan),2019_Earthquake_Information/February/2019_0205_0620_B2.html
+20190205T1458_9.95_124.18,2019-02-05T14:58:00+08:00,9.95,124.18,2.0,3.0,004 km N 85° W of Danao (Bohol),2019_Earthquake_Information/February/2019_0205_0658_B2.html
+20190205T1550_9.86_126.16,2019-02-05T15:50:00+08:00,9.86,126.16,8.0,2.4,008 km N 02° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0205_0750_B2.html
+20190205T1716_9.79_126.32,2019-02-05T17:16:00+08:00,9.79,126.32,29.0,2.4,0 03 km N 54° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0205_0916_B2.html
+20190205T1921_9.69_126.3,2019-02-05T19:21:00+08:00,9.69,126.3,23.0,2.4,0 19 km S 57° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0205_1121_B2.html
+20190205T2032_10.37_125.13,2019-02-05T20:32:00+08:00,10.37,125.13,7.0,2.2,0 08 km S 70° W of Hinunangan (Southern Leyte),2019_Earthquake_Information/February/2019_0205_1232_B2.html
+20190205T2033_19.13_121.18,2019-02-05T20:33:00+08:00,19.13,121.18,14.0,2.0,035 km S 61° W of Calayan (Cagayan),2019_Earthquake_Information/February/2019_0205_1233_B2.html
+20190205T2219_6.68_126.44,2019-02-05T22:19:00+08:00,6.68,126.44,30.0,2.7,0 41 km N 85° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0205_1419_B2.html
+20190205T2305_10.38_126.35,2019-02-05T23:05:00+08:00,10.38,126.35,11.0,2.5,050 km N 37° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/February/2019_0205_1505_B2.html
+20190205T2317_12.84_122.89,2019-02-05T23:17:00+08:00,12.84,122.89,3.0,2.7,0 40 km S 80° W of Claveria (Masbate),2019_Earthquake_Information/February/2019_0205_1517_B2.html
+20190205T2334_5.93_124.98,2019-02-05T23:34:00+08:00,5.93,124.98,20.0,2.4,0 08 km N 24° W of Maasim (Sarangani),2019_Earthquake_Information/February/2019_0205_1534_B2.html
+20190206T0035_20.48_121.94,2019-02-06T00:35:00+08:00,20.48,121.94,17.0,2.1,003 km N 55° W of Basco (Batanes),2019_Earthquake_Information/February/2019_0205_1635_B2.html
+20190206T0036_13.8_124.7,2019-02-06T00:36:00+08:00,13.8,124.7,8.0,2.2,0 34 km N 86° E of Gigmoto (Catanduanes),2019_Earthquake_Information/February/2019_0205_1636_B2.html
+20190206T0138_5.67_125.72,2019-02-06T01:38:00+08:00,5.67,125.72,166.0,3.0,027 km S 25° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/February/2019_0205_1738_B2.html
+20190206T0148_9.87_126.25,2019-02-06T01:48:00+08:00,9.87,126.25,8.0,2.5,020 km S 68° E of San Isidro (Surigao Del Norte),2019_Earthquake_Information/February/2019_0205_1748_B2.html
+20190206T0202_10.25_125.29,2019-02-06T02:02:00+08:00,10.25,125.29,33.0,1.9,0 04 km S 53° E of Anahawan (Southern Leyte),2019_Earthquake_Information/February/2019_0205_1802_B2.html
+20190206T0209_5.74_125.73,2019-02-06T02:09:00+08:00,5.74,125.73,186.0,2.8,0 20 km S 40° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/February/2019_0205_1809_B2.html
+20190206T0257_13.22_122.48,2019-02-06T02:57:00+08:00,13.22,122.48,2.0,2.3,0 15 km S 17° W of San Francisco (Aurora) (Quezon),2019_Earthquake_Information/February/2019_0205_1857_B2.html
+20190206T0302_15.75_119.84,2019-02-06T03:02:00+08:00,15.75,119.84,24.0,2.3,007 km S 77° W of Santa Cruz (Zambales),2019_Earthquake_Information/February/2019_0205_1902_B2.html
+20190206T0303_19.14_121.12,2019-02-06T03:03:00+08:00,19.14,121.12,24.0,2.5,040 km S 67° E of Santa Ana (Cagayan),2019_Earthquake_Information/February/2019_0205_1903_B2.html
+20190206T0342_9.81_123.73,2019-02-06T03:42:00+08:00,9.81,123.73,4.0,1.9,0 07 km N 83° W of Loon (Bohol),2019_Earthquake_Information/February/2019_0205_1942_B2.html
+20190206T0346_5.98_126.34,2019-02-06T03:46:00+08:00,5.98,126.34,27.0,2.3,081 km N 82° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/February/2019_0205_1946_B2.html
+20190206T0359_15.49_119.84,2019-02-06T03:59:00+08:00,15.49,119.84,50.0,2.3,013 km S 66° W of Masinloc (Zambales),2019_Earthquake_Information/February/2019_0205_1959_B2.html
+20190206T0519_17.28_120.02,2019-02-06T05:19:00+08:00,17.28,120.02,24.0,3.6,047 km N 79° W of Candon City (Ilocos Sur),2019_Earthquake_Information/February/2019_0205_2119_B2.html
+20190206T0527_13.13_124.78,2019-02-06T05:27:00+08:00,13.13,124.78,33.0,1.9,064 km N 82° E of Prieto Diaz (Sorsogon),2019_Earthquake_Information/February/2019_0205_2127_B2.html
+20190206T0707_14.11_122.79,2019-02-06T07:07:00+08:00,14.11,122.79,1.0,2.7,006 km S 41° W of Labo (Camarines Norte),2019_Earthquake_Information/February/2019_0205_2307_B2.html
+20190206T0717_2.76_128.46,2019-02-06T07:17:00+08:00,2.76,128.46,195.0,5.0,443 km S 48° E of Sarangani (Davao Occidental),2019_Earthquake_Information/February/2019_0205_2317_B3.html
+20190206T0925_9.91_124.35,2019-02-06T09:25:00+08:00,9.91,124.35,32.0,2.0,008 km N 80° E of Dagohoy (Bohol),2019_Earthquake_Information/February/2019_0206_0125_B2.html
+20190206T1056_8.93_126.08,2019-02-06T10:56:00+08:00,8.93,126.08,34.0,1.5,005 km S 73° E of San Miguel (Surigao Del Sur),2019_Earthquake_Information/February/2019_0206_0256_B1.html
+20190206T1401_13.61_121.72,2019-02-06T14:01:00+08:00,13.61,121.72,8.0,3.7,021 km N 45° W of Mogpog (Marinduque),2019_Earthquake_Information/February/2019_0206_0601_B4F.html
+20190206T1643_8.83_126.69,2019-02-06T16:43:00+08:00,8.83,126.69,14.0,2.5,0 44 km S 77° E of Cagwait (Surigao Del Sur),2019_Earthquake_Information/February/2019_0206_0843_B2.html
+20190206T1825_15.91_120.31,2019-02-06T18:25:00+08:00,15.91,120.31,131.0,5.5,0 08 km N 73° E of Aguilar (Pangasinan),2019_Earthquake_Information/February/2019_0206_1025_B3F.html
+20190206T2052_10.7_124.64,2019-02-06T20:52:00+08:00,10.7,124.64,1.0,1.8,020 km N 71° E of Tudela (Cebu),2019_Earthquake_Information/February/2019_0206_1252_B2.html
+20190206T2249_19.89_122.1,2019-02-06T22:49:00+08:00,19.89,122.1,28.0,2.0,0 55 km S 25° W of Sabtang (Batanes),2019_Earthquake_Information/February/2019_0206_1449_B2.html
+20190207T0019_17.34_121.57,2019-02-07T00:19:00+08:00,17.34,121.57,18.0,2.1,005 km N 47° W of Quezon (Isabela),2019_Earthquake_Information/February/2019_0206_1619_B2.html
+20190207T0243_9.0_122.74,2019-02-07T02:43:00+08:00,9.0,122.74,1.0,2.1,0 47 km S 14° E of Basay (Negros Oriental),2019_Earthquake_Information/February/2019_0206_1844_B2.html
+20190207T0323_13.91_120.42,2019-02-07T03:23:00+08:00,13.91,120.42,116.0,2.6,025 km N 69° W of Calatagan (Batangas),2019_Earthquake_Information/February/2019_0206_1923_B2.html
+20190207T0333_9.62_125.96,2019-02-07T03:33:00+08:00,9.62,125.96,33.0,1.8,028 km S 49° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0206_1933_B2.html
+20190207T0435_13.6_120.2,2019-02-07T04:35:00+08:00,13.6,120.2,29.0,1.7,015 km S 23° W of Looc (Occidental Mindoro),2019_Earthquake_Information/February/2019_0206_2035_B2.html
+20190207T0449_10.33_125.24,2019-02-07T04:49:00+08:00,10.33,125.24,4.0,2.4,007 km N 17° W of Anahawan (Southern Leyte),2019_Earthquake_Information/February/2019_0206_2049_B2.html
+20190207T0528_6.58_124.43,2019-02-07T05:28:00+08:00,6.58,124.43,9.0,2.0,0 16 km N 70° W of Bagumbayan (Sultan Kudarat),2019_Earthquake_Information/February/2019_0206_2128_B2.html
+20190207T0618_19.3_121.74,2019-02-07T06:18:00+08:00,19.3,121.74,21.0,3.0,029 km N 86° E of Calayan (Cagayan),2019_Earthquake_Information/February/2019_0206_2218_B2.html
+20190207T0823_13.61_120.72,2019-02-07T08:23:00+08:00,13.61,120.72,104.0,2.2,019 km N 17° E of Paluan (Occidental Mindoro),2019_Earthquake_Information/February/2019_0207_0023_B2.html
+20190207T0838_9.72_126.63,2019-02-07T08:38:00+08:00,9.72,126.63,10.0,4.3,053 km S 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0207_0038_B2.html
+20190207T0846_9.73_126.64,2019-02-07T08:46:00+08:00,9.73,126.64,4.0,2.7,0 53 km S 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0207_0046_B2.html
+20190207T0925_4.96_127.43,2019-02-07T09:25:00+08:00,4.96,127.43,94.0,3.2,239 km S 39° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0207_0125_B2.html
+20190207T1138_11.72_125.32,2019-02-07T11:38:00+08:00,11.72,125.32,15.0,3.1,0 18 km N 44° W of Borongan (Eastern Samar),2019_Earthquake_Information/February/2019_0207_0338_B2F.html
+20190207T1630_15.43_120.49,2019-02-07T16:30:00+08:00,15.43,120.49,32.0,1.7,008 km S 87° W of San Jose (Tarlac),2019_Earthquake_Information/February/2019_0207_0830_B2.html
+20190207T1858_13.96_119.86,2019-02-07T18:58:00+08:00,13.96,119.86,20.0,2.5,0 30 km N 68° W of Lubang (Occidental Mindoro),2019_Earthquake_Information/February/2019_0207_1058_B2.html
+20190207T1955_13.46_122.07,2019-02-07T19:55:00+08:00,13.46,122.07,14.0,2.2,00 5 km S 65° E of Santa Cruz (Marinduque),2019_Earthquake_Information/February/2019_0207_1155_B2.html
+20190207T2010_13.83_121.12,2019-02-07T20:10:00+08:00,13.83,121.12,102.0,1.9,001 km N 41° W of Ibaan (Batangas),2019_Earthquake_Information/February/2019_0207_1210_B2.html
+20190207T2029_15.49_119.97,2019-02-07T20:29:00+08:00,15.49,119.97,32.0,2.6,006 km S 17° E of Masinloc (Zambales),2019_Earthquake_Information/February/2019_0207_1229_B2.html
+20190207T2118_13.82_120.63,2019-02-07T21:18:00+08:00,13.82,120.63,63.0,2.3,001 km S 10° W of Calatagan (Batangas),2019_Earthquake_Information/February/2019_0207_1318_B2.html
+20190207T2127_13.27_121.89,2019-02-07T21:27:00+08:00,13.27,121.89,15.0,2.6,008 km S 38° E of Gasan (Marinduque),2019_Earthquake_Information/February/2019_0207_1327_B2.html
+20190207T2158_10.74_122.26,2019-02-07T21:58:00+08:00,10.74,122.26,15.0,2.3,007 km S 62° W of Tubungan (Iloilo),2019_Earthquake_Information/February/2019_0207_1358_B2.html
+20190208T0029_11.32_124.6,2019-02-08T00:29:00+08:00,11.32,124.6,1.0,2.8,006 km N 57° W of Capoocan (Leyte),2019_Earthquake_Information/February/2019_0207_1629_B2.html
+20190208T0106_10.59_124.53,2019-02-08T01:06:00+08:00,10.59,124.53,36.0,2.2,008 km S 54° E of Tudela (Cebu),2019_Earthquake_Information/February/2019_0207_1706_B2.html
+20190208T0254_8.5_123.09,2019-02-08T02:54:00+08:00,8.5,123.09,4.0,3.3,003 km S 26° W of Manukan (Zamboanga Del Norte),2019_Earthquake_Information/February/2019_0207_1854_B2F.html
+20190208T0628_15.8_120.72,2019-02-08T06:28:00+08:00,15.8,120.72,152.0,3.1,006 km N 68° E of Cuyapo (Nueva Ecija),2019_Earthquake_Information/February/2019_0207_2228_B2.html
+20190208T0654_13.09_124.26,2019-02-08T06:54:00+08:00,13.09,124.26,79.0,2.9,0 08 km N 59° E of Prieto Diaz (Sorsogon),2019_Earthquake_Information/February/2019_0207_2254_B2.html
+20190208T0716_5.97_126.52,2019-02-08T07:16:00+08:00,5.97,126.52,60.0,2.3,0 90 km S 33° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0207_2316_B2.html
+20190208T0926_8.34_125.91,2019-02-08T09:26:00+08:00,8.34,125.91,35.0,1.6,0 11 km N 71° E of La Paz (Agusan Del Sur),2019_Earthquake_Information/February/2019_0208_0126_B2.html
+20190208T1106_8.6_126.88,2019-02-08T11:06:00+08:00,8.6,126.88,23.0,2.7,065 km N 67° E of Hinatuan (Surigao Del Sur),2019_Earthquake_Information/February/2019_0208_0306_B2.html
+20190208T1700_10.05_126.51,2019-02-08T17:00:00+08:00,10.05,126.51,15.0,2.6,048 km N 85° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_0900_B2.html
+20190208T1851_18.57_122.39,2019-02-08T18:51:00+08:00,18.57,122.39,9.0,2.2,03 0 km N 64° E of Santa Ana (Cagayan),2019_Earthquake_Information/February/2019_0208_1051_B2.html
+20190208T1926_13.84_120.57,2019-02-08T19:26:00+08:00,13.84,120.57,88.0,2.5,00 7 km N 80° W of Calatagan (Batangas),2019_Earthquake_Information/February/2019_0208_1126_B2.html
+20190208T1953_9.76_122.41,2019-02-08T19:53:00+08:00,9.76,122.41,11.0,2.7,000 km S 31° W of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0208_1153_B1.html
+20190208T1955_9.79_126.59,2019-02-08T19:55:00+08:00,9.79,126.59,11.0,5.9,048 km N 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1155_B3F.html
+20190208T2010_9.82_126.35,2019-02-08T20:10:00+08:00,9.82,126.35,10.0,3.2,022 km N 80° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1210_B2.html
+20190208T2016_9.81_126.55,2019-02-08T20:16:00+08:00,9.81,126.55,2.0,3.3,043 km N 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1216_B2.html
+20190208T2020_9.77_126.46,2019-02-08T20:20:00+08:00,9.77,126.46,11.0,1.9,034 km S 87° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1220_B2.html
+20190208T2023_9.74_126.45,2019-02-08T20:23:00+08:00,9.74,126.45,11.0,2.6,032 km S 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1223_B2.html
+20190208T2025_9.76_126.41,2019-02-08T20:25:00+08:00,9.76,126.41,11.0,2.2,028 km S 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1225_B2.html
+20190208T2026_9.67_126.28,2019-02-08T20:26:00+08:00,9.67,126.28,7.0,1.9,0 19 km S 48° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1226_B2F.html
+20190208T2029_9.88_126.3,2019-02-08T20:29:00+08:00,9.88,126.3,24.0,4.7,019 km N 55° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1229_B2F.html
+20190208T2035_9.86_126.53,2019-02-08T20:35:00+08:00,9.86,126.53,8.0,3.3,04 2 km N 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1235_B2F.html
+20190208T2037_9.7_126.44,2019-02-08T20:37:00+08:00,9.7,126.44,5.0,2.6,032 km S 73° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1237_B2F.html
+20190208T2039_9.67_126.37,2019-02-08T20:39:00+08:00,9.67,126.37,8.0,1.9,026 km S 60° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1239_B2_2.html
+20190208T2039_9.69_126.33,2019-02-08T20:39:00+08:00,9.69,126.33,9.0,2.4,022 km S 62° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1239_B2_1.html
+20190208T2045_9.76_126.57,2019-02-08T20:45:00+08:00,9.76,126.57,11.0,4.7,046 km S 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1245_B2F.html
+20190208T2050_9.79_126.4,2019-02-08T20:50:00+08:00,9.79,126.4,14.0,2.3,027 km N 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1250_B2F.html
+20190208T2052_9.67_126.3,2019-02-08T20:52:00+08:00,9.67,126.3,18.0,2.1,020 km S 52° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1252_B2.html
+20190208T2054_9.71_126.44,2019-02-08T20:54:00+08:00,9.71,126.44,12.0,2.4,032 km S 76° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1254_B2.html
+20190208T2059_9.82_126.55,2019-02-08T20:59:00+08:00,9.82,126.55,7.0,3.0,044 km N 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1259_B2F.html
+20190208T2101_9.81_126.4,2019-02-08T21:01:00+08:00,9.81,126.4,10.0,2.8,027 km N 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1301_B2.html
+20190208T2103_9.76_126.41,2019-02-08T21:03:00+08:00,9.76,126.41,13.0,2.2,02 8 km S 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1303_B2.html
+20190208T2108_9.72_126.46,2019-02-08T21:08:00+08:00,9.72,126.46,8.0,2.5,034 km S 77° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1308_B2.html
+20190208T2113_9.66_126.35,2019-02-08T21:13:00+08:00,9.66,126.35,9.0,2.6,02 6 km S 59° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1313_B2F.html
+20190208T2118_9.75_126.39,2019-02-08T21:18:00+08:00,9.75,126.39,8.0,2.8,026 km S 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1318_B2.html
+20190208T2125_9.71_126.42,2019-02-08T21:25:00+08:00,9.71,126.42,10.0,1.8,0 30 km S 74° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1325_B3_1.html
+20190208T2125_9.83_126.56,2019-02-08T21:25:00+08:00,9.83,126.56,6.0,2.1,04 4 km N 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1325_B2_2.html
+20190208T2133_9.83_126.44,2019-02-08T21:33:00+08:00,9.83,126.44,10.0,2.4,032 km N 80° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1333_B2F.html
+20190208T2138_9.75_126.55,2019-02-08T21:38:00+08:00,9.75,126.55,21.0,3.8,0 43 km N 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1338_B1.html
+20190208T2141_9.71_126.48,2019-02-08T21:41:00+08:00,9.71,126.48,8.0,3.2,037 km S 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1341_B2F.html
+20190208T2143_9.73_126.57,2019-02-08T21:43:00+08:00,9.73,126.57,4.0,3.6,046 km S 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1343_B2.html
+20190208T2146_9.79_126.34,2019-02-08T21:46:00+08:00,9.79,126.34,3.0,2.5,020 km N 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1346_B2.html
+20190208T2151_9.88_126.53,2019-02-08T21:51:00+08:00,9.88,126.53,6.0,4.3,042 km N 76° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1351_B2F.html
+20190208T2155_9.89_126.36,2019-02-08T21:55:00+08:00,9.89,126.36,1.0,1.8,025 km N 62° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1355_B2.html
+20190208T2203_10.06_126.62,2019-02-08T22:03:00+08:00,10.06,126.62,7.0,2.6,059 km N 59° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1403_B2F.html
+20190208T2205_9.97_126.45,2019-02-08T22:05:00+08:00,9.97,126.45,12.0,2.9,039 km N 58° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1405_B2F.html
+20190208T2210_9.73_126.41,2019-02-08T22:10:00+08:00,9.73,126.41,14.0,2.0,02 9 km S 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1410_B2.html
+20190208T2211_9.81_126.53,2019-02-08T22:11:00+08:00,9.81,126.53,7.0,3.3,041 km N 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1411_B2.html
+20190208T2216_9.69_126.38,2019-02-08T22:16:00+08:00,9.69,126.38,10.0,3.4,027 km S 68° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1416_B2.html
+20190208T2220_9.82_126.66,2019-02-08T22:20:00+08:00,9.82,126.66,8.0,4.1,055 km N 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1420_B2F.html
+20190208T2223_9.71_126.49,2019-02-08T22:23:00+08:00,9.71,126.49,10.0,2.7,038 km S 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1423_B2.html
+20190208T2225_9.8_126.39,2019-02-08T22:25:00+08:00,9.8,126.39,4.0,3.0,02 5 km N 87° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1425_B2.html
+20190208T2229_9.78_126.49,2019-02-08T22:29:00+08:00,9.78,126.49,15.0,3.5,037 km N 90° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1429_B2F.html
+20190208T2234_9.64_126.41,2019-02-08T22:34:00+08:00,9.64,126.41,5.0,2.7,03 2 km S 61° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1434_B2F.html
+20190208T2239_16.99_120.12,2019-02-08T22:39:00+08:00,16.99,120.12,17.0,2.8,031 km N 61° W of Luna (La Union),2019_Earthquake_Information/February/2019_0208_1439_B2.html
+20190208T2241_9.89_126.39,2019-02-08T22:41:00+08:00,9.89,126.39,10.0,2.1,029 km N 65° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1441_B2.html
+20190208T2243_9.77_126.47,2019-02-08T22:43:00+08:00,9.77,126.47,6.0,2.2,0 34 km S 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1443_B2F.html
+20190208T2246_9.76_126.45,2019-02-08T22:46:00+08:00,9.76,126.45,10.0,4.0,032 km S 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1446_B2F.html
+20190208T2253_9.79_126.38,2019-02-08T22:53:00+08:00,9.79,126.38,16.0,2.4,024 km N 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1453_B2.html
+20190208T2258_9.74_126.34,2019-02-08T22:58:00+08:00,9.74,126.34,1.0,3.1,02 1 km S 76° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1458_B2F.html
+20190208T2302_7.58_126.66,2019-02-08T23:02:00+08:00,7.58,126.66,70.0,3.4,011 km N 88° E of Baganga (Davao Oriental),2019_Earthquake_Information/February/2019_0208_1502_B2_Davao_Oriental.html
+20190208T2302_9.7_126.41,2019-02-08T23:02:00+08:00,9.7,126.41,12.0,3.3,029 km S 71° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1502_B2F.html
+20190208T2305_9.83_126.47,2019-02-08T23:05:00+08:00,9.83,126.47,5.0,3.2,034 km N 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1505_B2.html
+20190208T2310_9.86_126.71,2019-02-08T23:10:00+08:00,9.86,126.71,8.0,2.2,062 km N 82° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1510_B2.html
+20190208T2311_9.76_126.5,2019-02-08T23:11:00+08:00,9.76,126.5,5.0,2.7,03 8 km S 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1511_B2.html
+20190208T2314_9.65_126.26,2019-02-08T23:14:00+08:00,9.65,126.26,13.0,3.0,018 km S 37° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1514_B2.html
+20190208T2318_9.8_126.51,2019-02-08T23:18:00+08:00,9.8,126.51,3.0,2.0,039 km N 87° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1518_B2.html
+20190208T2320_9.68_126.35,2019-02-08T23:20:00+08:00,9.68,126.35,10.0,2.1,024 km S 62° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1520_B2.html
+20190208T2328_9.82_126.47,2019-02-08T23:28:00+08:00,9.82,126.47,10.0,4.7,035 km N 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1528_B2.html
+20190208T2335_9.64_126.24,2019-02-08T23:35:00+08:00,9.64,126.24,9.0,2.8,018 km S 30° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1535_B2.html
+20190208T2345_9.76_126.57,2019-02-08T23:45:00+08:00,9.76,126.57,8.0,2.8,045 km S 87° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1545_B2.html
+20190208T2356_9.83_126.07,2019-02-08T23:56:00+08:00,9.83,126.07,7.0,2.7,011 km N 59° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1556_B2.html
+20190208T2357_9.79_126.43,2019-02-08T23:57:00+08:00,9.79,126.43,12.0,2.0,031 km N 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1557_B2F.html
+20190209T0004_9.91_126.8,2019-02-09T00:04:00+08:00,9.91,126.8,1.0,4.0,071 km N 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1604_B2F.html
+20190209T0005_9.77_126.32,2019-02-09T00:05:00+08:00,9.77,126.32,17.0,2.7,01 8 km S 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1605_B2F.html
+20190209T0009_9.7_126.53,2019-02-09T00:09:00+08:00,9.7,126.53,12.0,4.7,04 2 km S 77° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1609_B2F.html
+20190209T0015_9.79_126.61,2019-02-09T00:15:00+08:00,9.79,126.61,8.0,3.3,049 km N 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1615_B2F.html
+20190209T0021_9.71_126.34,2019-02-09T00:21:00+08:00,9.71,126.34,6.0,2.2,02 2 km S 67° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1621_B2F.html
+20190209T0023_16.77_120.33,2019-02-09T00:23:00+08:00,16.77,120.33,6.0,2.2,006 km N 25° W of Bacnotan (La Union),2019_Earthquake_Information/February/2019_0208_1623_B2.html
+20190209T0032_9.67_126.36,2019-02-09T00:32:00+08:00,9.67,126.36,8.0,2.0,026 km S 62° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1632_B2F.html
+20190209T0033_9.84_126.7,2019-02-09T00:33:00+08:00,9.84,126.7,7.0,1.9,059 km N 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1633_B2F.html
+20190209T0037_9.92_126.66,2019-02-09T00:37:00+08:00,9.92,126.66,5.0,1.9,058 km N 75° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1637_B2F.html
+20190209T0039_9.75_126.54,2019-02-09T00:39:00+08:00,9.75,126.54,10.0,2.4,0 42 km S 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1639_B2F.html
+20190209T0043_9.77_126.65,2019-02-09T00:43:00+08:00,9.77,126.65,6.0,2.5,05 5 km S 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1643_B2F.html
+20190209T0051_9.83_126.52,2019-02-09T00:51:00+08:00,9.83,126.52,13.0,2.9,040 km N 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1651_B2F.html
+20190209T0101_9.75_126.52,2019-02-09T01:01:00+08:00,9.75,126.52,12.0,2.4,04 0 km S 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1701_B2.html
+20190209T0102_9.71_126.41,2019-02-09T01:02:00+08:00,9.71,126.41,9.0,2.5,029 km S 73° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1702_B2.html
+20190209T0109_9.86_126.62,2019-02-09T01:09:00+08:00,9.86,126.62,9.0,2.9,051 km N 80° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1709_B2.html
+20190209T0113_9.81_126.6,2019-02-09T01:13:00+08:00,9.81,126.6,7.0,4.4,04 9 km N 87° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1713_B2F.html
+20190209T0125_9.67_126.6,2019-02-09T01:25:00+08:00,9.67,126.6,9.0,2.9,050 km S 76° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1725_B2.html
+20190209T0131_9.68_126.39,2019-02-09T01:31:00+08:00,9.68,126.39,10.0,2.3,027 km S 66° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1731_B2.html
+20190209T0133_9.82_126.55,2019-02-09T01:33:00+08:00,9.82,126.55,6.0,2.0,043 km n 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1733_B2.html
+20190209T0134_9.84_126.55,2019-02-09T01:34:00+08:00,9.84,126.55,9.0,2.2,044 km N 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1734_B1.html
+20190209T0139_9.81_126.61,2019-02-09T01:39:00+08:00,9.81,126.61,3.0,2.1,050 km N 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1739_B1.html
+20190209T0147_9.78_126.69,2019-02-09T01:47:00+08:00,9.78,126.69,6.0,2.8,0 58 km S 90° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1747_B2.html
+20190209T0215_9.78_126.42,2019-02-09T02:15:00+08:00,9.78,126.42,10.0,2.8,0 29 km S 90° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1815_B2.html
+20190209T0229_9.73_126.49,2019-02-09T02:29:00+08:00,9.73,126.49,12.0,3.2,0 37 km S 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1829_B2.html
+20190209T0241_9.93_126.52,2019-02-09T02:41:00+08:00,9.93,126.52,3.0,2.3,043 km N 68° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1841_B1.html
+20190209T0244_14.76_121.94,2019-02-09T02:44:00+08:00,14.76,121.94,13.0,2.2,018 km S 34° W of Polillo (Quezon),2019_Earthquake_Information/February/2019_0208_1844_B2.html
+20190209T0247_18.57_121.11,2019-02-09T02:47:00+08:00,18.57,121.11,25.0,2.2,006 km S 39° E of Claveria (Cagayan),2019_Earthquake_Information/February/2019_0208_1847_B2.html
+20190209T0251_9.81_126.49,2019-02-09T02:51:00+08:00,9.81,126.49,9.0,3.3,037 km N 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1851_B2F.html
+20190209T0257_9.69_126.11,2019-02-09T02:57:00+08:00,9.69,126.11,21.0,2.2,0 11 km S 27° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1857_B2F.html
+20190209T0304_9.89_126.58,2019-02-09T03:04:00+08:00,9.89,126.58,1.0,2.0,048 km N 76° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1904_B2.html
+20190209T0309_9.81_126.47,2019-02-09T03:09:00+08:00,9.81,126.47,3.0,2.1,0 35 km N 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1909_B2.html
+20190209T0311_9.77_126.4,2019-02-09T03:11:00+08:00,9.77,126.4,16.0,1.9,027 km S 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1911_B2F.html
+20190209T0314_9.79_126.54,2019-02-09T03:14:00+08:00,9.79,126.54,14.0,3.8,0 42 km N 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1914_B2F.html
+20190209T0320_9.76_126.45,2019-02-09T03:20:00+08:00,9.76,126.45,12.0,2.7,0 32 km S 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1920_B2.html
+20190209T0325_9.81_126.41,2019-02-09T03:25:00+08:00,9.81,126.41,7.0,2.0,0 28 km N 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1925_B2.html
+20190209T0326_9.9_126.48,2019-02-09T03:26:00+08:00,9.9,126.48,9.0,2.4,0 38 km N 70° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1926_B2.html
+20190209T0329_9.76_126.43,2019-02-09T03:29:00+08:00,9.76,126.43,16.0,2.3,0 31 km S 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1929_B2F.html
+20190209T0342_9.63_126.21,2019-02-09T03:42:00+08:00,9.63,126.21,19.0,2.1,018 km S 17° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1942_B2F.html
+20190209T0346_9.73_126.29,2019-02-09T03:46:00+08:00,9.73,126.29,25.0,2.0,0 16 km S 66° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1946_B2.html
+20190209T0347_9.72_126.47,2019-02-09T03:47:00+08:00,9.72,126.47,14.0,3.4,03 6 km S 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1947_B2F.html
+20190209T0350_9.8_126.44,2019-02-09T03:50:00+08:00,9.8,126.44,8.0,2.1,0 31 km N 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1950_B2.html
+20190209T0352_9.69_126.47,2019-02-09T03:52:00+08:00,9.69,126.47,16.0,2.3,0 36 km S 74° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1952_B2.html
+20190209T0356_9.95_126.62,2019-02-09T03:56:00+08:00,9.95,126.62,1.0,2.5,0 55 km N 70° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_1956_B2.html
+20190209T0359_9.79_122.36,2019-02-09T03:59:00+08:00,9.79,122.36,22.0,2.9,006 km N 59° W of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0208_1959_B2.html
+20190209T0402_9.89_126.56,2019-02-09T04:02:00+08:00,9.89,126.56,9.0,2.8,0 46 km N 76° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2002_B2.html
+20190209T0403_9.77_126.39,2019-02-09T04:03:00+08:00,9.77,126.39,8.0,2.2,0 25 km S 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2003_B2.html
+20190209T0410_9.86_126.6,2019-02-09T04:10:00+08:00,9.86,126.6,6.0,4.0,0 49 km N 80° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2010_B2.html
+20190209T0413_9.72_126.18,2019-02-09T04:13:00+08:00,9.72,126.18,26.0,1.7,008 km S 22° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2013_B2.html
+20190209T0414_9.79_126.52,2019-02-09T04:14:00+08:00,9.79,126.52,10.0,4.1,04 0 km N 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2014_B2F.html
+20190209T0425_9.84_126.41,2019-02-09T04:25:00+08:00,9.84,126.41,18.0,2.2,028 km N 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2025_B2.html
+20190209T0427_9.69_126.21,2019-02-09T04:27:00+08:00,9.69,126.21,17.0,1.4,012 km S 28° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2027_B2.html
+20190209T0434_9.64_126.39,2019-02-09T04:34:00+08:00,9.64,126.39,4.0,2.3,030 km S 59° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2034_B2.html
+20190209T0437_9.82_126.65,2019-02-09T04:37:00+08:00,9.82,126.65,9.0,4.5,055 km N 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2037_B2F.html
+20190209T0439_13.45_120.47,2019-02-09T04:39:00+08:00,13.45,120.47,26.0,2.2,004 km N 30° W of Paluan (Occidental Mindoro),2019_Earthquake_Information/February/2019_0208_2039_B2.html
+20190209T0446_9.77_126.45,2019-02-09T04:46:00+08:00,9.77,126.45,12.0,3.1,0 32 km S 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2046_B2F.html
+20190209T0451_9.82_126.41,2019-02-09T04:51:00+08:00,9.82,126.41,14.0,2.8,028 km N 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2051_B2F.html
+20190209T0508_9.7_126.44,2019-02-09T05:08:00+08:00,9.7,126.44,4.0,3.0,032 km S 74° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2108_B2.html
+20190209T0509_9.81_126.64,2019-02-09T05:09:00+08:00,9.81,126.64,5.0,4.9,053 km N 87° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2109_B2F.html
+20190209T0516_9.74_126.5,2019-02-09T05:16:00+08:00,9.74,126.5,12.0,2.5,038 km S 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2116_B2F.html
+20190209T0521_9.78_126.48,2019-02-09T05:21:00+08:00,9.78,126.48,14.0,3.0,0 36 km S 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2121_B2.html
+20190209T0528_9.8_126.44,2019-02-09T05:28:00+08:00,9.8,126.44,8.0,3.3,0 31 km N 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2128_B2F.html
+20190209T0535_9.7_126.43,2019-02-09T05:35:00+08:00,9.7,126.43,8.0,3.0,03 1 km S 73° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2135_B2F.html
+20190209T0543_9.89_126.58,2019-02-09T05:43:00+08:00,9.89,126.58,5.0,3.6,048 km N 76° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2143_B2F.html
+20190209T0548_9.89_126.54,2019-02-09T05:48:00+08:00,9.89,126.54,9.0,4.9,044 km N 74° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2148_B2F.html
+20190209T0554_5.42_126.06,2019-02-09T05:54:00+08:00,5.42,126.06,12.0,2.7,065 km S 89° E of Sarangani (Davao Occidental),2019_Earthquake_Information/February/2019_0208_2154_B2.html
+20190209T0601_9.56_126.61,2019-02-09T06:01:00+08:00,9.56,126.61,23.0,1.8,0 55 km S 64° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2201_B2F.html
+20190209T0602_9.66_126.39,2019-02-09T06:02:00+08:00,9.66,126.39,14.0,2.7,0 29 km S 62° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2202_B2F.html
+20190209T0605_9.84_126.39,2019-02-09T06:05:00+08:00,9.84,126.39,13.0,2.8,0 26 km N 76° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2205_B2F.html
+20190209T0612_9.75_126.45,2019-02-09T06:12:00+08:00,9.75,126.45,12.0,2.3,0 33 km S 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2212_B2.html
+20190209T0624_9.71_126.27,2019-02-09T06:24:00+08:00,9.71,126.27,15.0,1.5,015 km S 54° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2224_B1F.html
+20190209T0626_9.67_126.6,2019-02-09T06:26:00+08:00,9.67,126.6,20.0,2.7,0 50 km S 75° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2226_B3F.html
+20190209T0629_9.74_126.59,2019-02-09T06:29:00+08:00,9.74,126.59,9.0,2.2,048 km S 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2229_B2.html
+20190209T0634_9.82_126.5,2019-02-09T06:34:00+08:00,9.82,126.5,12.0,2.5,0 37 km N 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2234_B2F.html
+20190209T0642_9.69_126.2,2019-02-09T06:42:00+08:00,9.69,126.2,21.0,1.8,011 km S 28° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2242_B2.html
+20190209T0650_9.82_126.6,2019-02-09T06:50:00+08:00,9.82,126.6,7.0,3.4,0 49 km N 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2250_B2F.html
+20190209T0656_9.92_126.47,2019-02-09T06:56:00+08:00,9.92,126.47,5.0,2.2,038 km N 66° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2256_B2F.html
+20190209T0716_9.82_126.64,2019-02-09T07:16:00+08:00,9.82,126.64,7.0,2.7,053 km N 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2316_B2F.html
+20190209T0720_9.76_126.47,2019-02-09T07:20:00+08:00,9.76,126.47,16.0,1.9,0 35 km S 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2320_B2F.html
+20190209T0722_9.75_126.21,2019-02-09T07:22:00+08:00,9.75,126.21,31.0,2.3,007 km S 54° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2322_B2F.html
+20190209T0728_9.96_126.55,2019-02-09T07:28:00+08:00,9.96,126.55,6.0,2.3,047 km N 65° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2328_B2F.html
+20190209T0730_9.89_126.67,2019-02-09T07:30:00+08:00,9.89,126.67,1.0,2.1,0 57 km N 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2330_B2.html
+20190209T0736_9.82_126.62,2019-02-09T07:36:00+08:00,9.82,126.62,6.0,1.9,0 51 km N 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2336_B2.html
+20190209T0738_9.73_126.45,2019-02-09T07:38:00+08:00,9.73,126.45,11.0,2.0,0 33 km S 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2338_B1.html
+20190209T0752_9.78_126.66,2019-02-09T07:52:00+08:00,9.78,126.66,7.0,2.7,0 56 km N 90° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0208_2352_B2.html
+20190209T0805_9.87_126.65,2019-02-09T08:05:00+08:00,9.87,126.65,4.0,3.7,0 55 km N 80° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0005_B3F.html
+20190209T0809_9.76_126.43,2019-02-09T08:09:00+08:00,9.76,126.43,10.0,2.4,0 30 km S 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0009_B2F.html
+20190209T0819_6.68_126.02,2019-02-09T08:19:00+08:00,6.68,126.02,20.0,2.4,007 km N 59° W of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0209_0019_B2.html
+20190209T0821_9.76_126.39,2019-02-09T08:21:00+08:00,9.76,126.39,18.0,2.5,026 km S 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0021_B2F.html
+20190209T0823_9.76_126.47,2019-02-09T08:23:00+08:00,9.76,126.47,8.0,3.5,0 34 km S 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0023_B2F.html
+20190209T0827_9.7_126.2,2019-02-09T08:27:00+08:00,9.7,126.2,24.0,2.1,0 10 km S 29° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0027_B2F.html
+20190209T0834_9.7_126.32,2019-02-09T08:34:00+08:00,9.7,126.32,19.0,2.6,0 21 km S 62° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0034_B2F.html
+20190209T0842_9.63_126.15,2019-02-09T08:42:00+08:00,9.63,126.15,16.0,2.5,01 7 km S 04° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0042_B2.html
+20190209T0900_9.83_122.32,2019-02-09T09:00:00+08:00,9.83,122.32,12.0,2.4,0 13 km N 54° W of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0209_0100_B2.html
+20190209T0910_9.86_126.54,2019-02-09T09:10:00+08:00,9.86,126.54,2.0,3.0,0 43 km N 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0110_B2F.html
+20190209T0916_9.73_126.58,2019-02-09T09:16:00+08:00,9.73,126.58,8.0,2.5,0 47 km S 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0116_B2F.html
+20190209T0918_9.74_126.44,2019-02-09T09:18:00+08:00,9.74,126.44,10.0,2.7,0 32 km S 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0118_B2F.html
+20190209T0931_18.04_120.75,2019-02-09T09:31:00+08:00,18.04,120.75,2.0,2.2,0 06 km S 75° E of Marcos (Ilocos Norte),2019_Earthquake_Information/February/2019_0209_0131_B2.html
+20190209T0944_18.36_120.99,2019-02-09T09:44:00+08:00,18.36,120.99,21.0,2.2,012 km N 20° W of Bayag (Calanasan) (Apayao),2019_Earthquake_Information/February/2019_0209_0144_B1.html
+20190209T1010_10.07_125.55,2019-02-09T10:10:00+08:00,10.07,125.55,25.0,1.8,006 km N 24° W of San Jose (Dinagat),2019_Earthquake_Information/February/2019_0209_0210_B2.html
+20190209T1017_9.78_126.39,2019-02-09T10:17:00+08:00,9.78,126.39,11.0,3.5,025 km S 90° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0217_B2.html
+20190209T1136_9.92_126.33,2019-02-09T11:36:00+08:00,9.92,126.33,14.0,2.9,024 km N 52° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0336_B2.html
+20190209T1153_9.59_126.42,2019-02-09T11:53:00+08:00,9.59,126.42,8.0,4.1,035 km S 54° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0353_B3F.html
+20190209T1204_9.74_126.53,2019-02-09T12:04:00+08:00,9.74,126.53,19.0,2.3,0 41 km S 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0404_B2.html
+20190209T1212_9.83_126.68,2019-02-09T12:12:00+08:00,9.83,126.68,10.0,2.6,057 km N 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0412_B2.html
+20190209T1223_9.88_126.65,2019-02-09T12:23:00+08:00,9.88,126.65,4.0,3.9,055 km N 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0423_B3F.html
+20190209T1237_9.66_126.28,2019-02-09T12:37:00+08:00,9.66,126.28,5.0,2.7,019 km S 45° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0437_B2.html
+20190209T1254_9.74_126.48,2019-02-09T12:54:00+08:00,9.74,126.48,7.0,2.7,0 36 km S 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0454_B2.html
+20190209T1328_9.68_126.22,2019-02-09T13:28:00+08:00,9.68,126.22,20.0,2.1,013 km S 32° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0528_B2_Surigao_del_Norte2.html
+20190209T1328_9.86_126.48,2019-02-09T13:28:00+08:00,9.86,126.48,7.0,2.0,036 km N 77° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0528_B2_Surigao_del_Norte1.html
+20190209T1339_9.67_126.22,2019-02-09T13:39:00+08:00,9.67,126.22,23.0,2.5,0 14 km S 29° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0539_B2.html
+20190209T1357_9.81_126.38,2019-02-09T13:57:00+08:00,9.81,126.38,9.0,2.9,025 km N 82° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0557_B2.html
+20190209T1403_9.7_126.2,2019-02-09T14:03:00+08:00,9.7,126.2,30.0,1.7,010 km S 25° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0603_B2.html
+20190209T1422_9.84_126.47,2019-02-09T14:22:00+08:00,9.84,126.47,9.0,2.9,035 km N 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0622_B2.html
+20190209T1436_9.75_126.16,2019-02-09T14:36:00+08:00,9.75,126.16,25.0,1.6,004 km S 02° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0636_B2.html
+20190209T1451_9.88_126.35,2019-02-09T14:51:00+08:00,9.88,126.35,21.0,1.9,0 24 km N 64° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0651_B2.html
+20190209T1455_9.84_126.48,2019-02-09T14:55:00+08:00,9.84,126.48,7.0,2.6,0 36 km S 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0655_B3.html
+20190209T1459_9.83_126.51,2019-02-09T14:59:00+08:00,9.83,126.51,8.0,3.1,039 km N 82° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0659_B2.html
+20190209T1531_9.78_126.29,2019-02-09T15:31:00+08:00,9.78,126.29,2.0,2.3,015 km N 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0731_B2.html
+20190209T1535_13.11_120.32,2019-02-09T15:35:00+08:00,13.11,120.32,79.0,3.1,032 km S 67° W of Mamburao (Occidental Mindoro),2019_Earthquake_Information/February/2019_0209_0735_B2.html
+20190209T1549_9.75_126.55,2019-02-09T15:49:00+08:00,9.75,126.55,2.0,2.8,043 km S 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0749_B2.html
+20190209T1559_9.63_126.08,2019-02-09T15:59:00+08:00,9.63,126.08,13.0,2.1,019 km S 26° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0759_B2.html
+20190209T1616_9.76_126.36,2019-02-09T16:16:00+08:00,9.76,126.36,19.0,2.0,022 km S 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0816_B2.html
+20190209T1645_9.85_126.6,2019-02-09T16:45:00+08:00,9.85,126.6,7.0,2.5,049 km N 82° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0845_B2.html
+20190209T1656_9.82_126.31,2019-02-09T16:56:00+08:00,9.82,126.31,13.0,2.6,017 km N 77° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0856_B2.html
+20190209T1702_9.86_126.59,2019-02-09T17:02:00+08:00,9.86,126.59,1.0,3.3,049 km N 80° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0902_B2.html
+20190209T1719_16.48_122.29,2019-02-09T17:19:00+08:00,16.48,122.29,32.0,2.4,006 km S 32° E of Dinapigue (Isabela),2019_Earthquake_Information/February/2019_0209_0919_B2.html
+20190209T1720_9.64_125.99,2019-02-09T17:20:00+08:00,9.64,125.99,6.0,2.4,024 km S 49° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0920_B2.html
+20190209T1731_15.77_120.0,2019-02-09T17:31:00+08:00,15.77,120.0,29.0,2.0,010 km N 87° E of Santa Cruz (Zambales),2019_Earthquake_Information/February/2019_0209_0931_B2.html
+20190209T1749_9.7_126.24,2019-02-09T17:49:00+08:00,9.7,126.24,18.0,1.9,013 km S 48° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_0949_B2.html
+20190209T1823_9.71_126.19,2019-02-09T18:23:00+08:00,9.71,126.19,25.0,1.7,008 km S 23° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1023_B2.html
+20190209T1828_9.68_126.21,2019-02-09T18:28:00+08:00,9.68,126.21,21.0,1.6,013 km S 28° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1028_B2.html
+20190209T1904_9.75_126.32,2019-02-09T19:04:00+08:00,9.75,126.32,11.0,2.6,018 km S 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1104_B2.html
+20190209T1916_9.75_126.16,2019-02-09T19:16:00+08:00,9.75,126.16,28.0,2.3,004 km South of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1116_B2.html
+20190209T1924_16.15_120.09,2019-02-09T19:24:00+08:00,16.15,120.09,20.0,3.7,009 km N 02° W of Sual (Pangasinan),2019_Earthquake_Information/February/2019_0209_1124_B2.html
+20190209T1929_6.72_126.77,2019-02-09T19:29:00+08:00,6.72,126.77,26.0,2.4,051 km S 44° E of Tarragona (Davao Oriental),2019_Earthquake_Information/February/2019_0209_1129_B2.html
+20190209T1948_9.67_126.22,2019-02-09T19:48:00+08:00,9.67,126.22,23.0,2.0,014 km S 30° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1148_B2.html
+20190209T1951_20.43_121.74,2019-02-09T19:51:00+08:00,20.43,121.74,30.0,2.4,017 km N 51° W of Sabtang (Batanes),2019_Earthquake_Information/February/2019_0209_1151_B2.html
+20190209T2008_9.79_126.56,2019-02-09T20:08:00+08:00,9.79,126.56,9.0,2.3,0 45 km N 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1208_B2.html
+20190209T2022_9.7_126.22,2019-02-09T20:22:00+08:00,9.7,126.22,22.0,2.2,0 11 km S 36° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1222_B2F.html
+20190209T2056_9.7_126.72,2019-02-09T20:56:00+08:00,9.7,126.72,5.0,2.0,0 62 km S 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1256_B2F.html
+20190209T2120_10.62_122.38,2019-02-09T21:20:00+08:00,10.62,122.38,22.0,2.4,008 km S 56° E of Guimbal (Iloilo),2019_Earthquake_Information/February/2019_0209_1320_B2.html
+20190209T2121_9.66_126.25,2019-02-09T21:21:00+08:00,9.66,126.25,23.0,1.9,0 17 km S 37° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1321_B2F.html
+20190209T2136_9.75_126.0,2019-02-09T21:36:00+08:00,9.75,126.0,31.0,2.0,0 18 km S 79° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1336_B2F.html
+20190209T2152_9.83_126.67,2019-02-09T21:52:00+08:00,9.83,126.67,8.0,2.5,0 56 km N 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1352_B2F.html
+20190209T2204_9.87_126.56,2019-02-09T22:04:00+08:00,9.87,126.56,2.0,2.4,046 km N 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1404_B2F.html
+20190209T2226_7.17_126.48,2019-02-09T22:26:00+08:00,7.17,126.48,8.0,2.8,008 km S 49° W of Manay (Davao Oriental),2019_Earthquake_Information/February/2019_0209_1426_B1.html
+20190209T2233_9.83_126.37,2019-02-09T22:33:00+08:00,9.83,126.37,11.0,2.6,024 km N 77° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1433_B1F.html
+20190209T2244_9.72_126.4,2019-02-09T22:44:00+08:00,9.72,126.4,6.0,3.5,027 km S 75° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1444_B1.html
+20190209T2305_9.7_126.2,2019-02-09T23:05:00+08:00,9.7,126.2,29.0,1.4,0 11 km S 28° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1505_B2F.html
+20190209T2321_8.08_123.79,2019-02-09T23:21:00+08:00,8.08,123.79,34.0,2.0,0 02 km N 11° W of Tubod (Lanao Del Norte),2019_Earthquake_Information/February/2019_0209_1521_B2.html
+20190209T2339_9.94_126.59,2019-02-09T23:39:00+08:00,9.94,126.59,3.0,1.9,0 51 km N 70° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1539_B2F.html
+20190209T2340_9.71_126.29,2019-02-09T23:40:00+08:00,9.71,126.29,22.0,1.9,017 km S 60° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1540_B2F.html
+20190209T2350_9.84_126.5,2019-02-09T23:50:00+08:00,9.84,126.5,12.0,3.3,038 km N 80° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1550_B2.html
+20190209T2353_9.76_126.53,2019-02-09T23:53:00+08:00,9.76,126.53,12.0,2.3,0 42 km S 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1553_B2.html
+20190209T2359_9.71_126.19,2019-02-09T23:59:00+08:00,9.71,126.19,28.0,2.2,00 9 km S 25° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1559_B2F.html
+20190210T0025_9.82_126.48,2019-02-10T00:25:00+08:00,9.82,126.48,5.0,2.4,0 36 km N 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1625_B2.html
+20190210T0026_9.77_126.49,2019-02-10T00:26:00+08:00,9.77,126.49,9.0,2.7,0 36 km S 87° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1626_B2.html
+20190210T0034_17.5_120.22,2019-02-10T00:34:00+08:00,17.5,120.22,25.0,2.4,0 18 km S 72° W of Caoayan (Ilocos Sur),2019_Earthquake_Information/February/2019_0209_1634_B2.html
+20190210T0041_9.79_126.46,2019-02-10T00:41:00+08:00,9.79,126.46,20.0,2.1,0 33 km N 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1641_B2F.html
+20190210T0055_18.82_120.67,2019-02-10T00:55:00+08:00,18.82,120.67,27.0,2.2,0 30 km N 25° W of Pagudpud (Ilocos Norte),2019_Earthquake_Information/February/2019_0209_1655_B2.html
+20190210T0104_15.44_122.69,2019-02-10T01:04:00+08:00,15.44,122.69,27.0,3.1,0 87 km N 23° E of Jomalig (Quezon),2019_Earthquake_Information/February/2019_0209_1704_B2.html
+20190210T0140_9.78_126.44,2019-02-10T01:40:00+08:00,9.78,126.44,12.0,2.6,0 31 km N 90° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1740_B2.html
+20190210T0155_13.45_119.9,2019-02-10T01:55:00+08:00,13.45,119.9,27.0,2.1,0 49 km S 51° W of Looc (Occidental Mindoro),2019_Earthquake_Information/February/2019_0209_1755_B2.html
+20190210T0159_9.71_126.19,2019-02-10T01:59:00+08:00,9.71,126.19,25.0,2.1,0 09 km S 25° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1759_B2F.html
+20190210T0207_9.8_126.53,2019-02-10T02:07:00+08:00,9.8,126.53,11.0,2.6,04 1 km N 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1807_B2.html
+20190210T0219_9.79_126.52,2019-02-10T02:19:00+08:00,9.79,126.52,5.0,1.7,0 40 km N 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1819_B2F.html
+20190210T0244_9.83_126.47,2019-02-10T02:44:00+08:00,9.83,126.47,10.0,3.9,0 34 km N 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1844_B2.html
+20190210T0255_8.68_122.78,2019-02-10T02:55:00+08:00,8.68,122.78,34.0,2.2,039 km N 63° W of Manukan (Zamboanga Del Norte),2019_Earthquake_Information/February/2019_0209_1855_B2.html
+20190210T0304_9.82_126.51,2019-02-10T03:04:00+08:00,9.82,126.51,7.0,3.1,039 km N 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1904_B2.html
+20190210T0320_9.78_126.53,2019-02-10T03:20:00+08:00,9.78,126.53,5.0,2.6,0 41 km S 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1920_B2.html
+20190210T0327_9.68_126.48,2019-02-10T03:27:00+08:00,9.68,126.48,2.0,2.6,0 37 km S 71° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1927_B2.html
+20190210T0346_9.94_126.45,2019-02-10T03:46:00+08:00,9.94,126.45,11.0,3.8,03 6 km N 61° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1946_B2F.html
+20190210T0352_9.71_126.5,2019-02-10T03:52:00+08:00,9.71,126.5,9.0,3.0,0 39 km S 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_1952_B2.html
+20190210T0403_9.75_126.38,2019-02-10T04:03:00+08:00,9.75,126.38,13.0,2.1,0 24 km S 82° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2003_B2F.html
+20190210T0414_9.83_126.41,2019-02-10T04:14:00+08:00,9.83,126.41,3.0,3.0,0 28 km N 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2014_B2F.html
+20190210T0428_9.75_126.35,2019-02-10T04:28:00+08:00,9.75,126.35,8.0,2.6,0 22 km S 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2028_B2F.html
+20190210T0437_9.65_126.32,2019-02-10T04:37:00+08:00,9.65,126.32,4.0,1.7,02 4 km S 51° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2037_B2F.html
+20190210T0452_9.81_126.48,2019-02-10T04:52:00+08:00,9.81,126.48,9.0,3.2,03 6 km N 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2052_B2F.html
+20190210T0504_9.77_126.45,2019-02-10T05:04:00+08:00,9.77,126.45,11.0,2.1,0 3 2 km S 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2104_B2F.html
+20190210T0512_9.72_126.49,2019-02-10T05:12:00+08:00,9.72,126.49,9.0,2.6,0 37 km S 80° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2112_B2F.html
+20190210T0545_9.8_126.55,2019-02-10T05:45:00+08:00,9.8,126.55,11.0,2.5,0 43 km N 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2145_B2F.html
+20190210T0607_9.71_126.2,2019-02-10T06:07:00+08:00,9.71,126.2,22.0,2.3,009 km S 30° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2207_B2F.html
+20190210T0613_9.82_126.47,2019-02-10T06:13:00+08:00,9.82,126.47,10.0,3.6,03 6 km N 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2213_B2F.html
+20190210T0616_9.71_126.3,2019-02-10T06:16:00+08:00,9.71,126.3,21.0,1.9,01 8 km S 63° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2216_B2F.html
+20190210T0621_9.82_126.36,2019-02-10T06:21:00+08:00,9.82,126.36,3.0,,02 3 km N 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2221_B3F.html
+20190210T0623_9.91_126.5,2019-02-10T06:23:00+08:00,9.91,126.5,5.0,3.0,040 km N 70° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2223_B2F.html
+20190210T0626_9.86_126.36,2019-02-10T06:26:00+08:00,9.86,126.36,20.0,2.3,0 24 km N 69° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2226_B2F.html
+20190210T0630_9.86_126.39,2019-02-10T06:30:00+08:00,9.86,126.39,8.0,2.1,02 7 km N 70° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2230_B2F.html
+20190210T0631_9.81_126.47,2019-02-10T06:31:00+08:00,9.81,126.47,12.0,3.4,0 30 km N 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2231_B2F.html
+20190210T0642_9.9_126.44,2019-02-10T06:42:00+08:00,9.9,126.44,5.0,2.7,0 34 km N 68° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2242_B2F.html
+20190210T0646_20.31_121.2,2019-02-10T06:46:00+08:00,20.31,121.2,34.0,2.3,0 70 km S 87° W of Sabtang (Batanes),2019_Earthquake_Information/February/2019_0209_2246_B2.html
+20190210T0648_9.99_126.5,2019-02-10T06:48:00+08:00,9.99,126.5,7.0,2.5,0 44 km N 59° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2248_B2F.html
+20190210T0657_9.7_126.19,2019-02-10T06:57:00+08:00,9.7,126.19,19.0,1.6,010 km S 25° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2257_B2.html
+20190210T0700_9.85_126.59,2019-02-10T07:00:00+08:00,9.85,126.59,9.0,3.4,048 km N 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2300_B2.html
+20190210T0706_9.8_126.56,2019-02-10T07:06:00+08:00,9.8,126.56,15.0,2.2,04 5 km N 87° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2306_B2.html
+20190210T0708_9.91_126.32,2019-02-10T07:08:00+08:00,9.91,126.32,15.0,3.3,023 km N 54° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2308_B2.html
+20190210T0714_9.79_126.41,2019-02-10T07:14:00+08:00,9.79,126.41,10.0,2.5,02 8 km N 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2314_B2F.html
+20190210T0716_14.21_120.4,2019-02-10T07:16:00+08:00,14.21,120.4,106.0,2.0,027 km S 20° W of Mariveles (Bataan),2019_Earthquake_Information/February/2019_0209_2317_B1.html
+20190210T0724_9.88_126.48,2019-02-10T07:24:00+08:00,9.88,126.48,7.0,3.1,037 km N 74° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2324_B2F.html
+20190210T0741_15.42_119.85,2019-02-10T07:41:00+08:00,15.42,119.85,30.0,2.1,0 07 km S 73° W of Palauig (Zambales),2019_Earthquake_Information/February/2019_0209_2341_B2.html
+20190210T0753_9.84_126.42,2019-02-10T07:53:00+08:00,9.84,126.42,9.0,2.5,019 km N 36° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0209_2353_B2F.html
+20190210T0812_9.87_126.54,2019-02-10T08:12:00+08:00,9.87,126.54,7.0,3.4,0 43 km N 77° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0012_B2F.html
+20190210T0821_9.82_126.38,2019-02-10T08:21:00+08:00,9.82,126.38,5.0,3.0,0 25 km N 82° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0021_B2F.html
+20190210T0824_9.85_126.63,2019-02-10T08:24:00+08:00,9.85,126.63,5.0,2.2,05 2 km N 82° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0024_B2F.html
+20190210T0829_9.83_126.43,2019-02-10T08:29:00+08:00,9.83,126.43,5.0,3.1,030 km N 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0029_B2F.html
+20190210T0833_9.84_126.4,2019-02-10T08:33:00+08:00,9.84,126.4,4.0,2.7,0 27 km N 77° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0033_B2F.html
+20190210T0837_9.92_126.33,2019-02-10T08:37:00+08:00,9.92,126.33,10.0,3.5,02 4 km N 51° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0037_B2.html
+20190210T0843_9.91_126.51,2019-02-10T08:43:00+08:00,9.91,126.51,1.0,2.2,0 41 km N 71° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0043_B2F.html
+20190210T0848_9.85_126.34,2019-02-10T08:48:00+08:00,9.85,126.34,10.0,2.2,0 21 km N 68° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0048_B2.html
+20190210T0852_9.87_126.56,2019-02-10T08:52:00+08:00,9.87,126.56,1.0,2.6,045 km N 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0052_B2.html
+20190210T0905_9.79_126.5,2019-02-10T09:05:00+08:00,9.79,126.5,12.0,2.3,038 km N 90° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0105_B2.html
+20190210T0907_9.79_126.59,2019-02-10T09:07:00+08:00,9.79,126.59,11.0,2.9,0 48 km N 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0107_B2F.html
+20190210T0908_2.98_126.92,2019-02-10T09:08:00+08:00,2.98,126.92,9.0,4.1,3 16 km S 31° E of Sarangani (Davao Occidental),2019_Earthquake_Information/February/2019_0210_0108_B2.html
+20190210T0927_9.85_126.58,2019-02-10T09:27:00+08:00,9.85,126.58,2.0,2.9,0 48 km N 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0127_B2.html
+20190210T0941_9.79_126.19,2019-02-10T09:41:00+08:00,9.79,126.19,25.0,2.3,004 km N 69° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0141_B2F.html
+20190210T0949_9.8_126.45,2019-02-10T09:49:00+08:00,9.8,126.45,5.0,3.9,0 32 km N 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0149_B2F.html
+20190210T1007_9.68_125.94,2019-02-10T10:07:00+08:00,9.68,125.94,13.0,2.1,0 26 km S 66° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0207_B2F.html
+20190210T1041_9.83_126.48,2019-02-10T10:41:00+08:00,9.83,126.48,10.0,3.1,0 36 km N 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0241_B2F.html
+20190210T1042_9.68_126.21,2019-02-10T10:42:00+08:00,9.68,126.21,32.0,2.4,0 13 km S 29° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0242_B2F.html
+20190210T1104_9.82_126.44,2019-02-10T11:04:00+08:00,9.82,126.44,14.0,2.9,0 31 km N 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0304_B2F.html
+20190210T1106_9.91_126.44,2019-02-10T11:06:00+08:00,9.91,126.44,6.0,4.4,0 35 km N 66° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0306_B3F.html
+20190210T1121_7.58_126.74,2019-02-10T11:21:00+08:00,7.58,126.74,46.0,2.9,020 km 00° East of Baganga (Davao Oriental),2019_Earthquake_Information/February/2019_0210_0321_B2.html
+20190210T1231_9.8_126.42,2019-02-10T12:31:00+08:00,9.8,126.42,1.0,3.0,023 km N 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0431_B2F.html
+20190210T1249_9.76_126.07,2019-02-10T12:49:00+08:00,9.76,126.07,10.0,2.9,010 km S 77° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0449_B2F.html
+20190210T1250_9.73_126.16,2019-02-10T12:50:00+08:00,9.73,126.16,20.0,2.0,006 km S 05° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0450_B3.html
+20190210T1255_9.81_126.21,2019-02-10T12:55:00+08:00,9.81,126.21,13.0,3.3,0 07 km N 60° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0455_B2F.html
+20190210T1317_9.84_126.53,2019-02-10T13:17:00+08:00,9.84,126.53,3.0,2.9,0 42 km N 82° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0517_B2F.html
+20190210T1319_9.8_126.41,2019-02-10T13:19:00+08:00,9.8,126.41,10.0,2.6,028 km N 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0519_B2F.html
+20190210T1324_9.77_126.28,2019-02-10T13:24:00+08:00,9.77,126.28,25.0,2.3,013 km S 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0524_B2F.html
+20190210T1341_19.35_121.28,2019-02-10T13:41:00+08:00,19.35,121.28,33.0,2.1,0 21 km N 69° W of Calayan (Cagayan),2019_Earthquake_Information/February/2019_0210_0541_B2.html
+20190210T1354_9.76_126.46,2019-02-10T13:54:00+08:00,9.76,126.46,12.0,2.9,025 km S 48° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0554_B2F.html
+20190210T1426_9.74_126.39,2019-02-10T14:26:00+08:00,9.74,126.39,6.0,2.5,0 26 km S 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0626_B2F.html
+20190210T1458_9.62_126.04,2019-02-10T14:58:00+08:00,9.62,126.04,10.0,2.5,0 22 km S 34° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0658_B2F.html
+20190210T1506_9.91_126.61,2019-02-10T15:06:00+08:00,9.91,126.61,3.0,2.3,0 51 km N 75° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0706_B2F.html
+20190210T1535_9.74_126.44,2019-02-10T15:35:00+08:00,9.74,126.44,12.0,2.3,0 31 km S 80° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_0735_B2F.html
+20190210T1705_9.28_125.28,2019-02-10T17:05:00+08:00,9.28,125.28,66.0,2.6,0 06 km South 00° of San Ricardo (Southern Leyte),2019_Earthquake_Information/February/2019_0210_0905_B2.html
+20190210T1726_19.19_121.04,2019-02-10T17:26:00+08:00,19.19,121.04,23.0,2.8,0 45 km S 77° W of Calayan (Cagayan),2019_Earthquake_Information/February/2019_0210_0926_B2.html
+20190210T1747_19.32_121.03,2019-02-10T17:47:00+08:00,19.32,121.03,63.0,2.3,0 45 km N 84° W of Calayan (Cagayan),2019_Earthquake_Information/February/2019_0210_0947_B2.html
+20190210T1803_9.79_126.47,2019-02-10T18:03:00+08:00,9.79,126.47,6.0,2.8,0 34 km N 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1003_B2.html
+20190210T1812_9.82_126.33,2019-02-10T18:12:00+08:00,9.82,126.33,10.0,2.6,0 19 km N 76° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1012_B1F.html
+20190210T1813_9.61_125.93,2019-02-10T18:13:00+08:00,9.61,125.93,3.0,3.7,032 km S 52° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1013_B2.html
+20190210T1819_9.79_126.37,2019-02-10T18:19:00+08:00,9.79,126.37,1.0,1.6,0 23 km N 87° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1019_B2.html
+20190210T1822_16.8_121.37,2019-02-10T18:22:00+08:00,16.8,121.37,1.0,2.8,014 km N 22° W of Cordon (Isabela),2019_Earthquake_Information/February/2019_0210_1022_B2.html
+20190210T1824_9.73_126.46,2019-02-10T18:24:00+08:00,9.73,126.46,8.0,3.4,033 km S 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1024_B2F.html
+20190210T1829_9.85_125.6,2019-02-10T18:29:00+08:00,9.85,125.6,55.0,2.1,0 11 km S 43° E of Cagdiano (Dinagat),2019_Earthquake_Information/February/2019_0210_1029_B2.html
+20190210T1909_9.84_126.57,2019-02-10T19:09:00+08:00,9.84,126.57,5.0,2.4,046 km N 82° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1109_B2F.html
+20190210T1920_9.83_126.52,2019-02-10T19:20:00+08:00,9.83,126.52,3.0,2.7,040 km N 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1120_B2.html
+20190210T1950_9.83_126.54,2019-02-10T19:50:00+08:00,9.83,126.54,12.0,2.8,0 42 km N 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1150_B2F.html
+20190210T2022_9.77_126.46,2019-02-10T20:22:00+08:00,9.77,126.46,12.0,2.6,03 4 km S 87° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1222_B2F.html
+20190210T2032_9.9_126.45,2019-02-10T20:32:00+08:00,9.9,126.45,8.0,2.5,0 34 km N 68° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1232_B2F.html
+20190210T2037_9.86_126.57,2019-02-10T20:37:00+08:00,9.86,126.57,11.0,3.3,0 46 km N 80° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1237_B2F.html
+20190210T2056_9.88_126.51,2019-02-10T20:56:00+08:00,9.88,126.51,1.0,2.4,040 km N 75° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1256_B2.html
+20190210T2108_9.8_126.52,2019-02-10T21:08:00+08:00,9.8,126.52,8.0,2.6,039 km N 87° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1308_B2F.html
+20190210T2129_9.77_126.27,2019-02-10T21:29:00+08:00,9.77,126.27,6.0,2.0,0 13 km S 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1329_B2.html
+20190210T2135_9.83_126.53,2019-02-10T21:35:00+08:00,9.83,126.53,11.0,3.8,0 42 km N 82° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1335_B2F.html
+20190210T2137_9.81_126.46,2019-02-10T21:37:00+08:00,9.81,126.46,10.0,2.5,034 km N 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1337_B2.html
+20190210T2142_9.7_126.23,2019-02-10T21:42:00+08:00,9.7,126.23,25.0,2.6,012 km S 39° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1342_B2.html
+20190210T2153_9.8_126.48,2019-02-10T21:53:00+08:00,9.8,126.48,10.0,2.0,0 36 km N 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1353_B2F.html
+20190210T2204_9.84_126.53,2019-02-10T22:04:00+08:00,9.84,126.53,17.0,3.3,0 41 km N 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1404_B2F.html
+20190210T2206_9.72_126.19,2019-02-10T22:06:00+08:00,9.72,126.19,32.0,2.2,0 08 km S 23° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1406_B2F.html
+20190210T2217_9.73_126.26,2019-02-10T22:17:00+08:00,9.73,126.26,24.0,2.4,01 3 km S 64° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1417_B2F.html
+20190210T2233_9.86_126.34,2019-02-10T22:33:00+08:00,9.86,126.34,2.0,5.1,022 km N 68° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1433_B2F.html
+20190210T2239_9.9_126.5,2019-02-10T22:39:00+08:00,9.9,126.5,1.0,4.2,0 40 km N71° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1439_B2F.html
+20190210T2247_9.76_126.24,2019-02-10T22:47:00+08:00,9.76,126.24,1.0,3.2,010 km S 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1447_B2F.html
+20190210T2254_9.83_126.42,2019-02-10T22:54:00+08:00,9.83,126.42,1.0,3.3,029 km N 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1454_B2F.html
+20190210T2255_9.81_126.5,2019-02-10T22:55:00+08:00,9.81,126.5,6.0,3.2,0 38 km N 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1455_B2F.html
+20190210T2312_9.87_126.59,2019-02-10T23:12:00+08:00,9.87,126.59,4.0,3.1,0 49 km N 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1512_B2F.html
+20190210T2323_9.78_126.43,2019-02-10T23:23:00+08:00,9.78,126.43,7.0,1.9,030 km S 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1523_B2F.html
+20190210T2335_9.87_126.46,2019-02-10T23:35:00+08:00,9.87,126.46,11.0,3.4,034 km N 75° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1535_B2.html
+20190210T2350_9.81_126.49,2019-02-10T23:50:00+08:00,9.81,126.49,6.0,1.6,0 37 km N 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1550_B2F.html
+20190211T0015_9.7_126.2,2019-02-11T00:15:00+08:00,9.7,126.2,26.0,1.8,0 11 km S 27° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1615_B2F.html
+20190211T0025_9.81_126.19,2019-02-11T00:25:00+08:00,9.81,126.19,1.0,1.9,0 05 km N 51° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1625_B2.html
+20190211T0026_9.79_126.54,2019-02-11T00:26:00+08:00,9.79,126.54,14.0,3.1,0 42 km N 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1626_B2F.html
+20190211T0034_9.81_126.35,2019-02-11T00:34:00+08:00,9.81,126.35,3.0,2.3,0 21 km N 82° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1634_B2F.html
+20190211T0048_9.81_126.62,2019-02-11T00:48:00+08:00,9.81,126.62,10.0,4.3,0 51 km N 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1648_B3F.html
+20190211T0102_9.82_126.37,2019-02-11T01:02:00+08:00,9.82,126.37,1.0,2.4,024 km N 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1702_B2.html
+20190211T0147_9.88_126.62,2019-02-11T01:47:00+08:00,9.88,126.62,1.0,3.1,05 1 km N 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1747_B2F.html
+20190211T0153_9.89_126.67,2019-02-11T01:53:00+08:00,9.89,126.67,1.0,2.3,0 58 km N 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1753_B2F.html
+20190211T0159_12.63_124.62,2019-02-11T01:59:00+08:00,12.63,124.62,27.0,1.9,01 4 km N 09° W of Catarman (Northern Samar),2019_Earthquake_Information/February/2019_0210_1759_B2.html
+20190211T0211_10.14_125.98,2019-02-11T02:11:00+08:00,10.14,125.98,10.0,3.7,0 15 km N 24° W of Santa Monica (Sapao) (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1811_B2.html
+20190211T0215_10.06_126.18,2019-02-11T02:15:00+08:00,10.06,126.18,20.0,2.2,03 1 km N 04° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1815_B1F.html
+20190211T0303_9.76_126.49,2019-02-11T03:03:00+08:00,9.76,126.49,11.0,2.7,0 37 km S 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1903_B2F.html
+20190211T0313_9.76_126.36,2019-02-11T03:13:00+08:00,9.76,126.36,1.0,2.0,023 km S 82° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1913_B2F.html
+20190211T0327_9.3_126.52,2019-02-11T03:27:00+08:00,9.3,126.52,9.0,2.7,037 km N 85° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/February/2019_0210_1927_B2.html
+20190211T0335_8.61_127.18,2019-02-11T03:35:00+08:00,8.61,127.18,18.0,3.9,096 km N 74° E of Hinatuan (Surigao Del Sur),2019_Earthquake_Information/February/2019_0210_1935_B2.html
+20190211T0355_9.74_126.12,2019-02-11T03:55:00+08:00,9.74,126.12,23.0,2.4,006 km S 41° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_1955_B2F.html
+20190211T0421_9.73_126.52,2019-02-11T04:21:00+08:00,9.73,126.52,12.0,3.5,040 km S 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_2021_B2.html
+20190211T0457_9.72_126.45,2019-02-11T04:57:00+08:00,9.72,126.45,9.0,2.5,0 33 km S 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_2057_B2F.html
+20190211T0501_10.54_125.94,2019-02-11T05:01:00+08:00,10.54,125.94,15.0,2.1,045 km N 63° E of Loreto (Dinagat),2019_Earthquake_Information/February/2019_0210_2101_B2.html
+20190211T0529_9.87_126.45,2019-02-11T05:29:00+08:00,9.87,126.45,16.0,2.2,034 km N 73° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_2129_B2F.html
+20190211T0617_9.89_126.61,2019-02-11T06:17:00+08:00,9.89,126.61,6.0,2.0,0 51km N 77° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_2217_B2F.html
+20190211T0618_9.71_126.3,2019-02-11T06:18:00+08:00,9.71,126.3,1.0,2.2,01 9 km S 66° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_2218_B2.html
+20190211T0621_9.82_126.36,2019-02-11T06:21:00+08:00,9.82,126.36,1.0,3.7,0 23 km N 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_2221_B2F.html
+20190211T0647_15.99_121.09,2019-02-11T06:47:00+08:00,15.99,121.09,22.0,2.2,00 5 km N 43° E of Carranglan (Nueva Ecija),2019_Earthquake_Information/February/2019_0210_2247_B2.html
+20190211T0714_7.95_127.55,2019-02-11T07:14:00+08:00,7.95,127.55,31.0,2.8,12 6 km S 85° E of Lingig (Surigao Del Sur),2019_Earthquake_Information/February/2019_0210_2314_B2.html
+20190211T0717_9.65_126.29,2019-02-11T07:17:00+08:00,9.65,126.29,9.0,2.6,021 km S 44° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0210_2317_B2F.html
+20190211T0848_9.86_126.15,2019-02-11T08:48:00+08:00,9.86,126.15,8.0,2.2,0 08 km N 02° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_0048_B2.html
+20190211T0943_9.71_126.56,2019-02-11T09:43:00+08:00,9.71,126.56,8.0,2.7,04 5 km S 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_0143_B2F.html
+20190211T1106_10.44_125.37,2019-02-11T11:06:00+08:00,10.44,125.37,29.0,2.2,0 22 km N 32° E of Anahawan (Southern Leyte),2019_Earthquake_Information/February/2019_0211_0306_B2.html
+20190211T1133_9.67_126.75,2019-02-11T11:33:00+08:00,9.67,126.75,25.0,2.0,067 km S 79° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_0333_B2F.html
+20190211T1144_9.76_126.49,2019-02-11T11:44:00+08:00,9.76,126.49,13.0,2.5,037 km S 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_0344_B2F.html
+20190211T1210_9.7_126.07,2019-02-11T12:10:00+08:00,9.7,126.07,20.0,1.7,0 13 km S 48° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_0410_B2F.html
+20190211T1233_9.73_126.13,2019-02-11T12:33:00+08:00,9.73,126.13,19.0,2.1,0 07 km S 23° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_0433_B2F.html
+20190211T1403_9.69_126.4,2019-02-11T14:03:00+08:00,9.69,126.4,8.0,2.7,0 28km S 69° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_0603_B2F.html
+20190211T1409_9.65_126.24,2019-02-11T14:09:00+08:00,9.65,126.24,21.0,1.8,0 18km S 32° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_0609_B2F.html
+20190211T1641_9.7_126.2,2019-02-11T16:41:00+08:00,9.7,126.2,21.0,2.3,0 11 km S 28° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_0841_B2.html
+20190211T1705_9.5_126.77,2019-02-11T17:05:00+08:00,9.5,126.77,11.0,2.4,0 68 km N 69° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/February/2019_0211_0905_B2.html
+20190211T1717_9.74_126.17,2019-02-11T17:17:00+08:00,9.74,126.17,27.0,2.0,005 km S 14° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_0917_B2F.html
+20190211T1723_9.91_126.53,2019-02-11T17:23:00+08:00,9.91,126.53,18.0,2.1,0 43 km N 71° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_0923_B2F.html
+20190211T1800_10.58_125.81,2019-02-11T18:00:00+08:00,10.58,125.81,24.0,2.1,036 km N 46° E of Loreto (Dinagat),2019_Earthquake_Information/February/2019_0211_1000_B2.html
+20190211T1837_9.67_126.45,2019-02-11T18:37:00+08:00,9.67,126.45,5.0,2.5,0 35 km S 68° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_1037_B2F.html
+20190211T1911_15.61_119.85,2019-02-11T19:11:00+08:00,15.61,119.85,33.0,2.0,009 km S 77° W of Candelaria (Zambales),2019_Earthquake_Information/February/2019_0211_1111_B2.html
+20190211T1915_9.87_126.43,2019-02-11T19:15:00+08:00,9.87,126.43,8.0,2.2,0 31 km N 72° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_1115_B2F.html
+20190211T2000_9.63_126.25,2019-02-11T20:00:00+08:00,9.63,126.25,22.0,2.3,020 km S 32° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_1200_B2F.html
+20190211T2009_9.75_126.36,2019-02-11T20:09:00+08:00,9.75,126.36,25.0,1.7,0 23 km S 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_1209_B2F.html
+20190211T2028_9.88_126.58,2019-02-11T20:28:00+08:00,9.88,126.58,7.0,2.5,0 47 km N 77° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_1228_B2F.html
+20190211T2143_9.82_126.49,2019-02-11T21:43:00+08:00,9.82,126.49,10.0,2.3,0 36 km N 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_1343_B2F.html
+20190211T2325_4.39_124.46,2019-02-11T23:25:00+08:00,4.39,124.46,16.0,3.0,161 km S 44° W of Sarangani (Davao Occidental),2019_Earthquake_Information/February/2019_0211_1525_B2.html
+20190211T2337_9.61_126.27,2019-02-11T23:37:00+08:00,9.61,126.27,5.0,2.1,0 22 km S 33° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_1537_B2F.html
+20190211T2338_9.88_126.59,2019-02-11T23:38:00+08:00,9.88,126.59,12.0,3.4,049 km N 77° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_1538_B2F.html
+20190211T2341_10.45_125.14,2019-02-11T23:41:00+08:00,10.45,125.14,1.0,1.9,009 km N 44° W of Hinunangan (Southern Leyte),2019_Earthquake_Information/February/2019_0211_1541_B2.html
+20190212T0020_15.31_120.07,2019-02-12T00:20:00+08:00,15.31,120.07,68.0,2.0,006 km N 63° E of Botolan (Zambales),2019_Earthquake_Information/February/2019_0211_1620_B2.html
+20190212T0025_19.18_119.64,2019-02-12T00:25:00+08:00,19.18,119.64,29.0,2.4,1 28 km N 55° W of Burgos (Ilocos Norte),2019_Earthquake_Information/February/2019_0211_1625_B2.html
+20190212T0039_9.87_126.47,2019-02-12T00:39:00+08:00,9.87,126.47,2.0,3.7,035 km N 74° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_1639_B2F.html
+20190212T0043_9.69_126.2,2019-02-12T00:43:00+08:00,9.69,126.2,30.0,1.8,011 km S 24° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_1643_B2F.html
+20190212T0101_19.14_121.02,2019-02-12T01:01:00+08:00,19.14,121.02,24.0,2.0,050 km S 71° W of Calayan (Cagayan),2019_Earthquake_Information/February/2019_0211_1701_B2.html
+20190212T0354_9.84_126.39,2019-02-12T03:54:00+08:00,9.84,126.39,10.0,2.1,026 km N 76° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_1954_B2F.html
+20190212T0355_9.89_126.5,2019-02-12T03:55:00+08:00,9.89,126.5,12.0,2.4,039 km N 73° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_1955_B2F.html
+20190212T0422_5.97_126.41,2019-02-12T04:22:00+08:00,5.97,126.41,8.0,2.5,083 km S 72° E of Don Marcelino (Davao Occidental),2019_Earthquake_Information/February/2019_0211_2022_B2.html
+20190212T0439_9.96_126.62,2019-02-12T04:39:00+08:00,9.96,126.62,10.0,3.5,054 km N 69° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_2039_B2F.html
+20190212T0442_10.02_126.48,2019-02-12T04:42:00+08:00,10.02,126.48,16.0,2.8,045 km N 54° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_2042_B2F_2.html
+20190212T0442_9.74_126.4,2019-02-12T04:42:00+08:00,9.74,126.4,8.0,2.7,027 km S 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_2042_B2F_1.html
+20190212T0452_9.85_126.52,2019-02-12T04:52:00+08:00,9.85,126.52,3.0,2.5,041 km N 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_2052_B2.html
+20190212T0507_9.7_126.57,2019-02-12T05:07:00+08:00,9.7,126.57,4.0,2.4,046 km S 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_2107_B2F.html
+20190212T0533_17.15_120.04,2019-02-12T05:33:00+08:00,17.15,120.04,23.0,2.4,044 km S 84° W of Candon City (Ilocos Sur),2019_Earthquake_Information/February/2019_0211_2133_B2.html
+20190212T0548_15.59_121.14,2019-02-12T05:48:00+08:00,15.59,121.14,33.0,1.7,026 km N 55° W of Gabaldon (Bitulok & Sabani) (Nueva Ecija),2019_Earthquake_Information/February/2019_0211_2148_B2.html
+20190212T0644_8.98_126.56,2019-02-12T06:44:00+08:00,8.98,126.56,20.0,2.6,030 km N 88° E of Bayabas (Surigao Del Sur),2019_Earthquake_Information/February/2019_0211_2244_B2.html
+20190212T0705_9.77_126.44,2019-02-12T07:05:00+08:00,9.77,126.44,7.0,2.9,031 km S 87° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0211_2305_B2F.html
+20190212T0843_19.02_121.2,2019-02-12T08:43:00+08:00,19.02,121.2,8.0,3.3,040 km S 44° W of Calayan (Cagayan),2019_Earthquake_Information/February/2019_0212_0043_B2.html
+20190212T0942_9.72_126.19,2019-02-12T09:42:00+08:00,9.72,126.19,23.0,2.3,008 km S 24° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_0142_B2.html
+20190212T0957_9.67_126.22,2019-02-12T09:57:00+08:00,9.67,126.22,18.0,1.8,014 km S 30° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_0157_B2.html
+20190212T1009_13.57_121.79,2019-02-12T10:09:00+08:00,13.57,121.79,11.0,1.9,0 13 km N 33° W of Mogpog (Marinduque),2019_Earthquake_Information/February/2019_0212_0209_B2.html
+20190212T1157_9.66_126.67,2019-02-12T11:57:00+08:00,9.66,126.67,16.0,2.8,0 18 km S 43° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_0357_B2.html
+20190212T1353_9.75_126.22,2019-02-12T13:53:00+08:00,9.75,126.22,31.0,2.0,008 km S 60° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_0553_B2.html
+20190212T1432_9.86_126.04,2019-02-12T14:32:00+08:00,9.86,126.04,5.0,2.9,015 km N 54° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_0632_B2.html
+20190212T1545_9.69_126.58,2019-02-12T15:45:00+08:00,9.69,126.58,11.0,3.4,0 48 km S 77° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_0745_B2.html
+20190212T1601_4.59_126.19,2019-02-12T16:01:00+08:00,4.59,126.19,45.0,5.1,123 km S 40° E of Sarangani (Davao Occidental),2019_Earthquake_Information/February/2019_0212_0801_B3.html
+20190212T1804_10.56_125.37,2019-02-12T18:04:00+08:00,10.56,125.37,33.0,2.0,0 23 km N 81° E of Silago (Southern Leyte),2019_Earthquake_Information/February/2019_0212_1004_B2.html
+20190212T1847_12.77_122.92,2019-02-12T18:47:00+08:00,12.77,122.92,22.0,2.3,0 39 km S 68° W of Claveria (Masbate),2019_Earthquake_Information/February/2019_0212_1047_B2.html
+20190212T1947_16.35_122.27,2019-02-12T19:47:00+08:00,16.35,122.27,13.0,2.8,008 km S 56° E of Dilasag (Aurora),2019_Earthquake_Information/February/2019_0212_1147_B2.html
+20190212T2000_8.65_125.65,2019-02-12T20:00:00+08:00,8.65,125.65,18.0,2.4,003 km S 00° E of Esperanza (Agusan Del Sur),2019_Earthquake_Information/February/2019_0212_1200_B2.html
+20190212T2030_10.13_126.74,2019-02-12T20:30:00+08:00,10.13,126.74,7.0,2.4,0 74 km N 59° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_1230_B2.html
+20190212T2042_10.15_125.26,2019-02-12T20:42:00+08:00,10.15,125.26,47.0,2.1,0 13 km S 01° W of Anahawan (Southern Leyte),2019_Earthquake_Information/February/2019_0212_1242_B2.html
+20190212T2058_9.76_126.14,2019-02-12T20:58:00+08:00,9.76,126.14,26.0,2.0,002 km S 16° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_1258_B2.html
+20190212T2113_9.72_126.42,2019-02-12T21:13:00+08:00,9.72,126.42,18.0,2.2,0 30 km S 76° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_1313_B2.html
+20190212T2117_9.84_126.53,2019-02-12T21:17:00+08:00,9.84,126.53,4.0,3.1,0 41 km N 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_1317_B2.html
+20190212T2144_9.73_126.17,2019-02-12T21:44:00+08:00,9.73,126.17,21.0,1.5,005 km S 12° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_1344_B2.html
+20190212T2204_16.65_119.83,2019-02-12T22:04:00+08:00,16.65,119.83,46.0,2.0,0 29 km N 14° W of Bolinao (Pangasinan),2019_Earthquake_Information/February/2019_0212_1404_B2.html
+20190212T2224_9.21_125.52,2019-02-12T22:24:00+08:00,9.21,125.52,18.0,2.5,003 km N 40° W of Tubay (Agusan Del Norte),2019_Earthquake_Information/February/2019_0212_1424_B2.html
+20190212T2224_9.61_126.3,2019-02-12T22:24:00+08:00,9.61,126.3,18.0,1.7,025 km S 40° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_1424_B2_SDN.html
+20190212T2352_10.18_125.28,2019-02-12T23:52:00+08:00,10.18,125.28,33.0,2.0,0 11 km S 10° E of Anahawan (Southern Leyte),2019_Earthquake_Information/February/2019_0212_1552_B2.html
+20190212T2357_10.32_125.5,2019-02-12T23:57:00+08:00,10.32,125.5,83.0,1.8,0 10 km S 59° W of Loreto (Dinagat),2019_Earthquake_Information/February/2019_0212_1557_B2.html
+20190213T0047_9.89_126.67,2019-02-13T00:47:00+08:00,9.89,126.67,19.0,2.9,0 57 km N 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_1647_B2.html
+20190213T0207_9.7_126.2,2019-02-13T02:07:00+08:00,9.7,126.2,23.0,1.8,010 km S 26° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_1807_B2.html
+20190213T0216_10.17_125.26,2019-02-13T02:16:00+08:00,10.17,125.26,31.0,1.8,011 km S 00° of Anahawan (Southern Leyte),2019_Earthquake_Information/February/2019_0212_1816_B2.html
+20190213T0225_16.65_119.87,2019-02-13T02:25:00+08:00,16.65,119.87,42.0,2.8,0 29 km N 04° W of Bolinao (Pangasinan),2019_Earthquake_Information/February/2019_0212_1825_B2.html
+20190213T0317_9.76_126.36,2019-02-13T03:17:00+08:00,9.76,126.36,1.0,2.6,023 km S 83° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_1917_B2.html
+20190213T0329_9.86_126.65,2019-02-13T03:29:00+08:00,9.86,126.65,4.0,2.4,054 km N 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_1929_B2.html
+20190213T0415_6.5_126.16,2019-02-13T04:15:00+08:00,6.5,126.16,133.0,3.2,019 km S 30° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0212_2015_B2.html
+20190213T0419_9.87_124.01,2019-02-13T04:19:00+08:00,9.87,124.01,2.0,3.5,001 km N 10° E of Catigbian (Bohol),2019_Earthquake_Information/February/2019_0212_2019_B2.html
+20190213T0509_9.76_126.41,2019-02-13T05:09:00+08:00,9.76,126.41,8.0,2.5,028 km S 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0212_2109_B2.html
+20190213T0757_18.37_121.27,2019-02-13T07:57:00+08:00,18.37,121.27,27.0,2.7,012 km N 71° W of Luna (Apayao),2019_Earthquake_Information/February/2019_0212_2357_B2.html
+20190213T0828_9.69_126.22,2019-02-13T08:28:00+08:00,9.69,126.22,12.0,2.6,013 km S 36° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_0028_B2.html
+20190213T0952_9.81_126.23,2019-02-13T09:52:00+08:00,9.81,126.23,17.0,2.0,009 km N 73° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_0152_B3.html
+20190213T1311_15.7_121.73,2019-02-13T13:11:00+08:00,15.7,121.73,1.0,2.0,019 km S 72° E of Baler (Aurora),2019_Earthquake_Information/February/2019_0213_0511_B2.html
+20190213T1450_9.68_126.56,2019-02-13T14:50:00+08:00,9.68,126.56,13.0,4.9,046 km S 76° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_0650_B3F.html
+20190213T1610_9.56_126.35,2019-02-13T16:10:00+08:00,9.56,126.35,19.0,2.7,032 km S 41° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_0810_B2.html
+20190213T1636_9.66_126.43,2019-02-13T16:36:00+08:00,9.66,126.43,16.0,2.5,0 33 km S 64° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_0836_B2.html
+20190213T1659_9.78_126.61,2019-02-13T16:59:00+08:00,9.78,126.61,6.0,4.4,0 50 km S 90° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_0859_B3F.html
+20190213T1706_9.64_126.24,2019-02-13T17:06:00+08:00,9.64,126.24,29.0,2.0,019 km S 30° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_0906_B2.html
+20190213T1712_9.69_126.21,2019-02-13T17:12:00+08:00,9.69,126.21,33.0,2.0,01 2 km S 28° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_0912_B2.html
+20190213T1728_13.16_124.64,2019-02-13T17:28:00+08:00,13.16,124.64,21.0,1.9,050 km N 77° E of Prieto Diaz (Sorsogon),2019_Earthquake_Information/February/2019_0213_0928_B2.html
+20190213T1732_9.66_126.24,2019-02-13T17:32:00+08:00,9.66,126.24,21.0,1.7,01 7 km S 33° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_0932_B2.html
+20190213T1840_9.82_126.65,2019-02-13T18:40:00+08:00,9.82,126.65,4.0,2.6,054 km N 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_1040_B2.html
+20190213T1928_9.59_126.24,2019-02-13T19:28:00+08:00,9.59,126.24,21.0,1.9,023 km S 22° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_1128_B2.html
+20190213T1943_8.69_127.15,2019-02-13T19:43:00+08:00,8.69,127.15,2.0,3.0,097 km N 69° E of Hinatuan (Surigao Del Sur),2019_Earthquake_Information/February/2019_0213_1143_B2.html
+20190213T2033_9.68_126.54,2019-02-13T20:33:00+08:00,9.68,126.54,12.0,4.9,0 44 km S 75° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_1233_B3F.html
+20190213T2046_15.94_119.81,2019-02-13T20:46:00+08:00,15.94,119.81,25.0,1.8,0 09 km S 57° W of Dasol (Pangasinan),2019_Earthquake_Information/February/2019_0213_1246_B2.html
+20190213T2052_9.67_126.48,2019-02-13T20:52:00+08:00,9.67,126.48,4.0,2.3,038 km S 71° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_1252_B2.html
+20190213T2122_9.7_126.55,2019-02-13T21:22:00+08:00,9.7,126.55,17.0,2.3,0 44 km S 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_1322_B2.html
+20190213T2211_19.32_121.1,2019-02-13T22:11:00+08:00,19.32,121.1,33.0,2.2,038 km N 84° W of Calayan (Cagayan),2019_Earthquake_Information/February/2019_0213_1411_B2.html
+20190213T2230_14.73_124.03,2019-02-13T22:30:00+08:00,14.73,124.03,36.0,3.2,0 77 km N 11° W of Pandan (Catanduanes),2019_Earthquake_Information/February/2019_0213_1430_B2.html
+20190213T2343_19.27_121.18,2019-02-13T23:43:00+08:00,19.27,121.18,26.0,1.8,030 km S 87° W of Calayan (Cagayan),2019_Earthquake_Information/February/2019_0213_1543_B2.html
+20190213T2354_13.56_120.34,2019-02-13T23:54:00+08:00,13.56,120.34,82.0,2.8,0 21 km S 28° E of Looc (Occidental Mindoro),2019_Earthquake_Information/February/2019_0213_1554_B2.html
+20190214T0048_5.54_126.37,2019-02-14T00:48:00+08:00,5.54,126.37,1.0,3.4,0 91 km S 65° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/February/2019_0213_1648_B2.html
+20190214T0134_9.66_126.46,2019-02-14T01:34:00+08:00,9.66,126.46,5.0,3.5,0 36 km S 67° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_1734_B3F.html
+20190214T0215_9.58_126.46,2019-02-14T02:15:00+08:00,9.58,126.46,11.0,3.0,0 40 km S 56° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_1815_B2F.html
+20190214T0236_8.54_125.46,2019-02-14T02:36:00+08:00,8.54,125.46,48.0,2.0,026 km S 56° W of Esperanza (Agusan Del Sur),2019_Earthquake_Information/February/2019_0213_1836_B2.html
+20190214T0244_13.78_120.54,2019-02-14T02:44:00+08:00,13.78,120.54,28.0,2.2,0 32km N 79° E of Looc (Occidental Mindoro),2019_Earthquake_Information/February/2019_0213_1844_B2.html
+20190214T0312_9.97_123.27,2019-02-14T03:12:00+08:00,9.97,123.27,32.0,2.1,007 km S 29° E of La Libertad (Negros Oriental),2019_Earthquake_Information/February/2019_0213_1912_B2.html
+20190214T0433_19.18_121.18,2019-02-14T04:33:00+08:00,19.18,121.18,20.0,2.8,0 32 km S 70° W of Calayan (Cagayan),2019_Earthquake_Information/February/2019_0213_2033_B2.html
+20190214T0446_13.79_120.62,2019-02-14T04:46:00+08:00,13.79,120.62,25.0,1.8,0 05 km S 21° W of Calatagan (Batangas),2019_Earthquake_Information/February/2019_0213_2046_B2.html
+20190214T0517_13.78_120.18,2019-02-14T05:17:00+08:00,13.78,120.18,35.0,2.2,010 km N 48° W of Looc (Occidental Mindoro),2019_Earthquake_Information/February/2019_0213_2117_B2.html
+20190214T0544_5.68_126.49,2019-02-14T05:44:00+08:00,5.68,126.49,31.0,2.3,100 km S 77° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/February/2019_0213_2144_B2.html
+20190214T0550_9.8_126.69,2019-02-14T05:50:00+08:00,9.8,126.69,12.0,2.0,058 km N 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0213_2150_B2F.html
+20190214T0847_9.58_126.23,2019-02-14T08:47:00+08:00,9.58,126.23,20.0,2.1,024 km S 20° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_0047_B2F.html
+20190214T0852_9.67_126.22,2019-02-14T08:52:00+08:00,9.67,126.22,26.0,1.9,014 km S 30° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_0052_B2F.html
+20190214T0858_9.62_126.48,2019-02-14T08:58:00+08:00,9.62,126.48,20.0,3.0,0 39 km S 63° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_0058_B2F.html
+20190214T1037_7.15_123.82,2019-02-14T10:37:00+08:00,7.15,123.82,19.0,4.1,0 45 km S 84° W of Cotabato City (Maguindanao),2019_Earthquake_Information/February/2019_0214_0237_B3F.html
+20190214T1416_13.73_120.46,2019-02-14T14:16:00+08:00,13.73,120.46,47.0,2.4,0 23 km N 89° E of Looc (Occidental Mindoro),2019_Earthquake_Information/February/2019_0214_0616_B2.html
+20190214T1603_10.29_126.0,2019-02-14T16:03:00+08:00,10.29,126.0,18.0,2.8,0 30 km N 17° W of Santa Monica (Sapao) (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_0803_B2.html
+20190214T1659_9.63_126.42,2019-02-14T16:59:00+08:00,9.63,126.42,6.0,2.0,0 33 km S 59° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_0859_B2.html
+20190214T1846_9.74_126.57,2019-02-14T18:46:00+08:00,9.74,126.57,7.0,3.7,045 km S 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1046_B2.html
+20190214T1852_9.73_126.55,2019-02-14T18:52:00+08:00,9.73,126.55,7.0,2.6,0 43 km S 82° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1052_B2.html
+20190214T1856_9.66_126.46,2019-02-14T18:56:00+08:00,9.66,126.46,6.0,3.1,0 36 km S 68° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1056_B2.html
+20190214T1916_9.64_126.45,2019-02-14T19:16:00+08:00,9.64,126.45,10.0,2.9,0 35 km S 64° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1116_B2.html
+20190214T1957_9.85_126.48,2019-02-14T19:57:00+08:00,9.85,126.48,1.0,4.1,0 36 km N 77° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1157_B3.html
+20190214T2047_9.73_122.45,2019-02-14T20:47:00+08:00,9.73,122.45,15.0,2.6,0 06 km S 59° E of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0214_1247_B2.html
+20190214T2102_9.85_126.38,2019-02-14T21:02:00+08:00,9.85,126.38,15.0,2.6,0 26 km N 73° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1302_B2.html
+20190214T2111_9.69_126.46,2019-02-14T21:11:00+08:00,9.69,126.46,10.0,2.1,0 35 km S 73° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1311_B2.html
+20190214T2135_9.61_126.5,2019-02-14T21:35:00+08:00,9.61,126.5,9.0,3.1,0 43 km S 64° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1335_B2.html
+20190214T2143_15.76_120.46,2019-02-14T21:43:00+08:00,15.76,120.46,136.0,1.9,0 06 km S 11° W of Bautista (Pangasinan),2019_Earthquake_Information/February/2019_0214_1343_B2.html
+20190214T2201_9.73_126.9,2019-02-14T22:01:00+08:00,9.73,126.9,1.0,3.3,0 82 km S 86° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1401_B2.html
+20190214T2258_9.79_126.42,2019-02-14T22:58:00+08:00,9.79,126.42,3.0,2.5,029 km N 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1458_B3.html
+20190214T2300_9.02_125.76,2019-02-14T23:00:00+08:00,9.02,125.76,26.0,2.2,019 km S 79° E of Remedios Romualdez (Agusan Del Norte),2019_Earthquake_Information/February/2019_0214_1500_B2.html
+20190214T2304_9.73_126.2,2019-02-14T23:04:00+08:00,9.73,126.2,27.0,2.1,0 08 km S 36° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1504_B2.html
+20190214T2329_9.79_126.49,2019-02-14T23:29:00+08:00,9.79,126.49,9.0,1.9,0 36 km N 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1529_B2.html
+20190215T0012_16.53_119.71,2019-02-15T00:12:00+08:00,16.53,119.71,45.0,2.1,0 24 km N 52° W of Bolinao (Pangasinan),2019_Earthquake_Information/February/2019_0214_1612_B2.html
+20190215T0042_9.68_126.59,2019-02-15T00:42:00+08:00,9.68,126.59,12.0,3.6,0 49 km S 76° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1642_B3.html
+20190215T0057_9.65_126.52,2019-02-15T00:57:00+08:00,9.65,126.52,7.0,2.6,0 42 km S 70° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1657_B2.html
+20190215T0103_9.66_126.05,2019-02-15T01:03:00+08:00,9.66,126.05,8.0,2.3,018 km S 40° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1703_B2.html
+20190215T0116_14.14_124.11,2019-02-15T01:16:00+08:00,14.14,124.11,11.0,2.3,012 km N 32° W of Pandan (Catanduanes),2019_Earthquake_Information/February/2019_0214_1716_B2.html
+20190215T0218_9.64_126.52,2019-02-15T02:18:00+08:00,9.64,126.52,11.0,3.3,043 km S 69° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1818_B2.html
+20190215T0243_13.62_119.85,2019-02-15T02:43:00+08:00,13.62,119.85,42.0,2.3,0 39 km S 48° W of Lubang (Occidental Mindoro),2019_Earthquake_Information/February/2019_0214_1843_B2_Occidental_Mindoro.html
+20190215T0243_9.65_126.49,2019-02-15T02:43:00+08:00,9.65,126.49,10.0,3.9,040 km S 68° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1843_B2_Surigao_Del_Norte.html
+20190215T0245_9.65_126.39,2019-02-15T02:45:00+08:00,9.65,126.39,10.0,2.4,030 km S 60° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1845_B2.html
+20190215T0320_9.7_126.44,2019-02-15T03:20:00+08:00,9.7,126.44,16.0,2.5,033 km S 74° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_1920_B2.html
+20190215T0324_6.49_126.74,2019-02-15T03:24:00+08:00,6.49,126.74,30.0,3.1,076 km S 76° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0214_1924_B2.html
+20190215T0415_11.57_126.03,2019-02-15T04:15:00+08:00,11.57,126.03,5.0,3.8,0 52 km N 58° E of Hernani (Eastern Samar),2019_Earthquake_Information/February/2019_0214_2015_B3F.html
+20190215T0524_9.72_126.59,2019-02-15T05:24:00+08:00,9.72,126.59,10.0,4.2,0 49 km S 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_2124_B3F.html
+20190215T0604_9.73_126.65,2019-02-15T06:04:00+08:00,9.73,126.65,7.0,4.0,054 km S 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_2204_B2.html
+20190215T0652_9.66_126.31,2019-02-15T06:52:00+08:00,9.66,126.31,11.0,2.1,022 km S 53° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_2252_B3.html
+20190215T0726_9.65_126.49,2019-02-15T07:26:00+08:00,9.65,126.49,14.0,3.0,039 km S 68° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0214_2326_B2.html
+20190215T0727_13.12_120.52,2019-02-15T07:27:00+08:00,13.12,120.52,15.0,2.1,014 km S 31° W of Mamburao (Occidental Mindoro),2019_Earthquake_Information/February/2019_0214_2327_B2.html
+20190215T0838_9.81_126.43,2019-02-15T08:38:00+08:00,9.81,126.43,16.0,2.2,030 km N 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0215_0038_B2.html
+20190215T0854_9.63_126.33,2019-02-15T08:54:00+08:00,9.63,126.33,7.0,2.6,026 km S 47° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0215_0054_B2.html
+20190215T0937_9.62_126.53,2019-02-15T09:37:00+08:00,9.62,126.53,9.0,3.0,045 km S 66° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0215_0137_B2.html
+20190215T1025_13.4_124.35,2019-02-15T10:25:00+08:00,13.4,124.35,1.0,2.3,024 km S 33° E of Virac (Catanduanes),2019_Earthquake_Information/February/2019_0215_0225_B2.html
+20190215T1034_15.61_120.74,2019-02-15T10:34:00+08:00,15.61,120.74,186.0,2.5,006 km S 29° W of Guimba (Nueva Ecija),2019_Earthquake_Information/February/2019_0215_0234_B2.html
+20190215T1053_9.71_126.7,2019-02-15T10:53:00+08:00,9.71,126.7,7.0,2.3,0 60 km S 82° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0215_0253_B2.html
+20190215T1114_9.6_126.23,2019-02-15T11:14:00+08:00,9.6,126.23,12.0,1.8,022 km S 23° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0215_0314_B2.html
+20190215T1134_9.71_126.6,2019-02-15T11:34:00+08:00,9.71,126.6,12.0,1.9,0 49 km S 80° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0215_0334_B2.html
+20190215T1239_11.23_124.57,2019-02-15T12:39:00+08:00,11.23,124.57,1.0,3.2,010 km S 47° W of Capoocan (Leyte),2019_Earthquake_Information/February/2019_0215_0439_B3F.html
+20190215T1401_9.52_125.74,2019-02-15T14:01:00+08:00,9.52,125.74,23.0,2.1,0 06 km S 07° E of Claver (Surigao Del Norte),2019_Earthquake_Information/February/2019_0215_0601_B2.html
+20190215T1521_10.25_126.23,2019-02-15T15:21:00+08:00,10.25,126.23,17.0,2.1,031 km N 34° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/February/2019_0215_0721_B2.html
+20190215T1539_6.63_124.68,2019-02-15T15:39:00+08:00,6.63,124.68,20.0,2.1,006 km S 07° E of Tacurong City (Sultan Kudarat),2019_Earthquake_Information/February/2019_0215_0739_B2.html
+20190215T2300_9.58_126.4,2019-02-15T23:00:00+08:00,9.58,126.4,11.0,3.5,0 35 km S 49° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0215_1500_B2F.html
+20190215T2329_6.13_126.31,2019-02-15T23:29:00+08:00,6.13,126.31,66.0,3.5,0 63 km S 24° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0215_1529_B2.html
+20190215T2351_14.04_124.71,2019-02-15T23:51:00+08:00,14.04,124.71,55.0,3.0,0 45 km S 51° E of Gigmoto (Catanduanes),2019_Earthquake_Information/February/2019_0215_1551_B2.html
+20190216T0011_15.24_122.11,2019-02-16T00:11:00+08:00,15.24,122.11,14.0,2.2,0 48 km N 44° E of Panukulan (Quezon),2019_Earthquake_Information/February/2019_0215_1611_B2.html
+20190216T0020_6.65_126.93,2019-02-16T00:20:00+08:00,6.65,126.93,59.0,4.5,069 km S 50° E of Tarragona (Davao Oriental),2019_Earthquake_Information/February/2019_0215_1620_B2F.html
+20190216T0153_9.06_125.79,2019-02-16T01:53:00+08:00,9.06,125.79,2.0,2.4,028 km N 20° E of Sibagat (Agusan del Sur),2019_Earthquake_Information/February/2019_0215_1753_B2.html
+20190216T0218_9.96_126.25,2019-02-16T02:18:00+08:00,9.96,126.25,11.0,3.3,0 22 km N 28° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0215_1818_B2F.html
+20190216T0338_16.54_120.61,2019-02-16T03:38:00+08:00,16.54,120.61,109.0,2.6,0 09 km N 16° W of Tublay (Benguet),2019_Earthquake_Information/February/2019_0215_1938_B2.html
+20190216T0408_9.62_126.28,2019-02-16T04:08:00+08:00,9.62,126.28,13.0,2.5,0 22 km S 36° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0215_2008_B2F.html
+20190216T0717_9.6_126.38,2019-02-16T07:17:00+08:00,9.6,126.38,13.0,2.6,0 32 km S 49° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0215_2317_B2F.html
+20190216T0724_9.59_126.31,2019-02-16T07:24:00+08:00,9.59,126.31,20.0,2.5,0 27 km S 39° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0215_2324_B2F.html
+20190216T0731_13.33_120.76,2019-02-16T07:31:00+08:00,13.33,120.76,51.0,2.3,021 km N 58° E of Mamburao (Occidental Mindoro),2019_Earthquake_Information/February/2019_0215_2331_B2.html
+20190216T0734_13.25_120.66,2019-02-16T07:34:00+08:00,13.25,120.66,16.0,2.2,007 km N 67° E of Mamburao (Occidental Mindoro),2019_Earthquake_Information/February/2019_0215_2334_B2.html
+20190216T0926_17.16_120.08,2019-02-16T09:26:00+08:00,17.16,120.08,33.0,3.0,039 km S 84° W of Candon City (Ilocos Sur),2019_Earthquake_Information/February/2019_0216_0126_B2.html
+20190216T0948_13.61_121.3,2019-02-16T09:48:00+08:00,13.61,121.3,1.0,3.0,0 10 km S 66° E of Lobo (Batangas),2019_Earthquake_Information/February/2019_0216_0148_B2.html
+20190216T0957_9.62_126.25,2019-02-16T09:57:00+08:00,9.62,126.25,26.0,2.1,0 20 km S 31° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0216_0157_B2F.html
+20190216T1001_7.65_126.41,2019-02-16T10:01:00+08:00,7.65,126.41,20.0,2.5,016 km S 16° W of Cateel (Davao Oriental),2019_Earthquake_Information/February/2019_0216_0201_B2.html
+20190216T1021_10.85_125.9,2019-02-16T10:21:00+08:00,10.85,125.9,32.0,2.6,028 km S 44° E of Guiuan (Eastern Samar),2019_Earthquake_Information/February/2019_0216_0221_B2.html
+20190216T1247_6.05_126.42,2019-02-16T12:47:00+08:00,6.05,126.42,65.0,2.1,0 77 km S 30° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0216_0447_B2.html
+20190216T1308_9.47_126.38,2019-02-16T13:08:00+08:00,9.47,126.38,18.0,3.7,0 30 km N 44° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/February/2019_0216_0508_B2.html
+20190216T1448_9.75_126.48,2019-02-16T14:48:00+08:00,9.75,126.48,7.0,3.4,035 km S 84° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0216_0648_B2F.html
+20190216T1512_11.26_124.61,2019-02-16T15:12:00+08:00,11.26,124.61,3.0,3.7,005 km S 48° W of Capoocan (Leyte),2019_Earthquake_Information/February/2019_0216_0712_B3F.html
+20190216T1555_9.69_126.2,2019-02-16T15:55:00+08:00,9.69,126.2,25.0,1.8,011 km S 25° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0216_0755_B2F.html
+20190216T1632_10.62_122.25,2019-02-16T16:32:00+08:00,10.62,122.25,23.0,2.8,003 km S 29° E of Miagao (Iloilo),2019_Earthquake_Information/February/2019_0216_0832_B2.html
+20190216T1634_10.67_122.32,2019-02-16T16:34:00+08:00,10.67,122.32,10.0,2.4,001 km N 22° W of Guimbal (Iloilo),2019_Earthquake_Information/February/2019_0216_0834_B2.html
+20190216T1700_9.73_126.49,2019-02-16T17:00:00+08:00,9.73,126.49,14.0,2.4,037 km S 82° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0216_0900_B2F.html
+20190216T1843_9.77_126.49,2019-02-16T18:43:00+08:00,9.77,126.49,8.0,2.4,037 km S 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0216_1043_B2F.html
+20190216T1940_9.67_126.2,2019-02-16T19:40:00+08:00,9.67,126.2,34.0,1.9,013 km S 20° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0216_1140_B2F.html
+20190216T2127_9.59_126.29,2019-02-16T21:27:00+08:00,9.59,126.29,25.0,2.0,026 km S 36° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0216_1327_B2.html
+20190216T2221_13.58_121.33,2019-02-16T22:21:00+08:00,13.58,121.33,13.0,2.0,015 km S 59° E of Lobo (Batangas),2019_Earthquake_Information/February/2019_0216_1421_B2.html
+20190216T2301_9.43_122.5,2019-02-16T23:01:00+08:00,9.43,122.5,7.0,3.3,014 km S 03° E of Hinoba-an (Negros Occidental),2019_Earthquake_Information/February/2019_0216_1501_B2.html
+20190216T2319_9.39_122.45,2019-02-16T23:19:00+08:00,9.39,122.45,6.0,2.8,0 20 km S 16° W of Hinoba-an (Negros Occidental),2019_Earthquake_Information/February/2019_0216_1519_B2.html
+20190216T2321_9.34_122.41,2019-02-16T23:21:00+08:00,9.34,122.41,9.0,2.3,0 26 km S 23° W of Hinoba-an (Negros Occidental),2019_Earthquake_Information/February/2019_0216_1521_B2.html
+20190217T0107_17.67_120.0,2019-02-17T01:07:00+08:00,17.67,120.0,6.0,3.1,039 km N 77° W of San Vicente (Ilocos Sur),2019_Earthquake_Information/February/2019_0216_1707_B2F.html
+20190217T0207_7.95_122.92,2019-02-17T02:07:00+08:00,7.95,122.92,22.0,2.3,014 km N 44° W of Bayog (Zamboanga Del Sur),2019_Earthquake_Information/February/2019_0216_1807_B2.html
+20190217T0325_16.46_119.05,2019-02-17T03:25:00+08:00,16.46,119.05,21.0,3.2,089 km N 65° W of Agno (Pangasinan),2019_Earthquake_Information/February/2019_0216_1925_B2.html
+20190217T0510_13.43_119.73,2019-02-17T05:10:00+08:00,13.43,119.73,21.0,2.5,0 65 km S 61° W of Looc (Occidental Mindoro),2019_Earthquake_Information/February/2019_0216_2110_B2.html
+20190217T0518_5.76_126.87,2019-02-17T05:18:00+08:00,5.76,126.87,46.0,2.7,132 km S 41° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0216_2118_B2.html
+20190217T0557_6.25_126.9,2019-02-17T05:57:00+08:00,6.25,126.9,44.0,2.2,101 km S 64° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0216_2157_B2.html
+20190217T0621_14.21_124.18,2019-02-17T06:21:00+08:00,14.21,124.18,17.0,1.9,018 km N 03° E of Pandan (Catanduanes),2019_Earthquake_Information/February/2019_0216_2221_B2.html
+20190217T0816_9.82_125.38,2019-02-17T08:16:00+08:00,9.82,125.38,16.0,3.3,012 km N 78° W of Surigao City (Surigao Del Norte),2019_Earthquake_Information/February/2019_0217_0016_B2.html
+20190217T1042_9.73_126.26,2019-02-17T10:42:00+08:00,9.73,126.26,13.0,1.9,0 13 km S 62° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0217_0242_B2.html
+20190217T1233_8.27_126.52,2019-02-17T12:33:00+08:00,8.27,126.52,120.0,2.1,0 28 km N 26° E of Lingig (Surigao Del Sur),2019_Earthquake_Information/February/2019_0217_0433_B2.html
+20190217T1322_9.64_126.58,2019-02-17T13:22:00+08:00,9.64,126.58,11.0,4.1,0 4 9 km S 72° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0217_0522_B3.html
+20190217T1345_12.86_121.4,2019-02-17T13:45:00+08:00,12.86,121.4,24.0,2.6,00 6 km N 85° W of Bansud (Oriental Mindoro),2019_Earthquake_Information/February/2019_0217_0545_B2.html
+20190217T1951_5.76_126.45,2019-02-17T19:51:00+08:00,5.76,126.45,61.0,2.6,093 km S 81° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/February/2019_0217_1151_B2.html
+20190217T2021_7.55_126.61,2019-02-17T20:21:00+08:00,7.55,126.61,20.0,2.8,0 11 km N 19° E of Baculin (Davao Oriental),2019_Earthquake_Information/February/2019_0217_1221_B2.html
+20190217T2100_16.6_122.54,2019-02-17T21:00:00+08:00,16.6,122.54,2.0,3.0,031 km N 76° E of Dinapigue (Isabela),2019_Earthquake_Information/February/2019_0217_1300_B2.html
+20190218T0031_14.31_120.17,2019-02-18T00:31:00+08:00,14.31,120.17,81.0,3.2,037 km S 65° W of Mariveles (Bataan),2019_Earthquake_Information/February/2019_0217_1631_B2.html
+20190218T0238_16.13_121.87,2019-02-18T02:38:00+08:00,16.13,121.87,24.0,2.9,0 09 km S 85° W of Dinalungan (Aurora),2019_Earthquake_Information/February/2019_0217_1838_B2.html
+20190218T0351_9.66_126.41,2019-02-18T03:51:00+08:00,9.66,126.41,9.0,2.2,031 km S 64° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0217_1951_B2.html
+20190218T0436_20.55_122.09,2019-02-18T04:36:00+08:00,20.55,122.09,155.0,4.7,016 km N 50° E of Basco (Batanes),2019_Earthquake_Information/February/2019_0217_2036_B2.html
+20190218T1215_8.8_126.35,2019-02-18T12:15:00+08:00,8.8,126.35,23.0,2.3,0 06 km N 80° E of Marihatag (Surigao Del Sur),2019_Earthquake_Information/February/2019_0218_0415_B2.html
+20190218T1402_9.69_126.22,2019-02-18T14:02:00+08:00,9.69,126.22,16.0,2.3,0 12 km S 32° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0218_0602_B2.html
+20190218T1446_18.37_120.61,2019-02-18T14:46:00+08:00,18.37,120.61,44.0,2.4,012 km S 37° E of Pasuquin (Ilocos Norte),2019_Earthquake_Information/February/2019_0218_0646_B2.html
+20190218T1922_9.76_126.18,2019-02-18T19:22:00+08:00,9.76,126.18,26.0,2.0,0 03 km S 37° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0218_1122_B2.html
+20190218T2112_9.77_122.68,2019-02-18T21:12:00+08:00,9.77,122.68,21.0,2.6,0 11 km S 62° E of Candoni (Negros Occidental),2019_Earthquake_Information/February/2019_0218_1312_B2.html
+20190218T2235_18.81_121.89,2019-02-18T22:35:00+08:00,18.81,121.89,23.0,1.7,0 48 km N 33° W of Santa Ana (Cagayan),2019_Earthquake_Information/February/2019_0218_1435_B2.html
+20190218T2246_11.3_124.57,2019-02-18T22:46:00+08:00,11.3,124.57,7.0,3.5,007 km N 84° W of Capoocan (Leyte),2019_Earthquake_Information/February/2019_0218_1446_B3F.html
+20190218T2324_12.96_122.92,2019-02-18T23:24:00+08:00,12.96,122.92,8.0,2.3,020 km S 17° W of San Pascual (Masbate),2019_Earthquake_Information/February/2019_0218_1524_B2.html
+20190218T2330_15.59_121.7,2019-02-18T23:30:00+08:00,15.59,121.7,12.0,2.1,023 km S 38° E of Baler (Aurora),2019_Earthquake_Information/February/2019_0218_1530_B2.html
+20190218T2354_9.75_121.89,2019-02-18T23:54:00+08:00,9.75,121.89,7.0,2.9,0 57 km S 89° W of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0218_1554_B2.html
+20190219T0000_10.57_125.63,2019-02-19T00:00:00+08:00,10.57,125.63,82.0,3.6,024 km N 14° E of Loreto (Dinagat),2019_Earthquake_Information/February/2019_0218_1600_B2.html
+20190219T0018_9.6_126.14,2019-02-19T00:18:00+08:00,9.6,126.14,27.0,1.7,0 20 km S 04° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0218_1618_B2F.html
+20190219T0025_10.22_125.25,2019-02-19T00:25:00+08:00,10.22,125.25,30.0,2.0,0 20 km S 16° W of Hinunangan (Southern Leyte),2019_Earthquake_Information/February/2019_0218_1625_B2.html
+20190219T0101_10.41_125.17,2019-02-19T01:01:00+08:00,10.41,125.17,1.0,2.1,003 km N 50° W of Hinunangan (Southern Leyte),2019_Earthquake_Information/February/2019_0218_1701_B2.html
+20190219T0125_9.82_121.8,2019-02-19T01:25:00+08:00,9.82,121.8,2.0,3.0,067 km N 84° W of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0218_1725_B2.html
+20190219T0137_9.8_121.77,2019-02-19T01:37:00+08:00,9.8,121.77,9.0,2.8,0 70 km N 86° W of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0218_1737_B2.html
+20190219T0143_5.51_125.33,2019-02-19T01:43:00+08:00,5.51,125.33,22.0,3.1,0 18 km N 62° W of Sarangani(Davao Occidental),2019_Earthquake_Information/February/2019_0218_1743_B2.html
+20190219T0149_9.85_121.84,2019-02-19T01:49:00+08:00,9.85,121.84,3.0,2.8,064 km N 82° W of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0218_1749_B2.html
+20190219T0157_10.17_125.33,2019-02-19T01:57:00+08:00,10.17,125.33,32.0,1.8,014 km S 32° E of Anahawan (Southern Leyte),2019_Earthquake_Information/February/2019_0218_1757_B2.html
+20190219T0305_13.08_124.49,2019-02-19T03:05:00+08:00,13.08,124.49,9.0,2.2,033 km N 84° E of Prieto Diaz (Sorsogon),2019_Earthquake_Information/February/2019_0218_1905_B2.html
+20190219T0310_8.81_126.23,2019-02-19T03:10:00+08:00,8.81,126.23,72.0,3.7,008 km N 85° W of Marihatag (Surigao Del Sur),2019_Earthquake_Information/February/2019_0218_1910_B2.html
+20190219T0423_9.84_121.83,2019-02-19T04:23:00+08:00,9.84,121.83,28.0,3.8,0 64 km N 83° W of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0218_2023_B2.html
+20190219T0427_10.01_121.97,2019-02-19T04:27:00+08:00,10.01,121.97,3.0,3.1,0 55 km N 60° W of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0218_2027_B2.html
+20190219T0446_9.85_121.81,2019-02-19T04:46:00+08:00,9.85,121.81,8.0,3.7,0 67 km N 82° W of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0218_2046_B2.html
+20190219T0515_14.8_120.12,2019-02-19T05:15:00+08:00,14.8,120.12,1.0,2.8,0 17 km S 12° E of San Antonio (Zambales),2019_Earthquake_Information/February/2019_0218_2115_B2.html
+20190219T0518_6.01_126.08,2019-02-19T05:18:00+08:00,6.01,126.08,123.0,2.5,0 47 km S 64° E of Don Marcelino (Davao Occidental),2019_Earthquake_Information/February/2019_0218_2118_B2.html
+20190219T0823_17.51_121.59,2019-02-19T08:23:00+08:00,17.51,121.59,33.0,1.9,0 08 km N 10° W of Rizal (Kalinga),2019_Earthquake_Information/February/2019_0219_0023_B2.html
+20190219T0839_11.79_125.32,2019-02-19T08:39:00+08:00,11.79,125.32,13.0,3.0,0 23 km N 31° W of Borongan (Eastern Samar),2019_Earthquake_Information/February/2019_0219_0039_B2F.html
+20190219T1134_12.9_120.84,2019-02-19T11:34:00+08:00,12.9,120.84,1.0,2.8,011 km N 45° E of Sablayan (Occidental Mindoro),2019_Earthquake_Information/February/2019_0219_0334_B2.html
+20190219T1315_9.83_121.8,2019-02-19T13:15:00+08:00,9.83,121.8,5.0,4.0,0 68 km N 83° W of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0219_0515_B2.html
+20190219T1342_9.84_121.81,2019-02-19T13:42:00+08:00,9.84,121.81,2.0,3.0,066 km N 82° W of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0219_0542_B1.html
+20190219T1458_12.85_121.08,2019-02-19T14:58:00+08:00,12.85,121.08,24.0,1.8,034 km N 26° E of Calintaan (Occidental Mindoro),2019_Earthquake_Information/February/2019_0219_0658_B1.html
+20190219T1617_9.58_126.3,2019-02-19T16:17:00+08:00,9.58,126.3,15.0,1.8,028 km S 37° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0219_0817_B1.html
+20190219T1637_12.41_124.96,2019-02-19T16:37:00+08:00,12.41,124.96,50.0,2.4,010 km S 88° W of Catubig (Northern Samar),2019_Earthquake_Information/February/2019_0219_0837_B2.html
+20190219T1838_9.01_122.14,2019-02-19T18:38:00+08:00,9.01,122.14,59.0,2.5,071 km S 51° W of Basay (Negros Oriental),2019_Earthquake_Information/February/2019_0219_1038_B2.html
+20190219T1853_9.72_122.08,2019-02-19T18:53:00+08:00,9.72,122.08,6.0,2.4,037 km S 83° W of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0219_1053_B2.html
+20190219T2035_9.76_126.39,2019-02-19T20:35:00+08:00,9.76,126.39,13.0,2.6,026 km S 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0219_1235_B3.html
+20190219T2051_3.87_127.91,2019-02-19T20:51:00+08:00,3.87,127.91,47.0,4.6,321 km S 57° E of Sarangani (Davao Occidental),2019_Earthquake_Information/February/2019_0219_1251_B2.html
+20190219T2056_3.38_128.6,2019-02-19T20:56:00+08:00,3.38,128.6,40.0,4.9,415 km S 57° E of Sarangani (Davao Occidental),2019_Earthquake_Information/February/2019_0219_1256_B2.html
+20190219T2128_7.33_126.17,2019-02-19T21:28:00+08:00,7.33,126.17,1.0,3.6,009 km N 41° E of Maragusan (San Mariano) (Compostela Valley),2019_Earthquake_Information/February/2019_0219_1328_B2F.html
+20190219T2133_9.74_126.31,2019-02-19T21:33:00+08:00,9.74,126.31,14.0,2.0,016 km S 69° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0219_1333_B2.html
+20190219T2309_14.98_119.75,2019-02-19T23:09:00+08:00,14.98,119.75,10.0,2.1,0 36 km S 76° E of San Felipe (Zambales),2019_Earthquake_Information/February/2019_0219_1509_B2.html
+20190220T0214_7.22_126.74,2019-02-20T02:14:00+08:00,7.22,126.74,25.0,4.0,0 23 km N 88° E of Manay (Davao Oriental),2019_Earthquake_Information/February/2019_0219_1814_B2.html
+20190220T0520_13.5_120.6,2019-02-20T05:20:00+08:00,13.5,120.6,4.0,1.8,014 km N 64° W of Abra de Ilog (Occidental Mindoro),2019_Earthquake_Information/February/2019_0219_2120_B2.html
+20190220T0648_14.64_119.89,2019-02-20T06:48:00+08:00,14.64,119.89,33.0,2.0,041 km S 83° W of Morong (Bataan),2019_Earthquake_Information/February/2019_0219_2248_B2.html
+20190220T0704_13.46_119.82,2019-02-20T07:04:00+08:00,13.46,119.82,32.0,2.0,0 54 km S 58° W of Looc(Occidental Mindoro),2019_Earthquake_Information/February/2019_0219_2304_B2.html
+20190220T0711_13.82_120.07,2019-02-20T07:11:00+08:00,13.82,120.07,5.0,2.2,006 km S 61° W of Lubang (Occidental Mindoro),2019_Earthquake_Information/February/2019_0219_2311_B2.html
+20190220T0752_8.67_125.61,2019-02-20T07:52:00+08:00,8.67,125.61,55.0,2.0,00 4 km S 76° W of Esperanza (Agusan Del Sur),2019_Earthquake_Information/February/2019_0219_2352_B2.html
+20190220T1135_9.61_126.25,2019-02-20T11:35:00+08:00,9.61,126.25,24.0,2.0,021 km S 29° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0220_0335_B2.html
+20190220T1207_9.43_126.36,2019-02-20T12:07:00+08:00,9.43,126.36,15.0,3.1,0 25 km N 48° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/February/2019_0220_0407_B2.html
+20190220T1455_17.7_121.35,2019-02-20T14:55:00+08:00,17.7,121.35,5.0,3.2,0 10 km S 38° E of Tuao (Cagayan),2019_Earthquake_Information/February/2019_0220_0655_B3F.html
+20190220T1506_9.87_126.61,2019-02-20T15:06:00+08:00,9.87,126.61,1.0,2.8,051 km N 78° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0220_0706_B2.html
+20190220T1509_17.65_121.44,2019-02-20T15:09:00+08:00,17.65,121.44,9.0,3.8,0 10 km N 31° E of Pinukpuk (Kalinga),2019_Earthquake_Information/February/2019_0220_0709_B3F.html
+20190220T1557_9.71_126.31,2019-02-20T15:57:00+08:00,9.71,126.31,31.0,2.1,0 19 km S 64° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0220_0757_B2.html
+20190220T1742_14.96_123.16,2019-02-20T17:42:00+08:00,14.96,123.16,25.0,3.0,085 km N 28° E of Paracale (Camarines Norte),2019_Earthquake_Information/February/2019_0220_0942_B2.html
+20190220T1915_17.1_122.37,2019-02-20T19:15:00+08:00,17.1,122.37,5.0,2.0,009 km N 58° W of Palanan (Isabela),2019_Earthquake_Information/February/2019_0220_1115_B2.html
+20190220T1926_5.62_126.06,2019-02-20T19:26:00+08:00,5.62,126.06,66.0,3.0,0 58 km S 59° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/February/2019_0220_1126_B2.html
+20190220T2037_14.23_124.1,2019-02-20T20:37:00+08:00,14.23,124.1,6.0,2.0,022 km N 21° W of Pandan (Catanduanes),2019_Earthquake_Information/February/2019_0220_1237_B2.html
+20190220T2122_11.1_126.44,2019-02-20T21:22:00+08:00,11.1,126.44,20.0,3.2,0 79 km N 85° E of Guiuan (Eastern Samar),2019_Earthquake_Information/February/2019_0220_1322_B2.html
+20190220T2129_9.79_126.3,2019-02-20T21:29:00+08:00,9.79,126.3,11.0,2.8,0 16 km N 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0220_1329_B2.html
+20190220T2208_9.37_122.78,2019-02-20T22:08:00+08:00,9.37,122.78,16.0,2.1,002 km S 67° W of Bayawan (Tulong) (Negros Oriental),2019_Earthquake_Information/February/2019_0220_1408_B2.html
+20190220T2218_6.12_126.68,2019-02-20T22:18:00+08:00,6.12,126.68,56.0,3.1,0 89 km S 49° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0220_1418_B2.html
+20190220T2337_16.43_119.91,2019-02-20T23:37:00+08:00,16.43,119.91,28.0,1.8,005 km N 21° E of Bolinao (Pangasinan),2019_Earthquake_Information/February/2019_0220_1537_B2.html
+20190221T0150_13.57_120.22,2019-02-21T01:50:00+08:00,13.57,120.22,25.0,2.2,017 km S 10° W of Looc (Occidental Mindoro),2019_Earthquake_Information/February/2019_0220_1750_B2.html
+20190221T0208_16.35_119.75,2019-02-21T02:08:00+08:00,16.35,119.75,33.0,1.8,015 km S 72° W of Bolinao (Pangasinan),2019_Earthquake_Information/February/2019_0220_1808_B2.html
+20190221T0230_15.01_120.05,2019-02-21T02:30:00+08:00,15.01,120.05,32.0,1.9,0 03 km S 82° W of San Narciso (Zambales),2019_Earthquake_Information/February/2019_0220_1830_B2.html
+20190221T0259_9.72_122.46,2019-02-21T02:59:00+08:00,9.72,122.46,28.0,2.1,007 km S 54° E of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0220_1859_B2.html
+20190221T0324_17.53_120.32,2019-02-21T03:24:00+08:00,17.53,120.32,24.0,2.5,007 km S 73° W of Caoayan (Ilocos Sur),2019_Earthquake_Information/February/2019_0220_1924_B2.html
+20190221T0331_5.87_126.9,2019-02-21T03:31:00+08:00,5.87,126.9,31.0,3.1,1 25 km S 46° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0220_1931_B2.html
+20190221T0407_12.71_120.77,2019-02-21T04:07:00+08:00,12.71,120.77,21.0,1.8,0 13 km S 02° E of Sablayan (Occidental Mindoro),2019_Earthquake_Information/February/2019_0220_2007_B2.html
+20190221T0408_12.92_120.9,2019-02-21T04:08:00+08:00,12.92,120.9,5.0,2.5,0 17 km N 58° E of Sablayan (Occidental Mindoro),2019_Earthquake_Information/February/2019_0220_2008_B2.html
+20190221T0417_9.48_122.47,2019-02-21T04:17:00+08:00,9.48,122.47,39.0,2.3,009 km S 23° E of Hinoba-an (Negros Occidental),2019_Earthquake_Information/February/2019_0220_2017_B2.html
+20190221T0437_19.472_121.28,2019-02-21T04:37:00+08:00,19.472,121.28,10.0,2.0,0 53 km N 22° W of Itbayat (Batanes),2019_Earthquake_Information/February/2019_0220_2038_B2.html
+20190221T1103_8.34_126.53,2019-02-21T11:03:00+08:00,8.34,126.53,25.0,2.5,022 km S 83° E of Hinatuan (Surigao Del Sur),2019_Earthquake_Information/February/2019_0221_0303_B2.html
+20190221T1337_10.89_126.09,2019-02-21T13:37:00+08:00,10.89,126.09,1.0,2.9,04 4 km S 70° E of Guiuan (Eastern Samar),2019_Earthquake_Information/February/2019_0221_0537_B2.html
+20190221T1933_9.65_126.24,2019-02-21T19:33:00+08:00,9.65,126.24,32.0,2.1,017 km S 31° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0221_1133_B2.html
+20190221T2229_15.25_119.04,2019-02-21T22:29:00+08:00,15.25,119.04,37.0,2.0,096 km S 78° W of Palauig (Zambales),2019_Earthquake_Information/February/2019_0221_1429_B2.html
+20190221T2234_19.2_120.2,2019-02-21T22:34:00+08:00,19.2,120.2,3.0,2.4,089 km N 32° W of Burgos (Ilocos Norte),2019_Earthquake_Information/February/2019_0221_1434_B2.html
+20190221T2249_19.37_120.1,2019-02-21T22:49:00+08:00,19.37,120.1,46.0,2.2,111 km N 31° W of Burgos (Ilocos Norte),2019_Earthquake_Information/February/2019_0221_1449_B2.html
+20190221T2344_19.21_120.2,2019-02-21T23:44:00+08:00,19.21,120.2,23.0,2.8,089 km N 31° W of Burgos (Ilocos Norte),2019_Earthquake_Information/February/2019_0221_1544_B2.html
+20190221T2352_19.11_120.15,2019-02-21T23:52:00+08:00,19.11,120.15,3.0,2.6,083 km N 38° W of Burgos (Ilocos Norte),2019_Earthquake_Information/February/2019_0221_1552_B2.html
+20190222T0004_9.46_126.65,2019-02-22T00:04:00+08:00,9.46,126.65,49.0,2.0,0 54 km N 69° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/February/2019_0221_1604_B2.html
+20190222T0013_19.24_120.06,2019-02-22T00:13:00+08:00,19.24,120.06,55.0,2.4,1 01 km N 38° W of Burgos (Ilocos Norte),2019_Earthquake_Information/February/2019_0221_1613_B2.html
+20190222T0113_9.96_124.22,2019-02-22T01:13:00+08:00,9.96,124.22,22.0,1.9,001 km N 12° E of Danao (Bohol),2019_Earthquake_Information/February/2019_0221_1713_B2.html
+20190222T0207_8.28_125.86,2019-02-22T02:07:00+08:00,8.28,125.86,9.0,2.5,006 km S 55° E of La Paz (Agusan Del Sur),2019_Earthquake_Information/February/2019_0221_1807_B2.html
+20190222T0321_21.01_120.1,2019-02-22T03:21:00+08:00,21.01,120.1,15.0,2.7,1 83 km N 83° W of Itbayat (Batanes),2019_Earthquake_Information/February/2019_0221_1921_B2.html
+20190222T0323_14.03_123.88,2019-02-22T03:23:00+08:00,14.03,123.88,23.0,2.2,025 km N 53° E of Garchitorena (Camarines Sur),2019_Earthquake_Information/February/2019_0221_1923_B2.html
+20190222T0330_6.3_125.25,2019-02-22T03:30:00+08:00,6.3,125.25,13.0,3.0,023 km N 25° E of General Santos City (South Cotabato),2019_Earthquake_Information/February/2019_0221_1930_B2.html
+20190222T0451_13.11_124.17,2019-02-22T04:51:00+08:00,13.11,124.17,22.0,1.8,009 km S 27° E of Rapu-rapu (Albay),2019_Earthquake_Information/February/2019_0221_2051_B2.html
+20190222T0500_6.14_126.32,2019-02-22T05:00:00+08:00,6.14,126.32,27.0,3.0,062 km S 26° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0221_2100_B2.html
+20190222T0506_7.65_126.57,2019-02-22T05:06:00+08:00,7.65,126.57,28.0,1.8,008 km N 09° E of Baganga (Davao Oriental),2019_Earthquake_Information/February/2019_0221_2106_B1.html
+20190222T0518_6.89_126.74,2019-02-22T05:18:00+08:00,6.89,126.74,16.0,2.3,03 7 km S 62° E of Tarragona (Davao Oriental),2019_Earthquake_Information/February/2019_0221_2118_B2.html
+20190222T0607_15.06_120.19,2019-02-22T06:07:00+08:00,15.06,120.19,77.0,1.6,013 km N 69° E of San Narciso (Zambales),2019_Earthquake_Information/February/2019_0221_2207_B2.html
+20190222T0722_9.4_126.33,2019-02-22T07:22:00+08:00,9.4,126.33,27.0,1.7,02 0 km N 48° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/February/2019_0221_2322_B2.html
+20190222T0829_5.76_125.82,2019-02-22T08:29:00+08:00,5.76,125.82,95.0,3.0,026 km S 60° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/February/2019_0222_0029_B2.html
+20190222T0859_8.4_126.67,2019-02-22T08:59:00+08:00,8.4,126.67,29.0,2.3,037 km N 85° E of Hinatuan (Surigao Del Sur),2019_Earthquake_Information/February/2019_0222_0059_B2.html
+20190222T0932_11.4_124.15,2019-02-22T09:32:00+08:00,11.4,124.15,33.0,2.7,022 km S 88° W of San Isidro (Leyte),2019_Earthquake_Information/February/2019_0222_0132_B2.html
+20190222T1426_15.34_119.8,2019-02-22T14:26:00+08:00,15.34,119.8,33.0,1.8,0 16 km S 47° W of Palauig (Zambales),2019_Earthquake_Information/February/2019_0222_0626_B2.html
+20190222T1548_6.75_125.64,2019-02-22T15:48:00+08:00,6.75,125.64,26.0,3.2,028 km N 43° E of Santa Cruz (Davao Del Sur),2019_Earthquake_Information/February/2019_0222_0748_B2F.html
+20190222T1920_18.13_120.48,2019-02-22T19:20:00+08:00,18.13,120.48,37.0,2.0,0 08 km N 30° W of Paoay (Ilocos Norte),2019_Earthquake_Information/February/2019_0222_1120_B2.html
+20190222T2130_10.21_124.86,2019-02-22T21:30:00+08:00,10.21,124.86,20.0,2.3,00 9 km N 17° E of Maasin (Southern Leyte),2019_Earthquake_Information/February/2019_0222_1330_B2.html
+20190222T2225_10.26_125.27,2019-02-22T22:25:00+08:00,10.26,125.27,37.0,2.0,00 2 km S 35° E of Anahawan (Southern Leyte),2019_Earthquake_Information/February/2019_0222_1425_B2.html
+20190222T2334_8.24_126.78,2019-02-22T23:34:00+08:00,8.24,126.78,15.0,2.4,0 47 km N 61° E of Lingig (Surigao Del Sur),2019_Earthquake_Information/February/2019_0222_1534_B2.html
+20190222T2339_13.94_123.94,2019-02-22T23:39:00+08:00,13.94,123.94,34.0,2.2,0 20 km N 01° W of Caramoan (Camarines Sur),2019_Earthquake_Information/February/2019_0222_1539_B2.html
+20190223T0038_15.24_120.04,2019-02-23T00:38:00+08:00,15.24,120.04,15.0,2.0,0 06 km S 22° W of Botolan (Zambales),2019_Earthquake_Information/February/2019_0222_1638_B2.html
+20190223T0117_16.68_119.8,2019-02-23T01:17:00+08:00,16.68,119.8,27.0,2.9,03 3 km N 16° W of Bolinao (Pangasinan),2019_Earthquake_Information/February/2019_0222_1717_B2.html
+20190223T0148_5.7_125.84,2019-02-23T01:48:00+08:00,5.7,125.84,114.0,3.5,0 32 km S 50° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/February/2019_0222_1748_B2.html
+20190223T0248_13.04_124.59,2019-02-23T02:48:00+08:00,13.04,124.59,19.0,2.7,0 44 km S 88° E of Prieto Diaz (Sorsogon),2019_Earthquake_Information/February/2019_0222_1848_B2.html
+20190223T0421_6.56_126.08,2019-02-23T04:21:00+08:00,6.56,126.08,40.0,2.6,0 10 km S 01° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0222_2021_B2.html
+20190223T0438_17.27_120.3,2019-02-23T04:38:00+08:00,17.27,120.3,4.0,2.7,0 16 km S 80° W of Santiago (Ilocos Sur),2019_Earthquake_Information/February/2019_0222_2038_B2.html
+20190223T0854_7.05_127.43,2019-02-23T08:54:00+08:00,7.05,127.43,37.0,3.4,100 km S 72° E of Caraga (Davao Oriental),2019_Earthquake_Information/February/2019_0223_0054_B2.html
+20190223T0936_19.92_121.64,2019-02-23T09:36:00+08:00,19.92,121.64,30.0,2.1,052 km S 28° W of Sabtang (Batanes),2019_Earthquake_Information/February/2019_0223_0136_B2.html
+20190223T1013_8.32_123.35,2019-02-23T10:13:00+08:00,8.32,123.35,30.0,2.8,00 8 km N 68° E of Sergio Osmeña Sr. (Zamboanga Del Norte),2019_Earthquake_Information/February/2019_0223_0213_B2.html
+20190223T1021_9.71_122.12,2019-02-23T10:21:00+08:00,9.71,122.12,8.0,2.8,0 32 km S 80° W of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0223_0221_B2.html
+20190223T1045_10.34_125.27,2019-02-23T10:45:00+08:00,10.34,125.27,40.0,2.1,00 3 km S 58° E of Hinundayan (Southern Leyte),2019_Earthquake_Information/February/2019_0223_0245_B2.html
+20190223T1214_14.98_119.96,2019-02-23T12:14:00+08:00,14.98,119.96,25.0,4.8,0 15 km N 75° W of San Antonio (Zambales),2019_Earthquake_Information/February/2019_0223_0414_B3F.html
+20190223T1648_15.0_119.92,2019-02-23T16:48:00+08:00,15.0,119.92,33.0,2.1,019 km N 72° W of San Antonio (Zambales),2019_Earthquake_Information/February/2019_0223_0848_B2.html
+20190223T1824_9.33_126.15,2019-02-23T18:24:00+08:00,9.33,126.15,15.0,1.7,0 07 km N 39° W of Cortes (Surigao Del Sur),2019_Earthquake_Information/February/2019_0223_1024_B2.html
+20190223T1838_17.83_120.73,2019-02-23T18:38:00+08:00,17.83,120.73,1.0,3.0,011 km S 24° E of Nueva Era (Ilocos Norte),2019_Earthquake_Information/February/2019_0223_1038_B2.html
+20190223T1852_20.34_121.9,2019-02-23T18:52:00+08:00,20.34,121.9,30.0,2.3,003 km N 69° E of Sabtang (Batanes),2019_Earthquake_Information/February/2019_0223_1052_B2.html
+20190223T1959_12.4_123.74,2019-02-23T19:59:00+08:00,12.4,123.74,8.0,2.5,004 km S 51° W of Batuan (Masbate),2019_Earthquake_Information/February/2019_0223_1159_B2.html
+20190223T2038_9.95_125.45,2019-02-23T20:38:00+08:00,9.95,125.45,27.0,1.9,016 km S 58° W of San Jose (Dinagat),2019_Earthquake_Information/February/2019_0223_1238_B2.html
+20190223T2241_15.35_119.18,2019-02-23T22:41:00+08:00,15.35,119.18,26.0,2.7,078 km S 83° W of Palauig (Zambales),2019_Earthquake_Information/February/2019_0223_1441_B2.html
+20190224T0024_8.78_126.2,2019-02-24T00:24:00+08:00,8.78,126.2,59.0,2.4,020 km N 38° E of Lianga (Surigao Del Sur),2019_Earthquake_Information/February/2019_0223_1624_B2.html
+20190224T0234_9.15_122.43,2019-02-24T02:34:00+08:00,9.15,122.43,27.0,4.1,0 37 km S 40° W of Basay (Negros Oriental),2019_Earthquake_Information/February/2019_0223_1834_B3.html
+20190224T0253_14.97_119.94,2019-02-24T02:53:00+08:00,14.97,119.94,31.0,2.3,016 km S 70° W of San Narciso (Zambales),2019_Earthquake_Information/February/2019_0223_1853_B2.html
+20190224T0403_16.14_119.73,2019-02-24T04:03:00+08:00,16.14,119.73,57.0,1.8,008 km N 72° W of Agno (Pangasinan),2019_Earthquake_Information/February/2019_0223_2003_B2.html
+20190224T0555_7.99_126.44,2019-02-24T05:55:00+08:00,7.99,126.44,24.0,2.6,0 06 km S 27° E of Lingig (Surigao Del Sur),2019_Earthquake_Information/February/2019_0223_2155_B2.html
+20190224T1101_9.26_126.43,2019-02-24T11:01:00+08:00,9.26,126.43,15.0,2.5,036 km N 28° E of Bayabas (Surigao Del Sur),2019_Earthquake_Information/February/2019_0224_0301_B2.html
+20190224T2024_13.7_120.58,2019-02-24T20:24:00+08:00,13.7,120.58,167.0,2.8,01 6 km S 22° W of Calatagan (Batangas),2019_Earthquake_Information/February/2019_0224_1224_B2.html
+20190224T2125_14.42_120.3,2019-02-24T21:25:00+08:00,14.42,120.3,80.0,2.3,0 20 km S 84° W of Mariveles (Bataan),2019_Earthquake_Information/February/2019_0224_1325_B2.html
+20190224T2331_13.43_125.27,2019-02-24T23:31:00+08:00,13.43,125.27,18.0,2.3,099 km N 16° E of Laoang (Northern Samar),2019_Earthquake_Information/February/2019_0224_1531_B2.html
+20190224T2352_11.04_124.75,2019-02-24T23:52:00+08:00,11.04,124.75,12.0,2.1,0 15 km N 22° E of Albuera (Leyte),2019_Earthquake_Information/February/2019_0224_1552_B2.html
+20190225T0023_9.82_123.94,2019-02-25T00:23:00+08:00,9.82,123.94,8.0,2.9,005 km S 06° W of San Isidro (Bohol),2019_Earthquake_Information/February/2019_0224_1623_B2.html
+20190225T0327_17.94_120.17,2019-02-25T03:27:00+08:00,17.94,120.17,39.0,4.6,031 km N 76° W of Sinait (Ilocos Sur),2019_Earthquake_Information/February/2019_0224_1927_B2F.html
+20190225T0417_15.95_119.71,2019-02-25T04:17:00+08:00,15.95,119.71,23.0,2.2,0 18 km S 75° W of Dasol (Pangasinan),2019_Earthquake_Information/February/2019_0224_2017_B2.html
+20190225T0551_13.5_122.31,2019-02-25T05:51:00+08:00,13.5,122.31,1.0,2.8,0 11 km S 15° W of Catanauan (Quezon),2019_Earthquake_Information/February/2019_0224_2151_B2.html
+20190225T0641_17.98_120.35,2019-02-25T06:41:00+08:00,17.98,120.35,25.0,2.5,016 km N 44° W of Sinait (Ilocos Sur),2019_Earthquake_Information/February/2019_0224_2241_B2.html
+20190225T0644_11.3_124.58,2019-02-25T06:44:00+08:00,11.3,124.58,1.0,2.0,00 7 km N 83° W of Capoocan (Leyte),2019_Earthquake_Information/February/2019_0224_2244_B2.html
+20190225T0953_5.47_125.76,2019-02-25T09:53:00+08:00,5.47,125.76,119.0,3.2,033 km N 82° E of Sarangani (Davao Occidental),2019_Earthquake_Information/February/2019_0225_0153_B2.html
+20190225T1002_5.69_125.84,2019-02-25T10:02:00+08:00,5.69,125.84,121.0,2.7,0 33 km S 49° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/February/2019_0225_0202_B2.html
+20190225T1819_19.25_121.09,2019-02-25T18:19:00+08:00,19.25,121.09,33.0,2.1,040 km S 86° W of Calayan (Cagayan),2019_Earthquake_Information/February/2019_0225_1019_B2.html
+20190225T1840_9.54_126.31,2019-02-25T18:40:00+08:00,9.54,126.31,14.0,2.4,03 1 km S 32° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0225_1040_B2.html
+20190225T2053_6.39_125.94,2019-02-25T20:53:00+08:00,6.39,125.94,1.0,2.4,033 km S 28° W Governor Generoso (Davao Occidental),2019_Earthquake_Information/February/2019_0225_1253_B2.html
+20190225T2127_10.65_125.34,2019-02-25T21:27:00+08:00,10.65,125.34,20.0,2.4,0 33 km N 30° E of Hinunangan (Southern Leyte),2019_Earthquake_Information/February/2019_0225_1327_B2.html
+20190225T2305_10.83_123.2,2019-02-25T23:05:00+08:00,10.83,123.2,24.0,2.0,0 19 km S 39° W of Cadiz City (Negros Occidental),2019_Earthquake_Information/February/2019_0225_1505_B2.html
+20190225T2333_9.54_126.08,2019-02-25T23:33:00+08:00,9.54,126.08,5.0,2.5,016 km S 54° E of Socorro (Surigao Del Norte),2019_Earthquake_Information/February/2019_0225_1533_B2.html
+20190226T0052_17.53_122.6,2019-02-26T00:52:00+08:00,17.53,122.6,31.0,2.4,038 km N 03° W of Divilacan (Isabela),2019_Earthquake_Information/February/2019_0225_1652_B2.html
+20190226T0217_13.17_124.98,2019-02-26T02:17:00+08:00,13.17,124.98,14.0,2.3,0 67 km N 55° E of Laoang (Northern Samar),2019_Earthquake_Information/February/2019_0225_1817_B2.html
+20190226T0345_15.31_119.9,2019-02-26T03:45:00+08:00,15.31,119.9,30.0,1.8,008 km S 73° W of Iba (Zambales),2019_Earthquake_Information/February/2019_0225_1945_B2.html
+20190226T0421_9.18_132.18,2019-02-26T04:21:00+08:00,9.18,132.18,27.0,2.6,014 km S 58° W of Bacong (Negros Oriental),2019_Earthquake_Information/February/2019_0225_2021_B2.html
+20190226T0448_11.28_124.54,2019-02-26T04:48:00+08:00,11.28,124.54,4.0,4.0,012 km S 83° W of Capoocan (Leyte),2019_Earthquake_Information/February/2019_0225_2048_B4F.html
+20190226T0702_11.14_124.65,2019-02-26T07:02:00+08:00,11.14,124.65,3.0,3.0,01 1 km S 63° E of Kananga (Leyte),2019_Earthquake_Information/February/2019_0225_2302_B3F.html
+20190226T0709_10.16_126.03,2019-02-26T07:09:00+08:00,10.16,126.03,12.0,2.4,015 km N 01° W of Santa Monica (Sapao) (Surigao Del Norte),2019_Earthquake_Information/February/2019_0225_2309_B2.html
+20190226T0720_9.68_124.86,2019-02-26T07:20:00+08:00,9.68,124.86,13.0,3.6,032 km S 77° E of Anda (Bohol),2019_Earthquake_Information/February/2019_0225_2320_B2.html
+20190226T0856_9.37_126.14,2019-02-26T08:56:00+08:00,9.37,126.14,88.0,2.4,0 1 2 km N 27° W of Cortes (Surigao del Sur),2019_Earthquake_Information/February/2019_0226_0056_B2.html
+20190226T1330_18.05_121.3,2019-02-26T13:30:00+08:00,18.05,121.3,30.0,1.8,0 13 km N 79° E of Kabugao (Apayao),2019_Earthquake_Information/February/2019_0226_0530_B2.html
+20190226T1731_11.94_124.04,2019-02-26T17:31:00+08:00,11.94,124.04,5.0,2.8,015 km N 60° E of Placer (Masbate),2019_Earthquake_Information/February/2019_0226_0931_B2.html
+20190226T1744_11.68_125.72,2019-02-26T17:44:00+08:00,11.68,125.72,2.0,3.2,0 33 km N 75° E of Borongan (Eastern Samar),2019_Earthquake_Information/February/2019_0226_0944_B2.html
+20190226T2007_7.29_124.83,2019-02-26T20:07:00+08:00,7.29,124.83,5.0,3.0,010 km N 24° E of Carmen (Cotabato),2019_Earthquake_Information/February/2019_0226_1207_B3F.html
+20190226T2053_13.26_120.4,2019-02-26T20:53:00+08:00,13.26,120.4,32.0,2.2,0 19 km S 24° W of Paluan (Occidental Mindoro),2019_Earthquake_Information/February/2019_0226_1253_B2.html
+20190226T2123_9.94_124.23,2019-02-26T21:23:00+08:00,9.94,124.23,8.0,3.1,00 1 km S 46° E of Danao (Bohol),2019_Earthquake_Information/February/2019_0226_1323_B3F.html
+20190226T2125_20.11_121.37,2019-02-26T21:25:00+08:00,20.11,121.37,53.0,2.3,0 58 km S 65° W of Sabtang (Batanes),2019_Earthquake_Information/February/2019_0226_1325_B2.html
+20190226T2136_9.95_124.22,2019-02-26T21:36:00+08:00,9.95,124.22,3.0,2.1,0 00 km S 81° W of Danao (Bohol),2019_Earthquake_Information/February/2019_0226_1336_B2.html
+20190226T2226_5.58_123.97,2019-02-26T22:26:00+08:00,5.58,123.97,35.0,2.7,075 km S 20° W of Palimbang (Sultan Kudarat),2019_Earthquake_Information/February/2019_0226_1426_B2.html
+20190226T2306_10.18_125.27,2019-02-26T23:06:00+08:00,10.18,125.27,44.0,1.8,010 km S 07° E of Anahawan (Southern Leyte),2019_Earthquake_Information/February/2019_0226_1506_B2.html
+20190226T2317_6.29_126.1,2019-02-26T23:17:00+08:00,6.29,126.1,1.0,3.0,040 km S 04° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/February/2019_0226_1517_B2.html
+20190227T0003_8.54_121.74,2019-02-27T00:03:00+08:00,8.54,121.74,31.0,3.1,0 87 km N 39° W of Gutalac (Zamboanga Del Norte),2019_Earthquake_Information/February/2019_0226_1603_B2.html
+20190227T0159_11.1_124.69,2019-02-27T01:59:00+08:00,11.1,124.69,9.0,2.2,0 14 km N 40° E of Ormoc City (Leyte),2019_Earthquake_Information/February/2019_0226_1759_B2.html
+20190227T0212_9.57_126.03,2019-02-27T02:12:00+08:00,9.57,126.03,13.0,2.0,009 km S 55° E of Socorro (Surigao Del Norte),2019_Earthquake_Information/February/2019_0226_1812_B2.html
+20190227T0216_10.4_125.21,2019-02-27T02:16:00+08:00,10.4,125.21,1.0,2.3,00 2 km N 87° E of Hinunangan (Southern Leyte),2019_Earthquake_Information/February/2019_0226_1816_B2.html
+20190227T0243_11.06_124.71,2019-02-27T02:43:00+08:00,11.06,124.71,9.0,2.4,0 13 km N 60° E of Ormoc City (Leyte),2019_Earthquake_Information/February/2019_0226_1843_B2.html
+20190227T0246_11.01_124.72,2019-02-27T02:46:00+08:00,11.01,124.72,2.0,2.0,011 km N 14° E of Albuera (Leyte),2019_Earthquake_Information/February/2019_0226_1846_B2.html
+20190227T0247_11.03_124.72,2019-02-27T02:47:00+08:00,11.03,124.72,2.0,2.3,01 2 km N 78° E of Ormoc City (Leyte),2019_Earthquake_Information/February/2019_0226_1847_B2.html
+20190227T0326_9.93_124.09,2019-02-27T03:26:00+08:00,9.93,124.09,25.0,2.0,002 km N 17° W of Sagbayan (Bohol),2019_Earthquake_Information/February/2019_0226_1926_B2.html
+20190227T0336_15.03_119.94,2019-02-27T03:36:00+08:00,15.03,119.94,27.0,2.8,014 km S 78° W of San Felipe (Zambales),2019_Earthquake_Information/February/2019_0226_1936_B2.html
+20190227T0340_5.75_125.99,2019-02-27T03:40:00+08:00,5.75,125.99,110.0,2.3,044 km S 70° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/February/2019_0226_1940_B2.html
+20190227T0453_20.72_122.05,2019-02-27T04:53:00+08:00,20.72,122.05,21.0,3.9,030 km N 16° E of Basco (Batanes),2019_Earthquake_Information/February/2019_0226_2053_B2.html
+20190227T0518_9.86_124.18,2019-02-27T05:18:00+08:00,9.86,124.18,18.0,2.5,0 11 km S 58° E of Sagbayan (Bohol),2019_Earthquake_Information/February/2019_0226_2118_B2.html
+20190227T0551_8.86_126.24,2019-02-27T05:51:00+08:00,8.86,126.24,27.0,2.0,010 km N 45° W of Marihatag (Surigao Del Sur),2019_Earthquake_Information/February/2019_0226_2151_B2.html
+20190227T0556_20.78_121.96,2019-02-27T05:56:00+08:00,20.78,121.96,24.0,3.1,035 km N 02° W of Basco (Batanes),2019_Earthquake_Information/February/2019_0226_2156_B2.html
+20190227T0750_8.78_126.22,2019-02-27T07:50:00+08:00,8.78,126.22,30.0,1.8,008 km S 77° W of Marihatag (Surigao Del Sur),2019_Earthquake_Information/February/2019_0226_2350_B2.html
+20190227T0811_5.5_127.36,2019-02-27T08:11:00+08:00,5.5,127.36,36.0,4.4,198 km S 78° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/February/2019_0227_0011_B2.html
+20190227T0834_8.87_126.42,2019-02-27T08:34:00+08:00,8.87,126.42,17.0,2.6,014 km S 66° E of Cagwait (Surigao Del Sur),2019_Earthquake_Information/February/2019_0227_0034_B2.html
+20190227T1023_17.95_120.28,2019-02-27T10:23:00+08:00,17.95,120.28,21.0,2.7,0 21 km N 64° W of Sinait (Ilocos Sur),2019_Earthquake_Information/February/2019_0227_0223_B2.html
+20190227T1053_10.42_125.07,2019-02-27T10:53:00+08:00,10.42,125.07,1.0,2.2,0 11 km N 69° E of Sogod (Southern Leyte),2019_Earthquake_Information/February/2019_0227_0253_B2.html
+20190227T1234_13.14_122.49,2019-02-27T12:34:00+08:00,13.14,122.49,2.0,2.6,0 24 km S 09° W of San Francisco (Aurora) (Quezon),2019_Earthquake_Information/February/2019_0227_0434_B2.html
+20190227T1410_7.65_126.28,2019-02-27T14:10:00+08:00,7.65,126.28,32.0,3.9,0 20 km N 81° E of New Bataan (Compostela Valley),2019_Earthquake_Information/February/2019_0227_0610_B2F.html
+20190227T1411_18.1_121.84,2019-02-27T14:11:00+08:00,18.1,121.84,33.0,2.0,018 km S 23° W of Santa Teresita (Cagayan),2019_Earthquake_Information/February/2019_0227_0611_B2.html
+20190227T1459_15.9_119.71,2019-02-27T14:59:00+08:00,15.9,119.71,36.0,2.3,0 24 km S 42° E of Burgos (Pangasinan),2019_Earthquake_Information/February/2019_0227_0659_B2.html
+20190227T2210_9.95_122.44,2019-02-27T22:10:00+08:00,9.95,122.44,5.0,1.9,022 km N 09° E of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0227_1410_B2.html
+20190227T2232_9.8_122.34,2019-02-27T22:32:00+08:00,9.8,122.34,12.0,2.4,009 km N 60° W of Sipalay (Negros Occidental),2019_Earthquake_Information/February/2019_0227_1432_B2.html
+20190227T2308_15.38_119.87,2019-02-27T23:08:00+08:00,15.38,119.87,33.0,1.7,007 km S 27° W of Palauig (Zambales),2019_Earthquake_Information/February/2019_0227_1508_B2.html
+20190227T2355_10.35_125.31,2019-02-27T23:55:00+08:00,10.35,125.31,2.0,2.6,010 km N 36° E of Anahawan (Southern Leyte),2019_Earthquake_Information/February/2019_0227_1555_B2.html
+20190228T0059_10.29_125.25,2019-02-28T00:59:00+08:00,10.29,125.25,33.0,1.8,002 km N 33° W of Anahawan (Southern Leyte),2019_Earthquake_Information/February/2019_0227_1659_B2.html
+20190228T0117_7.05_126.99,2019-02-28T01:17:00+08:00,7.05,126.99,29.0,2.3,053 km S 70° E of Manay (Davao Oriental),2019_Earthquake_Information/February/2019_0227_1717_B2.html
+20190228T0243_11.85_125.96,2019-02-28T02:43:00+08:00,11.85,125.96,7.0,3.1,056 km S 68° E of Dolores (Eastern Samar),2019_Earthquake_Information/February/2019_0227_1843_B2.html
+20190228T0246_6.58_125.67,2019-02-28T02:46:00+08:00,6.58,125.67,202.0,2.6,019 km N 22° E of Malita (Davao Occidental),2019_Earthquake_Information/February/2019_0227_1846_B2.html
+20190228T0354_9.81_126.57,2019-02-28T03:54:00+08:00,9.81,126.57,13.0,2.5,045 km N 87° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/February/2019_0227_1954_B2.html
+20190228T0457_9.9_122.28,2019-02-28T04:57:00+08:00,9.9,122.28,10.0,2.6,039 km S 78° W of Cauayan (Negros Occidental),2019_Earthquake_Information/February/2019_0227_2057_B2.html
+20190228T0551_14.64_123.39,2019-02-28T05:51:00+08:00,14.64,123.39,32.0,3.2,074 km N 46° E of Vinzons (Camarines Norte),2019_Earthquake_Information/February/2019_0227_2151_B2.html
+20190228T0631_7.29_124.83,2019-02-28T06:31:00+08:00,7.29,124.83,3.0,3.3,010 km N 24° E of Carmen (North Cotabato),2019_Earthquake_Information/February/2019_0227_2231_B2F.html
+20190228T0645_16.29_122.19,2019-02-28T06:45:00+08:00,16.29,122.19,33.0,2.6,0 0 7 km N 80° E of Casiguran (Aurora),2019_Earthquake_Information/February/2019_0227_2245_B2.html
+20190228T0655_16.28_122.22,2019-02-28T06:55:00+08:00,16.28,122.22,31.0,2.4,011 km N 88° E of Casiguran (Aurora),2019_Earthquake_Information/February/2019_0227_2255_B2.html
+20190228T1130_19.18_121.04,2019-02-28T11:30:00+08:00,19.18,121.04,11.0,2.6,04 5 km S 76° W of Calayan (Cagayan),2019_Earthquake_Information/February/2019_0228_0330_B2.html
+20190228T1316_5.41_126.52,2019-02-28T13:16:00+08:00,5.41,126.52,61.0,4.0,113 km S 62° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/February/2019_0228_0516_B2.html
+20190228T1336_11.95_124.06,2019-02-28T13:36:00+08:00,11.95,124.06,2.0,3.7,006 km N 32° E of Pio V. Corpuz (Limbuhan) (Masbate),2019_Earthquake_Information/February/2019_0228_0536_B2.html
+20190228T1432_6.11_124.79,2019-02-28T14:32:00+08:00,6.11,124.79,33.0,2.0,0 18 km S 21° E of Lake Sebu (South Cotabato),2019_Earthquake_Information/February/2019_0228_0632_B2.html
+20190228T1647_16.58_120.75,2019-02-28T16:47:00+08:00,16.58,120.75,5.0,3.9,0 09 km S 89° E of Atok (Benguet),2019_Earthquake_Information/February/2019_0228_0847_B3F.html
+20190228T1705_6.51_124.54,2019-02-28T17:05:00+08:00,6.51,124.54,33.0,1.9,012 km N 65° W of Santo Niño (South Cotabato),2019_Earthquake_Information/February/2019_0228_0905_B2.html
+20190228T1821_18.24_122.79,2019-02-28T18:21:00+08:00,18.24,122.79,9.0,3.3,07 3 km S 71° E of Santa Ana (Cagayan),2019_Earthquake_Information/February/2019_0228_1021_B2.html
+20190228T2200_5.16_125.54,2019-02-28T22:00:00+08:00,5.16,125.54,197.0,3.2,0 32 km S 15° E of Sarangani (Davao Occidental),2019_Earthquake_Information/February/2019_0228_1400_B2.html

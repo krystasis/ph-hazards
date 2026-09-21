@@ -1,0 +1,1044 @@
+event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
+20220601T0016_13.74_120.35,2022-06-01T00:16:00+08:00,13.74,120.35,1.0,1.6,011 km N 77° E of Looc (Occidental Mindoro),2022_Earthquake_Information/May/2022_0531_1616_B2.html
+20220601T0042_6.49_126.42,2022-06-01T00:42:00+08:00,6.49,126.42,66.0,2.7,042 km S 65° E of Governor Generoso (Davao Oriental),2022_Earthquake_Information/May/2022_0531_1642_B2.html
+20220601T0056_19.95_121.18,2022-06-01T00:56:00+08:00,19.95,121.18,4.0,2.9,082 km N 22° W of Calayan (Cagayan),2022_Earthquake_Information/May/2022_0531_1656_B2.html
+20220601T0107_13.77_120.56,2022-06-01T01:07:00+08:00,13.77,120.56,104.0,3.0,010 km S 49° W of Calatagan (Batangas),2022_Earthquake_Information/May/2022_0531_1707_B2.html
+20220601T0113_13.5_122.05,2022-06-01T01:13:00+08:00,13.5,122.05,10.0,2.3,003 km N 33° E of Santa Cruz (Marinduque),2022_Earthquake_Information/May/2022_0531_1713_B2.html
+20220601T0119_11.8_125.4,2022-06-01T01:19:00+08:00,11.8,125.4,13.0,1.5,006 km S 77° W of Sulat (Eastern Samar),2022_Earthquake_Information/May/2022_0531_1719_B1_Eastern_Samar.html
+20220601T0119_7.67_122.13,2022-06-01T01:19:00+08:00,7.67,122.13,16.0,1.5,005 km S 14° W of Siocon (Zamboanga Del Norte),2022_Earthquake_Information/May/2022_0531_1719_B2_Zamboanga_Del_Norte.html
+20220601T0131_16.74_120.33,2022-06-01T01:31:00+08:00,16.74,120.33,2.0,3.2,008 km N 08° W of San Juan (La Union),2022_Earthquake_Information/May/2022_0531_1731_B2.html
+20220601T0321_11.36_124.54,2022-06-01T03:21:00+08:00,11.36,124.54,4.0,2.8,006 km S 80° E of Leyte (Leyte),2022_Earthquake_Information/May/2022_0531_1921_B2.html
+20220601T0414_17.37_120.27,2022-06-01T04:14:00+08:00,17.37,120.27,18.0,2.3,019 km N 77° W of San Esteban (Ilocos Sur),2022_Earthquake_Information/May/2022_0531_2014_B2.html
+20220601T0529_9.72_123.67,2022-06-01T05:29:00+08:00,9.72,123.67,10.0,2.5,017 km S 54° W of Loon (Bohol),2022_Earthquake_Information/May/2022_0531_2129_B2.html
+20220601T0636_13.4_120.15,2022-06-01T06:36:00+08:00,13.4,120.15,19.0,2.1,034 km S 86° W of Paluan (Occidental Mindoro),2022_Earthquake_Information/May/2022_0531_2236_B2.html
+20220601T0746_17.14_121.03,2022-06-01T07:46:00+08:00,17.14,121.03,8.0,1.6,008 km N 47° E of Bontoc (Mountain Province),2022_Earthquake_Information/May/2022_0531_2346_B2.html
+20220601T0817_17.01_120.97,2022-06-01T08:17:00+08:00,17.01,120.97,35.0,1.5,005 km N 87° E of Sabangan (Mountain Province),2022_Earthquake_Information/June/2022_0601_0017_B1.html
+20220601T0931_8.7_124.67,2022-06-01T09:31:00+08:00,8.7,124.67,2.0,2.8,012 km S 70° W of Balingasag (Misamis Oriental),2022_Earthquake_Information/June/2022_0601_0131_B2.html
+20220601T1513_12.88_124.68,2022-06-01T15:13:00+08:00,12.88,124.68,11.0,3.8,041 km N 58° E of Biri (Northern Samar),2022_Earthquake_Information/June/2022_0601_0713_B2.html
+20220601T1521_12.87_124.68,2022-06-01T15:21:00+08:00,12.87,124.68,20.0,1.7,039 km N 18° E of Bobon (Northern Samar),2022_Earthquake_Information/June/2022_0601_0721_B2.html
+20220601T1856_11.33_122.79,2022-06-01T18:56:00+08:00,11.33,122.79,1.0,2.6,007 km S 06° E of Ma-ayon (Capiz),2022_Earthquake_Information/June/2022_0601_1056_B2.html
+20220601T1928_5.86_126.01,2022-06-01T19:28:00+08:00,5.86,126.01,144.0,3.1,041 km S 81° E of Jose Abad Santos (Davao Occidental),2022_Earthquake_Information/June/2022_0601_1128_B2.html
+20220601T1936_11.43_122.69,2022-06-01T19:36:00+08:00,11.43,122.69,10.0,2.6,002 km N 76° E of Sigma (Capiz),2022_Earthquake_Information/June/2022_0601_1136_B2.html
+20220601T2113_8.26_126.39,2022-06-01T21:13:00+08:00,8.26,126.39,132.0,2.6,010 km N 58° E of City Of Bislig (Surigao Del Sur),2022_Earthquake_Information/June/2022_0601_1313_B1.html
+20220601T2257_7.23_123.72,2022-06-01T22:57:00+08:00,7.23,123.72,33.0,1.9,037 km N 62° W of Datu Blah T. Sinsuat (Maguindanao),2022_Earthquake_Information/June/2022_0601_1457_B2.html
+20220601T2302_19.77_121.2,2022-06-01T23:02:00+08:00,19.77,121.2,5.0,2.8,063 km N 27° W of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0601_1502_B2.html
+20220601T2317_13.77_120.6,2022-06-01T23:17:00+08:00,13.77,120.6,100.0,1.5,008 km S 29° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0601_1517_B1F.html
+20220601T2339_13.37_120.09,2022-06-01T23:39:00+08:00,13.37,120.09,21.0,1.7,041 km S 83° W of Paluan (Occidental Mindoro),2022_Earthquake_Information/June/2022_0601_1539_B2.html
+20220601T2340_13.62_120.39,2022-06-01T23:40:00+08:00,13.62,120.39,2.0,1.9,019 km S 55° E of Looc (Occidental Mindoro),2022_Earthquake_Information/June/2022_0601_1540_B2.html
+20220601T2352_8.45_126.15,2022-06-01T23:52:00+08:00,8.45,126.15,34.0,1.7,002 km S 50° W of Tagbina (Surigao Del Sur),2022_Earthquake_Information/June/2022_0601_1552_B1.html
+20220602T0000_15.09_120.47,2022-06-02T00:00:00+08:00,15.09,120.47,109.0,1.6,008 km N 79° W of Porac (Pampanga),2022_Earthquake_Information/June/2022_0601_1600_B1.html
+20220602T0013_13.64_123.15,2022-06-02T00:13:00+08:00,13.64,123.15,1.0,3.0,003 km S 66° W of Canaman (Camarines Sur),2022_Earthquake_Information/June/2022_0601_1613_B3F_Camarines_Sur.html
+20220602T0013_16.88_120.64,2022-06-02T00:13:00+08:00,16.88,120.64,99.0,2.1,021 km S 74° E of Tagudin (Ilocos Sur),2022_Earthquake_Information/June/2022_0601_1613_B2_Ilocos_Sur.html
+20220602T0027_18.43_120.61,2022-06-02T00:27:00+08:00,18.43,120.61,34.0,1.6,010 km S 22° W of Burgos (Ilocos Norte),2022_Earthquake_Information/June/2022_0601_1627_B2.html
+20220602T0029_13.28_122.96,2022-06-02T00:29:00+08:00,13.28,122.96,26.0,2.0,017 km N 08° W of San Pascual (Masbate),2022_Earthquake_Information/June/2022_0601_1629_B2.html
+20220602T0121_16.48_120.42,2022-06-02T01:21:00+08:00,16.48,120.42,17.0,1.9,006 km S 38° W of Burgos (La Union),2022_Earthquake_Information/June/2022_0601_1721_B1.html
+20220602T0124_17.61_121.08,2022-06-02T01:24:00+08:00,17.61,121.08,17.0,2.1,008 km N 62° E of Malibcong (Abra),2022_Earthquake_Information/June/2022_0601_1724_B1.html
+20220602T0155_18.04_120.33,2022-06-02T01:55:00+08:00,18.04,120.33,12.0,2.8,016 km N 83° W of Currimao (Ilocos Norte),2022_Earthquake_Information/June/2022_0601_1755_B2.html
+20220602T0219_6.97_127.01,2022-06-02T02:19:00+08:00,6.97,127.01,62.0,3.8,058 km S 63° E of Manay (Davao Oriental),2022_Earthquake_Information/June/2022_0601_1819_B2.html
+20220602T0243_16.92_120.79,2022-06-02T02:43:00+08:00,16.92,120.79,9.0,1.5,006 km N 01° W of Mankayan (Benguet),2022_Earthquake_Information/June/2022_0601_1843_B1.html
+20220602T0321_10.1_124.54,2022-06-02T03:21:00+08:00,10.1,124.54,9.0,2.0,003 km S 23° W of President Carlos P. Garcia (Bohol),2022_Earthquake_Information/June/2022_0601_1921_B1.html
+20220602T0334_7.06_125.59,2022-06-02T03:34:00+08:00,7.06,125.59,63.0,3.2,002 km S 83° W of City Of Davao (Davao Del Sur),2022_Earthquake_Information/June/2022_0601_1934_B2.html
+20220602T0338_17.6_122.65,2022-06-02T03:38:00+08:00,17.6,122.65,28.0,3.3,048 km N 52° E of Divilacan (Isabela),2022_Earthquake_Information/June/2022_0601_1938_B2.html
+20220602T0418_9.73_122.79,2022-06-02T04:18:00+08:00,9.73,122.79,30.0,1.8,015 km S 89° W of Mabinay (Negros Oriental),2022_Earthquake_Information/June/2022_0601_2018_B2.html
+20220602T0527_9.07_126.94,2022-06-02T05:27:00+08:00,9.07,126.94,15.0,2.3,073 km N 81° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0601_2127_B2.html
+20220602T0532_14.4_119.17,2022-06-02T05:32:00+08:00,14.4,119.17,14.0,2.4,116 km S 58° W of San Antonio (Zambales),2022_Earthquake_Information/June/2022_0601_2132_B2.html
+20220602T0607_14.87_121.98,2022-06-02T06:07:00+08:00,14.87,121.98,32.0,1.5,003 km N 20° E of Burdeos (Quezon),2022_Earthquake_Information/June/2022_0601_2207_B1.html
+20220602T0610_6.98_127.08,2022-06-02T06:10:00+08:00,6.98,127.08,49.0,3.3,065 km S 67° E of Manay (Davao Oriental),2022_Earthquake_Information/June/2022_0601_2210_B2.html
+20220602T0619_9.2_126.71,2022-06-02T06:19:00+08:00,9.2,126.71,20.0,2.7,054 km N 62° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0601_2219_B2.html
+20220602T0630_12.1_120.65,2022-06-02T06:30:00+08:00,12.1,120.65,25.0,1.8,053 km S 41° W of Rizal (Occidental Mindoro),2022_Earthquake_Information/June/2022_0601_2230_B2.html
+20220602T0634_8.9_126.53,2022-06-02T06:34:00+08:00,8.9,126.53,17.0,1.9,028 km N 66° E of Marihatag (Surigao Del Sur),2022_Earthquake_Information/June/2022_0601_2234_B2.html
+20220602T0718_9.1_126.7,2022-06-02T07:18:00+08:00,9.1,126.7,11.0,2.8,048 km N 73° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0601_2318_B2.html
+20220602T0745_8.47_126.55,2022-06-02T07:45:00+08:00,8.47,126.55,18.0,1.7,026 km N 64° E of Hinatuan (Surigao Del Sur),2022_Earthquake_Information/June/2022_0601_2345_B2.html
+20220602T0933_16.28_122.01,2022-06-02T09:33:00+08:00,16.28,122.01,41.0,2.1,012 km N 87° W of Casiguran (Aurora),2022_Earthquake_Information/June/2022_0602_0133_B2.html
+20220602T1028_14.08_120.25,2022-06-02T10:28:00+08:00,14.08,120.25,1.0,1.7,028 km N 29° E of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0602_0228_B1.html
+20220602T1106_6.21_127.78,2022-06-02T11:06:00+08:00,6.21,127.78,77.0,4.8,174 km S 58° E of Tarragona (Davao Oriental),2022_Earthquake_Information/June/2022_0602_0306_B3.html
+20220602T1203_15.3_122.47,2022-06-02T12:03:00+08:00,15.3,122.47,9.0,2.3,066 km N 24° E of Patnanungan (Quezon),2022_Earthquake_Information/June/2022_0602_0403_B2.html
+20220602T1247_18.54_122.06,2022-06-02T12:47:00+08:00,18.54,122.06,33.0,2.0,013 km N 42° W of Santa Ana (Cagayan),2022_Earthquake_Information/June/2022_0602_0447_B1.html
+20220602T1321_15.94_121.88,2022-06-02T13:21:00+08:00,15.94,121.88,11.0,2.0,023 km S 20° W of Dinalungan (Aurora),2022_Earthquake_Information/June/2022_0602_0521_B2.html
+20220602T1429_19.22_121.2,2022-06-02T14:29:00+08:00,19.22,121.2,28.0,2.4,012 km N 03° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0602_0629_B2.html
+20220602T1650_9.99_124.34,2022-06-02T16:50:00+08:00,9.99,124.34,33.0,2.1,001 km N 45° E of San Miguel (Bohol),2022_Earthquake_Information/June/2022_0602_0850_B1.html
+20220602T1735_16.07_121.42,2022-06-02T17:35:00+08:00,16.07,121.42,32.0,2.2,027 km S 49° W of Nagtipunan (Quirino),2022_Earthquake_Information/June/2022_0602_0935_B2.html
+20220602T1809_6.36_127.44,2022-06-02T18:09:00+08:00,6.36,127.44,93.0,3.1,133 km S 55° E of Tarragona (Davao Oriental),2022_Earthquake_Information/June/2022_0602_1009_B2.html
+20220602T1840_5.9_125.96,2022-06-02T18:40:00+08:00,5.9,125.96,95.0,3.0,035 km S 88° E of Jose Abad Santos (Davao Occidental),2022_Earthquake_Information/June/2022_0602_1040_B2.html
+20220602T1907_7.07_128.07,2022-06-02T19:07:00+08:00,7.07,128.07,94.0,2.6,168 km S 80° E of Caraga (Davao Oriental),2022_Earthquake_Information/June/2022_0602_1107_B2.html
+20220602T1928_9.93_124.2,2022-06-02T19:28:00+08:00,9.93,124.2,21.0,1.9,003 km S 50° W of Danao (Bohol),2022_Earthquake_Information/June/2022_0602_1128_B2_Bohol.html
+20220602T1955_9.0_126.28,2022-06-02T19:55:00+08:00,9.0,126.28,59.0,4.8,004 km N 02° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_1155_B3F.html
+20220602T2054_9.27_126.18,2022-06-02T20:54:00+08:00,9.27,126.18,52.0,2.1,002 km S 62° W of Cortes (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_1254_B2.html
+20220602T2310_13.14_120.42,2022-06-02T23:10:00+08:00,13.14,120.42,34.0,2.5,021 km S 63° W of Mamburao (Occidental Mindoro),2022_Earthquake_Information/June/2022_0602_1510_B2.html
+20220602T2317_15.07_122.08,2022-06-02T23:17:00+08:00,15.07,122.08,1.0,2.8,028 km N 26° E of Burdeos (Quezon),2022_Earthquake_Information/June/2022_0602_1517_B2.html
+20220602T2335_15.24_119.14,2022-06-02T23:35:00+08:00,15.24,119.14,20.0,2.4,086 km S 75° W of Palauig (Zambales),2022_Earthquake_Information/June/2022_0602_1535_B2.html
+20220602T2338_14.82_121.82,2022-06-02T23:38:00+08:00,14.82,121.82,21.0,2.0,016 km S 80° W of Burdeos (Quezon),2022_Earthquake_Information/June/2022_0602_1538_B2.html
+20220602T2358_14.92_121.89,2022-06-02T23:58:00+08:00,14.92,121.89,1.0,2.0,012 km N 43° W of Burdeos (Quezon),2022_Earthquake_Information/June/2022_0602_1558_B2.html
+20220603T0000_14.84_121.94,2022-06-03T00:00:00+08:00,14.84,121.94,28.0,2.0,003 km S 78° W of Burdeos (Quezon),2022_Earthquake_Information/June/2022_0602_1600_B2.html
+20220603T0040_16.79_121.51,2022-06-03T00:40:00+08:00,16.79,121.51,12.0,2.3,002 km N 73° W of Ramon (Isabela),2022_Earthquake_Information/June/2022_0602_1640_B2.html
+20220603T0043_9.88_125.99,2022-06-03T00:43:00+08:00,9.88,125.99,21.0,3.1,003 km N 58° E of Del Carmen (Surigao Del Norte),2022_Earthquake_Information/June/2022_0602_1643_B2.html
+20220603T0110_15.06_122.1,2022-06-03T01:10:00+08:00,15.06,122.1,3.0,2.0,028 km N 30° E of Burdeos (Quezon),2022_Earthquake_Information/June/2022_0602_1710_B2.html
+20220603T0119_18.13_121.83,2022-06-03T01:19:00+08:00,18.13,121.83,117.0,2.1,016 km S 34° W of Santa Teresita (Cagayan),2022_Earthquake_Information/June/2022_0602_1719_B2.html
+20220603T0125_9.28_122.62,2022-06-03T01:25:00+08:00,9.28,122.62,29.0,2.2,014 km S 11° W of Basay (Negros Oriental),2022_Earthquake_Information/June/2022_0602_1725_B2.html
+20220603T0158_8.9_126.42,2022-06-03T01:58:00+08:00,8.9,126.42,24.0,2.1,013 km S 82° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_1758_B1.html
+20220603T0201_18.79_119.41,2022-06-03T02:01:00+08:00,18.79,119.41,75.0,2.6,134 km N 77° W of Burgos (Ilocos Norte),2022_Earthquake_Information/June/2022_0602_1801_B2.html
+20220603T0207_5.8_126.18,2022-06-03T02:07:00+08:00,5.8,126.18,141.0,3.0,060 km S 78° E of Jose Abad Santos (Davao Occidental),2022_Earthquake_Information/June/2022_0602_1807_B2.html
+20220603T0213_11.29_124.55,2022-06-03T02:13:00+08:00,11.29,124.55,10.0,2.1,010 km S 87° W of Capoocan (Leyte),2022_Earthquake_Information/June/2022_0602_1813_B2.html
+20220603T0241_9.98_122.99,2022-06-03T02:41:00+08:00,9.98,122.99,10.0,1.8,021 km N 71° W of Tayasan (Negros Oriental),2022_Earthquake_Information/June/2022_0602_1841_B1.html
+20220603T0254_8.92_126.74,2022-06-03T02:54:00+08:00,8.92,126.74,9.0,5.6,049 km S 90° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_1854_B4F.html
+20220603T0306_8.97_126.44,2022-06-03T03:06:00+08:00,8.97,126.44,12.0,3.4,017 km N 71° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_1906_B2F.html
+20220603T0310_8.86_126.43,2022-06-03T03:10:00+08:00,8.86,126.43,18.0,3.1,015 km S 67° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_1910_B2.html
+20220603T0311_17.37_120.3,2022-06-03T03:11:00+08:00,17.37,120.3,26.0,1.8,016 km N 76° W of San Esteban (Ilocos Sur),2022_Earthquake_Information/June/2022_0602_1911_B2.html
+20220603T0311_8.94_126.47,2022-06-03T03:11:00+08:00,8.94,126.47,14.0,3.6,018 km N 82° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_1911_B2F_Surigao_del_Sur.html
+20220603T0332_8.9_126.7,2022-06-03T03:32:00+08:00,8.9,126.7,13.0,3.8,044 km S 87° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_1932_B2F.html
+20220603T0336_8.93_126.48,2022-06-03T03:36:00+08:00,8.93,126.48,18.0,2.4,020 km N 86° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_1936_B2.html
+20220603T0342_8.92_126.52,2022-06-03T03:42:00+08:00,8.92,126.52,15.0,2.9,024 km N 89° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_1942_B2.html
+20220603T0345_8.94_126.47,2022-06-03T03:45:00+08:00,8.94,126.47,17.0,3.1,019 km N 84° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_1945_B2F.html
+20220603T0347_8.94_126.52,2022-06-03T03:47:00+08:00,8.94,126.52,15.0,2.6,024 km N 83° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_1947_B1.html
+20220603T0355_8.99_126.56,2022-06-03T03:55:00+08:00,8.99,126.56,1.0,3.7,030 km N 75° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_1955_B2.html
+20220603T0403_8.95_126.49,2022-06-03T04:03:00+08:00,8.95,126.49,8.0,2.7,021 km N 81° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_2003_B1.html
+20220603T0412_15.78_120.11,2022-06-03T04:12:00+08:00,15.78,120.11,10.0,3.0,018 km S 47° W of Aguilar (Pangasinan),2022_Earthquake_Information/June/2022_0602_2012_B2.html
+20220603T0414_8.88_126.49,2022-06-03T04:14:00+08:00,8.88,126.49,15.0,2.4,021 km S 78° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_2014_B2.html
+20220603T0431_10.09_126.68,2022-06-03T04:31:00+08:00,10.09,126.68,17.0,2.7,067 km N 83° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0602_2031_B2.html
+20220603T0435_9.37_122.34,2022-06-03T04:35:00+08:00,9.37,122.34,30.0,2.1,034 km S 82° W of Basay (Negros Oriental),2022_Earthquake_Information/June/2022_0602_2035_B2.html
+20220603T0455_8.94_126.7,2022-06-03T04:55:00+08:00,8.94,126.7,18.0,3.4,044 km N 87° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_2055_B2F.html
+20220603T0505_13.74_120.63,2022-06-03T05:05:00+08:00,13.74,120.63,95.0,1.5,010 km South of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0602_2105_B2.html
+20220603T0524_7.36_127.05,2022-06-03T05:24:00+08:00,7.36,127.05,70.0,3.2,052 km N 84° E of Caraga (Davao Oriental),2022_Earthquake_Information/June/2022_0602_2124_B2.html
+20220603T0528_8.95_126.39,2022-06-03T05:28:00+08:00,8.95,126.39,14.0,3.1,011 km N 70° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_2128_B2.html
+20220603T0552_13.5_120.68,2022-06-03T05:52:00+08:00,13.5,120.68,73.0,2.7,008 km N 39° W of Abra De Ilog (Occidental Mindoro),2022_Earthquake_Information/June/2022_0602_2152_B2.html
+20220603T0607_8.78_126.74,2022-06-03T06:07:00+08:00,8.78,126.74,4.0,2.3,051 km S 72° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0602_2207_B1.html
+20220603T0649_9.62_126.26,2022-06-03T06:49:00+08:00,9.62,126.26,21.0,2.5,022 km S 32° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0602_2249_B2.html
+20220603T0834_5.35_126.54,2022-06-03T08:34:00+08:00,5.35,126.54,103.0,3.4,117 km S 58° E of Jose Abad Santos (Davao Occidental),2022_Earthquake_Information/June/2022_0603_0034_B2.html
+20220603T0910_9.16_126.24,2022-06-03T09:10:00+08:00,9.16,126.24,19.0,2.3,012 km N 39° E of City Of Tandag (Surigao Del Sur),2022_Earthquake_Information/June/2022_0603_0110_B2.html
+20220603T0914_8.98_126.59,2022-06-03T09:14:00+08:00,8.98,126.59,7.0,3.6,033 km N 78° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0603_0114_B2F.html
+20220603T0937_13.4_121.74,2022-06-03T09:37:00+08:00,13.4,121.74,11.0,1.8,012 km S 63° W of Boac (Marinduque),2022_Earthquake_Information/June/2022_0603_0137_B2.html
+20220603T1413_17.32_120.85,2022-06-03T14:13:00+08:00,17.32,120.85,12.0,2.0,007 km S 21° E of Boliney (Abra),2022_Earthquake_Information/June/2022_0603_0613_B2.html
+20220603T1448_8.78_126.84,2022-06-03T14:48:00+08:00,8.78,126.84,1.0,2.1,061 km S 76° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0603_0648_B2.html
+20220603T1641_11.16_125.36,2022-06-03T16:41:00+08:00,11.16,125.36,82.0,2.3,007 km N 70° E of Lawaan (Eastern Samar),2022_Earthquake_Information/June/2022_0603_0841_B2.html
+20220603T1718_7.05_127.04,2022-06-03T17:18:00+08:00,7.05,127.04,21.0,2.9,058 km S 72° E of Manay (Davao Oriental),2022_Earthquake_Information/June/2022_0603_0918_B2.html
+20220603T1736_16.64_120.05,2022-06-03T17:36:00+08:00,16.64,120.05,20.0,1.9,028 km N 86° W of City Of San Fernando (La Union),2022_Earthquake_Information/June/2022_0603_0936_B1.html
+20220603T1916_19.24_121.48,2022-06-03T19:16:00+08:00,19.24,121.48,23.0,2.3,003 km S 15° E of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0603_1116_B1.html
+20220603T1924_19.24_121.47,2022-06-03T19:24:00+08:00,19.24,121.47,23.0,2.3,003 km S 02° W of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0603_1124_B1.html
+20220603T1940_9.63_126.25,2022-06-03T19:40:00+08:00,9.63,126.25,34.0,1.6,020 km S 30° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0603_1140_B1.html
+20220603T1950_19.13_121.7,2022-06-03T19:50:00+08:00,19.13,121.7,3.0,2.2,027 km S 57° E of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0603_1150_B1.html
+20220603T2109_19.35_122.22,2022-06-03T21:09:00+08:00,19.35,122.22,1.0,4.1,037 km S 60° E of Babuyan Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0603_1309_B2.html
+20220603T2129_13.95_120.79,2022-06-03T21:29:00+08:00,13.95,120.79,33.0,1.7,004 km N 49° W of Calaca (Batangas),2022_Earthquake_Information/June/2022_0603_1329_B2.html
+20220603T2157_6.95_126.2,2022-06-03T21:57:00+08:00,6.95,126.2,40.0,2.4,002 km S 74° W of City Of Mati (Davao Oriental),2022_Earthquake_Information/June/2022_0603_1357_B2.html
+20220603T2229_3.36_126.63,2022-06-03T22:29:00+08:00,3.36,126.63,47.0,4.4,264 km S 31° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0603_1429_B1.html
+20220603T2311_9.41_122.69,2022-06-03T23:11:00+08:00,9.41,122.69,11.0,3.4,006 km N 88° E of Basay (Negros Oriental),2022_Earthquake_Information/June/2022_0603_1511_B2.html
+20220603T2316_5.18_128.04,2022-06-03T23:16:00+08:00,5.18,128.04,104.0,4.4,272 km S 40° E of Tarragona (Davao Oriental),2022_Earthquake_Information/June/2022_0603_1516_B2.html
+20220603T2322_9.11_126.26,2022-06-03T23:22:00+08:00,9.11,126.26,47.0,2.5,009 km N 64° E of City Of Tandag (Surigao Del Sur),2022_Earthquake_Information/June/2022_0603_1522_B1.html
+20220603T2356_5.1_127.84,2022-06-03T23:56:00+08:00,5.1,127.84,65.0,3.7,259 km S 70° E of Jose Abad Santos (Davao Occidental),2022_Earthquake_Information/June/2022_0603_1556_B2.html
+20220604T0043_11.11_124.66,2022-06-04T00:43:00+08:00,11.11,124.66,3.0,2.0,013 km S 55° E of Kananga (Leyte),2022_Earthquake_Information/June/2022_0603_1643_B2.html
+20220604T0055_19.08_121.45,2022-06-04T00:55:00+08:00,19.08,121.45,26.0,2.3,020 km S 07° W of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0603_1655_B1.html
+20220604T0132_13.62_121.0,2022-06-04T01:32:00+08:00,13.62,121.0,6.0,2.6,012 km N 38° W of Verde Island (Batangas City) (Batangas),2022_Earthquake_Information/June/2022_0603_1732_B2.html
+20220604T0134_9.05_126.68,2022-06-04T01:34:00+08:00,9.05,126.68,28.0,2.1,044 km N 71° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0603_1734_B1F.html
+20220604T0137_17.53_120.3,2022-06-04T01:37:00+08:00,17.53,120.3,24.0,1.8,009 km S 80° W of Caoayan (Ilocos Sur),2022_Earthquake_Information/June/2022_0603_1737_B1.html
+20220604T0216_6.45_125.72,2022-06-04T02:16:00+08:00,6.45,125.72,101.0,2.6,013 km N 73° E of Malita (Davao Occidental),2022_Earthquake_Information/June/2022_0603_1816_B2.html
+20220604T0248_5.44_127.61,2022-06-04T02:48:00+08:00,5.44,127.61,92.0,4.0,217 km S 52° E of Governor Generoso (Davao Oriental),2022_Earthquake_Information/June/2022_0603_1848_B2.html
+20220604T0255_13.2_119.73,2022-06-04T02:55:00+08:00,13.2,119.73,33.0,2.9,081 km S 44° W of Looc (Occidental Mindoro),2022_Earthquake_Information/June/2022_0603_1855_B1.html
+20220604T0500_10.18_123.32,2022-06-04T05:00:00+08:00,10.18,123.32,6.0,2.0,009 km N 41° E of City Of Guihulngan (Negros Oriental),2022_Earthquake_Information/June/2022_0603_2100_B1.html
+20220604T0543_19.24_121.47,2022-06-04T05:43:00+08:00,19.24,121.47,27.0,2.4,002 km S 09° W of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0603_2143_B1.html
+20220604T0630_19.16_121.45,2022-06-04T06:30:00+08:00,19.16,121.45,16.0,2.3,012 km S 11° W of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0603_2230_B1.html
+20220604T0706_9.0_125.84,2022-06-04T07:06:00+08:00,9.0,125.84,3.0,2.4,023 km N 74° W of San Miguel (Surigao Del Sur),2022_Earthquake_Information/June/2022_0603_2306_B2.html
+20220604T0723_12.85_119.98,2022-06-04T07:23:00+08:00,12.85,119.98,62.0,2.0,079 km S 57° W of Mamburao (Occidental Mindoro),2022_Earthquake_Information/June/2022_0603_2323_B2.html
+20220604T0758_8.48_126.37,2022-06-04T07:58:00+08:00,8.48,126.37,1.0,1.9,013 km N 16° E of Hinatuan (Surigao Del Sur),2022_Earthquake_Information/June/2022_0603_2358_B1.html
+20220604T0846_4.89_124.76,2022-06-04T08:46:00+08:00,4.89,124.76,1.0,3.1,094 km S 51° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0604_0046_B2.html
+20220604T0955_5.51_126.03,2022-06-04T09:55:00+08:00,5.51,126.03,111.0,3.2,062 km N 86° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0604_0155_B2.html
+20220604T1049_8.61_126.01,2022-06-04T10:49:00+08:00,8.61,126.01,33.0,1.7,010 km N 86° E of Prosperidad (Agusan Del Sur),2022_Earthquake_Information/June/2022_0604_0249_B1.html
+20220604T1201_13.47_120.03,2022-06-04T12:01:00+08:00,13.47,120.03,18.0,2.4,036 km S 41° W of Looc (Occidental Mindoro),2022_Earthquake_Information/June/2022_0604_0401_B1.html
+20220604T1208_8.93_126.6,2022-06-04T12:08:00+08:00,8.93,126.6,6.0,3.4,033 km N 88° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0604_0408_B2.html
+20220604T1402_8.94_122.64,2022-06-04T14:02:00+08:00,8.94,122.64,21.0,2.3,046 km S 73° W of Siaton (Negros Oriental),2022_Earthquake_Information/June/2022_0604_0602_B2.html
+20220604T1502_18.87_121.15,2022-06-04T15:02:00+08:00,18.87,121.15,36.0,2.0,023 km N 83° W of Fuga Island (Aparri) (Cagayan),2022_Earthquake_Information/June/2022_0604_0702_B1.html
+20220604T1521_6.38_124.78,2022-06-04T15:21:00+08:00,6.38,124.78,3.0,3.0,005 km S 04° E of Banga (South Cotabato),2022_Earthquake_Information/June/2022_0604_0721_B2.html
+20220604T1725_9.49_125.67,2022-06-04T17:25:00+08:00,9.49,125.67,26.0,2.0,011 km N 72° E of Alegria (Surigao Del Norte),2022_Earthquake_Information/June/2022_0604_0925_B1.html
+20220604T1733_16.92_119.99,2022-06-04T17:33:00+08:00,16.92,119.99,1.0,2.5,042 km N 80° W of Luna (La Union),2022_Earthquake_Information/June/2022_0604_0933_B1.html
+20220604T1740_9.6_125.85,2022-06-04T17:40:00+08:00,9.6,125.85,25.0,2.0,013 km N 79° E of Claver (Surigao Del Norte),2022_Earthquake_Information/June/2022_0604_0940_B1.html
+20220604T1931_16.3_119.84,2022-06-04T19:31:00+08:00,16.3,119.84,24.0,2.6,012 km S 30° W of Bolinao (Pangasinan),2022_Earthquake_Information/June/2022_0604_1131_B2.html
+20220604T1956_16.84_120.52,2022-06-04T19:56:00+08:00,16.84,120.52,7.0,2.0,001 km N 52° W of Sugpon (Ilocos Sur),2022_Earthquake_Information/June/2022_0604_1156_B1.html
+20220604T2011_21.63_120.88,2022-06-04T20:11:00+08:00,21.63,120.88,32.0,4.3,136 km N 47° W of Itbayat (Batanes),2022_Earthquake_Information/June/2022_0604_1211_B2.html
+20220604T2129_8.78_125.94,2022-06-04T21:29:00+08:00,8.78,125.94,7.0,3.0,020 km N 06° E of Prosperidad (Agusan Del Sur),2022_Earthquake_Information/June/2022_0604_1329_B2.html
+20220604T2221_8.53_126.44,2022-06-04T22:21:00+08:00,8.53,126.44,12.0,1.9,022 km N 32° E of Hinatuan (Surigao Del Sur),2022_Earthquake_Information/June/2022_0604_1421_B1.html
+20220604T2316_7.99_126.31,2022-06-04T23:16:00+08:00,7.99,126.31,1.0,2.6,013 km S 64° W of Lingig (Surigao Del Sur),2022_Earthquake_Information/June/2022_0604_1516_B2.html
+20220604T2319_20.0_121.43,2022-06-04T23:19:00+08:00,20.0,121.43,19.0,4.2,060 km S 51° W of Sabtang (Batanes),2022_Earthquake_Information/June/2022_0604_1519_B2.html
+20220604T2330_19.22_121.47,2022-06-04T23:30:00+08:00,19.22,121.47,29.0,2.1,005 km S 01° W of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0604_1530_B2.html
+20220604T2354_19.72_121.55,2022-06-04T23:54:00+08:00,19.72,121.55,57.0,1.9,076 km N 28° E of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0604_1554_B2.html
+20220604T2355_8.87_126.65,2022-06-04T23:55:00+08:00,8.87,126.65,17.0,3.4,039 km S 83° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0604_1555_B2F.html
+20220604T2357_20.02_121.33,2022-06-04T23:57:00+08:00,20.02,121.33,23.0,1.8,066 km S 59° W of Sabtang (Batanes),2022_Earthquake_Information/June/2022_0604_1557_B1.html
+20220605T0007_9.69_126.22,2022-06-05T00:07:00+08:00,9.69,126.22,2.0,2.5,012 km S 32° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0604_1607_B2.html
+20220605T0025_15.56_120.68,2022-06-05T00:25:00+08:00,15.56,120.68,35.0,1.9,002 km S 21° W of Victoria (Tarlac),2022_Earthquake_Information/June/2022_0604_1625_B1.html
+20220605T0034_15.39_120.06,2022-06-05T00:34:00+08:00,15.39,120.06,19.0,1.8,011 km N 19° E of Botolan (Zambales),2022_Earthquake_Information/June/2022_0604_1634_B1.html
+20220605T0046_9.61_122.19,2022-06-05T00:46:00+08:00,9.61,122.19,5.0,2.6,030 km N 89° W of Hinoba-an (Negros Occidental),2022_Earthquake_Information/June/2022_0604_1646_B2.html
+20220605T0048_9.55_125.66,2022-06-05T00:48:00+08:00,9.55,125.66,17.0,2.2,013 km N 42° E of Alegria (Surigao Del Norte),2022_Earthquake_Information/June/2022_0604_1648_B2.html
+20220605T0109_18.77_120.29,2022-06-05T01:09:00+08:00,18.77,120.29,24.0,2.4,047 km N 53° W of Burgos (Ilocos Norte),2022_Earthquake_Information/June/2022_0604_1709_B2.html
+20220605T0110_16.12_122.05,2022-06-05T01:10:00+08:00,16.12,122.05,16.0,2.0,011 km S 80° E of Dinalungan (Aurora),2022_Earthquake_Information/June/2022_0604_1710_B2.html
+20220605T0225_8.99_126.75,2022-06-05T02:25:00+08:00,8.99,126.75,6.0,3.4,050 km N 81° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0604_1825_B2F.html
+20220605T0239_6.75_123.96,2022-06-05T02:39:00+08:00,6.75,123.96,33.0,2.2,018 km N 42° W of Lebak (Sultan Kudarat),2022_Earthquake_Information/June/2022_0604_1839_B2.html
+20220605T0247_17.47_122.57,2022-06-05T02:47:00+08:00,17.47,122.57,28.0,2.5,033 km N 61° E of Divilacan (Isabela),2022_Earthquake_Information/June/2022_0604_1847_B2.html
+20220605T0249_16.22_120.55,2022-06-05T02:49:00+08:00,16.22,120.55,18.0,1.7,007 km S 83° E of Rosario (La Union),2022_Earthquake_Information/June/2022_0604_1849_B2.html
+20220605T0259_19.22_121.47,2022-06-05T02:59:00+08:00,19.22,121.47,31.0,1.7,005 km S 05° W of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0604_1859_B1.html
+20220605T0339_8.23_123.36,2022-06-05T03:39:00+08:00,8.23,123.36,19.0,2.2,009 km N 07° E of Dumingag (Zamboanga Del Sur),2022_Earthquake_Information/June/2022_0604_1939_B2.html
+20220605T0343_17.95_120.39,2022-06-05T03:43:00+08:00,17.95,120.39,25.0,2.2,013 km S 52° W of Currimao (Ilocos Norte),2022_Earthquake_Information/June/2022_0604_1943_B2.html
+20220605T0349_17.2_120.96,2022-06-05T03:49:00+08:00,17.2,120.96,12.0,2.3,008 km N 60° W of Sadanga (Mountain Province),2022_Earthquake_Information/June/2022_0604_1949_B2.html
+20220605T0353_10.15_125.32,2022-06-05T03:53:00+08:00,10.15,125.32,3.0,2.3,016 km S 24° E of Anahawan (Southern Leyte),2022_Earthquake_Information/June/2022_0604_1953_B2.html
+20220605T0407_9.49_125.63,2022-06-05T04:07:00+08:00,9.49,125.63,23.0,2.5,006 km N 61° E of Alegria (Surigao Del Norte),2022_Earthquake_Information/June/2022_0604_2007_B2.html
+20220605T0440_13.5_120.06,2022-06-05T04:40:00+08:00,13.5,120.06,22.0,2.7,032 km S 41° W of Looc (Occidental Mindoro),2022_Earthquake_Information/June/2022_0604_2040_B2.html
+20220605T0516_13.9_120.36,2022-06-05T05:16:00+08:00,13.9,120.36,64.0,2.1,023 km N 32° E of Looc (Occidental Mindoro),2022_Earthquake_Information/June/2022_0604_2116_B1.html
+20220605T0616_16.38_120.89,2022-06-05T06:16:00+08:00,16.38,120.89,2.0,2.7,018 km N 59° W of Aritao (Nueva Vizcaya),2022_Earthquake_Information/June/2022_0604_2216_B2.html
+20220605T0627_9.46_125.48,2022-06-05T06:27:00+08:00,9.46,125.48,1.0,3.7,010 km N 85° W of Kitcharao (Agusan Del Norte),2022_Earthquake_Information/June/2022_0604_2227_B2.html
+20220605T0631_9.49_125.58,2022-06-05T06:31:00+08:00,9.49,125.58,1.0,3.2,007 km S 08° E of Tubod (Surigao Del Norte),2022_Earthquake_Information/June/2022_0604_2231_B2.html
+20220605T0903_10.15_121.44,2022-06-05T09:03:00+08:00,10.15,121.44,28.0,2.6,061 km S 60° W of Anini-y (Antique),2022_Earthquake_Information/June/2022_0605_0103_B2.html
+20220605T0915_9.35_124.66,2022-06-05T09:15:00+08:00,9.35,124.66,10.0,2.4,014 km N 31° W of Mambajao (Camiguin),2022_Earthquake_Information/June/2022_0605_0115_B2.html
+20220605T1019_19.82_121.78,2022-06-05T10:19:00+08:00,19.82,121.78,8.0,2.9,037 km N 22° W of Babuyan Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0605_0219_B1.html
+20220605T1207_8.42_122.64,2022-06-05T12:07:00+08:00,8.42,122.64,34.0,1.7,033 km N 07° W of Liloy (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0605_0407_B2.html
+20220605T1210_9.52_125.49,2022-06-05T12:10:00+08:00,9.52,125.49,1.0,3.0,004 km S 61° W of Mainit (Surigao Del Norte),2022_Earthquake_Information/June/2022_0605_0410_B2.html
+20220605T1212_9.49_125.58,2022-06-05T12:12:00+08:00,9.49,125.58,11.0,2.3,003 km N 11° E of Alegria (Surigao Del Norte),2022_Earthquake_Information/June/2022_0605_0412_B2.html
+20220605T1351_8.15_125.75,2022-06-05T13:51:00+08:00,8.15,125.75,6.0,2.2,013 km S 75° W of Loreto (Agusan Del Sur),2022_Earthquake_Information/June/2022_0605_0551_B1.html
+20220605T1442_8.33_126.43,2022-06-05T14:42:00+08:00,8.33,126.43,1.0,2.7,011 km S 65° E of Hinatuan (Surigao Del Sur),2022_Earthquake_Information/June/2022_0605_0642_B2.html
+20220605T1444_10.43_123.04,2022-06-05T14:44:00+08:00,10.43,123.04,9.0,2.0,013 km S 90° E of City Of La Carlota (Negros Occidental),2022_Earthquake_Information/June/2022_0605_0644_B2.html
+20220605T1501_9.53_125.68,2022-06-05T15:01:00+08:00,9.53,125.68,4.0,2.8,008 km S 50° W of Claver (Surigao Del Norte),2022_Earthquake_Information/June/2022_0605_0701_B2.html
+20220605T1502_9.47_125.5,2022-06-05T15:02:00+08:00,9.47,125.5,1.0,3.5,008 km S 15° W of Mainit (Surigao Del Norte),2022_Earthquake_Information/June/2022_0605_0702_B2.html
+20220605T1521_10.45_125.1,2022-06-05T15:21:00+08:00,10.45,125.1,1.0,2.5,011 km S 39° W of Silago (Southern Leyte),2022_Earthquake_Information/June/2022_0605_0721_B2.html
+20220605T1527_7.33_126.17,2022-06-05T15:27:00+08:00,7.33,126.17,1.0,2.3,005 km N 68° E of Maragusan (Davao De Oro),2022_Earthquake_Information/June/2022_0605_0727_B2.html
+20220605T1528_11.33_124.57,2022-06-05T15:28:00+08:00,11.33,124.57,1.0,2.5,008 km N 64° W of Capoocan (Leyte),2022_Earthquake_Information/June/2022_0605_0728_B2.html
+20220605T1704_9.64_125.55,2022-06-05T17:04:00+08:00,9.64,125.55,16.0,2.5,003 km S 43° E of Sison (Surigao Del Norte),2022_Earthquake_Information/June/2022_0605_0904_B2.html
+20220605T1707_10.2_123.25,2022-06-05T17:07:00+08:00,10.2,123.25,21.0,1.6,010 km N 12° W of City Of Guihulngan (Negros Oriental),2022_Earthquake_Information/June/2022_0605_0907_B1.html
+20220605T1824_8.47_126.34,2022-06-05T18:24:00+08:00,8.47,126.34,33.0,2.1,012 km N 01° W of Hinatuan (Surigao Del Sur),2022_Earthquake_Information/June/2022_0605_1024_B1.html
+20220605T1827_9.31_125.47,2022-06-05T18:27:00+08:00,9.31,125.47,1.0,4.3,006 km S 54° W of Jabonga (Agusan Del Norte),2022_Earthquake_Information/June/2022_0605_1027_B2.html
+20220605T1832_9.34_125.61,2022-06-05T18:32:00+08:00,9.34,125.61,2.0,2.8,011 km East of Jabonga (Agusan Del Norte),2022_Earthquake_Information/June/2022_0605_1032_B2.html
+20220605T1853_9.6_125.6,2022-06-05T18:53:00+08:00,9.6,125.6,41.0,2.5,005 km S 85° W of Bacuag (Surigao Del Norte),2022_Earthquake_Information/June/2022_0605_1053_B2.html
+20220605T1925_15.11_122.11,2022-06-05T19:25:00+08:00,15.11,122.11,2.0,3.2,033 km N 27° E of Burdeos (Quezon),2022_Earthquake_Information/June/2022_0605_1125_B2.html
+20220605T1938_6.91_126.91,2022-06-05T19:38:00+08:00,6.91,126.91,1.0,3.4,053 km S 51° E of Manay (Davao Oriental),2022_Earthquake_Information/June/2022_0605_1138_B2.html
+20220605T1950_9.36_125.54,2022-06-05T19:50:00+08:00,9.36,125.54,7.0,3.1,004 km N 53° E of Jabonga (Agusan Del Norte),2022_Earthquake_Information/June/2022_0605_1150_B2.html
+20220605T1954_9.36_126.88,2022-06-05T19:54:00+08:00,9.36,126.88,26.0,2.6,076 km N 83° E of Cortes (Surigao Del Sur),2022_Earthquake_Information/June/2022_0605_1154_B2.html
+20220605T2000_8.9_126.49,2022-06-05T20:00:00+08:00,8.9,126.49,35.0,2.2,020 km S 85° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0605_1200_B2F.html
+20220605T2017_18.13_120.67,2022-06-05T20:17:00+08:00,18.13,120.67,4.0,2.2,004 km S 40° E of Sarrat (Ilocos Norte),2022_Earthquake_Information/June/2022_0605_1217_B2.html
+20220605T2059_13.48_120.66,2022-06-05T20:59:00+08:00,13.48,120.66,160.0,1.7,008 km N 59° W of Abra De Ilog (Occidental Mindoro),2022_Earthquake_Information/June/2022_0605_1259_B1.html
+20220605T2109_9.12_126.64,2022-06-05T21:09:00+08:00,9.12,126.64,25.0,2.1,052 km S 71° E of Cortes (Surigao Del Sur),2022_Earthquake_Information/June/2022_0605_1309_B2.html
+20220605T2128_14.11_119.24,2022-06-05T21:28:00+08:00,14.11,119.24,28.0,3.2,099 km N 74° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0605_1328_B2.html
+20220605T2133_9.06_126.6,2022-06-05T21:33:00+08:00,9.06,126.6,21.0,2.6,041 km N 83° E of Tago (Surigao Del Sur),2022_Earthquake_Information/June/2022_0605_1333_B2.html
+20220605T2158_9.49_125.61,2022-06-05T21:58:00+08:00,9.49,125.61,24.0,2.2,005 km N 58° E of Alegria (Surigao Del Norte),2022_Earthquake_Information/June/2022_0605_1358_B2.html
+20220605T2202_9.71_126.67,2022-06-05T22:02:00+08:00,9.71,126.67,18.0,2.7,071 km N 47° E of Cortes (Surigao Del Sur),2022_Earthquake_Information/June/2022_0605_1402_B2.html
+20220605T2215_6.51_127.1,2022-06-05T22:15:00+08:00,6.51,127.1,49.0,3.4,094 km S 50° E of Tarragona (Davao Oriental),2022_Earthquake_Information/June/2022_0605_1415_B2.html
+20220605T2307_9.64_125.75,2022-06-05T23:07:00+08:00,9.64,125.75,7.0,2.1,007 km N 15° E of Claver (Surigao Del Norte),2022_Earthquake_Information/June/2022_0605_1507_B2.html
+20220605T2322_15.0_122.09,2022-06-05T23:22:00+08:00,15.0,122.09,16.0,1.8,022 km N 37° E of Burdeos (Quezon),2022_Earthquake_Information/June/2022_0605_1522_B2.html
+20220605T2333_14.04_120.5,2022-06-05T23:33:00+08:00,14.04,120.5,109.0,1.6,014 km S 75° W of Nasugbu (Batangas),2022_Earthquake_Information/June/2022_0605_1533_B2.html
+20220605T2345_8.23_126.58,2022-06-05T23:45:00+08:00,8.23,126.58,33.0,1.7,028 km N 40° E of Lingig (Surigao Del Sur),2022_Earthquake_Information/June/2022_0605_1545_B1.html
+20220605T2348_11.99_120.74,2022-06-05T23:48:00+08:00,11.99,120.74,29.0,1.7,054 km S 42° W of San Jose (Occidental Mindoro),2022_Earthquake_Information/June/2022_0605_1548_B1.html
+20220606T0143_15.32_120.22,2022-06-06T01:43:00+08:00,15.32,120.22,23.0,1.6,021 km N 82° E of Botolan (Zambales),2022_Earthquake_Information/June/2022_0605_1743_B2.html
+20220606T0149_10.08_126.04,2022-06-06T01:49:00+08:00,10.08,126.04,34.0,1.6,007 km N 02° W of Santa Monica (Surigao Del Norte),2022_Earthquake_Information/June/2022_0605_1749_B1.html
+20220606T0306_10.29_122.38,2022-06-06T03:06:00+08:00,10.29,122.38,29.0,2.6,031 km S 34° W of Nueva Valencia (Guimaras),2022_Earthquake_Information/June/2022_0605_1906_B2_Guimaras.html
+20220606T0306_7.5_126.79,2022-06-06T03:06:00+08:00,7.5,126.79,24.0,2.4,049 km S 48° E of Cateel (Davao Oriental),2022_Earthquake_Information/June/2022_0605_1906_B2_Davao_Oriental.html
+20220606T0352_9.88_125.4,2022-06-06T03:52:00+08:00,9.88,125.4,24.0,1.9,014 km N 49° W of City Of Surigao (Surigao Del Norte),2022_Earthquake_Information/June/2022_0605_1952_B2.html
+20220606T0450_7.52_124.51,2022-06-06T04:50:00+08:00,7.52,124.51,9.0,2.2,016 km N 19° W of Alamada (Cotabato),2022_Earthquake_Information/June/2022_0605_2050_B2.html
+20220606T0502_13.78_120.51,2022-06-06T05:02:00+08:00,13.78,120.51,64.0,1.7,015 km S 65° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0605_2102_B2F.html
+20220606T0503_8.2_126.72,2022-06-06T05:03:00+08:00,8.2,126.72,3.0,2.2,039 km N 63° E of Lingig (Surigao Del Sur),2022_Earthquake_Information/June/2022_0605_2103_B1.html
+20220606T0512_9.39_125.55,2022-06-06T05:12:00+08:00,9.39,125.55,2.0,3.5,006 km N 34° E of Jabonga (Agusan Del Norte),2022_Earthquake_Information/June/2022_0605_2112_B2.html
+20220606T0612_6.05_126.02,2022-06-06T06:12:00+08:00,6.05,126.02,135.0,4.5,040 km S 66° E of Don Marcelino (Davao Occidental),2022_Earthquake_Information/June/2022_0605_2212_B3F.html
+20220606T0800_7.39_125.09,2022-06-06T08:00:00+08:00,7.39,125.09,16.0,2.4,006 km N 46° W of Arakan (Cotabato),2022_Earthquake_Information/June/2022_0606_0000_B2.html
+20220606T0842_19.64_120.46,2022-06-06T08:42:00+08:00,19.64,120.46,9.0,1.9,098 km N 53° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0606_0042_B1.html
+20220606T0917_9.63_124.54,2022-06-06T09:17:00+08:00,9.63,124.54,11.0,2.3,013 km S 16° W of Anda (Bohol),2022_Earthquake_Information/June/2022_0606_0117_B2.html
+20220606T0937_9.66_125.49,2022-06-06T09:37:00+08:00,9.66,125.49,4.0,2.2,004 km S 87° W of Sison (Surigao Del Norte),2022_Earthquake_Information/June/2022_0606_0137_B1.html
+20220606T0959_19.18_121.92,2022-06-06T09:59:00+08:00,19.18,121.92,32.0,2.5,030 km N 12° E of Camiguin Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0606_0159_B2.html
+20220606T1022_11.17_125.64,2022-06-06T10:22:00+08:00,11.17,125.64,8.0,2.5,011 km N 42° W of Mercedes (Eastern Samar),2022_Earthquake_Information/June/2022_0606_0222_B2.html
+20220606T1427_6.44_126.11,2022-06-06T14:27:00+08:00,6.44,126.11,53.0,2.7,024 km S 09° E of Governor Generoso (Davao Oriental),2022_Earthquake_Information/June/2022_0606_0627_B2.html
+20220606T1630_17.83_119.31,2022-06-06T16:30:00+08:00,17.83,119.31,19.0,2.4,116 km N 77° W of Santa Catalina (Ilocos Sur),2022_Earthquake_Information/June/2022_0606_0830_B2.html
+20220606T1708_9.9_126.03,2022-06-06T17:08:00+08:00,9.9,126.03,22.0,3.0,001 km N 09° E of Del Carmen (Surigao Del Norte),2022_Earthquake_Information/June/2022_0606_0908_B2.html
+20220606T1748_13.14_124.18,2022-06-06T17:48:00+08:00,13.14,124.18,7.0,2.9,011 km N 07° W of Prieto Diaz (Sorsogon),2022_Earthquake_Information/June/2022_0606_0948_B3.html
+20220606T1756_15.03_121.6,2022-06-06T17:56:00+08:00,15.03,121.6,28.0,2.4,026 km N 66° W of Panukulan (Quezon),2022_Earthquake_Information/June/2022_0606_0956_B2.html
+20220606T1759_6.3_126.37,2022-06-06T17:59:00+08:00,6.3,126.37,57.0,3.8,051 km S 40° E of Governor Generoso (Davao Oriental),2022_Earthquake_Information/June/2022_0606_0959_B2.html
+20220606T1818_14.46_119.26,2022-06-06T18:18:00+08:00,14.46,119.26,15.0,2.8,105 km S 59° W of San Antonio (Zambales),2022_Earthquake_Information/June/2022_0606_1018_B2.html
+20220606T1846_14.92_122.48,2022-06-06T18:46:00+08:00,14.92,122.48,2.0,1.7,030 km N 32° E of Jomalig (Quezon),2022_Earthquake_Information/June/2022_0606_1046_B2.html
+20220606T2103_9.41_125.4,2022-06-06T21:03:00+08:00,9.41,125.4,24.0,1.7,014 km N 58° W of Jabonga (Agusan Del Norte),2022_Earthquake_Information/June/2022_0606_1303_B1.html
+20220606T2144_6.9_126.25,2022-06-06T21:44:00+08:00,6.9,126.25,71.0,2.7,006 km S 34° E of City Of Mati (Davao Oriental),2022_Earthquake_Information/June/2022_0606_1344_B2.html
+20220606T2224_9.03_125.3,2022-06-06T22:24:00+08:00,9.03,125.3,34.0,2.3,014 km N 65° W of Buenavista (Agusan Del Norte),2022_Earthquake_Information/June/2022_0606_1424_B2.html
+20220606T2229_8.41_124.82,2022-06-06T22:29:00+08:00,8.41,124.82,8.0,3.1,006 km N 43° W of Manolo Fortich (Bukidnon),2022_Earthquake_Information/June/2022_0606_1429_B2.html
+20220606T2347_16.7_121.41,2022-06-06T23:47:00+08:00,16.7,121.41,21.0,2.0,007 km N 57° W of Cordon (Isabela),2022_Earthquake_Information/June/2022_0606_1547_B2.html
+20220607T0130_8.86_122.47,2022-06-07T01:30:00+08:00,8.86,122.47,33.0,3.6,063 km S 17° W of Basay (Negros Oriental),2022_Earthquake_Information/June/2022_0606_1730_B2.html
+20220607T0225_9.77_123.8,2022-06-07T02:25:00+08:00,9.77,123.8,25.0,2.0,004 km S 03° E of Loon (Bohol),2022_Earthquake_Information/June/2022_0606_1825_B2.html
+20220607T0234_13.62_120.51,2022-06-07T02:34:00+08:00,13.62,120.51,47.0,1.7,027 km S 30° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0606_1834_B2.html
+20220607T0302_16.95_121.43,2022-06-07T03:02:00+08:00,16.95,121.43,27.0,1.5,011 km S 73° E of Aguinaldo (Ifugao),2022_Earthquake_Information/June/2022_0606_1902_B1.html
+20220607T0303_18.35_122.53,2022-06-07T03:03:00+08:00,18.35,122.53,13.0,2.5,042 km S 74° E of Santa Ana (Cagayan),2022_Earthquake_Information/June/2022_0606_1903_B1.html
+20220607T0424_19.24_119.76,2022-06-07T04:24:00+08:00,19.24,119.76,11.0,2.9,123 km N 49° W of Burgos (Ilocos Norte),2022_Earthquake_Information/June/2022_0606_2024_B2.html
+20220607T1008_9.35_125.93,2022-06-07T10:08:00+08:00,9.35,125.93,27.0,2.1,003 km S 53° W of Carrascal (Surigao Del Sur),2022_Earthquake_Information/June/2022_0607_0208_B2.html
+20220607T1148_10.45_125.08,2022-06-07T11:48:00+08:00,10.45,125.08,27.0,2.3,014 km N 65° W of Hinunangan (Southern Leyte),2022_Earthquake_Information/June/2022_0607_0348_B2.html
+20220607T1327_9.71_122.52,2022-06-07T13:27:00+08:00,9.71,122.52,17.0,3.4,012 km S 53° E of City Of Sipalay (Negros Occidental),2022_Earthquake_Information/June/2022_0607_0527_B2.html
+20220607T1452_14.27_120.37,2022-06-07T14:52:00+08:00,14.27,120.37,107.0,2.0,022 km S 35° W of Mariveles (Bataan),2022_Earthquake_Information/June/2022_0607_0652_B2.html
+20220607T1454_14.07_119.05,2022-06-07T14:54:00+08:00,14.07,119.05,60.0,2.3,118 km N 79° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0607_0654_B2.html
+20220607T1507_8.63_126.48,2022-06-07T15:07:00+08:00,8.63,126.48,12.0,2.1,028 km S 46° E of Marihatag (Surigao Del Sur),2022_Earthquake_Information/June/2022_0607_0707_B1.html
+20220607T1542_9.65_126.16,2022-06-07T15:42:00+08:00,9.65,126.16,33.0,2.1,015 km S 01° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0607_0742_B1.html
+20220607T1616_13.96_120.3,2022-06-07T16:16:00+08:00,13.96,120.3,54.0,3.3,019 km N 52° E of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0607_0816_B2.html
+20220607T1709_3.88_126.36,2022-06-07T17:09:00+08:00,3.88,126.36,29.0,3.9,199 km S 31° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0607_0909_B2.html
+20220607T1803_10.66_126.44,2022-06-07T18:03:00+08:00,10.66,126.44,2.0,3.2,079 km S 83° E of Homonhon Island (Guiuan) (Eastern Samar),2022_Earthquake_Information/June/2022_0607_1003_B2.html
+20220607T1817_13.68_120.5,2022-06-07T18:17:00+08:00,13.68,120.5,68.0,1.8,022 km S 40° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0607_1017_B2.html
+20220607T1839_16.71_120.15,2022-06-07T18:39:00+08:00,16.71,120.15,40.0,1.8,020 km N 58° W of City Of San Fernando (La Union),2022_Earthquake_Information/June/2022_0607_1039_B2.html
+20220607T1909_14.44_119.09,2022-06-07T19:09:00+08:00,14.44,119.09,14.0,2.7,121 km S 62° W of San Antonio (Zambales),2022_Earthquake_Information/June/2022_0607_1109_B2.html
+20220607T2045_13.5_120.14,2022-06-07T20:45:00+08:00,13.5,120.14,15.0,2.5,027 km S 26° W of Looc (Occidental Mindoro),2022_Earthquake_Information/June/2022_0607_1245_B2.html
+20220607T2259_19.09_121.06,2022-06-07T22:59:00+08:00,19.09,121.06,1.0,3.0,015 km S 82° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0607_1459_B2.html
+20220607T2310_13.08_120.11,2022-06-07T23:10:00+08:00,13.08,120.11,31.0,1.6,055 km S 48° W of Paluan (Occidental Mindoro),2022_Earthquake_Information/June/2022_0607_1510_B2.html
+20220607T2321_6.72_125.12,2022-06-07T23:21:00+08:00,6.72,125.12,11.0,3.0,005 km S 51° W of Magsaysay (Davao Del Sur),2022_Earthquake_Information/June/2022_0607_1521_B2.html
+20220607T2332_10.15_125.63,2022-06-07T23:32:00+08:00,10.15,125.63,71.0,3.1,010 km N 19° E of Basilisa (Dinagat Islands),2022_Earthquake_Information/June/2022_0607_1532_B2.html
+20220608T0019_9.66_125.34,2022-06-08T00:19:00+08:00,9.66,125.34,28.0,2.3,008 km N 55° W of Malimono (Surigao Del Norte),2022_Earthquake_Information/June/2022_0607_1619_B1.html
+20220608T0052_7.75_122.21,2022-06-08T00:52:00+08:00,7.75,122.21,14.0,1.6,010 km N 60° E of Siocon (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0607_1652_B1.html
+20220608T0111_13.82_123.59,2022-06-08T01:11:00+08:00,13.82,123.59,28.0,2.2,015 km S 58° W of Garchitorena (Camarines Sur),2022_Earthquake_Information/June/2022_0607_1711_B2.html
+20220608T0119_16.22_122.01,2022-06-08T01:19:00+08:00,16.22,122.01,21.0,2.8,011 km N 32° E of Dinalungan (Aurora),2022_Earthquake_Information/June/2022_0607_1719_B2.html
+20220608T0126_7.86_121.92,2022-06-08T01:26:00+08:00,7.86,121.92,33.0,1.7,030 km N 53° W of Siocon (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0607_1726_B2.html
+20220608T0227_9.96_125.11,2022-06-08T02:27:00+08:00,9.96,125.11,12.0,2.0,007 km N 37° E of Limasawa (Southern Leyte),2022_Earthquake_Information/June/2022_0607_1827_B2.html
+20220608T0244_9.17_125.64,2022-06-08T02:44:00+08:00,9.17,125.64,28.0,2.2,013 km S 40° E of Santiago (Agusan Del Norte),2022_Earthquake_Information/June/2022_0607_1844_B2.html
+20220608T0247_14.81_119.91,2022-06-08T02:47:00+08:00,14.81,119.91,21.0,2.3,025 km S 50° W of San Antonio (Zambales),2022_Earthquake_Information/June/2022_0607_1847_B2.html
+20220608T0256_13.58_121.02,2022-06-08T02:56:00+08:00,13.58,121.02,2.0,2.4,007 km N 48° W of Verde Island (Batangas City) (Batangas),2022_Earthquake_Information/June/2022_0607_1856_B2.html
+20220608T0324_17.75_121.24,2022-06-08T03:24:00+08:00,17.75,121.24,33.0,1.9,010 km S 62° W of Conner (Apayao),2022_Earthquake_Information/June/2022_0607_1924_B1.html
+20220608T0351_8.84_126.65,2022-06-08T03:51:00+08:00,8.84,126.65,14.0,3.3,039 km S 78° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0607_1951_B2.html
+20220608T0437_6.47_127.2,2022-06-08T04:37:00+08:00,6.47,127.2,68.0,5.2,104 km S 52° E of Tarragona (Davao Oriental),2022_Earthquake_Information/June/2022_0607_2037_B3F.html
+20220608T0508_13.81_120.49,2022-06-08T05:08:00+08:00,13.81,120.49,79.0,2.0,015 km S 83° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0607_2108_B2.html
+20220608T0545_6.51_127.21,2022-06-08T05:45:00+08:00,6.51,127.21,77.0,3.4,104 km S 55° E of Tarragona (Davao Oriental),2022_Earthquake_Information/June/2022_0607_2145_B2.html
+20220608T0602_8.45_126.56,2022-06-08T06:02:00+08:00,8.45,126.56,33.0,1.8,026 km N 70° E of Hinatuan (Surigao Del Sur),2022_Earthquake_Information/June/2022_0607_2202_B1.html
+20220608T0638_16.07_119.76,2022-06-08T06:38:00+08:00,16.07,119.76,10.0,2.3,007 km S 42° W of Agno (Pangasinan),2022_Earthquake_Information/June/2022_0607_2238_B1.html
+20220608T0742_9.83_122.73,2022-06-08T07:42:00+08:00,9.83,122.73,7.0,2.6,009 km S 88° E of Candoni (Negros Occidental),2022_Earthquake_Information/June/2022_0607_2342_B2.html
+20220608T0828_8.21_122.29,2022-06-08T08:28:00+08:00,8.21,122.29,29.0,2.8,028 km N 27° W of Gutalac (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0608_0028_B2.html
+20220608T1138_10.41_123.48,2022-06-08T11:38:00+08:00,10.41,123.48,4.0,2.8,011 km S 40° E of City Of San Carlos (Negros Occidental),2022_Earthquake_Information/June/2022_0608_0338_B2.html
+20220608T1205_10.14_126.1,2022-06-08T12:05:00+08:00,10.14,126.1,32.0,1.7,014 km N 14° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0608_0405_B1.html
+20220608T1509_8.8_126.48,2022-06-08T15:09:00+08:00,8.8,126.48,28.0,3.0,024 km S 57° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0608_0709_B2F.html
+20220608T1638_9.73_125.91,2022-06-08T16:38:00+08:00,9.73,125.91,40.0,2.0,014 km N 26° W of Socorro (Surigao Del Norte),2022_Earthquake_Information/June/2022_0608_0838_B1.html
+20220608T1729_17.2_122.5,2022-06-08T17:29:00+08:00,17.2,122.5,17.0,3.2,017 km N 27° E of Palanan (Isabela),2022_Earthquake_Information/June/2022_0608_0929_B2.html
+20220608T1823_8.9_126.64,2022-06-08T18:23:00+08:00,8.9,126.64,31.0,2.9,037 km S 86° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0608_1023_B2.html
+20220608T1928_12.17_123.87,2022-06-08T19:28:00+08:00,12.17,123.87,4.0,4.1,003 km S 17° E of Dimasalang (Masbate),2022_Earthquake_Information/June/2022_0608_1128_B3F.html
+20220608T2129_8.99_127.0,2022-06-08T21:29:00+08:00,8.99,127.0,6.0,3.6,078 km N 84° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0608_1329_B2.html
+20220608T2133_8.99_126.81,2022-06-08T21:33:00+08:00,8.99,126.81,1.0,1.8,058 km N 88° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0608_1333_B1.html
+20220608T2134_9.07_126.65,2022-06-08T21:34:00+08:00,9.07,126.65,9.0,2.5,042 km N 75° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0608_1334_B1.html
+20220608T2218_18.87_121.21,2022-06-08T22:18:00+08:00,18.87,121.21,41.0,2.4,017 km N 83° W of Fuga Island (Aparri) (Cagayan),2022_Earthquake_Information/June/2022_0608_1418_B2.html
+20220608T2221_9.07_123.06,2022-06-08T22:21:00+08:00,9.07,123.06,12.0,2.9,004 km N 69° E of Siaton (Negros Oriental),2022_Earthquake_Information/June/2022_0608_1421_B2.html
+20220608T2225_4.8_124.26,2022-06-08T22:25:00+08:00,4.8,124.26,17.0,3.2,137 km S 17° W of Kiamba (Sarangani),2022_Earthquake_Information/June/2022_0608_1425_B2.html
+20220608T2248_18.28_120.89,2022-06-08T22:48:00+08:00,18.28,120.89,1.0,1.7,017 km N 81° W of Calanasan (Apayao),2022_Earthquake_Information/June/2022_0608_1448_B2.html
+20220608T2254_9.86_126.27,2022-06-08T22:54:00+08:00,9.86,126.27,1.0,2.6,015 km N 55° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0608_1454_B2.html
+20220608T2350_13.56_120.64,2022-06-08T23:50:00+08:00,13.56,120.64,84.0,2.2,016 km N 35° W of Abra De Ilog (Occidental Mindoro),2022_Earthquake_Information/June/2022_0608_1550_B2.html
+20220609T0012_16.2_121.86,2022-06-09T00:12:00+08:00,16.2,121.86,21.0,3.0,012 km N 57° W of Dinalungan (Aurora),2022_Earthquake_Information/June/2022_0608_1612_B2.html
+20220609T0016_8.63_126.38,2022-06-09T00:16:00+08:00,8.63,126.38,1.0,1.9,021 km S 25° E of Marihatag (Surigao Del Sur),2022_Earthquake_Information/June/2022_0608_1616_B1.html
+20220609T0026_8.86_125.92,2022-06-09T00:26:00+08:00,8.86,125.92,1.0,2.9,016 km S 52° W of San Miguel (Surigao Del Sur),2022_Earthquake_Information/June/2022_0608_1626_B2.html
+20220609T0032_17.53_122.4,2022-06-09T00:32:00+08:00,17.53,122.4,33.0,2.9,023 km N 47° E of Maconacon (Isabela),2022_Earthquake_Information/June/2022_0608_1632_B2.html
+20220609T0037_14.41_119.15,2022-06-09T00:37:00+08:00,14.41,119.15,16.0,2.6,117 km S 59° W of San Antonio (Zambales),2022_Earthquake_Information/June/2022_0608_1637_B2.html
+20220609T0040_7.42_124.0,2022-06-09T00:40:00+08:00,7.42,124.0,17.0,2.4,009 km N 26° W of Bongo Island (Parang) (Maguindanao),2022_Earthquake_Information/June/2022_0608_1640_B1.html
+20220609T0054_5.44_127.15,2022-06-09T00:54:00+08:00,5.44,127.15,9.0,3.8,175 km S 72° E of Jose Abad Santos (Davao Occidental),2022_Earthquake_Information/June/2022_0608_1654_B2.html
+20220609T0113_6.02_125.94,2022-06-09T01:13:00+08:00,6.02,125.94,150.0,3.0,034 km S 55° E of Don Marcelino (Davao Occidental),2022_Earthquake_Information/June/2022_0608_1713_B2.html
+20220609T0115_9.44_125.38,2022-06-09T01:15:00+08:00,9.44,125.38,24.0,1.5,018 km N 56° W of Jabonga (Agusan Del Norte),2022_Earthquake_Information/June/2022_0608_1715_B1.html
+20220609T0116_9.69_126.11,2022-06-09T01:16:00+08:00,9.69,126.11,24.0,2.7,010 km S 38° E of Dapa (Surigao Del Norte),2022_Earthquake_Information/June/2022_0608_1716_B2.html
+20220609T0121_10.14_126.16,2022-06-09T01:21:00+08:00,10.14,126.16,6.0,2.6,016 km N 34° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0608_1721_B1.html
+20220609T0124_4.84_125.84,2022-06-09T01:24:00+08:00,4.84,125.84,113.0,3.4,079 km S 36° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0608_1724_B1.html
+20220609T0219_9.55_122.12,2022-06-09T02:19:00+08:00,9.55,122.12,7.0,2.6,038 km S 81° W of Hinoba-an (Negros Occidental),2022_Earthquake_Information/June/2022_0608_1819_B1.html
+20220609T0231_9.97_122.32,2022-06-09T02:31:00+08:00,9.97,122.32,13.0,2.2,025 km N 28° W of City Of Sipalay (Negros Occidental),2022_Earthquake_Information/June/2022_0608_1831_B1.html
+20220609T0312_9.01_122.82,2022-06-09T03:12:00+08:00,9.01,122.82,32.0,2.3,024 km S 75° W of Siaton (Negros Oriental),2022_Earthquake_Information/June/2022_0608_1912_B1.html
+20220609T0321_13.0_124.34,2022-06-09T03:21:00+08:00,13.0,124.34,1.0,3.1,017 km S 75° E of Prieto Diaz (Sorsogon),2022_Earthquake_Information/June/2022_0608_1921_B1.html
+20220609T0431_13.68_120.93,2022-06-09T04:31:00+08:00,13.68,120.93,30.0,1.9,007 km N 68° E of Tingloy (Batangas),2022_Earthquake_Information/June/2022_0608_2031_B1.html
+20220609T0450_7.26_124.79,2022-06-09T04:50:00+08:00,7.26,124.79,12.0,2.6,006 km N 02° W of Carmen (Cotabato),2022_Earthquake_Information/June/2022_0608_2050_B1.html
+20220609T0454_4.44_125.62,2022-06-09T04:54:00+08:00,4.44,125.62,94.0,3.7,109 km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0608_2054_B1.html
+20220609T0456_10.36_126.85,2022-06-09T04:56:00+08:00,10.36,126.85,1.0,4.2,093 km N 66° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0608_2056_B1.html
+20220609T0532_8.48_125.85,2022-06-09T05:32:00+08:00,8.48,125.85,32.0,1.8,008 km N 66° E of Talacogon (Agusan Del Sur),2022_Earthquake_Information/June/2022_0608_2132_B1.html
+20220609T0550_20.78_121.53,2022-06-09T05:50:00+08:00,20.78,121.53,10.0,3.4,033 km S 88° W of Itbayat (Batanes),2022_Earthquake_Information/June/2022_0608_2150_B1.html
+20220609T0613_12.92_124.88,2022-06-09T06:13:00+08:00,12.92,124.88,4.0,2.0,040 km N 07° W of Pambujan (Northern Samar),2022_Earthquake_Information/June/2022_0608_2213_B1.html
+20220609T0640_18.42_120.85,2022-06-09T06:40:00+08:00,18.42,120.85,25.0,2.2,007 km S 47° W of Adams (Ilocos Norte),2022_Earthquake_Information/June/2022_0608_2240_B2.html
+20220609T0717_13.98_120.53,2022-06-09T07:17:00+08:00,13.98,120.53,104.0,1.8,019 km N 35° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0608_2317_B2.html
+20220609T0759_13.71_120.55,2022-06-09T07:59:00+08:00,13.71,120.55,86.0,1.7,017 km S 34° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0608_2359_B2.html
+20220609T1110_9.21_122.43,2022-06-09T11:10:00+08:00,9.21,122.43,23.0,2.5,044 km S 05° W of Hinoba-an (Negros Occidental),2022_Earthquake_Information/June/2022_0609_0310_B2.html
+20220609T1441_16.88_120.6,2022-06-09T14:41:00+08:00,16.88,120.6,27.0,1.8,010 km N 67° E of Sugpon (Ilocos Sur),2022_Earthquake_Information/June/2022_0609_0641_B2.html
+20220609T1455_16.31_122.21,2022-06-09T14:55:00+08:00,16.31,122.21,32.0,1.7,009 km South of Dilasag (Aurora),2022_Earthquake_Information/June/2022_0609_0655_B1.html
+20220609T1558_17.99_121.0,2022-06-09T15:58:00+08:00,17.99,121.0,2.0,2.2,036 km S 58° E of Piddig (Ilocos Norte),2022_Earthquake_Information/June/2022_0609_0758_B2.html
+20220609T1725_18.69_121.67,2022-06-09T17:25:00+08:00,18.69,121.67,21.0,2.0,019 km S 53° E of Fuga Island (Aparri) (Cagayan),2022_Earthquake_Information/June/2022_0609_0925_B1.html
+20220609T1745_7.52_127.11,2022-06-09T17:45:00+08:00,7.52,127.11,9.0,2.5,061 km S 85° E of Baganga (Davao Oriental),2022_Earthquake_Information/June/2022_0609_0945_B1.html
+20220609T1834_13.7_120.59,2022-06-09T18:34:00+08:00,13.7,120.59,86.0,1.6,016 km S 18° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0609_1034_B2F.html
+20220609T1857_14.25_119.1,2022-06-09T18:57:00+08:00,14.25,119.1,16.0,3.0,118 km N 69° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0609_1057_B2F.html
+20220609T1937_15.0_121.17,2022-06-09T19:37:00+08:00,15.0,121.17,17.0,2.7,012 km N 77° E of Doña Remedios Trinidad (Bulacan),2022_Earthquake_Information/June/2022_0609_1137_B2F.html
+20220609T1948_6.65_125.16,2022-06-09T19:48:00+08:00,6.65,125.16,1.0,2.7,011 km S 01° E of Magsaysay (Davao Del Sur),2022_Earthquake_Information/June/2022_0609_1148_B2.html
+20220609T1954_10.09_126.44,2022-06-09T19:54:00+08:00,10.09,126.44,1.0,2.9,041 km N 78° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0609_1154_B2.html
+20220609T2104_12.88_121.67,2022-06-09T21:04:00+08:00,12.88,121.67,19.0,2.8,007 km S 58° W of Concepcion (Romblon),2022_Earthquake_Information/June/2022_0609_1304_B2.html
+20220609T2156_8.84_126.15,2022-06-09T21:56:00+08:00,8.84,126.15,4.0,1.7,014 km N 38° W of San Agustin (Surigao Del Sur),2022_Earthquake_Information/June/2022_0609_1356_B1.html
+20220609T2241_3.71_126.41,2022-06-09T22:41:00+08:00,3.71,126.41,98.0,3.8,218 km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0609_1441_B1.html
+20220609T2312_13.78_120.37,2022-06-09T23:12:00+08:00,13.78,120.37,60.0,2.5,015 km N 61° E of Looc (Occidental Mindoro),2022_Earthquake_Information/June/2022_0609_1512_B2.html
+20220609T2325_7.82_122.68,2022-06-09T23:25:00+08:00,7.82,122.68,32.0,1.5,003 km N 31° W of Naga (Zamboanga Sibugay),2022_Earthquake_Information/June/2022_0609_1525_B1.html
+20220610T0011_12.89_125.19,2022-06-10T00:11:00+08:00,12.89,125.19,5.0,2.4,039 km N 11° E of Palapag (Northern Samar),2022_Earthquake_Information/June/2022_0609_1611_B2.html
+20220610T0016_8.24_126.03,2022-06-10T00:16:00+08:00,8.24,126.03,31.0,2.0,007 km N 29° E of Bunawan (Agusan Del Sur),2022_Earthquake_Information/June/2022_0609_1616_B1.html
+20220610T0031_20.17_122.93,2022-06-10T00:31:00+08:00,20.17,122.93,1.0,3.0,105 km S 73° E of Basco (Batanes),2022_Earthquake_Information/June/2022_0609_1631_B2.html
+20220610T0038_7.76_123.15,2022-06-10T00:38:00+08:00,7.76,123.15,30.0,1.9,002 km N 18° E of Kumalarang (Zamboanga Del Sur),2022_Earthquake_Information/June/2022_0609_1638_B1.html
+20220610T0059_10.87_124.19,2022-06-10T00:59:00+08:00,10.87,124.19,30.0,1.7,020 km S 67° E of Tabogon (Cebu),2022_Earthquake_Information/June/2022_0609_1659_B2.html
+20220610T0203_7.29_123.61,2022-06-10T02:03:00+08:00,7.29,123.61,34.0,1.9,029 km S 49° E of Tabina (Zamboanga Del Sur),2022_Earthquake_Information/June/2022_0609_1803_B2.html
+20220610T0232_9.01_126.36,2022-06-10T02:32:00+08:00,9.01,126.36,23.0,1.9,009 km N 61° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0609_1832_B1.html
+20220610T0302_16.53_120.87,2022-06-10T03:02:00+08:00,16.53,120.87,4.0,3.0,006 km N 42° E of Bokod (Benguet),2022_Earthquake_Information/June/2022_0609_1902_B2.html
+20220610T0309_16.57_120.92,2022-06-10T03:09:00+08:00,16.57,120.92,13.0,1.9,013 km N 50° E of Bokod (Benguet),2022_Earthquake_Information/June/2022_0609_1909_B2.html
+20220610T0359_15.07_122.07,2022-06-10T03:59:00+08:00,15.07,122.07,18.0,2.1,027 km N 23° E of Burdeos (Quezon),2022_Earthquake_Information/June/2022_0609_1959_B2.html
+20220610T0422_18.67_120.82,2022-06-10T04:22:00+08:00,18.67,120.82,13.0,3.2,013 km N 14° E of Pagudpud (Ilocos Norte),2022_Earthquake_Information/June/2022_0609_2022_B2F.html
+20220610T0435_19.25_121.62,2022-06-10T04:35:00+08:00,19.25,121.62,15.0,2.3,015 km S 87° E of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0609_2035_B2.html
+20220610T0443_8.9_126.26,2022-06-10T04:43:00+08:00,8.9,126.26,35.0,2.1,005 km S 69° W of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0609_2043_B1F.html
+20220610T0537_19.06_121.22,2022-06-10T05:37:00+08:00,19.06,121.22,9.0,2.1,005 km S 21° E of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0609_2137_B2.html
+20220610T0549_7.15_123.59,2022-06-10T05:49:00+08:00,7.15,123.59,24.0,2.4,040 km S 29° E of Tabina (Zamboanga Del Sur),2022_Earthquake_Information/June/2022_0609_2149_B2.html
+20220610T0618_9.44_126.77,2022-06-10T06:18:00+08:00,9.44,126.77,2.0,2.9,075 km N 46° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0609_2218_B2.html
+20220610T0758_17.63_120.19,2022-06-10T07:58:00+08:00,17.63,120.19,17.0,2.9,019 km N 78° W of Santa Catalina (Ilocos Sur),2022_Earthquake_Information/June/2022_0609_2358_B2F.html
+20220610T0759_12.42_125.32,2022-06-10T07:59:00+08:00,12.42,125.32,23.0,3.4,010 km S 51° E of Mapanas (Northern Samar),2022_Earthquake_Information/June/2022_0609_2359_B2.html
+20220610T1026_16.67_121.01,2022-06-10T10:26:00+08:00,16.67,121.01,27.0,2.1,007 km S 82° E of Tinoc (Ifugao),2022_Earthquake_Information/June/2022_0610_0226_B1.html
+20220610T1300_17.15_119.97,2022-06-10T13:00:00+08:00,17.15,119.97,18.0,2.8,051 km S 88° W of City Of Candon (Ilocos Sur),2022_Earthquake_Information/June/2022_0610_0500_B2.html
+20220610T1351_16.53_120.86,2022-06-10T13:51:00+08:00,16.53,120.86,3.0,3.1,018 km S 89° W of Ambaguio (Nueva Vizcaya),2022_Earthquake_Information/June/2022_0610_0551_B3.html
+20220610T1541_16.9_120.19,2022-06-10T15:41:00+08:00,16.9,120.19,19.0,2.9,020 km N 75° W of Luna (La Union),2022_Earthquake_Information/June/2022_0610_0741_B2.html
+20220610T1840_8.19_126.32,2022-06-10T18:40:00+08:00,8.19,126.32,1.0,1.8,002 km S 11° E of City Of Bislig (Surigao Del Sur),2022_Earthquake_Information/June/2022_0610_1040_B1.html
+20220610T1850_6.28_126.55,2022-06-10T18:50:00+08:00,6.28,126.55,15.0,2.4,067 km S 52° E of Governor Generoso (Davao Oriental),2022_Earthquake_Information/June/2022_0610_1050_B2.html
+20220610T1948_6.64_126.08,2022-06-10T19:48:00+08:00,6.64,126.08,38.0,2.3,022 km S 01° W of San Isidro (Davao Oriental),2022_Earthquake_Information/June/2022_0610_1148_B2.html
+20220610T2042_13.91_120.53,2022-06-10T20:42:00+08:00,13.91,120.53,119.0,2.7,014 km N 53° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0610_1242_B2F.html
+20220610T2047_13.89_119.6,2022-06-10T20:47:00+08:00,13.89,119.6,3.0,1.9,056 km N 87° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0610_1247_B1F.html
+20220610T2048_16.79_121.3,2022-06-10T20:48:00+08:00,16.79,121.3,34.0,1.8,018 km S 88° E of Lagawe (Ifugao),2022_Earthquake_Information/June/2022_0610_1248_B2.html
+20220610T2122_17.94_121.17,2022-06-10T21:22:00+08:00,17.94,121.17,33.0,1.7,009 km S 12° W of Kabugao (Apayao),2022_Earthquake_Information/June/2022_0610_1322_B1.html
+20220610T2147_10.48_124.45,2022-06-10T21:47:00+08:00,10.48,124.45,13.0,2.4,018 km S 07° W of Tudela (Cebu),2022_Earthquake_Information/June/2022_0610_1347_B1.html
+20220610T2206_6.85_127.14,2022-06-10T22:06:00+08:00,6.85,127.14,53.0,2.3,078 km S 59° E of Manay (Davao Oriental),2022_Earthquake_Information/June/2022_0609_1406_B2.html
+20220610T2218_8.11_126.49,2022-06-10T22:18:00+08:00,8.11,126.49,3.0,2.3,011 km N 47° E of Lingig (Surigao Del Sur),2022_Earthquake_Information/June/2022_0610_1418_B1.html
+20220610T2245_19.97_121.27,2022-06-10T22:45:00+08:00,19.97,121.27,12.0,2.8,075 km S 57° W of Sabtang (Batanes),2022_Earthquake_Information/June/2022_0610_1445_B1.html
+20220610T2257_14.2_119.04,2022-06-10T22:57:00+08:00,14.2,119.04,22.0,3.6,122 km N 72° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0610_1457_B2F.html
+20220610T2335_8.95_126.77,2022-06-10T23:35:00+08:00,8.95,126.77,2.0,2.1,054 km S 88° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0610_1535_B2.html
+20220611T0042_16.39_121.03,2022-06-11T00:42:00+08:00,16.39,121.03,35.0,1.6,008 km N 86° W of Bambang (Nueva Vizcaya),2022_Earthquake_Information/June/2022_0610_1642_B1.html
+20220611T0107_3.63_123.1,2022-06-11T01:07:00+08:00,3.63,123.1,568.0,4.3,308 km S 28° E of Banguingui (Sulu),2022_Earthquake_Information/June/2022_0610_1707_B2.html
+20220611T0111_18.2_120.48,2022-06-11T01:11:00+08:00,18.2,120.48,10.0,2.5,012 km N 87° W of City Of Laoag (Ilocos Norte),2022_Earthquake_Information/June/2022_0610_1711_B2.html
+20220611T0317_9.98_122.13,2022-06-11T03:17:00+08:00,9.98,122.13,3.0,1.8,040 km N 55° W of City Of Sipalay (Negros Occidental),2022_Earthquake_Information/June/2022_0610_1917_B1.html
+20220611T0328_13.9_120.45,2022-06-11T03:28:00+08:00,13.9,120.45,20.0,1.7,021 km N 69° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0610_1928_B2.html
+20220611T0358_13.02_120.46,2022-06-11T03:58:00+08:00,13.02,120.46,27.0,2.0,027 km S 33° W of Mamburao (Occidental Mindoro),2022_Earthquake_Information/June/2022_0610_1958_B2.html
+20220611T0401_9.35_122.03,2022-06-11T04:01:00+08:00,9.35,122.03,5.0,3.1,056 km S 59° W of Hinoba-an (Negros Occidental),2022_Earthquake_Information/June/2022_0610_2001_B2.html
+20220611T0618_13.0_120.79,2022-06-11T06:18:00+08:00,13.0,120.79,31.0,2.2,012 km S 38° E of Santa Cruz (Occidental Mindoro),2022_Earthquake_Information/June/2022_0610_2218_B2.html
+20220611T0651_9.62_125.53,2022-06-11T06:51:00+08:00,9.62,125.53,33.0,2.2,004 km South of Sison (Surigao Del Norte),2022_Earthquake_Information/June/2022_0610_2251_B2.html
+20220611T0704_14.29_119.27,2022-06-11T07:04:00+08:00,14.29,119.27,27.0,2.6,104 km N 63° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0610_2304_B1F.html
+20220611T0707_8.26_126.04,2022-06-11T07:07:00+08:00,8.26,126.04,1.0,2.6,010 km N 30° E of Bunawan (Agusan Del Sur),2022_Earthquake_Information/June/2022_0610_2307_B2.html
+20220611T1032_8.53_123.29,2022-06-11T10:32:00+08:00,8.53,123.29,32.0,1.8,006 km N 78° E of President Manuel A. Roxas (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0611_0232_B2.html
+20220611T1112_8.9_126.93,2022-06-11T11:12:00+08:00,8.9,126.93,25.0,2.2,069 km S 88° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0611_0312_B1F.html
+20220611T1159_10.26_126.24,2022-06-11T11:59:00+08:00,10.26,126.24,33.0,2.2,032 km N 34° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0611_0359_B1.html
+20220611T1200_18.38_120.69,2022-06-11T12:00:00+08:00,18.38,120.69,4.0,2.6,009 km N 54° E of Pasuquin (Ilocos Norte),2022_Earthquake_Information/June/2022_0611_0400_B2.html
+20220611T1230_12.92_124.74,2022-06-11T12:30:00+08:00,12.92,124.74,17.0,2.9,044 km N 02° W of Mondragon (Northern Samar),2022_Earthquake_Information/June/2022_0611_0430_B2.html
+20220611T1338_10.65_125.94,2022-06-11T13:38:00+08:00,10.65,125.94,1.0,4.0,026 km S 66° E of Homonhon Island (Guiuan) (Eastern Samar),2022_Earthquake_Information/June/2022_0611_0538_B2.html
+20220611T1445_9.72_123.02,2022-06-11T14:45:00+08:00,9.72,123.02,5.0,2.2,011 km S 82° E of Mabinay (Negros Oriental),2022_Earthquake_Information/June/2022_0611_0645_B2.html
+20220611T1526_19.1_121.52,2022-06-11T15:26:00+08:00,19.1,121.52,20.0,2.6,018 km S 16° E of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0611_0726_B2.html
+20220611T1616_9.49_125.62,2022-06-11T16:16:00+08:00,9.49,125.62,1.0,2.7,006 km N 59° E of Alegria (Surigao Del Norte),2022_Earthquake_Information/June/2022_0611_0816_B2.html
+20220611T2102_16.17_121.98,2022-06-11T21:02:00+08:00,16.17,121.98,24.0,2.1,005 km N 38° E of Dinalungan (Aurora),2022_Earthquake_Information/June/2022_0611_1302_B1.html
+20220611T2105_9.56_125.72,2022-06-11T21:05:00+08:00,9.56,125.72,29.0,2.2,002 km S 55° W of Claver (Surigao Del Norte),2022_Earthquake_Information/June/2022_0611_1305_B2.html
+20220611T2127_9.84_123.03,2022-06-11T21:27:00+08:00,9.84,123.03,1.0,2.3,016 km N 44° E of Mabinay (Negros Oriental),2022_Earthquake_Information/June/2022_0611_1327_B2.html
+20220611T2226_11.76_125.38,2022-06-11T22:26:00+08:00,11.76,125.38,16.0,1.9,008 km N 83° W of San Julian (Eastern Samar),2022_Earthquake_Information/June/2022_0611_1426_B1.html
+20220611T2231_13.62_124.6,2022-06-11T22:31:00+08:00,13.62,124.6,29.0,2.4,025 km S 80° E of Baras (Catanduanes),2022_Earthquake_Information/June/2022_0611_1431_B2.html
+20220611T2232_10.75_126.12,2022-06-11T22:32:00+08:00,10.75,126.12,5.0,2.8,044 km N 89° E of Homonhon Island (Guiuan) (Eastern Samar),2022_Earthquake_Information/June/2022_0611_1432_B2.html
+20220611T2252_11.17_125.62,2022-06-11T22:52:00+08:00,11.17,125.62,12.0,2.5,005 km N 63° W of Salcedo (Eastern Samar),2022_Earthquake_Information/June/2022_0611_1452_B2.html
+20220611T2307_9.8_124.61,2022-06-11T23:07:00+08:00,9.8,124.61,9.0,2.0,008 km N 27° E of Anda (Bohol),2022_Earthquake_Information/June/2022_0611_1507_B1.html
+20220611T2324_6.95_125.93,2022-06-11T23:24:00+08:00,6.95,125.93,38.0,2.5,009 km S 77° W of Banaybanay (Davao Oriental),2022_Earthquake_Information/June/2022_0611_1524_B1.html
+20220611T2345_11.63_124.36,2022-06-11T23:45:00+08:00,11.63,124.36,3.0,3.0,002 km N 62° W of Almeria (Biliran),2022_Earthquake_Information/June/2022_0611_1545_B2.html
+20220612T0023_19.1_121.02,2022-06-12T00:23:00+08:00,19.1,121.02,27.0,3.1,020 km S 88° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0611_1623_B2.html
+20220612T0030_13.23_121.61,2022-06-12T00:30:00+08:00,13.23,121.61,25.0,2.2,020 km N 63° E of Pola (Oriental Mindoro),2022_Earthquake_Information/June/2022_0611_1630_B2.html
+20220612T0043_17.57_122.32,2022-06-12T00:43:00+08:00,17.57,122.32,51.0,2.5,022 km N 24° E of Maconacon (Isabela),2022_Earthquake_Information/June/2022_0611_1643_B1.html
+20220612T0059_12.3_125.18,2022-06-12T00:59:00+08:00,12.3,125.18,27.0,4.0,006 km N 73° W of Jipapad (Eastern Samar),2022_Earthquake_Information/June/2022_0611_1659_B2F.html
+20220612T0112_10.06_125.18,2022-06-12T01:12:00+08:00,10.06,125.18,19.0,3.1,003 km N 72° E of San Francisco (Southern Leyte),2022_Earthquake_Information/June/2022_0611_1712_B2.html
+20220612T0143_10.07_125.23,2022-06-12T01:43:00+08:00,10.07,125.23,33.0,2.1,009 km N 80° E of San Francisco (Southern Leyte),2022_Earthquake_Information/June/2022_0611_1743_B1.html
+20220612T0144_16.26_120.85,2022-06-12T01:44:00+08:00,16.26,120.85,19.0,1.8,015 km N 40° W of Santa Fe (Nueva Vizcaya),2022_Earthquake_Information/June/2022_0611_1744_B1.html
+20220612T0324_6.79_126.1,2022-06-12T03:24:00+08:00,6.79,126.1,31.0,2.6,005 km S 30° E of San Isidro (Davao Oriental),2022_Earthquake_Information/June/2022_0611_1924_B1.html
+20220612T0340_6.6_125.15,2022-06-12T03:40:00+08:00,6.6,125.15,10.0,3.1,012 km S 78° W of Kiblawan (Davao Del Sur),2022_Earthquake_Information/June/2022_0611_1940_B2.html
+20220612T0345_13.41_120.58,2022-06-12T03:45:00+08:00,13.41,120.58,1.0,2.0,012 km S 86° E of Paluan (Occidental Mindoro),2022_Earthquake_Information/June/2022_0611_1945_B2.html
+20220612T1206_6.73_125.07,2022-06-12T12:06:00+08:00,6.73,125.07,16.0,3.4,010 km S 73° W of Magsaysay (Davao Del Sur),2022_Earthquake_Information/June/2022_0612_0406_B2F.html
+20220612T1247_13.17_120.76,2022-06-12T12:47:00+08:00,13.17,120.76,15.0,2.6,011 km N 27° E of Santa Cruz (Occidental Mindoro),2022_Earthquake_Information/June/2022_0612_0447_B2.html
+20220612T1405_19.23_121.0,2022-06-12T14:05:00+08:00,19.23,121.0,15.0,3.7,026 km N 57° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0612_0605_B3F.html
+20220612T1603_16.38_121.97,2022-06-12T16:03:00+08:00,16.38,121.97,1.0,2.7,020 km N 56° W of Casiguran (Aurora),2022_Earthquake_Information/June/2022_0612_0803_B2.html
+20220612T1659_16.39_122.34,2022-06-12T16:59:00+08:00,16.39,122.34,8.0,2.0,009 km N 62° E of Dilasag (Aurora),2022_Earthquake_Information/June/2022_0612_0859_B2.html
+20220612T1752_2.11_126.65,2022-06-12T17:52:00+08:00,2.11,126.65,147.0,4.8,390 km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0612_0952_B1.html
+20220612T1814_13.51_120.74,2022-06-12T18:14:00+08:00,13.51,120.74,8.0,2.2,007 km N 15° E of Abra De Ilog (Occidental Mindoro),2022_Earthquake_Information/June/2022_0612_1014_B1.html
+20220612T1821_11.26_125.47,2022-06-12T18:21:00+08:00,11.26,125.47,16.0,2.3,007 km N 75° W of General Macarthur (Eastern Samar),2022_Earthquake_Information/June/2022_0612_1021_B2.html
+20220612T1833_7.39_126.99,2022-06-12T18:33:00+08:00,7.39,126.99,43.0,2.3,051 km S 66° E of Baganga (Davao Oriental),2022_Earthquake_Information/June/2022_0612_1033_B2.html
+20220612T1838_19.97_122.4,2022-06-12T18:38:00+08:00,19.97,122.4,38.0,3.8,064 km S 48° E of Uyugan (Batanes),2022_Earthquake_Information/June/2022_0612_1038_B2.html
+20220612T1923_20.06_121.12,2022-06-12T19:23:00+08:00,20.06,121.12,6.0,3.8,084 km S 69° W of Sabtang (Batanes),2022_Earthquake_Information/June/2022_0612_1123_B2.html
+20220612T1928_15.86_121.9,2022-06-12T19:28:00+08:00,15.86,121.9,6.0,2.8,031 km S 11° W of Dinalungan (Aurora),2022_Earthquake_Information/June/2022_0612_1128_B2.html
+20220612T1932_15.59_119.51,2022-06-12T19:32:00+08:00,15.59,119.51,9.0,2.0,045 km S 84° W of Candelaria (Zambales),2022_Earthquake_Information/June/2022_0612_1132_B1.html
+20220612T1937_15.88_121.95,2022-06-12T19:37:00+08:00,15.88,121.95,9.0,2.0,029 km S 01° W of Dinalungan (Aurora),2022_Earthquake_Information/June/2022_0612_1137_B2.html
+20220612T1947_8.49_125.39,2022-06-12T19:47:00+08:00,8.49,125.39,23.0,3.1,036 km S 41° W of Las Nieves (Agusan Del Norte),2022_Earthquake_Information/June/2022_0612_1147_B2.html
+20220612T2033_8.28_126.61,2022-06-12T20:33:00+08:00,8.28,126.61,1.0,2.1,032 km S 73° E of Hinatuan (Surigao Del Sur),2022_Earthquake_Information/June/2022_0612_1233_B2.html
+20220612T2126_10.31_125.12,2022-06-12T21:26:00+08:00,10.31,125.12,3.0,3.8,005 km N 31° W of Saint Bernard (Southern Leyte),2022_Earthquake_Information/June/2022_0612_1326_B3F.html
+20220612T2207_13.7_120.58,2022-06-12T22:07:00+08:00,13.7,120.58,89.0,1.7,016 km S 22° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0612_1407_B2F.html
+20220612T2221_9.18_125.54,2022-06-12T22:21:00+08:00,9.18,125.54,5.0,4.3,002 km N 28° E of Tubay (Agusan Del Norte),2022_Earthquake_Information/June/2022_0612_1421_B3F.html
+20220612T2257_6.67_125.87,2022-06-12T22:57:00+08:00,6.67,125.87,30.0,2.2,022 km N 86° W of Governor Generoso (Davao Oriental),2022_Earthquake_Information/June/2022_0612_1457_B2.html
+20220612T2327_8.11_122.01,2022-06-12T23:27:00+08:00,8.11,122.01,1.0,2.5,046 km N 72° W of Gutalac (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0612_1527_B2.html
+20220612T2338_11.82_125.45,2022-06-12T23:38:00+08:00,11.82,125.45,16.0,2.5,000 km N 45° W of Sulat (Eastern Samar),2022_Earthquake_Information/June/2022_0612_1538_B2.html
+20220612T2348_18.07_121.19,2022-06-12T23:48:00+08:00,18.07,121.19,33.0,2.1,005 km N 13° E of Kabugao (Apayao),2022_Earthquake_Information/June/2022_0612_1548_B2.html
+20220613T0021_18.24_121.06,2022-06-13T00:21:00+08:00,18.24,121.06,20.0,2.1,003 km S 34° E of Calanasan (Apayao),2022_Earthquake_Information/June/2022_0612_1621_B2.html
+20220613T0027_9.21_125.62,2022-06-13T00:27:00+08:00,9.21,125.62,6.0,3.0,010 km N 63° E of Tubay (Agusan Del Norte),2022_Earthquake_Information/June/2022_0612_1627_B2.html
+20220613T0042_9.82_122.29,2022-06-13T00:42:00+08:00,9.82,122.29,25.0,2.0,017 km N 69° W of City Of Sipalay (Negros Occidental),2022_Earthquake_Information/June/2022_0612_1642_B1.html
+20220613T0118_8.59_126.37,2022-06-13T01:18:00+08:00,8.59,126.37,92.0,3.1,023 km S 43° E of San Agustin (Surigao Del Sur),2022_Earthquake_Information/June/2022_0612_1718_B2.html
+20220613T0128_8.43_126.14,2022-06-13T01:28:00+08:00,8.43,126.14,4.0,3.1,004 km S 34° W of Tagbina (Surigao Del Sur),2022_Earthquake_Information/June/2022_0612_1728_B2.html
+20220613T0143_8.46_126.19,2022-06-13T01:43:00+08:00,8.46,126.19,12.0,2.8,003 km S 86° E of Tagbina (Surigao Del Sur),2022_Earthquake_Information/June/2022_0612_1743_B2.html
+20220613T0145_8.37_126.27,2022-06-13T01:45:00+08:00,8.37,126.27,32.0,2.0,007 km N 89° W of Hinatuan (Surigao Del Sur),2022_Earthquake_Information/June/2022_0612_1745_B2.html
+20220613T0149_12.91_124.76,2022-06-13T01:49:00+08:00,12.91,124.76,2.0,2.6,043 km N 25° W of Pambujan (Northern Samar),2022_Earthquake_Information/June/2022_0612_1749_B2.html
+20220613T0237_5.95_126.3,2022-06-13T02:37:00+08:00,5.95,126.3,145.0,3.2,072 km S 68° E of Don Marcelino (Davao Occidental),2022_Earthquake_Information/June/2022_0612_1837_B2.html
+20220613T0335_8.44_126.44,2022-06-13T03:35:00+08:00,8.44,126.44,32.0,2.0,013 km N 55° E of Hinatuan (Surigao Del Sur),2022_Earthquake_Information/June/2022_0612_1935_B2.html
+20220613T0358_10.29_123.04,2022-06-13T03:58:00+08:00,10.29,123.04,8.0,2.5,004 km S 29° E of La Castellana (Negros Occidental),2022_Earthquake_Information/June/2022_0612_1958_B2.html
+20220613T0419_19.87_121.51,2022-06-13T04:19:00+08:00,19.87,121.51,11.0,1.9,058 km N 47° W of Babuyan Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0612_2019_B1.html
+20220613T0422_8.97_126.23,2022-06-13T04:22:00+08:00,8.97,126.23,43.0,3.0,010 km N 55° W of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0612_2022_B2F.html
+20220613T1235_9.71_124.61,2022-06-13T12:35:00+08:00,9.71,124.61,4.0,3.0,005 km S 41° E of Anda (Bohol),2022_Earthquake_Information/June/2022_0613_0435_B2.html
+20220613T1315_8.38_126.07,2022-06-13T13:15:00+08:00,8.38,126.07,32.0,1.7,007 km East of Rosario (Agusan Del Sur),2022_Earthquake_Information/June/2022_0613_0515_B2.html
+20220613T1642_14.79_119.1,2022-06-13T16:42:00+08:00,14.79,119.1,29.0,2.4,105 km S 80° W of San Antonio (Zambales),2022_Earthquake_Information/June/2022_0613_0842_B2.html
+20220613T1839_7.53_126.51,2022-06-13T18:39:00+08:00,7.53,126.51,142.0,3.2,008 km S 52° W of Baganga (Davao Oriental),2022_Earthquake_Information/June/2022_0613_1039_B2.html
+20220613T1909_16.21_122.02,2022-06-13T19:09:00+08:00,16.21,122.02,33.0,1.7,013 km S 56° W of Casiguran (Aurora),2022_Earthquake_Information/June/2022_0613_1109_B1.html
+20220613T1923_15.55_120.04,2022-06-13T19:23:00+08:00,15.55,120.04,17.0,2.4,009 km N 78° E of Masinloc (Zambales),2022_Earthquake_Information/June/2022_0613_1123_B2.html
+20220613T1957_16.05_122.01,2022-06-13T19:57:00+08:00,16.05,122.01,24.0,1.7,011 km S 31° E of Dinalungan (Aurora),2022_Earthquake_Information/June/2022_0613_1157_B2.html
+20220613T2159_17.41_120.36,2022-06-13T21:59:00+08:00,17.41,120.36,18.0,2.4,011 km S 44° W of Santa (Ilocos Sur),2022_Earthquake_Information/June/2022_0613_1359_B2.html
+20220613T2241_14.55_124.17,2022-06-13T22:41:00+08:00,14.55,124.17,23.0,2.5,056 km N 01° W of Pandan (Catanduanes),2022_Earthquake_Information/June/2022_0613_1441_B2.html
+20220613T2311_9.49_125.69,2022-06-13T23:11:00+08:00,9.49,125.69,25.0,2.3,010 km S 26° W of Claver (Surigao Del Norte),2022_Earthquake_Information/June/2022_0613_1511_B2.html
+20220613T2340_18.43_120.51,2022-06-13T23:40:00+08:00,18.43,120.51,23.0,2.4,015 km N 48° W of Pasuquin (Ilocos Norte),2022_Earthquake_Information/June/2022_0613_1540_B2.html
+20220614T0126_9.61_123.49,2022-06-14T01:26:00+08:00,9.61,123.49,34.0,1.5,003 km S 29° E of Boljoon (Cebu),2022_Earthquake_Information/June/2022_0613_1726_B2.html
+20220614T0128_13.58_119.89,2022-06-14T01:28:00+08:00,13.58,119.89,18.0,2.7,040 km S 39° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0613_1728_B2.html
+20220614T0151_9.93_125.5,2022-06-14T01:51:00+08:00,9.93,125.5,37.0,2.0,012 km S 75° W of Dinagat (Dinagat Islands),2022_Earthquake_Information/June/2022_0613_1751_B1.html
+20220614T0246_12.75_122.35,2022-06-14T02:46:00+08:00,12.75,122.35,18.0,3.3,021 km N 23° E of Romblon (Romblon),2022_Earthquake_Information/June/2022_0613_1846_B2.html
+20220614T0249_12.45_120.32,2022-06-14T02:49:00+08:00,12.45,120.32,17.0,2.2,051 km N 14° E of Coron (Palawan),2022_Earthquake_Information/June/2022_0613_1849_B1.html
+20220614T0343_16.29_120.95,2022-06-14T03:43:00+08:00,16.29,120.95,32.0,1.6,009 km S 89° W of Aritao (Nueva Vizcaya),2022_Earthquake_Information/June/2022_0613_1943_B1.html
+20220614T0351_19.15_121.46,2022-06-14T03:51:00+08:00,19.15,121.46,7.0,2.3,012 km S 06° W of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0613_1951_B1.html
+20220614T0421_8.17_122.88,2022-06-14T04:21:00+08:00,8.17,122.88,34.0,2.2,005 km N 69° W of Leon B. Postigo (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0613_2021_B1.html
+20220614T0612_14.6_120.37,2022-06-14T06:12:00+08:00,14.6,120.37,111.0,2.5,004 km S 85° W of Bagac (Bataan),2022_Earthquake_Information/June/2022_0613_2212_B1.html
+20220614T1049_15.59_119.93,2022-06-14T10:49:00+08:00,15.59,119.93,29.0,1.8,004 km S 05° W of Candelaria (Zambales),2022_Earthquake_Information/June/2022_0614_0249_B1.html
+20220614T1443_11.86_125.33,2022-06-14T14:43:00+08:00,11.86,125.33,27.0,1.5,011 km S 64° W of Taft (Eastern Samar),2022_Earthquake_Information/June/2022_0614_0643_B1.html
+20220614T1504_9.57_126.23,2022-06-14T15:04:00+08:00,9.57,126.23,82.0,2.5,025 km S 19° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0614_0704_B2.html
+20220614T1518_17.22_120.01,2022-06-14T15:18:00+08:00,17.22,120.01,28.0,2.3,046 km N 83° W of City Of Candon (Ilocos Sur),2022_Earthquake_Information/June/2022_0614_0718_B2.html
+20220614T1742_17.81_122.62,2022-06-14T17:42:00+08:00,17.81,122.62,32.0,2.9,062 km N 41° E of Maconacon (Isabela),2022_Earthquake_Information/June/2022_0614_0942_B1.html
+20220614T2107_15.08_119.92,2022-06-14T21:07:00+08:00,15.08,119.92,9.0,1.7,017 km S 61° W of Cabangan (Zambales),2022_Earthquake_Information/June/2022_0614_1307_B2.html
+20220614T2110_19.16_121.19,2022-06-14T21:10:00+08:00,19.16,121.19,33.0,1.7,006 km N 13° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0614_1310_B2.html
+20220614T2121_13.76_119.96,2022-06-14T21:21:00+08:00,13.76,119.96,36.0,1.8,020 km S 58° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0614_1321_B2.html
+20220614T2132_6.44_126.4,2022-06-14T21:32:00+08:00,6.44,126.4,90.0,3.0,043 km S 57° E of Governor Generoso (Davao Oriental),2022_Earthquake_Information/June/2022_0614_1332_B2.html
+20220614T2255_9.89_126.42,2022-06-14T22:55:00+08:00,9.89,126.42,6.0,2.1,032 km N 67° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0614_1455_B1.html
+20220614T2309_8.82_122.41,2022-06-14T23:09:00+08:00,8.82,122.41,28.0,2.5,069 km S 21° W of Basay (Negros Oriental),2022_Earthquake_Information/June/2022_0614_1509_B2.html
+20220614T2332_10.42_123.36,2022-06-14T23:32:00+08:00,10.42,123.36,33.0,2.0,010 km S 30° W of City Of San Carlos (Negros Occidental),2022_Earthquake_Information/June/2022_0614_1532_B1.html
+20220615T0007_14.69_121.83,2022-06-15T00:07:00+08:00,14.69,121.83,24.0,1.7,012 km S 77° W of Polillo (Quezon),2022_Earthquake_Information/June/2022_0614_1607_B2.html
+20220615T0038_9.32_125.82,2022-06-15T00:38:00+08:00,9.32,125.82,33.0,1.8,015 km S 71° W of Carrascal (Surigao Del Sur),2022_Earthquake_Information/June/2022_0614_1638_B1.html
+20220615T0135_9.85_126.94,2022-06-15T01:35:00+08:00,9.85,126.94,36.0,2.3,086 km N 85° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0614_1735_B2.html
+20220615T0154_8.89_126.89,2022-06-15T01:54:00+08:00,8.89,126.89,22.0,2.5,064 km S 87° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0614_1754_B2.html
+20220615T0223_17.99_120.83,2022-06-15T02:23:00+08:00,17.99,120.83,4.0,2.4,016 km S 03° E of Carasi (Ilocos Norte),2022_Earthquake_Information/June/2022_0614_1823_B2.html
+20220615T0256_9.62_126.27,2022-06-15T02:56:00+08:00,9.62,126.27,83.0,2.2,022 km S 35° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0614_1856_B1.html
+20220615T0353_5.53_125.34,2022-06-15T03:53:00+08:00,5.53,125.34,35.0,2.7,016 km N 35° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0614_1953_B2.html
+20220615T0434_5.65_126.62,2022-06-15T04:34:00+08:00,5.65,126.62,96.0,3.4,112 km S 75° E of Jose Abad Santos (Davao Occidental),2022_Earthquake_Information/June/2022_0614_2034_B2.html
+20220615T0451_15.13_120.11,2022-06-15T04:51:00+08:00,15.13,120.11,1.0,2.0,006 km S 55° E of Cabangan (Zambales),2022_Earthquake_Information/June/2022_0614_2051_B2.html
+20220615T0640_15.09_120.03,2022-06-15T06:40:00+08:00,15.09,120.03,28.0,2.1,005 km N 55° W of San Felipe (Zambales),2022_Earthquake_Information/June/2022_0614_2240_B2.html
+20220615T0845_10.09_126.22,2022-06-15T08:45:00+08:00,10.09,126.22,33.0,2.1,018 km N 65° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0615_0045_B1.html
+20220615T0923_17.68_122.61,2022-06-15T09:23:00+08:00,17.68,122.61,29.0,2.1,051 km N 41° E of Divilacan (Isabela),2022_Earthquake_Information/June/2022_0615_0123_B1.html
+20220615T1644_12.53_121.23,2022-06-15T16:44:00+08:00,12.53,121.23,29.0,2.7,027 km N 42° E of San Jose (Occidental Mindoro),2022_Earthquake_Information/June/2022_0615_0844_B2.html
+20220615T1743_12.84_121.08,2022-06-15T17:43:00+08:00,12.84,121.08,8.0,3.1,033 km N 27° E of Calintaan (Occidental Mindoro),2022_Earthquake_Information/June/2022_0615_0943_B2.html
+20220615T1934_19.12_120.97,2022-06-15T19:34:00+08:00,19.12,120.97,3.0,3.1,025 km N 88° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0615_1134_B2.html
+20220615T2232_16.72_120.06,2022-06-15T22:32:00+08:00,16.72,120.06,41.0,2.0,030 km N 68° W of City Of San Fernando (La Union),2022_Earthquake_Information/June/2022_0615_1432_B2.html
+20220615T2300_6.56_127.05,2022-06-15T23:00:00+08:00,6.56,127.05,25.0,3.2,086 km S 51° E of Tarragona (Davao Oriental),2022_Earthquake_Information/June/2022_0615_1500_B2.html
+20220615T2309_17.5_120.37,2022-06-15T23:09:00+08:00,17.5,120.37,13.0,2.3,009 km S 11° W of City Of Vigan (Ilocos Sur),2022_Earthquake_Information/June/2022_0615_1509_B2.html
+20220615T2327_9.55_125.61,2022-06-15T23:27:00+08:00,9.55,125.61,19.0,3.3,014 km S 78° W of Claver (Surigao Del Norte),2022_Earthquake_Information/June/2022_0615_1527_B2.html
+20220616T0050_10.05_122.21,2022-06-16T00:50:00+08:00,10.05,122.21,15.0,2.5,040 km N 37° W of City Of Sipalay (Negros Occidental),2022_Earthquake_Information/June/2022_0615_1650_B2.html
+20220616T0052_13.62_120.62,2022-06-16T00:52:00+08:00,13.62,120.62,88.0,2.5,024 km S 04° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0615_1652_B2F.html
+20220616T0113_18.4_121.03,2022-06-16T01:13:00+08:00,18.4,121.03,1.0,2.0,019 km S 12° E of Santa Praxedes (Cagayan),2022_Earthquake_Information/June/2022_0615_1713_B2.html
+20220616T0115_6.86_125.04,2022-06-16T01:15:00+08:00,6.86,125.04,9.0,1.9,019 km N 79° E of Tulunan (Cotabato),2022_Earthquake_Information/June/2022_0615_1715_B2.html
+20220616T0324_15.18_120.44,2022-06-16T03:24:00+08:00,15.18,120.44,9.0,1.6,016 km S 62° W of Mabalacat City (Pampanga),2022_Earthquake_Information/June/2022_0615_1924_B1.html
+20220616T0418_13.88_120.58,2022-06-16T04:18:00+08:00,13.88,120.58,112.0,1.7,008 km N 44° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0615_2018_B1F.html
+20220616T0435_16.79_120.18,2022-06-16T04:35:00+08:00,16.79,120.18,22.0,2.5,020 km N 68° W of Bacnotan (La Union),2022_Earthquake_Information/June/2022_0615_2035_B2.html
+20220616T0456_9.87_125.37,2022-06-16T04:56:00+08:00,9.87,125.37,19.0,1.7,012 km N 29° W of San Francisco (Surigao Del Norte),2022_Earthquake_Information/June/2022_0615_2056_B2.html
+20220616T0507_13.42_120.69,2022-06-16T05:07:00+08:00,13.42,120.69,66.0,2.0,005 km S 49° W of Abra De Ilog (Occidental Mindoro),2022_Earthquake_Information/June/2022_0615_2107_B2.html
+20220616T0535_9.79_122.15,2022-06-16T05:35:00+08:00,9.79,122.15,21.0,2.2,056 km S 69° W of Cauayan (Negros Occidental),2022_Earthquake_Information/June/2022_0615_2135_B2.html
+20220616T0536_15.15_121.98,2022-06-16T05:36:00+08:00,15.15,121.98,1.0,2.3,030 km N 37° E of Panukulan (Quezon),2022_Earthquake_Information/June/2022_0615_2136_B2.html
+20220616T0920_18.89_120.95,2022-06-16T09:20:00+08:00,18.89,120.95,13.0,2.4,034 km N 24° W of Claveria (Cagayan),2022_Earthquake_Information/June/2022_0616_0120_B2.html
+20220616T0935_9.41_125.47,2022-06-16T09:35:00+08:00,9.41,125.47,37.0,1.9,009 km N 34° W of Jabonga (Agusan Del Norte),2022_Earthquake_Information/June/2022_0616_0135_B1.html
+20220616T0938_10.0_126.1,2022-06-16T09:38:00+08:00,10.0,126.1,5.0,2.4,004 km S 63° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0616_0138_B1.html
+20220616T1004_13.82_120.62,2022-06-16T10:04:00+08:00,13.82,120.62,1.0,1.8,002 km S 42° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0616_0204_B1.html
+20220616T1031_9.62_126.13,2022-06-16T10:31:00+08:00,9.62,126.13,39.0,2.0,018 km S 10° W of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0616_0231_B1.html
+20220616T1059_9.91_122.52,2022-06-16T10:59:00+08:00,9.91,122.52,16.0,2.4,014 km S 60° W of Cauayan (Negros Occidental),2022_Earthquake_Information/June/2022_0616_0259_B1.html
+20220616T1212_9.95_122.36,2022-06-16T12:12:00+08:00,9.95,122.36,8.0,2.2,021 km N 23° W of City Of Sipalay (Negros Occidental),2022_Earthquake_Information/June/2022_0616_0412_B1.html
+20220616T1300_18.86_121.41,2022-06-16T13:00:00+08:00,18.86,121.41,22.0,2.2,005 km N 75° E of Fuga Island (Aparri) (Cagayan),2022_Earthquake_Information/June/2022_0616_0500_B1.html
+20220616T1323_9.04_127.3,2022-06-16T13:23:00+08:00,9.04,127.3,13.0,2.3,111 km N 83° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0616_0523_B1F.html
+20220616T1332_12.35_123.77,2022-06-16T13:32:00+08:00,12.35,123.77,5.0,2.9,008 km S 11° W of Batuan (Masbate),2022_Earthquake_Information/June/2022_0616_0532_B2.html
+20220616T1408_17.24_119.85,2022-06-16T14:08:00+08:00,17.24,119.85,10.0,5.1,063 km N 83° W of City Of Candon (Ilocos Sur),2022_Earthquake_Information/June/2022_0616_0608_B3F.html
+20220616T1416_17.26_119.69,2022-06-16T14:16:00+08:00,17.26,119.69,28.0,2.9,080 km N 83° W of City Of Candon (Ilocos Sur),2022_Earthquake_Information/June/2022_0616_0616_B2F.html
+20220616T1418_17.26_119.75,2022-06-16T14:18:00+08:00,17.26,119.75,31.0,2.0,074 km N 82° W of City Of Candon (Ilocos Sur),2022_Earthquake_Information/June/2022_0616_0618_B2F.html
+20220616T1514_16.34_122.11,2022-06-16T15:14:00+08:00,16.34,122.11,26.0,2.0,007 km N 09° W of Casiguran (Aurora),2022_Earthquake_Information/June/2022_0616_0714_B2.html
+20220616T1546_15.31_122.27,2022-06-16T15:46:00+08:00,15.31,122.27,33.0,2.0,061 km N 33° E of Burdeos (Quezon),2022_Earthquake_Information/June/2022_0616_0746_B2.html
+20220616T1613_17.28_119.77,2022-06-16T16:13:00+08:00,17.28,119.77,27.0,2.6,072 km N 80° W of City Of Candon (Ilocos Sur),2022_Earthquake_Information/June/2022_0616_0813_B1F.html
+20220616T1623_9.95_126.36,2022-06-16T16:23:00+08:00,9.95,126.36,26.0,2.3,028 km N 50° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0616_0823_B2.html
+20220616T1629_15.73_119.55,2022-06-16T16:29:00+08:00,15.73,119.55,7.0,2.1,038 km S 84° W of Santa Cruz (Zambales),2022_Earthquake_Information/June/2022_0616_0829_B2.html
+20220616T1648_9.22_126.13,2022-06-16T16:48:00+08:00,9.22,126.13,59.0,1.8,008 km S 81° E of Lanuza (Surigao Del Sur),2022_Earthquake_Information/June/2022_0616_0848_B1.html
+20220616T1745_17.14_119.95,2022-06-16T17:45:00+08:00,17.14,119.95,1.0,2.9,053 km S 86° W of City Of Candon (Ilocos Sur),2022_Earthquake_Information/June/2022_0616_0945_B2F.html
+20220616T1822_17.25_119.86,2022-06-16T18:22:00+08:00,17.25,119.86,1.0,3.1,063 km N 82° W of City Of Candon (Ilocos Sur),2022_Earthquake_Information/June/2022_0616_1022_B2.html
+20220616T1826_9.63_126.04,2022-06-16T18:26:00+08:00,9.63,126.04,3.0,3.4,008 km N 80° E of Socorro (Surigao Del Norte),2022_Earthquake_Information/June/2022_0616_1026_B2.html
+20220616T1909_11.01_124.96,2022-06-16T19:09:00+08:00,11.01,124.96,34.0,1.7,004 km N 02° W of Julita (Leyte),2022_Earthquake_Information/June/2022_0616_1109_B2.html
+20220616T2035_9.02_126.47,2022-06-16T20:35:00+08:00,9.02,126.47,21.0,3.4,021 km N 76° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0616_1235_B2.html
+20220616T2111_7.26_123.74,2022-06-16T21:11:00+08:00,7.26,123.74,35.0,1.8,038 km N 55° W of Datu Blah T. Sinsuat (Maguindanao),2022_Earthquake_Information/June/2022_0616_1311_B2.html
+20220616T2213_17.01_120.08,2022-06-16T22:13:00+08:00,17.01,120.08,1.0,2.0,036 km N 62° W of Luna (La Union),2022_Earthquake_Information/June/2022_0616_1413_B1.html
+20220616T2215_17.08_120.05,2022-06-16T22:15:00+08:00,17.08,120.05,5.0,2.4,043 km N 55° W of Luna (La Union),2022_Earthquake_Information/June/2022_0616_1415_B2.html
+20220616T2238_9.18_125.67,2022-06-16T22:38:00+08:00,9.18,125.67,29.0,3.3,015 km N 63° E of City Of Cabadbaran (Agusan Del Norte),2022_Earthquake_Information/June/2022_0616_1438_B2.html
+20220616T2254_9.95_126.04,2022-06-16T22:54:00+08:00,9.95,126.04,14.0,2.5,003 km S 74° E of San Benito (Surigao Del Norte),2022_Earthquake_Information/June/2022_0616_1454_B2.html
+20220616T2315_6.7_126.04,2022-06-16T23:15:00+08:00,6.7,126.04,10.0,2.4,006 km N 33° W of Governor Generoso (Davao Oriental),2022_Earthquake_Information/June/2022_0616_1515_B2.html
+20220616T2320_8.4_126.12,2022-06-16T23:20:00+08:00,8.4,126.12,35.0,1.8,008 km S 32° W of Tagbina (Surigao Del Sur),2022_Earthquake_Information/June/2022_0616_1520_B1.html
+20220616T2345_9.51_122.45,2022-06-16T23:45:00+08:00,9.51,122.45,35.0,1.8,011 km S 13° W of Hinoba-an (Negros Occidental),2022_Earthquake_Information/June/2022_0616_1545_B2.html
+20220617T0058_8.43_124.43,2022-06-17T00:58:00+08:00,8.43,124.43,3.0,2.7,018 km S 38° W of City Of El Salvador (Misamis Oriental),2022_Earthquake_Information/June/2022_0616_1658_B2.html
+20220617T0129_19.13_121.12,2022-06-17T01:29:00+08:00,19.13,121.12,22.0,2.3,009 km N 72° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0616_1729_B2.html
+20220617T0131_17.16_119.71,2022-06-17T01:31:00+08:00,17.16,119.71,43.0,2.9,078 km N 65° W of Luna (La Union),2022_Earthquake_Information/June/2022_0616_1731_B2.html
+20220617T0148_9.38_125.33,2022-06-17T01:48:00+08:00,9.38,125.33,27.0,2.4,021 km N 79° W of Jabonga (Agusan Del Norte),2022_Earthquake_Information/June/2022_0616_1748_B2.html
+20220617T0219_10.0_125.37,2022-06-17T02:19:00+08:00,10.0,125.37,22.0,1.9,022 km S 83° W of San Jose (Dinagat Islands),2022_Earthquake_Information/June/2022_0616_1819_B2.html
+20220617T0220_9.52_126.56,2022-06-17T02:20:00+08:00,9.52,126.56,32.0,2.0,048 km N 56° E of Cortes (Surigao Del Sur),2022_Earthquake_Information/June/2022_0616_1820_B2.html
+20220617T0303_17.19_119.91,2022-06-17T03:03:00+08:00,17.19,119.91,2.0,2.4,056 km N 87° W of City Of Candon (Ilocos Sur),2022_Earthquake_Information/June/2022_0616_1903_B2.html
+20220617T0312_6.68_125.1,2022-06-17T03:12:00+08:00,6.68,125.1,2.0,2.3,010 km S 36° W of Magsaysay (Davao Del Sur),2022_Earthquake_Information/June/2022_0616_1912_B2.html
+20220617T0320_9.94_125.91,2022-06-17T03:20:00+08:00,9.94,125.91,53.0,2.0,010 km N 40° W of Del Carmen (Surigao Del Norte),2022_Earthquake_Information/June/2022_0616_1920_B1.html
+20220617T0351_15.38_121.86,2022-06-17T03:51:00+08:00,15.38,121.86,20.0,1.8,051 km S 89° E of Dingalan (Aurora),2022_Earthquake_Information/June/2022_0616_1951_B2.html
+20220617T0427_7.75_122.3,2022-06-17T04:27:00+08:00,7.75,122.3,22.0,1.7,018 km S 69° E of Baliguian (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0616_2027_B1.html
+20220617T0540_15.23_120.32,2022-06-17T05:40:00+08:00,15.23,120.32,29.0,2.1,026 km S 85° W of Mabalacat City (Pampanga),2022_Earthquake_Information/June/2022_0616_2140_B2.html
+20220617T0555_14.57_118.78,2022-06-17T05:55:00+08:00,14.57,118.78,62.0,2.4,147 km S 73° W of San Antonio (Zambales),2022_Earthquake_Information/June/2022_0616_2155_B2.html
+20220617T1011_8.99_122.87,2022-06-17T10:11:00+08:00,8.99,122.87,9.0,2.0,020 km S 67° W of Siaton (Negros Oriental),2022_Earthquake_Information/June/2022_0617_0211_B2.html
+20220617T1013_9.23_125.61,2022-06-17T10:13:00+08:00,9.23,125.61,1.0,3.0,007 km S 57° E of Santiago (Agusan Del Norte),2022_Earthquake_Information/June/2022_0617_0213_B2.html
+20220617T1152_16.88_121.21,2022-06-17T11:52:00+08:00,16.88,121.21,17.0,2.2,013 km N 46° E of Lagawe (Ifugao),2022_Earthquake_Information/June/2022_0617_0352_B2.html
+20220617T1331_14.72_123.61,2022-06-17T13:31:00+08:00,14.72,123.61,22.0,2.3,076 km N 70° E of Tinaga Island (Vinzons) (Camarines Norte),2022_Earthquake_Information/June/2022_0617_0531_B2.html
+20220617T1603_13.29_119.97,2022-06-17T16:03:00+08:00,13.29,119.97,21.0,2.4,056 km S 33° W of Looc (Occidental Mindoro),2022_Earthquake_Information/June/2022_0617_0803_B2.html
+20220617T1727_9.46_125.74,2022-06-17T17:27:00+08:00,9.46,125.74,32.0,2.8,018 km N 85° E of Kitcharao (Agusan Del Norte),2022_Earthquake_Information/June/2022_0617_0927_B2.html
+20220617T1729_12.41_124.57,2022-06-17T17:29:00+08:00,12.41,124.57,32.0,2.1,012 km S 38° W of Catarman (Northern Samar),2022_Earthquake_Information/June/2022_0617_0929_B2.html
+20220617T1848_15.15_120.41,2022-06-17T18:48:00+08:00,15.15,120.41,8.0,2.6,017 km N 61° W of Porac (Pampanga),2022_Earthquake_Information/June/2022_0617_1048_B2.html
+20220617T1919_16.83_120.02,2022-06-17T19:19:00+08:00,16.83,120.02,28.0,1.5,038 km N 70° W of Bacnotan (La Union),2022_Earthquake_Information/June/2022_0617_1119_B2.html
+20220617T1920_18.06_119.37,2022-06-17T19:20:00+08:00,18.06,119.37,33.0,2.7,117 km N 80° W of Sinait (Ilocos Sur),2022_Earthquake_Information/June/2022_0617_1120_B2.html
+20220617T2040_17.19_119.72,2022-06-17T20:40:00+08:00,17.19,119.72,19.0,2.4,077 km N 88° W of City Of Candon (Ilocos Sur),2022_Earthquake_Information/June/2022_0617_1240_B1F.html
+20220617T2150_13.99_120.5,2022-06-17T21:50:00+08:00,13.99,120.5,114.0,1.5,017 km S 71° W of Lian (Batangas),2022_Earthquake_Information/June/2022_0617_1350_B2.html
+20220617T2245_10.48_125.32,2022-06-17T22:45:00+08:00,10.48,125.32,5.0,2.9,018 km S 71° E of Silago (Southern Leyte),2022_Earthquake_Information/June/2022_0617_1445_B2.html
+20220617T2339_18.62_121.9,2022-06-17T23:39:00+08:00,18.62,121.9,2.0,2.9,031 km N 55° W of Santa Ana (Cagayan),2022_Earthquake_Information/June/2022_0617_1539_B1.html
+20220618T0017_17.39_120.52,2022-06-18T00:17:00+08:00,17.39,120.52,30.0,1.7,005 km N 58° E of Santa Maria (Ilocos Sur),2022_Earthquake_Information/June/2022_0617_1617_B1.html
+20220618T0102_17.86_120.3,2022-06-18T01:02:00+08:00,17.86,120.3,29.0,2.3,017 km S 89° W of Sinait (Ilocos Sur),2022_Earthquake_Information/June/2022_0617_1702_B1.html
+20220618T0118_12.39_123.77,2022-06-18T01:18:00+08:00,12.39,123.77,5.0,3.0,003 km S 22° W of Batuan (Masbate),2022_Earthquake_Information/June/2022_0617_1718_B2.html
+20220618T0123_10.52_124.94,2022-06-18T01:23:00+08:00,10.52,124.94,33.0,1.7,010 km S 15° W of Mahaplag (Leyte),2022_Earthquake_Information/June/2022_0617_1723_B2.html
+20220618T0149_9.21_126.04,2022-06-18T01:49:00+08:00,9.21,126.04,42.0,2.3,003 km S 38° E of Carmen (Surigao Del Sur),2022_Earthquake_Information/June/2022_0617_1749_B2.html
+20220618T0210_17.55_121.19,2022-06-18T02:10:00+08:00,17.55,121.19,29.0,1.9,006 km N 09° W of Balbalan (Kalinga),2022_Earthquake_Information/June/2022_0617_1810_B1.html
+20220618T0245_10.0_124.3,2022-06-18T02:45:00+08:00,10.0,124.3,24.0,1.8,004 km N 70° W of San Miguel (Bohol),2022_Earthquake_Information/June/2022_0617_1845_B1.html
+20220618T0309_16.37_122.39,2022-06-18T03:09:00+08:00,16.37,122.39,9.0,3.0,020 km S 82° E of Dilasag (Aurora),2022_Earthquake_Information/June/2022_0617_1909_B2.html
+20220618T0320_13.86_120.58,2022-06-18T03:20:00+08:00,13.86,120.58,124.0,1.8,006 km N 58° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0617_1920_B2F.html
+20220618T0348_9.89_126.25,2022-06-18T03:48:00+08:00,9.89,126.25,11.0,2.8,016 km N 41° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0617_1948_B2.html
+20220618T0652_7.98_126.82,2022-06-18T06:52:00+08:00,7.98,126.82,37.0,1.7,046 km N 62° E of Cateel (Davao Oriental),2022_Earthquake_Information/June/2022_0617_2252_B1.html
+20220618T0721_6.22_126.63,2022-06-18T07:21:00+08:00,6.22,126.63,217.0,2.7,078 km S 52° E of Governor Generoso (Davao Oriental),2022_Earthquake_Information/June/2022_0617_2321_B1.html
+20220618T0920_16.95_121.63,2022-06-18T09:20:00+08:00,16.95,121.63,26.0,2.0,009 km S 02° E of San Manuel (Isabela),2022_Earthquake_Information/June/2022_0618_0120_B2.html
+20220618T0937_17.0_121.39,2022-06-18T09:37:00+08:00,17.0,121.39,17.0,2.8,008 km N 68° E of Aguinaldo (Ifugao),2022_Earthquake_Information/June/2022_0618_0137_B2.html
+20220618T1237_6.5_123.6,2022-06-18T12:37:00+08:00,6.5,123.6,33.0,2.1,050 km S 82° W of Kalamansig (Sultan Kudarat),2022_Earthquake_Information/June/2022_0618_0437_B2.html
+20220618T1323_10.53_125.45,2022-06-18T13:23:00+08:00,10.53,125.45,32.0,2.2,024 km N 36° W of Loreto (Dinagat Islands),2022_Earthquake_Information/June/2022_0618_0523_B2.html
+20220618T1421_20.13_121.73,2022-06-18T14:21:00+08:00,20.13,121.73,1.0,3.2,027 km S 34° W of Sabtang (Batanes),2022_Earthquake_Information/June/2022_0618_0621_B1.html
+20220618T1454_12.73_124.61,2022-06-18T14:54:00+08:00,12.73,124.61,14.0,2.5,024 km N 13° E of Bobon (Northern Samar),2022_Earthquake_Information/June/2022_0618_0654_B2.html
+20220618T1538_6.25_126.98,2022-06-18T15:38:00+08:00,6.25,126.98,123.0,3.3,107 km S 34° E of Tarragona (Davao Oriental),2022_Earthquake_Information/June/2022_0618_0738_B2.html
+20220618T1655_5.61_126.79,2022-06-18T16:55:00+08:00,5.61,126.79,6.0,3.1,140 km S 73° E of Jose Abad Santos (Davao Occidental),2022_Earthquake_Information/June/2022_0618_0855_B2.html
+20220618T2005_15.15_122.41,2022-06-18T20:05:00+08:00,15.15,122.41,31.0,2.3,051 km N 10° E of Jomalig (Quezon),2022_Earthquake_Information/June/2022_0618_1205_B2.html
+20220618T2010_14.15_123.25,2022-06-18T20:10:00+08:00,14.15,123.25,1.0,2.9,015 km N 04° W of Siruma (Camarines Sur),2022_Earthquake_Information/June/2022_0618_1210_B2.html
+20220618T2036_13.51_121.62,2022-06-18T20:36:00+08:00,13.51,121.62,16.0,2.4,025 km N 73° W of Boac (Marinduque),2022_Earthquake_Information/June/2022_0618_1236_B1.html
+20220618T2120_7.74_126.47,2022-06-18T21:20:00+08:00,7.74,126.47,4.0,2.3,006 km S 13° E of Cateel (Davao Oriental),2022_Earthquake_Information/June/2022_0618_1320_B2.html
+20220618T2154_10.46_126.97,2022-06-18T21:54:00+08:00,10.46,126.97,18.0,4.3,110 km N 64° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0618_1354_B2.html
+20220618T2201_10.43_126.95,2022-06-18T22:01:00+08:00,10.43,126.95,32.0,3.3,106 km N 65° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0618_1401_B2.html
+20220618T2228_13.72_120.46,2022-06-18T22:28:00+08:00,13.72,120.46,122.0,2.2,023 km S 57° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0618_1428_B2.html
+20220618T2311_9.51_122.48,2022-06-18T23:11:00+08:00,9.51,122.48,21.0,2.8,011 km S 05° E of Hinoba-an (Negros Occidental),2022_Earthquake_Information/June/2022_0618_1511_B2.html
+20220618T2332_7.75_124.53,2022-06-18T23:32:00+08:00,7.75,124.53,4.0,2.2,023 km N 88° W of Kalilangan (Bukidnon),2022_Earthquake_Information/June/2022_0618_1532_B2.html
+20220619T0057_17.32_120.23,2022-06-19T00:57:00+08:00,17.32,120.23,19.0,2.3,023 km S 87° W of San Esteban (Ilocos Sur),2022_Earthquake_Information/June/2022_0618_1657_B2.html
+20220619T0129_6.07_126.07,2022-06-19T01:29:00+08:00,6.07,126.07,15.0,2.6,044 km S 72° E of Don Marcelino (Davao Occidental),2022_Earthquake_Information/June/2022_0618_1729_B1.html
+20220619T0150_7.3_126.93,2022-06-19T01:50:00+08:00,7.3,126.93,79.0,2.9,040 km S 86° E of Caraga (Davao Oriental),2022_Earthquake_Information/June/2022_0618_1750_B2.html
+20220619T0157_9.99_126.17,2022-06-19T01:57:00+08:00,9.99,126.17,1.0,2.3,015 km S 77° E of Santa Monica (Surigao Del Norte),2022_Earthquake_Information/June/2022_0618_1757_B2.html
+20220619T0201_9.29_126.77,2022-06-19T02:01:00+08:00,9.29,126.77,61.0,2.3,064 km N 57° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0618_1801_B2.html
+20220619T0245_13.72_120.64,2022-06-19T02:45:00+08:00,13.72,120.64,103.0,1.7,012 km S 03° E of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0618_1845_B1F.html
+20220619T0310_13.78_120.6,2022-06-19T03:10:00+08:00,13.78,120.6,97.0,2.0,007 km S 33° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0618_1910_B2F.html
+20220619T0329_15.63_119.19,2022-06-19T03:29:00+08:00,15.63,119.19,10.0,3.0,079 km S 79° W of Santa Cruz (Zambales),2022_Earthquake_Information/June/2022_0618_1929_B2.html
+20220619T0342_19.91_120.14,2022-06-19T03:42:00+08:00,19.91,120.14,15.0,3.7,143 km N 52° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0618_1942_B2.html
+20220619T0401_9.7_126.45,2022-06-19T04:01:00+08:00,9.7,126.45,15.0,3.2,033 km S 73° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0618_2001_B2.html
+20220619T0412_7.82_122.15,2022-06-19T04:12:00+08:00,7.82,122.15,12.0,2.2,002 km N 18° E of Baliguian (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0618_2012_B1.html
+20220619T0628_8.89_126.42,2022-06-19T06:28:00+08:00,8.89,126.42,22.0,2.6,013 km S 75° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0618_2228_B2.html
+20220619T0629_16.93_120.98,2022-06-19T06:29:00+08:00,16.93,120.98,32.0,1.8,009 km N 74° W of Banaue (Ifugao),2022_Earthquake_Information/June/2022_0618_2229_B1.html
+20220619T0811_17.7_121.01,2022-06-19T08:11:00+08:00,17.7,121.01,21.0,1.7,008 km N 59° E of Lacub (Abra),2022_Earthquake_Information/June/2022_0619_0011_B2.html
+20220619T0947_7.25_127.03,2022-06-19T09:47:00+08:00,7.25,127.03,2.0,2.6,052 km S 81° E of Caraga (Davao Oriental),2022_Earthquake_Information/June/2022_0619_0147_B1.html
+20220619T0950_9.68_126.11,2022-06-19T09:50:00+08:00,9.68,126.11,23.0,3.6,018 km N 66° E of Socorro (Surigao Del Norte),2022_Earthquake_Information/June/2022_0619_0150_B2.html
+20220619T1003_9.99_126.18,2022-06-19T10:03:00+08:00,9.99,126.18,23.0,2.3,013 km S 75° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0619_0203_B2.html
+20220619T1013_13.88_120.55,2022-06-19T10:13:00+08:00,13.88,120.55,97.0,1.7,010 km N 62° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0619_0213_B2F.html
+20220619T1017_14.27_119.52,2022-06-19T10:17:00+08:00,14.27,119.52,1.0,2.7,080 km N 55° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0619_0217_B2F.html
+20220619T1104_10.89_124.84,2022-06-19T11:04:00+08:00,10.89,124.84,2.0,2.6,011 km S 31° W of Burauen (Leyte),2022_Earthquake_Information/June/2022_0619_0304_B2.html
+20220619T1206_20.07_122.15,2022-06-19T12:06:00+08:00,20.07,122.15,1.0,3.8,038 km S 36° E of Uyugan (Batanes),2022_Earthquake_Information/June/2022_0619_0406_B2F.html
+20220619T1244_9.65_126.24,2022-06-19T12:44:00+08:00,9.65,126.24,32.0,2.1,017 km S 32° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0619_0444_B2.html
+20220619T1341_5.77_125.46,2022-06-19T13:41:00+08:00,5.77,125.46,185.0,2.9,026 km S 52° W of Jose Abad Santos (Davao Occidental),2022_Earthquake_Information/June/2022_0619_0541_B2.html
+20220619T1611_14.08_120.4,2022-06-19T16:11:00+08:00,14.08,120.4,102.0,3.0,026 km N 88° W of Nasugbu (Batangas),2022_Earthquake_Information/June/2022_0619_0811_B2.html
+20220619T1659_12.35_124.98,2022-06-19T16:59:00+08:00,12.35,124.98,16.0,2.6,011 km S 52° W of Catubig (Northern Samar),2022_Earthquake_Information/June/2022_0619_0859_B2.html
+20220619T1710_11.87_125.02,2022-06-19T17:10:00+08:00,11.87,125.02,34.0,2.7,011 km N 15° E of Motiong (Samar),2022_Earthquake_Information/June/2022_0619_0910_B2.html
+20220619T1809_5.92_124.66,2022-06-19T18:09:00+08:00,5.92,124.66,9.0,2.9,009 km S 28° E of Kiamba (Sarangani),2022_Earthquake_Information/June/2022_0619_1009_B2.html
+20220619T1810_9.29_123.16,2022-06-19T18:10:00+08:00,9.29,123.16,5.0,3.7,010 km N 83° W of Valencia (Negros Oriental),2022_Earthquake_Information/June/2022_0619_1010_B2F.html
+20220619T1840_16.52_120.8,2022-06-19T18:40:00+08:00,16.52,120.8,33.0,2.0,005 km N 48° W of Bokod (Benguet),2022_Earthquake_Information/June/2022_0619_1040_B2.html
+20220619T1946_5.18_126.23,2022-06-19T19:46:00+08:00,5.18,126.23,57.0,3.9,089 km S 47° E of Jose Abad Santos (Davao Occidental),2022_Earthquake_Information/June/2022_0619_1146_B2.html
+20220619T2034_6.89_125.09,2022-06-19T20:34:00+08:00,6.89,125.09,4.0,2.5,007 km S 03° E of Makilala (Cotabato),2022_Earthquake_Information/June/2022_0619_1234_B2.html
+20220619T2046_17.58_120.4,2022-06-19T20:46:00+08:00,17.58,120.4,5.0,2.0,004 km N 33° E of Caoayan (Ilocos Sur),2022_Earthquake_Information/June/2022_0619_1246_B2.html
+20220619T2047_12.45_126.02,2022-06-19T20:47:00+08:00,12.45,126.02,24.0,3.0,064 km N 62° E of San Policarpo (Eastern Samar),2022_Earthquake_Information/June/2022_0619_1247_B2.html
+20220619T2056_8.22_126.6,2022-06-19T20:56:00+08:00,8.22,126.6,33.0,2.2,029 km N 45° E of Lingig (Surigao Del Sur),2022_Earthquake_Information/June/2022_0619_1256_B1.html
+20220619T2131_10.75_124.95,2022-06-19T21:31:00+08:00,10.75,124.95,32.0,2.6,005 km S 17° E of Javier (Leyte),2022_Earthquake_Information/June/2022_0619_1331_B2.html
+20220619T2133_8.79_126.18,2022-06-19T21:33:00+08:00,8.79,126.18,33.0,1.5,007 km N 45° W of San Agustin (Surigao Del Sur),2022_Earthquake_Information/June/2022_0619_1333_B1.html
+20220619T2235_10.01_126.08,2022-06-19T22:35:00+08:00,10.01,126.08,26.0,2.2,001 km S 36° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0619_1435_B2.html
+20220619T2251_10.31_126.87,2022-06-19T22:51:00+08:00,10.31,126.87,24.0,2.8,093 km N 70° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0619_1451_B2.html
+20220619T2325_12.45_124.9,2022-06-19T23:25:00+08:00,12.45,124.9,30.0,3.4,012 km S 12° W of Pambujan (Northern Samar),2022_Earthquake_Information/June/2022_0619_1525_B2.html
+20220620T0014_8.7_122.51,2022-06-20T00:14:00+08:00,8.7,122.51,34.0,2.5,064 km N 63° W of Jose Dalman (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0619_1614_B2.html
+20220620T0021_8.99_122.77,2022-06-20T00:21:00+08:00,8.99,122.77,32.0,1.7,030 km S 75° W of Siaton (Negros Oriental),2022_Earthquake_Information/June/2022_0619_1621_B2.html
+20220620T0028_17.51_120.62,2022-06-20T00:28:00+08:00,17.51,120.62,13.0,1.9,007 km S 32° W of Peñarrubia (Abra),2022_Earthquake_Information/June/2022_0619_1628_B1.html
+20220620T0140_17.55_120.42,2022-06-20T01:40:00+08:00,17.55,120.42,1.0,3.0,004 km N 85° E of Caoayan (Ilocos Sur),2022_Earthquake_Information/June/2022_0619_1740_B2F.html
+20220620T0207_17.56_120.4,2022-06-20T02:07:00+08:00,17.56,120.4,2.0,2.1,005 km S 56° E of Magsingal (Ilocos Sur),2022_Earthquake_Information/June/2022_0619_1807_B2.html
+20220620T0208_17.6_120.46,2022-06-20T02:08:00+08:00,17.6,120.46,5.0,2.5,007 km S 47° E of Santo Domingo (Ilocos Sur),2022_Earthquake_Information/June/2022_0619_1808_B2.html
+20220620T0216_14.28_119.42,2022-06-20T02:16:00+08:00,14.28,119.42,96.0,1.9,085 km N 58° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0619_1816_B1.html
+20220620T0217_14.5_121.83,2022-06-20T02:17:00+08:00,14.5,121.83,35.0,1.8,024 km N 69° W of Balesin Island (Polillo) (Quezon),2022_Earthquake_Information/June/2022_0619_1817_B1.html
+20220620T0219_17.44_122.69,2022-06-20T02:19:00+08:00,17.44,122.69,34.0,2.0,044 km N 73° E of Divilacan (Isabela),2022_Earthquake_Information/June/2022_0619_1819_B2.html
+20220620T0327_15.36_121.93,2022-06-20T03:27:00+08:00,15.36,121.93,2.0,2.2,049 km N 15° E of Panukulan (Quezon),2022_Earthquake_Information/June/2022_0619_1927_B2.html
+20220620T0329_6.21_125.33,2022-06-20T03:29:00+08:00,6.21,125.33,88.0,2.7,013 km N 21° E of Alabel (Sarangani),2022_Earthquake_Information/June/2022_0619_1929_B2.html
+20220620T0344_17.55_120.61,2022-06-20T03:44:00+08:00,17.55,120.61,11.0,2.5,004 km S 62° W of Peñarrubia (Abra),2022_Earthquake_Information/June/2022_0619_1944_B1.html
+20220620T0438_13.74_120.61,2022-06-20T04:38:00+08:00,13.74,120.61,102.0,1.8,011 km S 16° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0619_2038_B1.html
+20220620T0520_17.05_119.94,2022-06-20T05:20:00+08:00,17.05,119.94,2.0,2.2,055 km S 77° W of City Of Candon (Ilocos Sur),2022_Earthquake_Information/June/2022_0619_2120_B2F.html
+20220620T0543_4.09_125.7,2022-06-20T05:43:00+08:00,4.09,125.7,8.0,3.8,151 km S 12° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0619_2143_B2.html
+20220620T0645_13.21_119.95,2022-06-20T06:45:00+08:00,13.21,119.95,17.0,3.0,060 km S 67° W of Paluan (Occidental Mindoro),2022_Earthquake_Information/June/2022_0619_2245_B2.html
+20220620T0704_14.78_119.38,2022-06-20T07:04:00+08:00,14.78,119.38,7.0,3.2,078 km S 76° W of San Antonio (Zambales),2022_Earthquake_Information/June/2022_0619_2304_B2.html
+20220620T0720_14.83_119.41,2022-06-20T07:20:00+08:00,14.83,119.41,20.0,3.7,074 km S 79° W of San Antonio (Zambales),2022_Earthquake_Information/June/2022_0619_2320_B2.html
+20220620T0905_14.19_119.34,2022-06-20T09:05:00+08:00,14.19,119.34,1.0,2.0,092 km N 67° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0620_0105_B2F.html
+20220620T1025_18.73_120.81,2022-06-20T10:25:00+08:00,18.73,120.81,24.0,1.9,019 km N 06° E of Pagudpud (Ilocos Norte),2022_Earthquake_Information/June/2022_0620_0225_B2.html
+20220620T1040_14.1_120.46,2022-06-20T10:40:00+08:00,14.1,120.46,139.0,1.7,019 km N 82° W of Nasugbu (Batangas),2022_Earthquake_Information/June/2022_0620_0240_B2.html
+20220620T1242_9.84_123.27,2022-06-20T12:42:00+08:00,9.84,123.27,33.0,2.0,014 km N 32° W of Alegria (Cebu),2022_Earthquake_Information/June/2022_0620_0442_B1.html
+20220620T1302_17.83_120.36,2022-06-20T13:02:00+08:00,17.83,120.36,23.0,2.0,011 km N 68° W of Cabugao (Ilocos Sur),2022_Earthquake_Information/June/2022_0620_0502_B2.html
+20220620T1339_2.89_128.01,2022-06-20T13:39:00+08:00,2.89,128.01,227.0,4.8,400 km S 46° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0620_0539_B2.html
+20220620T1343_6.43_125.77,2022-06-20T13:43:00+08:00,6.43,125.77,149.0,3.3,018 km N 84° E of Malita (Davao Occidental),2022_Earthquake_Information/June/2022_0620_0543_B2.html
+20220620T1352_9.24_125.72,2022-06-20T13:52:00+08:00,9.24,125.72,2.0,2.1,018 km S 82° E of Santiago (Agusan Del Norte),2022_Earthquake_Information/June/2022_0620_0552_B2.html
+20220620T1513_5.7_121.58,2022-06-20T15:13:00+08:00,5.7,121.58,34.0,3.1,040 km S 60° E of Kalingalan Caluang (Sulu),2022_Earthquake_Information/June/2022_0620_0713_B2.html
+20220620T1523_6.7_122.19,2022-06-20T15:23:00+08:00,6.7,122.19,12.0,2.5,003 km N 10° W of Akbar (Basilan),2022_Earthquake_Information/June/2022_0620_0723_B2.html
+20220620T1808_15.78_121.85,2022-06-20T18:08:00+08:00,15.78,121.85,17.0,2.0,031 km N 86° E of Baler (Aurora),2022_Earthquake_Information/June/2022_0620_1008_B2.html
+20220620T1816_16.31_120.95,2022-06-20T18:16:00+08:00,16.31,120.95,34.0,1.6,009 km N 76° W of Aritao (Nueva Vizcaya),2022_Earthquake_Information/June/2022_0620_1016_B1.html
+20220620T2042_19.23_121.27,2022-06-20T20:42:00+08:00,19.23,121.27,4.0,3.6,015 km N 28° E of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0620_1242_B2.html
+20220620T2057_9.93_125.43,2022-06-20T20:57:00+08:00,9.93,125.43,18.0,1.6,017 km N 22° W of City Of Surigao (Surigao Del Norte),2022_Earthquake_Information/June/2022_0620_1257_B2.html
+20220620T2058_18.92_121.08,2022-06-20T20:58:00+08:00,18.92,121.08,23.0,2.4,024 km S 32° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0620_1258_B2.html
+20220620T2147_13.62_120.77,2022-06-20T21:47:00+08:00,13.62,120.77,9.0,2.2,012 km S 67° W of Tingloy (Batangas),2022_Earthquake_Information/June/2022_0620_1347_B2.html
+20220620T2206_10.07_126.01,2022-06-20T22:06:00+08:00,10.07,126.01,32.0,2.0,009 km N 48° W of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0620_1406_B1.html
+20220620T2209_6.36_123.89,2022-06-20T22:09:00+08:00,6.36,123.89,32.0,3.2,029 km S 40° W of Kalamansig (Sultan Kudarat),2022_Earthquake_Information/June/2022_0620_1409_B2.html
+20220620T2253_9.64_126.26,2022-06-20T22:53:00+08:00,9.64,126.26,28.0,2.2,019 km S 36° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0620_1453_B1.html
+20220620T2259_19.91_121.33,2022-06-20T22:59:00+08:00,19.91,121.33,9.0,2.8,101 km N 21° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0620_1459_B2.html
+20220620T2339_16.19_119.91,2022-06-20T23:39:00+08:00,16.19,119.91,19.0,2.0,005 km N 87° E of Bani (Pangasinan),2022_Earthquake_Information/June/2022_0620_1539_B2.html
+20220620T2358_8.66_123.45,2022-06-20T23:58:00+08:00,8.66,123.45,34.0,2.1,005 km N 55° E of City Of Dapitan (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0620_1558_B2.html
+20220621T0017_17.49_120.5,2022-06-21T00:17:00+08:00,17.49,120.5,27.0,2.0,007 km S 13° W of San Quintin (Abra),2022_Earthquake_Information/June/2022_0620_1617_B1.html
+20220621T0025_10.08_125.2,2022-06-21T00:25:00+08:00,10.08,125.2,44.0,1.6,006 km N 63° E of San Francisco (Southern Leyte),2022_Earthquake_Information/June/2022_0620_1625_B1.html
+20220621T0031_13.77_123.62,2022-06-21T00:31:00+08:00,13.77,123.62,9.0,2.7,012 km N 68° E of Lagonoy (Camarines Sur),2022_Earthquake_Information/June/2022_0620_1631_B2.html
+20220621T0113_13.8_120.58,2022-06-21T01:13:00+08:00,13.8,120.58,86.0,1.5,007 km S 52° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0620_1713_B1F.html
+20220621T0126_4.93_127.18,2022-06-21T01:26:00+08:00,4.93,127.18,57.0,4.3,198 km S 72° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0620_1726_B2.html
+20220621T0129_7.93_125.59,2022-06-21T01:29:00+08:00,7.93,125.59,44.0,1.6,027 km N 88° E of San Fernando (Bukidnon),2022_Earthquake_Information/June/2022_0620_1729_B1.html
+20220621T0138_13.86_120.86,2022-06-21T01:38:00+08:00,13.86,120.86,6.0,1.9,006 km N 80° W of San Luis (Batangas),2022_Earthquake_Information/June/2022_0620_1738_B1.html
+20220621T0139_16.79_119.77,2022-06-21T01:39:00+08:00,16.79,119.77,15.0,3.7,047 km N 15° W of Bolinao (Pangasinan),2022_Earthquake_Information/June/2022_0620_1739_B2.html
+20220621T0150_7.13_125.94,2022-06-21T01:50:00+08:00,7.13,125.94,13.0,3.4,005 km East of Pantukan (Davao De Oro),2022_Earthquake_Information/June/2022_0620_1750_B2.html
+20220621T0354_17.14_119.95,2022-06-21T03:54:00+08:00,17.14,119.95,1.0,2.6,053 km S 87° W of City Of Candon (Ilocos Sur),2022_Earthquake_Information/June/2022_0620_1954_B2F.html
+20220621T0356_6.63_124.13,2022-06-21T03:56:00+08:00,6.63,124.13,1.0,2.4,007 km S 85° E of Lebak (Sultan Kudarat),2022_Earthquake_Information/June/2022_0620_1956_B2.html
+20220621T0537_9.59_126.18,2022-06-21T05:37:00+08:00,9.59,126.18,8.0,2.1,021 km S 06° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0620_2137_B2.html
+20220621T0546_19.07_121.04,2022-06-21T05:46:00+08:00,19.07,121.04,31.0,2.6,019 km S 76° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0620_2146_B2.html
+20220621T0550_8.69_126.33,2022-06-21T05:50:00+08:00,8.69,126.33,27.0,2.8,013 km S 13° E of Marihatag (Surigao Del Sur),2022_Earthquake_Information/June/2022_0620_2150_B2.html
+20220621T0651_18.16_120.14,2022-06-21T06:51:00+08:00,18.16,120.14,18.0,3.1,040 km N 67° W of Currimao (Ilocos Norte),2022_Earthquake_Information/June/2022_0620_2251_B2.html
+20220621T0700_10.71_124.97,2022-06-21T07:00:00+08:00,10.71,124.97,1.0,2.2,007 km S 47° W of Abuyog (Leyte),2022_Earthquake_Information/June/2022_0620_2300_B2F.html
+20220621T0711_9.99_125.11,2022-06-21T07:11:00+08:00,9.99,125.11,23.0,2.1,009 km S 36° W of San Francisco (Southern Leyte),2022_Earthquake_Information/June/2022_0620_2311_B2.html
+20220621T0801_9.98_126.12,2022-06-21T08:01:00+08:00,9.98,126.12,17.0,3.1,006 km S 53° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0621_0001_B2.html
+20220621T0909_13.56_120.6,2022-06-21T09:09:00+08:00,13.56,120.6,116.0,1.8,019 km N 47° W of Abra De Ilog (Occidental Mindoro),2022_Earthquake_Information/June/2022_0621_0109_B1.html
+20220621T0937_9.95_126.13,2022-06-21T09:37:00+08:00,9.95,126.13,5.0,3.0,005 km N 71° E of San Isidro (Surigao Del Norte),2022_Earthquake_Information/June/2022_0621_0137_B2.html
+20220621T0938_15.41_119.4,2022-06-21T09:38:00+08:00,15.41,119.4,7.0,2.3,055 km S 87° W of Palauig (Zambales),2022_Earthquake_Information/June/2022_0621_0138_B2.html
+20220621T0946_9.92_126.23,2022-06-21T09:46:00+08:00,9.92,126.23,2.0,3.3,015 km S 82° E of San Isidro (Surigao Del Norte),2022_Earthquake_Information/June/2022_0621_0146_B2.html
+20220621T1339_13.99_120.19,2022-06-21T13:39:00+08:00,13.99,120.19,11.0,2.3,010 km N 31° E of Looc (Occidental Mindoro),2022_Earthquake_Information/June/2022_0621_0539_B2.html
+20220621T1345_13.83_120.62,2022-06-21T13:45:00+08:00,13.83,120.62,1.0,1.7,001 km S 56° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0621_0545_B1.html
+20220621T1358_6.45_125.75,2022-06-21T13:58:00+08:00,6.45,125.75,137.0,3.3,028 km N 12° E of Don Marcelino (Davao Occidental),2022_Earthquake_Information/June/2022_0621_0558_B2.html
+20220621T1416_17.57_120.38,2022-06-21T14:16:00+08:00,17.57,120.38,2.0,2.1,001 km S 31° W of City Of Vigan (Ilocos Sur),2022_Earthquake_Information/June/2022_0621_0616_B1.html
+20220621T1620_16.87_120.98,2022-06-21T16:20:00+08:00,16.87,120.98,7.0,2.2,010 km S 63° W of Banaue (Ifugao),2022_Earthquake_Information/June/2022_0621_0820_B2.html
+20220621T1754_13.97_120.47,2022-06-21T17:54:00+08:00,13.97,120.47,109.0,1.9,021 km S 56° W of Nasugbu (Batangas),2022_Earthquake_Information/June/2022_0621_0954_B1.html
+20220621T1859_14.5_123.05,2022-06-21T18:59:00+08:00,14.5,123.05,11.0,2.0,011 km N 78° E of Tinaga Island (Vinzons) (Camarines Norte),2022_Earthquake_Information/June/2022_0621_1059_B2_Camarines_Norte.html
+20220621T1859_17.59_120.24,2022-06-21T18:59:00+08:00,17.59,120.24,1.0,1.7,013 km N 89° W of Santa Catalina (Ilocos Sur),2022_Earthquake_Information/June/2022_0621_1059_B1_Ilocos_Sur.html
+20220621T1908_16.35_121.39,2022-06-21T19:08:00+08:00,16.35,121.39,29.0,1.6,010 km S 82° E of Kayapa (Nueva Vizcaya),2022_Earthquake_Information/June/2022_0621_1108_B2.html
+20220621T1945_17.57_120.36,2022-06-21T19:45:00+08:00,17.57,120.36,1.0,2.3,002 km S 24° W of Santa Catalina (Ilocos Sur),2022_Earthquake_Information/June/2022_0621_1145_B2.html
+20220621T2008_9.0_126.24,2022-06-21T20:08:00+08:00,9.0,126.24,50.0,2.4,006 km N 58° W of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0621_1208_B2.html
+20220621T2027_13.76_120.6,2022-06-21T20:27:00+08:00,13.76,120.6,94.0,1.7,009 km S 25° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0621_1227_B1.html
+20220621T2100_19.84_121.51,2022-06-21T21:00:00+08:00,19.84,121.51,17.0,2.8,065 km N 04° E of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0621_1300_B2.html
+20220621T2144_11.95_125.8,2022-06-21T21:44:00+08:00,11.95,125.8,13.0,2.4,035 km S 74° E of Dolores (Eastern Samar),2022_Earthquake_Information/June/2022_0621_1344_B2.html
+20220621T2152_5.64_126.92,2022-06-21T21:52:00+08:00,5.64,126.92,35.0,3.0,146 km S 40° E of Governor Generoso (Davao Oriental),2022_Earthquake_Information/June/2022_0621_1352_B2.html
+20220621T2229_9.85_126.0,2022-06-21T22:29:00+08:00,9.85,126.0,13.0,2.2,004 km S 60° E of Del Carmen (Surigao Del Norte),2022_Earthquake_Information/June/2022_0621_1429_B2.html
+20220621T2252_16.45_120.88,2022-06-21T22:52:00+08:00,16.45,120.88,8.0,3.0,007 km S 52° E of Bokod (Benguet),2022_Earthquake_Information/June/2022_0621_1452_B1.html
+20220621T2258_16.49_120.92,2022-06-21T22:58:00+08:00,16.49,120.92,6.0,1.7,010 km S 89° E of Bokod (Benguet),2022_Earthquake_Information/June/2022_0621_1458_B1.html
+20220621T2314_16.82_121.37,2022-06-21T23:14:00+08:00,16.82,121.37,38.0,1.7,017 km S 49° W of Alfonso Lista (Ifugao),2022_Earthquake_Information/June/2022_0621_1514_B2.html
+20220621T2350_15.71_121.91,2022-06-21T23:50:00+08:00,15.71,121.91,3.0,1.7,038 km S 81° E of Baler (Aurora),2022_Earthquake_Information/June/2022_0621_1550_B2.html
+20220622T0004_7.92_122.45,2022-06-22T00:04:00+08:00,7.92,122.45,33.0,1.6,008 km S 34° E of Gutalac (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0621_1604_B1.html
+20220622T0013_18.38_120.98,2022-06-22T00:13:00+08:00,18.38,120.98,8.0,2.2,013 km S 43° E of Adams (Ilocos Norte),2022_Earthquake_Information/June/2022_0621_1613_B2.html
+20220622T0022_10.09_126.23,2022-06-22T00:22:00+08:00,10.09,126.23,4.0,3.2,018 km N 66° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0621_1622_B2.html
+20220622T0032_13.91_119.73,2022-06-22T00:32:00+08:00,13.91,119.73,1.0,1.7,043 km N 82° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0621_1632_B1F.html
+20220622T0128_11.13_126.89,2022-06-22T01:28:00+08:00,11.13,126.89,7.0,2.3,128 km N 85° E of Guiuan (Eastern Samar),2022_Earthquake_Information/June/2022_0621_1728_B2.html
+20220622T0140_18.49_120.84,2022-06-22T01:40:00+08:00,18.49,120.84,9.0,2.4,005 km S 42° E of Dumalneg (Ilocos Norte),2022_Earthquake_Information/June/2022_0621_1740_B2.html
+20220622T0151_10.43_126.92,2022-06-22T01:51:00+08:00,10.43,126.92,37.0,2.8,103 km N 64° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0621_1751_B2_Surigao_Del_Norte.html
+20220622T0151_13.29_121.06,2022-06-22T01:51:00+08:00,13.29,121.06,32.0,1.9,009 km S 25° W of Baco (Oriental Mindoro),2022_Earthquake_Information/June/2022_0621_1751_B1_Oriental_Mindoro.html
+20220622T0227_7.73_126.24,2022-06-22T02:27:00+08:00,7.73,126.24,36.0,2.3,019 km N 68° E of Compostela (Davao De Oro),2022_Earthquake_Information/June/2022_0621_1827_B1.html
+20220622T0241_8.8_124.59,2022-06-22T02:41:00+08:00,8.8,124.59,4.0,2.6,021 km N 72° W of Balingasag (Misamis Oriental),2022_Earthquake_Information/June/2022_0621_1841_B1.html
+20220622T0251_16.81_121.47,2022-06-22T02:51:00+08:00,16.81,121.47,22.0,2.1,008 km N 69° W of Ramon (Isabela),2022_Earthquake_Information/June/2022_0621_1851_B2.html
+20220622T0301_3.98_126.41,2022-06-22T03:01:00+08:00,3.98,126.41,105.0,4.0,193 km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0621_1901_B2.html
+20220622T0310_8.56_126.68,2022-06-22T03:10:00+08:00,8.56,126.68,34.0,2.3,043 km N 61° E of Hinatuan (Surigao Del Sur),2022_Earthquake_Information/June/2022_0621_1910_B1.html
+20220622T0312_8.44_125.77,2022-06-22T03:12:00+08:00,8.44,125.77,32.0,2.1,002 km S 55° W of Talacogon (Agusan Del Sur),2022_Earthquake_Information/June/2022_0621_1912_B1.html
+20220622T0335_9.89_124.04,2022-06-22T03:35:00+08:00,9.89,124.04,15.0,2.2,005 km N 44° E of Catigbian (Bohol),2022_Earthquake_Information/June/2022_0621_1935_B2.html
+20220622T0425_20.33_121.5,2022-06-22T04:25:00+08:00,20.33,121.5,25.0,2.2,040 km S 89° W of Sabtang (Batanes),2022_Earthquake_Information/June/2022_0621_2025_B1.html
+20220622T0433_10.44_125.2,2022-06-22T04:33:00+08:00,10.44,125.2,10.0,2.3,006 km N 03° W of Hinunangan (Southern Leyte),2022_Earthquake_Information/June/2022_0621_2033_B2.html
+20220622T0444_13.18_119.77,2022-06-22T04:44:00+08:00,13.18,119.77,24.0,2.3,080 km S 41° W of Looc (Occidental Mindoro),2022_Earthquake_Information/June/2022_0621_2044_B1.html
+20220622T0456_10.18_124.98,2022-06-22T04:56:00+08:00,10.18,124.98,9.0,2.0,004 km N 41° W of Malitbog (Southern Leyte),2022_Earthquake_Information/June/2022_0621_2056_B2.html
+20220622T0510_13.47_120.66,2022-06-22T05:10:00+08:00,13.47,120.66,1.0,1.7,008 km N 69° W of Abra De Ilog (Occidental Mindoro),2022_Earthquake_Information/June/2022_0621_2110_B1.html
+20220622T0517_16.22_120.48,2022-06-22T05:17:00+08:00,16.22,120.48,13.0,2.3,001 km S 57° W of Rosario (La Union),2022_Earthquake_Information/June/2022_0621_2117_B2.html
+20220622T0527_5.82_125.69,2022-06-22T05:27:00+08:00,5.82,125.69,128.0,3.0,042 km S 01° W of Don Marcelino (Davao Occidental),2022_Earthquake_Information/June/2022_0621_2127_B2.html
+20220622T0638_16.89_121.67,2022-06-22T06:38:00+08:00,16.89,121.67,22.0,1.9,009 km N 86° E of San Mateo (Isabela),2022_Earthquake_Information/June/2022_0621_2238_B2.html
+20220622T0654_16.94_121.37,2022-06-22T06:54:00+08:00,16.94,121.37,19.0,2.1,006 km S 48° E of Aguinaldo (Ifugao),2022_Earthquake_Information/June/2022_0621_2254_B1.html
+20220622T0728_9.59_126.2,2022-06-22T07:28:00+08:00,9.59,126.2,35.0,1.4,021 km S 12° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0621_2328_B1.html
+20220622T0730_17.86_120.98,2022-06-22T07:30:00+08:00,17.86,120.98,22.0,2.1,022 km N 12° E of Lacub (Abra),2022_Earthquake_Information/June/2022_0621_2330_B1.html
+20220622T0752_19.14_120.13,2022-06-22T07:52:00+08:00,19.14,120.13,23.0,3.1,088 km N 38° W of Burgos (Ilocos Norte),2022_Earthquake_Information/June/2022_0621_2352_B2.html
+20220622T1057_8.04_123.29,2022-06-22T10:57:00+08:00,8.04,123.29,11.0,2.5,003 km N 60° W of Midsalip (Zamboanga Del Sur),2022_Earthquake_Information/June/2022_0622_0257_B2.html
+20220622T1323_10.3_126.14,2022-06-22T13:23:00+08:00,10.3,126.14,21.0,2.6,032 km N 14° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0622_0523_B2.html
+20220622T1329_12.16_121.13,2022-06-22T13:29:00+08:00,12.16,121.13,20.0,2.3,017 km S 04° W of Magsaysay (Occidental Mindoro),2022_Earthquake_Information/June/2022_0622_0529_B2.html
+20220622T1355_10.06_122.54,2022-06-22T13:55:00+08:00,10.06,122.54,18.0,2.1,013 km N 44° W of Cauayan (Negros Occidental),2022_Earthquake_Information/June/2022_0622_0555_B2.html
+20220622T1426_15.24_120.34,2022-06-22T14:26:00+08:00,15.24,120.34,23.0,3.0,024 km S 90° W of Mabalacat City (Pampanga),2022_Earthquake_Information/June/2022_0622_0626_B2.html
+20220622T1455_7.98_126.72,2022-06-22T14:55:00+08:00,7.98,126.72,33.0,2.0,034 km S 79° E of Lingig (Surigao Del Sur),2022_Earthquake_Information/June/2022_0622_0655_B2.html
+20220622T1512_19.13_120.99,2022-06-22T15:12:00+08:00,19.13,120.99,8.0,3.2,023 km N 84° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0622_0712_B2.html
+20220622T1537_9.36_122.42,2022-06-22T15:37:00+08:00,9.36,122.42,9.0,3.1,027 km S 12° W of Hinoba-an (Negros Occidental),2022_Earthquake_Information/June/2022_0622_0737_B2.html
+20220622T1723_10.38_126.24,2022-06-22T17:23:00+08:00,10.38,126.24,23.0,2.9,044 km N 24° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0622_0923_B2.html
+20220622T1730_10.44_126.17,2022-06-22T17:30:00+08:00,10.44,126.17,32.0,2.3,047 km N 13° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0622_0930_B2.html
+20220622T1827_9.66_125.59,2022-06-22T18:27:00+08:00,9.66,125.59,32.0,1.5,001 km N 70° W of Placer (Surigao Del Norte),2022_Earthquake_Information/June/2022_0622_1027_B1.html
+20220622T1918_9.77_124.64,2022-06-22T19:18:00+08:00,9.77,124.64,10.0,1.9,007 km N 64° E of Anda (Bohol),2022_Earthquake_Information/June/2022_0622_1118_B1.html
+20220622T1924_15.7_120.41,2022-06-22T19:24:00+08:00,15.7,120.41,120.0,2.5,002 km N 23° W of Camiling (Tarlac),2022_Earthquake_Information/June/2022_0622_1124_B2.html
+20220622T1955_11.8_125.6,2022-06-22T19:55:00+08:00,11.8,125.6,35.0,1.6,016 km S 85° E of Sulat (Eastern Samar),2022_Earthquake_Information/June/2022_0622_1155_B2.html
+20220622T2106_9.85_125.45,2022-06-22T21:06:00+08:00,9.85,125.45,22.0,2.0,008 km N 38° W of City Of Surigao (Surigao Del Norte),2022_Earthquake_Information/June/2022_0622_1306_B2.html
+20220622T2140_13.69_120.61,2022-06-22T21:40:00+08:00,13.69,120.61,102.0,1.5,016 km S 08° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0622_1340_B1F.html
+20220623T0003_15.08_120.04,2022-06-23T00:03:00+08:00,15.08,120.04,11.0,2.9,004 km N 50° W of San Felipe (Zambales),2022_Earthquake_Information/June/2022_0622_1603_B2.html
+20220623T0021_13.42_120.24,2022-06-23T00:21:00+08:00,13.42,120.24,10.0,1.6,024 km S 90° W of Paluan (Occidental Mindoro),2022_Earthquake_Information/June/2022_0622_1621_B1.html
+20220623T0042_8.16_126.41,2022-06-23T00:42:00+08:00,8.16,126.41,82.0,2.3,012 km S 59° E of City Of Bislig (Surigao Del Sur),2022_Earthquake_Information/June/2022_0622_1642_B2.html
+20220623T0046_9.1_125.81,2022-06-23T00:46:00+08:00,9.1,125.81,10.0,2.0,025 km N 79° E of Remedios T. Romualdez (Agusan Del Norte),2022_Earthquake_Information/June/2022_0622_1646_B2.html
+20220623T0120_16.53_120.92,2022-06-23T01:20:00+08:00,16.53,120.92,10.0,2.3,012 km S 88° W of Ambaguio (Nueva Vizcaya),2022_Earthquake_Information/June/2022_0622_1720_B2.html
+20220623T0131_13.31_121.18,2022-06-23T01:31:00+08:00,13.31,121.18,33.0,1.5,008 km S 02° W of City Of Calapan (Oriental Mindoro),2022_Earthquake_Information/June/2022_0622_1731_B1.html
+20220623T0134_13.64_120.66,2022-06-23T01:34:00+08:00,13.64,120.66,104.0,1.5,022 km S 08° E of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0622_1734_B1F.html
+20220623T0148_9.2_124.84,2022-06-23T01:48:00+08:00,9.2,124.84,11.0,2.2,007 km N 51° E of Mahinog (Camiguin),2022_Earthquake_Information/June/2022_0622_1748_B2.html
+20220623T0158_19.71_121.57,2022-06-23T01:58:00+08:00,19.71,121.57,53.0,2.2,042 km N 59° W of Babuyan Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0622_1758_B1.html
+20220623T0245_7.6_125.58,2022-06-23T02:45:00+08:00,7.6,125.58,9.0,1.9,014 km N 83° W of Kapalong (Davao Del Norte),2022_Earthquake_Information/June/2022_0622_1845_B2.html
+20220623T0306_11.76_125.51,2022-06-23T03:06:00+08:00,11.76,125.51,9.0,2.1,008 km S 46° E of Sulat (Eastern Samar),2022_Earthquake_Information/June/2022_0622_1906_B2_Eastern_Samar.html
+20220623T0306_7.67_125.76,2022-06-23T03:06:00+08:00,7.67,125.76,15.0,1.9,011 km N 31° E of Kapalong (Davao Del Norte),2022_Earthquake_Information/June/2022_0622_1906_B1_Davao_del_Norte.html
+20220623T0324_13.84_120.5,2022-06-23T03:24:00+08:00,13.84,120.5,23.0,1.6,015 km N 87° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0622_1924_B2.html
+20220623T0500_16.31_120.89,2022-06-23T05:00:00+08:00,16.31,120.89,21.0,2.3,017 km N 18° W of Santa Fe (Nueva Vizcaya),2022_Earthquake_Information/June/2022_0622_2100_B2.html
+20220623T0512_19.7_121.54,2022-06-23T05:12:00+08:00,19.7,121.54,15.0,2.1,044 km N 62° W of Babuyan Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0622_2112_B1.html
+20220623T0529_10.34_126.21,2022-06-23T05:29:00+08:00,10.34,126.21,17.0,2.5,039 km N 22° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0622_2129_B2.html
+20220623T0607_8.41_123.24,2022-06-23T06:07:00+08:00,8.41,123.24,34.0,2.1,012 km S 06° E of President Manuel A. Roxas (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0622_2207_B1.html
+20220623T0608_10.46_126.95,2022-06-23T06:08:00+08:00,10.46,126.95,33.0,3.0,107 km N 63° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0622_2208_B2.html
+20220623T0623_10.32_126.23,2022-06-23T06:23:00+08:00,10.32,126.23,21.0,2.1,039 km N 32° E of Santa Monica (Surigao Del Norte),2022_Earthquake_Information/June/2022_0622_2223_B2.html
+20220623T0930_10.49_126.78,2022-06-23T09:30:00+08:00,10.49,126.78,15.0,3.2,093 km N 56° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0623_0130_B2.html
+20220623T0936_2.94_128.63,2022-06-23T09:36:00+08:00,2.94,128.63,268.0,4.6,445 km S 53° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0623_0136_B1.html
+20220623T0939_8.76_126.39,2022-06-23T09:39:00+08:00,8.76,126.39,26.0,2.3,020 km S 29° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0623_0139_B2.html
+20220623T1156_10.18_124.9,2022-06-23T11:56:00+08:00,10.18,124.9,16.0,1.9,008 km N 52° E of City Of Maasin (Southern Leyte),2022_Earthquake_Information/June/2022_0623_0356_B2.html
+20220623T1225_10.34_126.94,2022-06-23T12:25:00+08:00,10.34,126.94,23.0,3.1,101 km N 70° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0623_0425_B2.html
+20220623T1303_18.93_122.05,2022-06-23T13:03:00+08:00,18.93,122.05,1.0,3.5,019 km N 82° E of Camiguin Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0623_0503_B2.html
+20220623T1342_13.72_120.62,2022-06-23T13:42:00+08:00,13.72,120.62,98.0,1.9,012 km S 06° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0623_0542_B2F.html
+20220623T1357_18.95_122.08,2022-06-23T13:57:00+08:00,18.95,122.08,1.0,3.1,023 km N 79° E of Camiguin Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0623_0557_B2.html
+20220623T1711_13.83_120.56,2022-06-23T17:11:00+08:00,13.83,120.56,92.0,1.6,008 km N 88° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0623_0911_B2F.html
+20220623T1721_8.72_125.88,2022-06-23T17:21:00+08:00,8.72,125.88,27.0,2.6,014 km N 17° W of Prosperidad (Agusan Del Sur),2022_Earthquake_Information/June/2022_0623_0921_B2.html
+20220623T1741_11.19_126.05,2022-06-23T17:41:00+08:00,11.19,126.05,4.0,2.5,038 km N 74° E of Mercedes (Eastern Samar),2022_Earthquake_Information/June/2022_0623_0941_B2.html
+20220623T1746_19.02_122.3,2022-06-23T17:46:00+08:00,19.02,122.3,1.0,3.6,047 km N 74° E of Camiguin Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0623_0946_B2.html
+20220623T1825_10.44_127.05,2022-06-23T18:25:00+08:00,10.44,127.05,25.0,3.5,117 km N 66° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0623_1025_B2.html
+20220623T1909_19.04_122.24,2022-06-23T19:09:00+08:00,19.04,122.24,1.0,3.9,042 km N 70° E of Camiguin Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0623_1109_B2.html
+20220623T1918_18.59_121.97,2022-06-23T19:18:00+08:00,18.59,121.97,31.0,1.5,023 km N 52° W of Santa Ana (Cagayan),2022_Earthquake_Information/June/2022_0623_1118_B1.html
+20220623T1937_13.43_120.18,2022-06-23T19:37:00+08:00,13.43,120.18,2.0,2.5,032 km S 13° W of Looc (Occidental Mindoro),2022_Earthquake_Information/June/2022_0623_1137_B2.html
+20220623T1945_18.5_120.84,2022-06-23T19:45:00+08:00,18.5,120.84,18.0,1.9,004 km S 59° E of Dumalneg (Ilocos Norte),2022_Earthquake_Information/June/2022_0623_1145_B2.html
+20220623T2006_18.65_121.04,2022-06-23T20:06:00+08:00,18.65,121.04,8.0,1.8,006 km N 43° W of Claveria (Cagayan),2022_Earthquake_Information/June/2022_0623_1206_B2.html
+20220623T2043_20.12_121.66,2022-06-23T20:43:00+08:00,20.12,121.66,11.0,3.2,032 km S 44° W of Sabtang (Batanes),2022_Earthquake_Information/June/2022_0623_1243_B1.html
+20220623T2056_13.84_120.58,2022-06-23T20:56:00+08:00,13.84,120.58,12.0,1.6,006 km N 83° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0623_1256_B1F.html
+20220623T2058_7.78_126.56,2022-06-23T20:58:00+08:00,7.78,126.56,2.0,2.9,011 km S 85° E of Cateel (Davao Oriental),2022_Earthquake_Information/June/2022_0623_1258_B2.html
+20220623T2106_8.28_123.68,2022-06-23T21:06:00+08:00,8.28,123.68,8.0,2.2,016 km N 63° E of Josefina (Zamboanga Del Sur),2022_Earthquake_Information/June/2022_0623_1306_B2.html
+20220623T2121_19.03_120.07,2022-06-23T21:21:00+08:00,19.03,120.07,10.0,2.6,083 km N 47° W of Burgos (Ilocos Norte),2022_Earthquake_Information/June/2022_0623_1321_B2.html
+20220623T2128_7.46_126.14,2022-06-23T21:28:00+08:00,7.46,126.14,23.0,2.8,025 km S 78° E of Mawab (Davao De Oro),2022_Earthquake_Information/June/2022_0623_1328_B2.html
+20220623T2151_11.32_125.85,2022-06-23T21:51:00+08:00,11.32,125.85,1.0,2.2,026 km S 84° E of Hernani (Eastern Samar),2022_Earthquake_Information/June/2022_0623_1351_B2.html
+20220623T2232_18.88_121.93,2022-06-23T22:32:00+08:00,18.88,121.93,1.0,2.9,007 km S 69° E of Camiguin Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0623_1432_B2.html
+20220624T0040_8.92_126.63,2022-06-24T00:40:00+08:00,8.92,126.63,33.0,2.2,038 km S 82° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0623_1640_B2.html
+20220624T0051_18.94_122.11,2022-06-24T00:51:00+08:00,18.94,122.11,1.0,3.1,025 km N 83° E of Camiguin Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0623_1651_B2.html
+20220624T0057_13.74_120.61,2022-06-24T00:57:00+08:00,13.74,120.61,105.0,1.6,011 km S 15° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0623_1657_B2.html
+20220624T0113_5.96_125.99,2022-06-24T01:13:00+08:00,5.96,125.99,161.0,3.2,039 km N 82° E of Jose Abad Santos (Davao Occidental),2022_Earthquake_Information/June/2022_0623_1713_B2.html
+20220624T0115_13.81_120.59,2022-06-24T01:15:00+08:00,13.81,120.59,91.0,1.6,006 km S 60° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0623_1715_B2.html
+20220624T0138_16.61_120.68,2022-06-24T01:38:00+08:00,16.61,120.68,33.0,1.9,009 km S 80° W of Atok (Benguet),2022_Earthquake_Information/June/2022_0623_1738_B2.html
+20220624T0201_10.0_126.35,2022-06-24T02:01:00+08:00,10.0,126.35,21.0,2.6,030 km S 87° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0623_1801_B2.html
+20220624T0204_9.96_125.92,2022-06-24T02:04:00+08:00,9.96,125.92,11.0,2.3,010 km S 89° W of San Benito (Surigao Del Norte),2022_Earthquake_Information/June/2022_0623_1804_B2.html
+20220624T0216_15.74_120.14,2022-06-24T02:16:00+08:00,15.74,120.14,1.0,1.8,018 km S 73° W of Mangatarem (Pangasinan),2022_Earthquake_Information/June/2022_0623_1816_B2.html
+20220624T0244_18.43_121.28,2022-06-24T02:44:00+08:00,18.43,121.28,12.0,1.6,007 km S 57° W of Pamplona (Cagayan),2022_Earthquake_Information/June/2022_0623_1844_B1.html
+20220624T0256_15.52_119.95,2022-06-24T02:56:00+08:00,15.52,119.95,25.0,3.2,002 km S 24° W of Masinloc (Zambales),2022_Earthquake_Information/June/2022_0623_1856_B2.html
+20220624T0303_9.57_126.13,2022-06-24T03:03:00+08:00,9.57,126.13,23.0,2.1,024 km S 06° W of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0623_1903_B2.html
+20220624T0310_7.12_125.47,2022-06-24T03:10:00+08:00,7.12,125.47,30.0,1.9,027 km N 81° W of Island Garden City Of Samal (Davao Del Norte),2022_Earthquake_Information/June/2022_0623_1910_B1.html
+20220624T0424_9.88_123.22,2022-06-24T04:24:00+08:00,9.88,123.22,34.0,1.7,007 km S 51° E of Tayasan (Negros Oriental),2022_Earthquake_Information/June/2022_0623_2024_B1.html
+20220624T0456_17.72_120.06,2022-06-24T04:56:00+08:00,17.72,120.06,24.0,2.7,035 km N 66° W of Santa Catalina (Ilocos Sur),2022_Earthquake_Information/June/2022_0623_2056_B2.html
+20220624T0630_8.04_126.1,2022-06-24T06:30:00+08:00,8.04,126.1,2.0,2.2,004 km N 77° E of Trento (Agusan Del Sur),2022_Earthquake_Information/June/2022_0623_2230_B2.html
+20220624T0644_12.22_126.03,2022-06-24T06:44:00+08:00,12.22,126.03,19.0,3.1,057 km N 86° E of San Policarpo (Eastern Samar),2022_Earthquake_Information/June/2022_0623_2244_B2.html
+20220624T0704_13.55_120.59,2022-06-24T07:04:00+08:00,13.55,120.59,116.0,1.9,019 km N 51° W of Abra De Ilog (Occidental Mindoro),2022_Earthquake_Information/June/2022_0623_2304_B2.html
+20220624T0709_8.15_126.61,2022-06-24T07:09:00+08:00,8.15,126.61,1.0,2.7,029 km N 68° E of Lingig (Surigao Del Sur),2022_Earthquake_Information/June/2022_0623_2309_B2.html
+20220624T0725_18.89_120.71,2022-06-24T07:25:00+08:00,18.89,120.71,12.0,2.2,037 km N 12° W of Pagudpud (Ilocos Norte),2022_Earthquake_Information/June/2022_0623_2325_B2.html
+20220624T0814_13.7_120.6,2022-06-24T08:14:00+08:00,13.7,120.6,117.0,1.7,015 km S 13° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0624_0014_B2F.html
+20220624T0859_13.58_120.26,2022-06-24T08:59:00+08:00,13.58,120.26,2.0,2.1,016 km S 02° E of Looc (Occidental Mindoro),2022_Earthquake_Information/June/2022_0624_0059_B2.html
+20220624T0941_18.14_119.33,2022-06-24T09:41:00+08:00,18.14,119.33,20.0,2.6,125 km N 61° W of Santa Catalina (Ilocos Sur),2022_Earthquake_Information/June/2022_0624_0141_B2.html
+20220624T0942_18.06_120.47,2022-06-24T09:42:00+08:00,18.06,120.47,28.0,3.8,005 km S 86° W of Paoay (Ilocos Norte),2022_Earthquake_Information/June/2022_0624_0142_B3F.html
+20220624T1157_7.98_127.05,2022-06-24T11:57:00+08:00,7.98,127.05,33.0,2.5,070 km N 50° E of Baganga (Davao Oriental),2022_Earthquake_Information/June/2022_0624_0357_B1.html
+20220624T1221_12.27_125.46,2022-06-24T12:21:00+08:00,12.27,125.46,26.0,2.1,012 km N 28° W of San Policarpo (Eastern Samar),2022_Earthquake_Information/June/2022_0624_0421_B1.html
+20220624T1230_16.38_122.4,2022-06-24T12:30:00+08:00,16.38,122.4,12.0,2.6,020 km S 86° E of Dilasag (Aurora),2022_Earthquake_Information/June/2022_0624_0430_B2.html
+20220624T1833_18.91_121.43,2022-06-24T18:33:00+08:00,18.91,121.43,26.0,1.7,009 km N 46° E of Fuga Island (Aparri) (Cagayan),2022_Earthquake_Information/June/2022_0624_1033_B1.html
+20220624T1834_11.31_124.49,2022-06-24T18:34:00+08:00,11.31,124.49,1.0,2.3,007 km S 01° W of Leyte (Leyte),2022_Earthquake_Information/June/2022_0624_1034_B2.html
+20220624T1946_14.41_119.41,2022-06-24T19:46:00+08:00,14.41,119.41,18.0,2.8,099 km N 52° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0624_1146_B2F.html
+20220624T1957_19.72_121.81,2022-06-24T19:57:00+08:00,19.72,121.81,6.0,2.3,025 km N 25° W of Babuyan Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0624_1157_B1.html
+20220624T2012_13.13_124.45,2022-06-24T20:12:00+08:00,13.13,124.45,80.0,2.9,029 km N 71° E of Prieto Diaz (Sorsogon),2022_Earthquake_Information/June/2022_0624_1212_B2_Sorsogon.html
+20220624T2013_10.07_125.0,2022-06-24T20:13:00+08:00,10.07,125.0,28.0,2.3,005 km N 25° W of Padre Burgos (Southern Leyte),2022_Earthquake_Information/June/2022_0624_1213_B2.html
+20220624T2020_13.58_120.43,2022-06-24T20:20:00+08:00,13.58,120.43,35.0,2.1,019 km N 12° W of Paluan (Occidental Mindoro),2022_Earthquake_Information/June/2022_0624_1220_B1.html
+20220624T2141_4.6_125.93,2022-06-24T21:41:00+08:00,4.6,125.93,159.0,4.9,106 km S 32° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0624_1341_B2F.html
+20220624T2148_17.96_120.92,2022-06-24T21:48:00+08:00,17.96,120.92,6.0,2.0,023 km S 28° E of Carasi (Ilocos Norte),2022_Earthquake_Information/June/2022_0624_1348_B2.html
+20220624T2224_9.35_122.37,2022-06-24T22:24:00+08:00,9.35,122.37,24.0,2.2,030 km S 21° W of Hinoba-an (Negros Occidental),2022_Earthquake_Information/June/2022_0624_1424_B1.html
+20220624T2313_14.09_120.46,2022-06-24T23:13:00+08:00,14.09,120.46,120.0,2.2,019 km N 86° W of Nasugbu (Batangas),2022_Earthquake_Information/June/2022_0624_1513_B1.html
+20220624T2327_12.74_124.05,2022-06-24T23:27:00+08:00,12.74,124.05,3.0,3.5,009 km S 82° W of Bulusan (Sorsogon),2022_Earthquake_Information/June/2022_0624_1527_B2F.html
+20220624T2339_17.99_120.92,2022-06-24T23:39:00+08:00,17.99,120.92,32.0,2.2,019 km S 54° E of Solsona (Ilocos Norte),2022_Earthquake_Information/June/2022_0624_1539_B1.html
+20220624T2340_9.79_125.92,2022-06-24T23:40:00+08:00,9.79,125.92,62.0,2.1,011 km S 33° W of Del Carmen (Surigao Del Norte),2022_Earthquake_Information/June/2022_0624_1540_B1.html
+20220624T2351_14.03_120.45,2022-06-24T23:51:00+08:00,14.03,120.45,109.0,2.6,020 km S 75° W of Nasugbu (Batangas),2022_Earthquake_Information/June/2022_0624_1551_B2.html
+20220625T0004_11.21_123.89,2022-06-25T00:04:00+08:00,11.21,123.89,1.0,2.9,012 km N 38° W of Medellin (Cebu),2022_Earthquake_Information/June/2022_0624_1604_B2.html
+20220625T0025_16.55_120.27,2022-06-25T00:25:00+08:00,16.55,120.27,63.0,2.2,007 km N 67° W of Bauang (La Union),2022_Earthquake_Information/June/2022_0624_1625_B1.html
+20220625T0026_19.03_121.17,2022-06-25T00:26:00+08:00,19.03,121.17,5.0,3.0,009 km S 23° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0624_1626_B1.html
+20220625T0035_19.07_121.53,2022-06-25T00:35:00+08:00,19.07,121.53,24.0,2.0,022 km S 17° E of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0624_1635_B1.html
+20220625T0041_13.08_122.8,2022-06-25T00:41:00+08:00,13.08,122.8,5.0,2.8,020 km S 73° W of San Pascual (Masbate),2022_Earthquake_Information/June/2022_0624_1641_B2.html
+20220625T0052_11.11_123.91,2022-06-25T00:52:00+08:00,11.11,123.91,2.0,3.0,007 km N 83° W of Medellin (Cebu),2022_Earthquake_Information/June/2022_0624_1652_B2.html
+20220625T0101_15.88_119.61,2022-06-25T01:01:00+08:00,15.88,119.61,13.0,1.9,032 km S 68° W of Dasol (Pangasinan),2022_Earthquake_Information/June/2022_0624_1701_B1.html
+20220625T0117_12.2_121.04,2022-06-25T01:17:00+08:00,12.2,121.04,10.0,2.0,017 km S 41° W of Magsaysay (Occidental Mindoro),2022_Earthquake_Information/June/2022_0624_1717_B1.html
+20220625T0144_19.24_120.95,2022-06-25T01:44:00+08:00,19.24,120.95,23.0,2.1,031 km N 61° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0624_1744_B1.html
+20220625T0145_19.01_121.98,2022-06-25T01:45:00+08:00,19.01,121.98,2.0,2.6,016 km N 48° E of Camiguin Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0624_1745_B1.html
+20220625T0153_19.09_121.46,2022-06-25T01:53:00+08:00,19.09,121.46,23.0,2.2,019 km S 04° W of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0624_1753_B1.html
+20220625T0225_6.09_126.15,2022-06-25T02:25:00+08:00,6.09,126.15,163.0,2.8,052 km S 76° E of Don Marcelino (Davao Occidental),2022_Earthquake_Information/June/2022_0624_1825_B2.html
+20220625T0232_9.78_126.3,2022-06-25T02:32:00+08:00,9.78,126.3,6.0,2.1,015 km S 88° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0624_1832_B2.html
+20220625T0247_21.74_120.45,2022-06-25T02:47:00+08:00,21.74,120.45,3.0,4.1,179 km N 54° W of Itbayat (Batanes),2022_Earthquake_Information/June/2022_0624_1847_B1.html
+20220625T0311_13.73_120.59,2022-06-25T03:11:00+08:00,13.73,120.59,32.0,1.9,012 km S 24° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0624_1911_B1F.html
+20220625T0313_9.57_126.2,2022-06-25T03:13:00+08:00,9.57,126.2,33.0,1.8,024 km S 12° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0624_1913_B1.html
+20220625T0350_7.13_125.76,2022-06-25T03:50:00+08:00,7.13,125.76,32.0,3.1,007 km N 41° E of Island Garden City Of Samal (Davao Del Norte),2022_Earthquake_Information/June/2022_0624_1950_B2.html
+20220625T0416_13.97_120.39,2022-06-25T04:16:00+08:00,13.97,120.39,34.0,2.0,029 km S 65° W of Nasugbu (Batangas),2022_Earthquake_Information/June/2022_0624_2016_B1.html
+20220625T0425_21.0_120.06,2022-06-25T04:25:00+08:00,21.0,120.06,33.0,3.8,187 km N 83° W of Itbayat (Batanes),2022_Earthquake_Information/June/2022_0624_2025_B2.html
+20220625T0441_11.66_122.91,2022-06-25T04:41:00+08:00,11.66,122.91,23.0,3.7,019 km N 63° E of City Of Roxas (Capiz),2022_Earthquake_Information/June/2022_0624_2041_B3F.html
+20220625T0511_9.01_126.72,2022-06-25T05:11:00+08:00,9.01,126.72,9.0,3.1,047 km N 77° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0624_2111_B2F.html
+20220625T0518_8.9_126.52,2022-06-25T05:18:00+08:00,8.9,126.52,13.0,4.6,024 km S 86° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0624_2118_B2F.html
+20220625T0524_6.79_125.84,2022-06-25T05:24:00+08:00,6.79,125.84,23.0,2.7,022 km S 59° W of Lupon (Davao Oriental),2022_Earthquake_Information/June/2022_0624_2124_B2.html
+20220625T0546_7.15_123.57,2022-06-25T05:46:00+08:00,7.15,123.57,23.0,2.9,039 km S 27° E of Tabina (Zamboanga Del Sur),2022_Earthquake_Information/June/2022_0624_2146_B2.html
+20220625T0611_8.88_125.73,2022-06-25T06:11:00+08:00,8.88,125.73,10.0,3.0,008 km N 30° E of Sibagat (Agusan Del Sur),2022_Earthquake_Information/June/2022_0624_2211_B2.html
+20220625T0639_9.38_122.43,2022-06-25T06:39:00+08:00,9.38,122.43,20.0,2.4,023 km S 81° W of Basay (Negros Oriental),2022_Earthquake_Information/June/2022_0624_2239_B2.html
+20220625T0737_6.78_125.67,2022-06-25T07:37:00+08:00,6.78,125.67,15.0,3.2,028 km S 78° E of Santa Cruz (Davao Del Sur),2022_Earthquake_Information/June/2022_0624_2337_B2.html
+20220625T0842_13.82_120.58,2022-06-25T08:42:00+08:00,13.82,120.58,135.0,2.2,006 km S 73° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0625_0042_B1F.html
+20220625T0951_13.69_120.55,2022-06-25T09:51:00+08:00,13.69,120.55,94.0,1.8,018 km S 29° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0625_0151_B2F.html
+20220625T1302_19.36_120.64,2022-06-25T13:02:00+08:00,19.36,120.64,15.0,2.2,066 km N 64° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0625_0502_B2.html
+20220625T1338_13.67_120.63,2022-06-25T13:38:00+08:00,13.67,120.63,100.0,1.6,017 km S 01° E of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0625_0538_B1F.html
+20220625T1652_6.31_126.19,2022-06-25T16:52:00+08:00,6.31,126.19,76.0,3.3,041 km S 18° E of Governor Generoso (Davao Oriental),2022_Earthquake_Information/June/2022_0625_0852_B2.html
+20220625T1823_9.74_126.38,2022-06-25T18:23:00+08:00,9.74,126.38,1.0,2.5,025 km S 79° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0625_1023_B2.html
+20220625T2112_13.68_120.57,2022-06-25T21:12:00+08:00,13.68,120.57,85.0,2.4,018 km S 24° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0625_1312_B2.html
+20220625T2119_6.28_126.42,2022-06-25T21:19:00+08:00,6.28,126.42,1.0,2.9,056 km S 43° E of Governor Generoso (Davao Oriental),2022_Earthquake_Information/June/2022_0625_1319_B2.html
+20220625T2158_9.18_122.62,2022-06-25T21:58:00+08:00,9.18,122.62,1.0,2.1,025 km S 05° W of Basay (Negros Oriental),2022_Earthquake_Information/June/2022_0625_1358_B2.html
+20220625T2341_13.8_120.43,2022-06-25T23:41:00+08:00,13.8,120.43,68.0,2.8,022 km S 82° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0625_1541_B2.html
+20220626T0000_17.67_122.68,2022-06-26T00:00:00+08:00,17.67,122.68,34.0,2.3,056 km N 47° E of Divilacan (Isabela),2022_Earthquake_Information/June/2022_0625_1600_B2.html
+20220626T0112_9.28_126.09,2022-06-26T01:12:00+08:00,9.28,126.09,153.0,2.3,014 km N 81° E of Madrid (Surigao Del Sur),2022_Earthquake_Information/June/2022_0625_1712_B2.html
+20220626T0116_18.99_121.22,2022-06-26T01:16:00+08:00,18.99,121.22,20.0,2.1,022 km N 46° W of Fuga Island (Aparri) (Cagayan),2022_Earthquake_Information/June/2022_0625_1716_B2.html
+20220626T0139_11.27_124.58,2022-06-26T01:39:00+08:00,11.27,124.58,9.0,2.6,008 km S 71° W of Capoocan (Leyte),2022_Earthquake_Information/June/2022_0625_1739_B2F.html
+20220626T0157_6.78_127.11,2022-06-26T01:57:00+08:00,6.78,127.11,15.0,3.1,079 km S 53° E of Manay (Davao Oriental),2022_Earthquake_Information/June/2022_0625_1757_B2.html
+20220626T0200_14.08_119.28,2022-06-26T02:00:00+08:00,14.08,119.28,38.0,2.1,094 km N 75° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0625_1800_B2.html
+20220626T0201_18.89_120.94,2022-06-26T02:01:00+08:00,18.89,120.94,31.0,1.9,034 km N 26° W of Claveria (Cagayan),2022_Earthquake_Information/June/2022_0625_1801_B1.html
+20220626T0236_6.67_125.18,2022-06-26T02:36:00+08:00,6.67,125.18,13.0,2.5,006 km S 50° W of Matanao (Davao Del Sur),2022_Earthquake_Information/June/2022_0625_1836_B2.html
+20220626T0356_10.03_126.23,2022-06-26T03:56:00+08:00,10.03,126.23,34.0,1.7,017 km N 87° E of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0625_1956_B1.html
+20220626T0422_5.96_125.61,2022-06-26T04:22:00+08:00,5.96,125.61,137.0,3.9,007 km N 39° W of Jose Abad Santos (Davao Occidental),2022_Earthquake_Information/June/2022_0625_2022_B2.html
+20220626T0434_10.95_122.74,2022-06-26T04:34:00+08:00,10.95,122.74,15.0,2.0,003 km S 15° W of Anilao (Iloilo),2022_Earthquake_Information/June/2022_0625_2034_B1.html
+20220626T0537_18.69_120.84,2022-06-26T05:37:00+08:00,18.69,120.84,16.0,2.3,015 km N 20° E of Pagudpud (Ilocos Norte),2022_Earthquake_Information/June/2022_0625_2137_B1.html
+20220626T0746_8.96_125.73,2022-06-26T07:46:00+08:00,8.96,125.73,33.0,1.9,016 km N 17° E of Sibagat (Agusan Del Sur),2022_Earthquake_Information/June/2022_0625_2346_B1.html
+20220626T0837_16.07_121.5,2022-06-26T08:37:00+08:00,16.07,121.5,8.0,2.2,021 km S 32° W of Nagtipunan (Quirino),2022_Earthquake_Information/June/2022_0626_0037_B2.html
+20220626T0840_11.17_123.89,2022-06-26T08:40:00+08:00,11.17,123.89,1.0,2.6,009 km N 63° W of Medellin (Cebu),2022_Earthquake_Information/June/2022_0626_0040_B2.html
+20220626T0954_10.72_126.08,2022-06-26T09:54:00+08:00,10.72,126.08,11.0,2.4,039 km S 87° E of Homonhon Island (Guiuan) (Eastern Samar),2022_Earthquake_Information/June/2022_0626_0154_B2.html
+20220626T0959_11.06_123.95,2022-06-26T09:59:00+08:00,11.06,123.95,1.0,2.1,002 km S 22° E of San Remigio (Cebu),2022_Earthquake_Information/June/2022_0626_0159_B2_Cebu.html
+20220626T0959_18.05_121.45,2022-06-26T09:59:00+08:00,18.05,121.45,22.0,2.7,016 km S 86° W of Lasam (Cagayan),2022_Earthquake_Information/June/2022_0626_0159_B2_Cagayan.html
+20220626T1056_16.05_121.45,2022-06-26T10:56:00+08:00,16.05,121.45,27.0,1.6,024 km N 22° W of Dipaculao (Aurora),2022_Earthquake_Information/June/2022_0626_0256_B1.html
+20220626T1206_17.05_122.3,2022-06-26T12:06:00+08:00,17.05,122.3,33.0,2.3,014 km S 83° W of Palanan (Isabela),2022_Earthquake_Information/June/2022_0626_0406_B1.html
+20220626T1346_11.15_123.92,2022-06-26T13:46:00+08:00,11.15,123.92,8.0,2.7,005 km N 57° W of Medellin (Cebu),2022_Earthquake_Information/June/2022_0626_0546_B2.html
+20220626T1359_15.08_123.82,2022-06-26T13:59:00+08:00,15.08,123.82,29.0,2.8,115 km N 55° E of Tinaga Island (Vinzons) (Camarines Norte),2022_Earthquake_Information/June/2022_0626_0559_B2.html
+20220626T1535_13.96_120.55,2022-06-26T15:35:00+08:00,13.96,120.55,119.0,3.0,014 km S 52° W of Lian (Batangas),2022_Earthquake_Information/June/2022_0626_0735_B2.html
+20220626T1613_18.14_120.64,2022-06-26T16:13:00+08:00,18.14,120.64,44.0,1.6,002 km S 04° W of Sarrat (Ilocos Norte),2022_Earthquake_Information/June/2022_0626_0813_B2.html
+20220626T1823_9.06_125.58,2022-06-26T18:23:00+08:00,9.06,125.58,32.0,2.2,001 km N 40° W of Remedios T. Romualdez (Agusan Del Norte),2022_Earthquake_Information/June/2022_0626_1023_B2.html
+20220626T1830_11.12_123.88,2022-06-26T18:30:00+08:00,11.12,123.88,1.0,2.5,009 km S 87° W of Medellin (Cebu),2022_Earthquake_Information/June/2022_0626_1030_B2.html
+20220626T1931_14.28_119.15,2022-06-26T19:31:00+08:00,14.28,119.15,35.0,2.5,115 km N 66° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0626_1131_B2F.html
+20220626T1941_8.37_126.88,2022-06-26T19:41:00+08:00,8.37,126.88,23.0,2.2,060 km S 90° E of Hinatuan (Surigao Del Sur),2022_Earthquake_Information/June/2022_0626_1141_B1.html
+20220626T1955_8.88_125.77,2022-06-26T19:55:00+08:00,8.88,125.77,19.0,2.4,011 km N 54° E of Sibagat (Agusan Del Sur),2022_Earthquake_Information/June/2022_0626_1155_B2.html
+20220626T2059_10.71_126.35,2022-06-26T20:59:00+08:00,10.71,126.35,17.0,2.5,069 km S 87° E of Homonhon Island (Guiuan) (Eastern Samar),2022_Earthquake_Information/June/2022_0626_1259_B2.html
+20220626T2109_8.33_126.05,2022-06-26T21:09:00+08:00,8.33,126.05,30.0,2.6,008 km S 42° E of Rosario (Agusan Del Sur),2022_Earthquake_Information/June/2022_0626_1309_B2.html
+20220626T2114_14.23_125.1,2022-06-26T21:14:00+08:00,14.23,125.1,28.0,2.4,092 km N 57° E of Gigmoto (Catanduanes),2022_Earthquake_Information/June/2022_0626_1314_B1.html
+20220626T2137_9.3_126.08,2022-06-26T21:37:00+08:00,9.3,126.08,20.0,2.6,011 km S 86° E of Cantilan (Surigao Del Sur),2022_Earthquake_Information/June/2022_0626_1337_B2.html
+20220626T2147_9.74_123.7,2022-06-26T21:47:00+08:00,9.74,123.7,11.0,2.2,013 km S 56° W of Loon (Bohol),2022_Earthquake_Information/June/2022_0626_1347_B2.html
+20220626T2221_6.79_123.63,2022-06-26T22:21:00+08:00,6.79,123.63,7.0,2.3,053 km S 54° W of Datu Blah T. Sinsuat (Maguindanao),2022_Earthquake_Information/June/2022_0626_1421_B2.html
+20220626T2245_15.31_119.8,2022-06-26T22:45:00+08:00,15.31,119.8,29.0,3.2,019 km S 85° W of Iba (Zambales),2022_Earthquake_Information/June/2022_0626_1445_B2.html
+20220626T2256_6.49_123.69,2022-06-26T22:56:00+08:00,6.49,123.69,36.0,1.9,040 km S 80° W of Kalamansig (Sultan Kudarat),2022_Earthquake_Information/June/2022_0626_1456_B1.html
+20220626T2339_9.53_126.05,2022-06-26T23:39:00+08:00,9.53,126.05,14.0,2.1,013 km S 46° E of Socorro (Surigao Del Norte),2022_Earthquake_Information/June/2022_0626_1539_B2.html
+20220626T2347_8.06_122.31,2022-06-26T23:47:00+08:00,8.06,122.31,34.0,2.2,014 km N 50° W of Gutalac (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0626_1547_B1.html
+20220627T0115_8.8_122.22,2022-06-27T01:15:00+08:00,8.8,122.22,27.0,2.0,082 km S 34° W of Basay (Negros Oriental),2022_Earthquake_Information/June/2022_0626_1715_B1.html
+20220627T0125_17.53_120.89,2022-06-27T01:25:00+08:00,17.53,120.89,2.0,1.7,016 km S 22° W of Lacub (Abra),2022_Earthquake_Information/June/2022_0626_1725_B1.html
+20220627T0150_6.72_123.7,2022-06-27T01:50:00+08:00,6.72,123.7,18.0,2.5,043 km N 64° W of Kalamansig (Sultan Kudarat),2022_Earthquake_Information/June/2022_0626_1750_B2.html
+20220627T0228_10.33_125.15,2022-06-27T02:28:00+08:00,10.33,125.15,1.0,2.4,009 km S 39° W of Hinunangan (Southern Leyte),2022_Earthquake_Information/June/2022_0626_1828_B2.html
+20220627T0327_5.4_126.44,2022-06-27T03:27:00+08:00,5.4,126.44,55.0,3.3,104 km S 57° E of Jose Abad Santos (Davao Occidental),2022_Earthquake_Information/June/2022_0626_1927_B2.html
+20220627T0334_16.34_120.4,2022-06-27T03:34:00+08:00,16.34,120.4,7.0,2.7,004 km N 60° E of Agoo (La Union),2022_Earthquake_Information/June/2022_0626_1934_B2.html
+20220627T0339_5.98_125.83,2022-06-27T03:39:00+08:00,5.98,125.83,154.0,2.8,022 km N 69° E of Jose Abad Santos (Davao Occidental),2022_Earthquake_Information/June/2022_0626_1939_B2.html
+20220627T0347_7.23_123.63,2022-06-27T03:47:00+08:00,7.23,123.63,29.0,2.0,035 km S 43° E of Tabina (Zamboanga Del Sur),2022_Earthquake_Information/June/2022_0626_1947_B2.html
+20220627T0401_10.13_123.22,2022-06-27T04:01:00+08:00,10.13,123.22,12.0,1.8,005 km N 80° W of City Of Guihulngan (Negros Oriental),2022_Earthquake_Information/June/2022_0626_2001_B1.html
+20220627T0451_10.74_122.65,2022-06-27T04:51:00+08:00,10.74,122.65,6.0,2.6,010 km S 25° E of Zarraga (Iloilo),2022_Earthquake_Information/June/2022_0626_2051_B2.html
+20220627T0501_13.94_122.75,2022-06-27T05:01:00+08:00,13.94,122.75,33.0,1.6,014 km N 19° W of Ragay (Camarines Sur),2022_Earthquake_Information/June/2022_0626_2101_B1.html
+20220627T0809_19.08_121.01,2022-06-27T08:09:00+08:00,19.08,121.01,17.0,2.4,021 km S 83° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0627_0009_B1.html
+20220627T0923_17.6_120.59,2022-06-27T09:23:00+08:00,17.6,120.59,30.0,3.0,003 km N 86° W of Bangued (Abra),2022_Earthquake_Information/June/2022_0627_0123_B2F.html
+20220627T0939_11.19_124.39,2022-06-27T09:39:00+08:00,11.19,124.39,7.0,4.2,002 km S 14° W of Villaba (Leyte),2022_Earthquake_Information/June/2022_0627_0139_B2F.html
+20220627T1105_9.23_125.63,2022-06-27T11:05:00+08:00,9.23,125.63,12.0,3.0,009 km S 66° E of Santiago (Agusan Del Norte),2022_Earthquake_Information/June/2022_0627_0305_B2F.html
+20220627T1114_13.34_121.73,2022-06-27T11:14:00+08:00,13.34,121.73,10.0,2.5,017 km S 46° W of Boac (Marinduque),2022_Earthquake_Information/June/2022_0627_0314_B2.html
+20220627T1132_16.98_120.2,2022-06-27T11:32:00+08:00,16.98,120.2,2.0,2.1,024 km N 53° W of Luna (La Union),2022_Earthquake_Information/June/2022_0627_0332_B2.html
+20220627T1439_9.51_126.15,2022-06-27T14:39:00+08:00,9.51,126.15,13.0,2.3,023 km S 59° E of Socorro (Surigao Del Norte),2022_Earthquake_Information/June/2022_0627_0639_B2.html
+20220627T1844_9.8_126.0,2022-06-27T18:44:00+08:00,9.8,126.0,31.0,2.0,008 km S 20° E of Del Carmen (Surigao Del Norte),2022_Earthquake_Information/June/2022_0627_1044_B2.html
+20220627T1938_13.53_120.67,2022-06-27T19:38:00+08:00,13.53,120.67,115.0,2.7,011 km N 33° W of Abra De Ilog (Occidental Mindoro),2022_Earthquake_Information/June/2022_0627_1138_B2.html
+20220627T2104_8.12_123.81,2022-06-27T21:04:00+08:00,8.12,123.81,7.0,2.1,005 km S 51° W of City Of Ozamis (Misamis Occidental),2022_Earthquake_Information/June/2022_0627_1304_B2.html
+20220627T2243_8.86_125.68,2022-06-27T22:43:00+08:00,8.86,125.68,10.0,2.7,004 km N 17° W of Sibagat (Agusan Del Sur),2022_Earthquake_Information/June/2022_0627_1443_B2.html
+20220627T2343_7.07_126.61,2022-06-27T23:43:00+08:00,7.07,126.61,14.0,3.0,018 km N 83° E of Tarragona (Davao Oriental),2022_Earthquake_Information/June/2022_0627_1543_B2.html
+20220628T0103_13.97_120.58,2022-06-28T01:03:00+08:00,13.97,120.58,1.0,1.6,011 km S 46° W of Lian (Batangas),2022_Earthquake_Information/June/2022_0627_1703_B2.html
+20220628T0104_5.32_126.11,2022-06-28T01:04:00+08:00,5.32,126.11,89.0,3.5,073 km S 76° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2022_Earthquake_Information/June/2022_0627_1704_B2.html
+20220628T0142_15.3_121.67,2022-06-28T01:42:00+08:00,15.3,121.67,8.0,1.6,032 km S 73° E of Dingalan (Aurora),2022_Earthquake_Information/June/2022_0627_1742_B2.html
+20220628T0204_16.93_120.55,2022-06-28T02:04:00+08:00,16.93,120.55,28.0,1.9,005 km N 25° E of Alilem (Ilocos Sur),2022_Earthquake_Information/June/2022_0627_1804_B1.html
+20220628T0319_13.69_120.51,2022-06-28T03:19:00+08:00,13.69,120.51,111.0,2.6,021 km S 38° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0627_1919_B2F.html
+20220628T0352_18.39_121.13,2022-06-28T03:52:00+08:00,18.39,121.13,1.0,1.7,017 km N 32° E of Calanasan (Apayao),2022_Earthquake_Information/June/2022_0627_1952_B2.html
+20220628T0410_18.41_120.82,2022-06-28T04:10:00+08:00,18.41,120.82,2.0,2.6,010 km S 50° W of Adams (Ilocos Norte),2022_Earthquake_Information/June/2022_0627_2010_B1.html
+20220628T0417_11.22_123.89,2022-06-28T04:17:00+08:00,11.22,123.89,5.0,3.0,013 km N 38° W of Medellin (Cebu),2022_Earthquake_Information/June/2022_0627_2017_B2.html
+20220628T0424_11.25_124.32,2022-06-28T04:24:00+08:00,11.25,124.32,1.0,2.5,009 km N 60° W of Villaba (Leyte),2022_Earthquake_Information/June/2022_0627_2024_B2.html
+20220628T0429_11.3_124.4,2022-06-28T04:29:00+08:00,11.3,124.4,9.0,1.8,010 km N 05° E of Villaba (Leyte),2022_Earthquake_Information/June/2022_0627_2029_B2.html
+20220628T0536_6.51_123.6,2022-06-28T05:36:00+08:00,6.51,123.6,23.0,2.5,051 km S 84° W of Kalamansig (Sultan Kudarat),2022_Earthquake_Information/June/2022_0627_2136_B2.html
+20220628T0809_14.54_118.84,2022-06-28T08:09:00+08:00,14.54,118.84,31.0,3.4,135 km S 60° E of Bajo De Masinloc (Masinloc) (Zambales),2022_Earthquake_Information/June/2022_0628_0009_B2.html
+20220628T0823_12.53_125.46,2022-06-28T08:23:00+08:00,12.53,125.46,5.0,2.9,024 km N 47° E of Gamay (Northern Samar),2022_Earthquake_Information/June/2022_0628_0023_B2.html
+20220628T1024_10.4_125.93,2022-06-28T10:24:00+08:00,10.4,125.93,17.0,2.4,039 km N 83° E of Loreto (Dinagat Islands),2022_Earthquake_Information/June/2022_0628_0224_B2.html
+20220628T1131_13.61_120.16,2022-06-28T11:31:00+08:00,13.61,120.16,4.0,2.6,015 km S 40° W of Looc (Occidental Mindoro),2022_Earthquake_Information/June/2022_0628_0331_B2.html
+20220628T1417_8.96_126.65,2022-06-28T14:17:00+08:00,8.96,126.65,19.0,2.5,039 km N 83° E of Cagwait (Surigao Del Sur),2022_Earthquake_Information/June/2022_0628_0617_B2.html
+20220628T1441_14.25_119.47,2022-06-28T14:41:00+08:00,14.25,119.47,1.0,2.1,083 km N 58° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0628_0641_B2F.html
+20220628T1442_14.57_119.98,2022-06-28T14:42:00+08:00,14.57,119.98,29.0,2.1,033 km S 68° W of Morong (Bataan),2022_Earthquake_Information/June/2022_0628_0642_B2.html
+20220628T1454_19.56_121.78,2022-06-28T14:54:00+08:00,19.56,121.78,26.0,2.4,015 km N 69° W of Babuyan Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0628_0654_B1.html
+20220628T1811_19.05_121.5,2022-06-28T18:11:00+08:00,19.05,121.5,13.0,2.6,024 km S 07° E of Calayan (Cagayan),2022_Earthquake_Information/June/2022_0628_1011_B2.html
+20220628T1818_10.02_126.7,2022-06-28T18:18:00+08:00,10.02,126.7,11.0,3.0,065 km N 66° E of General Luna (Surigao Del Norte),2022_Earthquake_Information/June/2022_0628_1018_B2.html
+20220628T1857_9.93_124.27,2022-06-28T18:57:00+08:00,9.93,124.27,13.0,1.6,005 km S 73° E of Danao (Bohol),2022_Earthquake_Information/June/2022_0628_1057_B2.html
+20220628T2022_7.2_124.05,2022-06-28T20:22:00+08:00,7.2,124.05,29.0,1.7,021 km N 88° W of City Of Cotabato,2022_Earthquake_Information/June/2022_0628_1222_B1.html
+20220628T2023_9.36_126.2,2022-06-28T20:23:00+08:00,9.36,126.2,9.0,2.7,010 km N 07° E of Cortes (Surigao Del Sur),2022_Earthquake_Information/June/2022_0628_1223_B2.html
+20220628T2106_9.3_126.57,2022-06-28T21:06:00+08:00,9.3,126.57,33.0,1.9,041 km N 86° E of Cortes (Surigao Del Sur),2022_Earthquake_Information/June/2022_0628_1306_B2.html
+20220628T2134_21.79_120.18,2022-06-28T21:34:00+08:00,21.79,120.18,1.0,4.8,205 km N 58° W of Itbayat (Batanes),2022_Earthquake_Information/June/2022_0628_1334_B1.html
+20220628T2143_21.8_120.36,2022-06-28T21:43:00+08:00,21.8,120.36,13.0,5.1,190 km N 54° W of Itbayat (Batanes),2022_Earthquake_Information/June/2022_0628_1343_B1.html
+20220628T2200_21.79_120.19,2022-06-28T22:00:00+08:00,21.79,120.19,34.0,3.2,204 km N 58° W of Itbayat (Batanes),2022_Earthquake_Information/June/2022_0628_1400_B2.html
+20220628T2244_8.95_122.75,2022-06-28T22:44:00+08:00,8.95,122.75,10.0,2.1,034 km S 68° W of Siaton (Negros Oriental),2022_Earthquake_Information/June/2022_0628_1444_B2.html
+20220628T2301_21.81_120.27,2022-06-28T23:01:00+08:00,21.81,120.27,59.0,3.5,198 km N 56° W of Itbayat (Batanes),2022_Earthquake_Information/June/2022_0628_1501_B2.html
+20220628T2337_13.58_120.69,2022-06-28T23:37:00+08:00,13.58,120.69,82.0,1.9,016 km N 14° W of Abra De Ilog (Occidental Mindoro),2022_Earthquake_Information/June/2022_0628_1537_B2.html
+20220629T0050_8.23_126.36,2022-06-29T00:50:00+08:00,8.23,126.36,122.0,2.9,006 km N 66° E of City Of Bislig (Surigao Del Sur),2022_Earthquake_Information/June/2022_0628_1650_B2.html
+20220629T0250_17.42_119.68,2022-06-29T02:50:00+08:00,17.42,119.68,38.0,2.6,075 km S 76° W of Santa Catalina (Ilocos Sur),2022_Earthquake_Information/June/2022_0628_1850_B2.html
+20220629T0254_14.96_120.43,2022-06-29T02:54:00+08:00,14.96,120.43,134.0,2.0,011 km S 81° W of Floridablanca (Pampanga),2022_Earthquake_Information/June/2022_0628_1854_B2.html
+20220629T0309_11.22_124.36,2022-06-29T03:09:00+08:00,11.22,124.36,1.0,1.8,003 km N 67° W of Villaba (Leyte),2022_Earthquake_Information/June/2022_0628_1909_B2.html
+20220629T0328_9.07_126.44,2022-06-29T03:28:00+08:00,9.07,126.44,15.0,2.7,020 km N 60° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0628_1928_B2.html
+20220629T0426_14.22_119.16,2022-06-29T04:26:00+08:00,14.22,119.16,32.0,2.4,112 km N 69° W of Lubang (Occidental Mindoro),2022_Earthquake_Information/June/2022_0628_2026_B2F.html
+20220629T0431_8.63_126.08,2022-06-29T04:31:00+08:00,8.63,126.08,22.0,2.8,018 km N 78° E of Prosperidad (Agusan Del Sur),2022_Earthquake_Information/June/2022_0628_2031_B2.html
+20220629T0523_7.19_123.53,2022-06-29T05:23:00+08:00,7.19,123.53,14.0,4.9,033 km S 24° E of Tabina (Zamboanga Del Sur),2022_Earthquake_Information/June/2022_0628_2123_B3F.html
+20220629T0551_16.05_121.82,2022-06-29T05:51:00+08:00,16.05,121.82,17.0,1.7,018 km S 57° W of Dinalungan (Aurora),2022_Earthquake_Information/June/2022_0628_2151_B2.html
+20220629T0734_19.12_121.18,2022-06-29T07:34:00+08:00,19.12,121.18,19.0,2.8,003 km N 60° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0628_2334_B2.html
+20220629T0825_9.14_126.79,2022-06-29T08:25:00+08:00,9.14,126.79,8.0,2.6,059 km N 71° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0629_0025_B1.html
+20220629T1153_19.03_121.31,2022-06-29T11:53:00+08:00,19.03,121.31,9.0,2.2,014 km S 52° E of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0629_0353_B2.html
+20220629T1454_19.11_121.32,2022-06-29T14:54:00+08:00,19.11,121.32,14.0,2.3,012 km N 86° E of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0629_0654_B2.html
+20220629T1506_13.9_120.58,2022-06-29T15:06:00+08:00,13.9,120.58,105.0,1.8,009 km N 36° W of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0629_0706_B2F.html
+20220629T1747_18.55_120.73,2022-06-29T17:47:00+08:00,18.55,120.73,24.0,2.9,004 km N 77° W of Bangui (Ilocos Norte),2022_Earthquake_Information/June/2022_0629_0947_B2F.html
+20220629T1915_9.08_127.12,2022-06-29T19:15:00+08:00,9.08,127.12,1.0,2.6,092 km N 83° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0629_1115_B2.html
+20220629T1924_19.2_121.02,2022-06-29T19:24:00+08:00,19.2,121.02,1.0,3.4,022 km N 63° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0629_1124_B2.html
+20220629T2046_13.03_124.56,2022-06-29T20:46:00+08:00,13.03,124.56,7.0,3.1,039 km S 88° E of Prieto Diaz (Sorsogon),2022_Earthquake_Information/June/2022_0629_1246_B2.html
+20220629T2138_12.98_124.46,2022-06-29T21:38:00+08:00,12.98,124.46,1.0,2.6,030 km S 78° E of Prieto Diaz (Sorsogon),2022_Earthquake_Information/June/2022_0629_1338_B2.html
+20220629T2207_19.07_120.97,2022-06-29T22:07:00+08:00,19.07,120.97,6.0,1.9,025 km S 80° W of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0629_1407_B2.html
+20220629T2355_11.29_125.43,2022-06-29T23:55:00+08:00,11.29,125.43,61.0,3.2,013 km N 66° W of General Macarthur (Eastern Samar),2022_Earthquake_Information/June/2022_0629_1555_B2.html
+20220629T2358_12.74_124.06,2022-06-29T23:58:00+08:00,12.74,124.06,2.0,2.9,005 km N 30° E of Irosin (Sorsogon),2022_Earthquake_Information/June/2022_0629_1558_B1F.html
+20220630T0046_20.61_120.12,2022-06-30T00:46:00+08:00,20.61,120.12,32.0,4.5,181 km S 84° W of Itbayat (Batanes),2022_Earthquake_Information/June/2022_0629_1646_B2.html
+20220630T0050_10.07_124.89,2022-06-30T00:50:00+08:00,10.07,124.89,30.0,1.8,009 km S 41° E of City Of Maasin (Southern Leyte),2022_Earthquake_Information/June/2022_0629_1650_B2.html
+20220630T0115_10.16_125.13,2022-06-30T01:15:00+08:00,10.16,125.13,10.0,2.1,001 km N 82° E of Liloan (Southern Leyte),2022_Earthquake_Information/June/2022_0629_1715_B2.html
+20220630T0118_8.88_125.69,2022-06-30T01:18:00+08:00,8.88,125.69,44.0,2.5,019 km S 66° E of City Of Butuan (Agusan Del Norte),2022_Earthquake_Information/June/2022_0629_1718_B1.html
+20220630T0137_13.48_120.05,2022-06-30T01:37:00+08:00,13.48,120.05,17.0,2.6,034 km S 39° W of Looc (Occidental Mindoro),2022_Earthquake_Information/June/2022_0629_1737_B2.html
+20220630T0141_9.21_125.84,2022-06-30T01:41:00+08:00,9.21,125.84,3.0,2.2,016 km S 68° W of Madrid (Surigao Del Sur),2022_Earthquake_Information/June/2022_0629_1741_B2.html
+20220630T0229_12.39_123.71,2022-06-30T02:29:00+08:00,12.39,123.71,8.0,2.3,008 km S 63° W of Batuan (Masbate),2022_Earthquake_Information/June/2022_0629_1829_B2.html
+20220630T0413_18.25_120.78,2022-06-30T04:13:00+08:00,18.25,120.78,4.0,2.3,013 km N 20° W of Carasi (Ilocos Norte),2022_Earthquake_Information/June/2022_0629_2013_B2.html
+20220630T0512_10.81_121.99,2022-06-30T05:12:00+08:00,10.81,121.99,22.0,4.0,004 km N 61° W of Sibalom (Antique),2022_Earthquake_Information/June/2022_0629_2112_B2F.html
+20220630T0534_10.8_122.04,2022-06-30T05:34:00+08:00,10.8,122.04,17.0,4.1,002 km N 57° E of Sibalom (Antique),2022_Earthquake_Information/June/2022_0629_2134_B2F.html
+20220630T0546_19.11_121.38,2022-06-30T05:46:00+08:00,19.11,121.38,18.0,2.4,018 km N 88° E of Dalupiri Island (Calayan) (Cagayan),2022_Earthquake_Information/June/2022_0629_2146_B2.html
+20220630T0638_9.18_126.85,2022-06-30T06:38:00+08:00,9.18,126.85,1.0,2.1,066 km N 70° E of Bayabas (Surigao Del Sur),2022_Earthquake_Information/June/2022_0629_2238_B1.html
+20220630T0645_5.8_126.1,2022-06-30T06:45:00+08:00,5.8,126.1,83.0,3.6,063 km S 46° E of Don Marcelino (Davao Occidental),2022_Earthquake_Information/June/2022_0629_2245_B2.html
+20220630T0742_12.88_120.97,2022-06-30T07:42:00+08:00,12.88,120.97,1.0,2.6,020 km N 80° E of Sablayan (Occidental Mindoro),2022_Earthquake_Information/June/2022_0629_2342_B2F.html
+20220630T0809_10.42_125.17,2022-06-30T08:09:00+08:00,10.42,125.17,1.0,2.1,004 km N 56° W of Hinunangan (Southern Leyte),2022_Earthquake_Information/June/2022_0630_0009_B2.html
+20220630T0951_13.65_120.65,2022-06-30T09:51:00+08:00,13.65,120.65,113.0,1.8,020 km S 06° E of Calatagan (Batangas),2022_Earthquake_Information/June/2022_0630_0151_B1F.html
+20220630T1215_8.41_122.55,2022-06-30T12:15:00+08:00,8.41,122.55,30.0,2.2,035 km N 24° W of Liloy (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0630_0415_B2.html
+20220630T1256_9.36_126.7,2022-06-30T12:56:00+08:00,9.36,126.7,40.0,2.0,056 km N 81° E of Cortes (Surigao Del Sur),2022_Earthquake_Information/June/2022_0630_0456_B2.html
+20220630T1411_18.38_119.69,2022-06-30T14:11:00+08:00,18.38,119.69,9.0,3.1,093 km N 65° W of Currimao (Ilocos Norte),2022_Earthquake_Information/June/2022_0630_0611_B2.html
+20220630T1721_6.55_126.41,2022-06-30T17:21:00+08:00,6.55,126.41,21.0,3.4,039 km S 73° E of Governor Generoso (Davao Oriental),2022_Earthquake_Information/June/2022_0630_0921_B2.html
+20220630T1836_6.82_125.02,2022-06-30T18:36:00+08:00,6.82,125.02,25.0,2.4,016 km S 85° E of Tulunan (Cotabato),2022_Earthquake_Information/June/2022_0630_1036_B2.html
+20220630T1911_14.88_119.94,2022-06-30T19:11:00+08:00,14.88,119.94,19.0,1.7,018 km S 64° W of San Antonio (Zambales),2022_Earthquake_Information/June/2022_0630_1111_B2.html
+20220630T1928_10.1_126.07,2022-06-30T19:28:00+08:00,10.1,126.07,15.0,2.2,009 km N 01° W of Burgos (Surigao Del Norte),2022_Earthquake_Information/June/2022_0630_1128_B2.html
+20220630T1955_8.76_122.73,2022-06-30T19:55:00+08:00,8.76,122.73,32.0,2.6,048 km N 42° W of Jose Dalman (Zamboanga Del Norte),2022_Earthquake_Information/June/2022_0630_1155_B2.html
+20220630T2051_16.98_120.04,2022-06-30T20:51:00+08:00,16.98,120.04,29.0,3.0,039 km N 69° W of Luna (La Union),2022_Earthquake_Information/June/2022_0630_1251_B2.html
+20220630T2200_14.98_119.92,2022-06-30T22:00:00+08:00,14.98,119.92,1.0,2.4,017 km S 79° W of San Narciso (Zambales),2022_Earthquake_Information/June/2022_0630_1400_B2.html
+20220630T2209_10.12_126.03,2022-06-30T22:09:00+08:00,10.12,126.03,1.0,2.5,011 km N 05° W of Santa Monica (Surigao Del Norte),2022_Earthquake_Information/June/2022_0630_1409_B1.html
+20220630T2304_9.81_122.39,2022-06-30T23:04:00+08:00,9.81,122.39,15.0,2.4,006 km N 48° W of City Of Sipalay (Negros Occidental),2022_Earthquake_Information/June/2022_0630_1504_B2.html
+20220630T2345_10.14_125.79,2022-06-30T23:45:00+08:00,10.14,125.79,17.0,4.2,023 km N 70° E of Basilisa (Dinagat Islands),2022_Earthquake_Information/June/2022_0630_1545_B3F.html

@@ -1,0 +1,997 @@
+event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
+20201201T0114_6.55_124.8,2020-12-01T01:14:00+08:00,6.55,124.8,33.0,2.3,006 km S 85° W of Lutayan (Sultan Kudarat),2020_Earthquake_Information/December/2020_1130_1714_B2.html
+20201201T0121_6.28_125.63,2020-12-01T01:21:00+08:00,6.28,125.63,127.0,2.3,011 km N 39° W of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1130_1721_B2.html
+20201201T0231_9.76_125.95,2020-12-01T02:31:00+08:00,9.76,125.95,20.0,3.1,012 km N 87° W of Dapa (Surigao Del Norte),2020_Earthquake_Information/December/2020_1130_1831_B2.html
+20201201T0246_11.91_124.08,2020-12-01T02:46:00+08:00,11.91,124.08,1.0,2.4,013 km S 44° E of Cataingan (Masbate),2020_Earthquake_Information/December/2020_1130_1846_B2.html
+20201201T0259_5.92_126.7,2020-12-01T02:59:00+08:00,5.92,126.7,49.0,2.0,106 km S 41° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1130_1859_B2.html
+20201201T0339_11.39_124.47,2020-12-01T03:39:00+08:00,11.39,124.47,5.0,3.1,003 km N 38° W of Leyte (Leyte),2020_Earthquake_Information/December/2020_1130_1939_B2.html
+20201201T0445_13.71_120.88,2020-12-01T04:45:00+08:00,13.71,120.88,4.0,2.1,008 km S 57° W of Mabini (Batangas),2020_Earthquake_Information/December/2020_1130_2045_B2.html
+20201201T0450_5.35_126.67,2020-12-01T04:50:00+08:00,5.35,126.67,33.0,2.8,130 km S 61° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1130_2050_B2.html
+20201201T0508_10.09_126.11,2020-12-01T05:08:00+08:00,10.09,126.11,33.0,2.2,009 km N 28° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1130_2108_B2.html
+20201201T0531_6.26_126.97,2020-12-01T05:31:00+08:00,6.26,126.97,4.0,2.4,109 km S 66° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1130_2131_B2.html
+20201201T0649_4.8_124.35,2020-12-01T06:49:00+08:00,4.8,124.35,14.0,3.0,135 km S 13° W of Kiamba (Sarangani),2020_Earthquake_Information/December/2020_1130_2249_B2.html
+20201201T0705_8.53_122.56,2020-12-01T07:05:00+08:00,8.53,122.56,16.0,3.0,047 km N 15° W of Liloy (Zamboanga Del Norte),2020_Earthquake_Information/December/2020_1130_2305_B2.html
+20201201T0820_13.72_120.71,2020-12-01T08:20:00+08:00,13.72,120.71,23.0,2.0,015 km S 33° E of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1201_0020_B2.html
+20201201T0853_8.65_126.56,2020-12-01T08:53:00+08:00,8.65,126.56,35.0,2.0,033 km S 60° E of Marihatag (Surigao Del Sur),2020_Earthquake_Information/December/2020_1201_0053_B2.html
+20201201T1313_5.94_126.05,2020-12-01T13:13:00+08:00,5.94,126.05,133.0,3.2,049 km S 54° E of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1201_0513_B2.html
+20201201T1340_8.68_126.72,2020-12-01T13:40:00+08:00,8.68,126.72,24.0,2.3,049 km S 74° E of Marihatag (Surigao Del Sur),2020_Earthquake_Information/December/2020_1201_0540_B2.html
+20201201T1403_5.9_126.35,2020-12-01T14:03:00+08:00,5.9,126.35,74.0,2.3,080 km S 66° E of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1201_0603_B2.html
+20201201T1651_8.68_126.66,2020-12-01T16:51:00+08:00,8.68,126.66,5.0,2.2,042 km S 71° E of Marihatag (Surigao Del Sur),2020_Earthquake_Information/December/2020_1201_0851_B2.html
+20201201T1654_6.72_126.92,2020-12-01T16:54:00+08:00,6.72,126.92,95.0,2.2,064 km S 56° E of Tarragona (Davao Oriental),2020_Earthquake_Information/December/2020_1201_0854_B2.html
+20201201T1854_17.46_121.24,2020-12-01T18:54:00+08:00,17.46,121.24,17.0,2.1,024 km S 87° W of City Of Tabuk (Kalinga),2020_Earthquake_Information/December/2020_1201_1054_B2.html
+20201201T1901_13.71_120.58,2020-12-01T19:01:00+08:00,13.71,120.58,96.0,2.6,015 km S 24° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1201_1101_B2.html
+20201201T1906_9.4_125.66,2020-12-01T19:06:00+08:00,9.4,125.66,28.0,2.3,021 km S 22° W of Claver (Surigao Del Norte),2020_Earthquake_Information/December/2020_1201_1106_B2.html
+20201201T2106_6.59_125.72,2020-12-01T21:06:00+08:00,6.59,125.72,65.0,2.3,023 km N 31° E of Malita (Davao Occidental),2020_Earthquake_Information/December/2020_1201_1306_B2.html
+20201201T2155_8.3_126.73,2020-12-01T21:55:00+08:00,8.3,126.73,13.0,2.3,044 km S 81° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1201_1355_B2.html
+20201201T2209_2.99_128.64,2020-12-01T22:09:00+08:00,2.99,128.64,239.0,4.8,447 km S 53° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1201_1409_B2.html
+20201201T2357_7.01_125.95,2020-12-01T23:57:00+08:00,7.01,125.95,31.0,3.0,008 km N 57° W of Banaybanay (Davao Oriental),2020_Earthquake_Information/December/2020_1201_1557_B2.html
+20201202T0011_13.72_120.57,2020-12-02T00:11:00+08:00,13.72,120.57,98.0,1.8,014 km S 27° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1201_1611_B2.html
+20201202T0142_5.57_126.71,2020-12-02T01:42:00+08:00,5.57,126.71,29.0,2.7,123 km S 72° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1201_1742_B2.html
+20201202T0229_8.63_122.3,2020-12-02T02:29:00+08:00,8.63,122.3,12.0,2.0,068 km N 21° W of Labason (Zamboanga Del Norte),2020_Earthquake_Information/December/2020_1201_1829_B2.html
+20201202T0341_6.39_126.28,2020-12-02T03:41:00+08:00,6.39,126.28,62.0,1.9,037 km S 39° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1201_1941_B2.html
+20201202T0530_18.91_120.77,2020-12-02T05:30:00+08:00,18.91,120.77,14.0,2.8,039 km N 03° W of Pagudpud (Ilocos Norte),2020_Earthquake_Information/December/2020_1201_2130_B2.html
+20201202T0731_10.19_125.61,2020-12-02T07:31:00+08:00,10.19,125.61,30.0,2.3,008 km S 88° E of Libjo (Dinagat Islands),2020_Earthquake_Information/December/2020_1201_2331_B2.html
+20201202T0954_9.72_123.73,2020-12-02T09:54:00+08:00,9.72,123.73,10.0,2.5,012 km S 38° W of Loon (Bohol),2020_Earthquake_Information/December/2020_1202_0154_B2.html
+20201202T1118_13.98_119.92,2020-12-02T11:18:00+08:00,13.98,119.92,34.0,2.0,026 km N 58° W of Lubang (Occidental Mindoro),2020_Earthquake_Information/December/2020_1202_0318_B2.html
+20201202T1154_5.94_126.71,2020-12-02T11:54:00+08:00,5.94,126.71,62.0,2.3,118 km N 89° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1202_0354_B2.html
+20201202T1410_6.87_125.02,2020-12-02T14:10:00+08:00,6.87,125.02,25.0,2.4,013 km S 36° W of Makilala (Cotabato),2020_Earthquake_Information/December/2020_1202_0610_B2.html
+20201202T1712_7.86_127.11,2020-12-02T17:12:00+08:00,7.86,127.11,17.0,3.2,068 km N 62° E of Baganga (Davao Oriental),2020_Earthquake_Information/December/2020_1202_0912_B2.html
+20201202T1734_7.79_126.98,2020-12-02T17:34:00+08:00,7.79,126.98,10.0,2.2,053 km N 63° E of Baganga (Davao Oriental),2020_Earthquake_Information/December/2020_1202_0934_B2.html
+20201202T1743_7.53_124.36,2020-12-02T17:43:00+08:00,7.53,124.36,2.0,2.3,003 km N 33° W of Buldon (Maguindanao),2020_Earthquake_Information/December/2020_1202_0943_B2.html
+20201202T1808_10.44_122.11,2020-12-02T18:08:00+08:00,10.44,122.11,6.0,2.7,020 km N 87° E of Anini-y (Antique),2020_Earthquake_Information/December/2020_1202_1008_B2.html
+20201202T1920_18.73_121.03,2020-12-02T19:20:00+08:00,18.73,121.03,24.0,2.5,015 km N 23° W of Claveria (Cagayan),2020_Earthquake_Information/December/2020_1202_1120_B2.html
+20201202T1948_7.18_126.8,2020-12-02T19:48:00+08:00,7.18,126.8,93.0,2.6,028 km S 84° E of Manay (Davao Oriental),2020_Earthquake_Information/December/2020_1202_1148_B2.html
+20201202T2215_16.1_119.79,2020-12-02T22:15:00+08:00,16.1,119.79,39.0,2.2,002 km S 19° W of Agno (Pangasinan),2020_Earthquake_Information/December/2020_1202_1415_B2.html
+20201202T2244_7.65_127.19,2020-12-02T22:44:00+08:00,7.65,127.19,11.0,2.8,070 km N 84° E of Baganga (Davao Oriental),2020_Earthquake_Information/December/2020_1202_1444_B2.html
+20201202T2331_6.27_126.7,2020-12-02T23:31:00+08:00,6.27,126.7,2.0,3.3,082 km S 59° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1202_1531_B2.html
+20201203T0013_15.85_119.62,2020-12-03T00:13:00+08:00,15.85,119.62,30.0,2.0,031 km N 85° W of Infanta (Pangasinan),2020_Earthquake_Information/December/2020_1202_1613_B2_Pangasinan.html
+20201203T0117_9.9_123.07,2020-12-03T01:17:00+08:00,9.9,123.07,30.0,2.0,009 km N 58° W of Ayungon (Negros Oriental),2020_Earthquake_Information/December/2020_1202_1717_B2.html
+20201203T0234_16.31_120.61,2020-12-03T02:34:00+08:00,16.31,120.61,24.0,2.3,009 km S 48° W of Itogon (Benguet),2020_Earthquake_Information/December/2020_1202_1834_B2.html
+20201203T0405_8.88_126.2,2020-12-03T04:05:00+08:00,8.88,126.2,44.0,1.8,011 km S 71° W of Cagwait (Surigao Del Sur),2020_Earthquake_Information/December/2020_1202_2005_B2.html
+20201203T0605_9.76_126.16,2020-12-03T06:05:00+08:00,9.76,126.16,30.0,2.5,003 km S 18° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1202_2205_B2.html
+20201203T0636_7.27_126.89,2020-12-03T06:36:00+08:00,7.27,126.89,27.0,2.3,039 km N 81° E of Manay (Davao Oriental),2020_Earthquake_Information/December/2020_1202_2236_B2.html
+20201203T0706_10.07_125.75,2020-12-03T07:06:00+08:00,10.07,125.75,32.0,1.8,018 km N 28° E of Cagdianao (Dinagat Islands),2020_Earthquake_Information/December/2020_1202_2306_B2.html
+20201203T1102_5.87_127.15,2020-12-03T11:02:00+08:00,5.87,127.15,80.0,3.0,147 km S 54° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1203_0302_B2.html
+20201203T1128_9.29_126.28,2020-12-03T11:28:00+08:00,9.29,126.28,21.0,2.2,010 km N 83° E of Cortes (Surigao Del Sur),2020_Earthquake_Information/December/2020_1203_0328_B2.html
+20201203T1152_9.81_124.66,2020-12-03T11:52:00+08:00,9.81,124.66,5.0,2.2,012 km N 53° E of Anda (Bohol),2020_Earthquake_Information/December/2020_1203_0352_B2.html
+20201203T1213_10.39_122.21,2020-12-03T12:13:00+08:00,10.39,122.21,4.0,2.4,023 km S 18° E of San Joaquin (Iloilo),2020_Earthquake_Information/December/2020_1202_1613_B2_Iloilo.html
+20201203T1924_13.98_120.46,2020-12-03T19:24:00+08:00,13.98,120.46,23.0,2.2,022 km S 74° W of Lian (Batangas),2020_Earthquake_Information/December/2020_1203_1124_B2.html
+20201203T1929_10.25_125.97,2020-12-03T19:29:00+08:00,10.25,125.97,66.0,2.4,028 km N 23° W of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1203_1129_B2.html
+20201203T2149_16.27_120.35,2020-12-03T21:49:00+08:00,16.27,120.35,45.0,2.6,006 km S 12° W of Agoo (La Union),2020_Earthquake_Information/December/2020_1203_1349_B2.html
+20201203T2222_5.99_126.72,2020-12-03T22:22:00+08:00,5.99,126.72,9.0,2.4,124 km S 44° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1203_1422_B2.html
+20201203T2333_8.46_126.78,2020-12-03T23:33:00+08:00,8.46,126.78,14.0,2.5,050 km N 78° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1203_1533_B2.html
+20201204T0052_12.27_123.82,2020-12-04T00:52:00+08:00,12.27,123.82,20.0,2.8,007 km N 34° E of Uson (Masbate),2020_Earthquake_Information/December/2020_1203_1652_B2.html
+20201204T0059_6.76_126.19,2020-12-04T00:59:00+08:00,6.76,126.19,34.0,2.6,014 km S 55° E of San Isidro (Davao Oriental),2020_Earthquake_Information/December/2020_1203_1659_B2.html
+20201204T0135_11.38_124.56,2020-12-04T01:35:00+08:00,11.38,124.56,1.0,2.3,008 km N 86° E of Leyte (Leyte),2020_Earthquake_Information/December/2020_1203_1735_B2.html
+20201204T0220_9.67_123.71,2020-12-04T02:20:00+08:00,9.67,123.71,14.0,2.0,011 km N 23° W of Panglao (Bohol),2020_Earthquake_Information/December/2020_1203_1820_B2.html
+20201204T0242_9.66_123.76,2020-12-04T02:42:00+08:00,9.66,123.76,1.0,2.6,009 km N 03° E of Panglao (Bohol),2020_Earthquake_Information/December/2020_1203_1842_B2.html
+20201204T0322_11.41_124.48,2020-12-04T03:22:00+08:00,11.41,124.48,6.0,2.6,006 km S 04° E of Biliran (Biliran),2020_Earthquake_Information/December/2020_1203_1922_B2.html
+20201204T0325_11.43_124.49,2020-12-04T03:25:00+08:00,11.43,124.49,5.0,3.2,005 km S 21° E of Biliran (Biliran),2020_Earthquake_Information/December/2020_1203_1925_B2.html
+20201204T0335_5.38_125.52,2020-12-04T03:35:00+08:00,5.38,125.52,187.0,3.2,012 km S 75° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1203_1935_B2.html
+20201204T0341_17.14_119.68,2020-12-04T03:41:00+08:00,17.14,119.68,33.0,2.8,081 km S 88° W of City Of Candon (Ilocos Sur),2020_Earthquake_Information/December/2020_1203_1941_B2.html
+20201204T0518_9.44_123.91,2020-12-04T05:18:00+08:00,9.44,123.91,1.0,2.2,020 km S 16° W of Alburquerque (Bohol),2020_Earthquake_Information/December/2020_1203_2118_B2.html
+20201204T0639_9.19_126.85,2020-12-04T06:39:00+08:00,9.19,126.85,8.0,2.6,067 km N 69° E of Bayabas (Surigao Del Sur),2020_Earthquake_Information/December/2020_1203_2239_B2.html
+20201204T1219_9.18_126.32,2020-12-04T12:19:00+08:00,9.18,126.32,17.0,2.1,018 km S 53° E of Cortes (Surigao Del Sur),2020_Earthquake_Information/December/2020_1204_0419_B1.html
+20201204T1240_13.65_120.2,2020-12-04T12:40:00+08:00,13.65,120.2,13.0,3.7,010 km S 37° W of Looc (Occidental Mindoro),2020_Earthquake_Information/December/2020_1204_0440_B2.html
+20201204T1250_8.99_126.3,2020-12-04T12:50:00+08:00,8.99,126.3,40.0,3.3,004 km N 36° E of Bayabas (Surigao Del Sur),2020_Earthquake_Information/December/2020_1204_0450_B2.html
+20201204T1506_9.32_123.88,2020-12-04T15:06:00+08:00,9.32,123.88,31.0,1.8,026 km N 80° E of Enrique Villanueva (Siquijor),2020_Earthquake_Information/December/2020_1204_0706_B2.html
+20201204T1603_11.7_124.24,2020-12-04T16:03:00+08:00,11.7,124.24,14.0,2.5,013 km N 78° W of Kawayan (Biliran),2020_Earthquake_Information/December/2020_1204_0803_B2.html
+20201204T1608_11.89_124.14,2020-12-04T16:08:00+08:00,11.89,124.14,6.0,2.4,009 km N 85° E of Pio V. Corpuz (Masbate),2020_Earthquake_Information/December/2020_1204_0808_B2.html
+20201204T1630_11.89_124.14,2020-12-04T16:30:00+08:00,11.89,124.14,8.0,2.3,010 km N 87° E of Pio V. Corpuz (Masbate),2020_Earthquake_Information/December/2020_1204_0830_B2.html
+20201204T1705_13.69_120.61,2020-12-04T17:05:00+08:00,13.69,120.61,96.0,1.7,016 km S 08° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1204_0905_B2.html
+20201204T1714_8.75_126.22,2020-12-04T17:14:00+08:00,8.75,126.22,19.0,1.9,001 km N 29° W of San Agustin (Surigao Del Sur),2020_Earthquake_Information/December/2020_1204_0914_B2.html
+20201204T1807_8.65_126.66,2020-12-04T18:07:00+08:00,8.65,126.66,27.0,2.2,043 km S 68° E of Marihatag (Surigao Del Sur),2020_Earthquake_Information/December/2020_1204_1007_B2.html
+20201204T1928_9.88_126.08,2020-12-04T19:28:00+08:00,9.88,126.08,7.0,2.7,013 km N 39° W of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1204_1128_B2.html
+20201204T2048_8.61_126.57,2020-12-04T20:48:00+08:00,8.61,126.57,34.0,2.1,041 km S 68° E of San Agustin (Surigao Del Sur),2020_Earthquake_Information/December/2020_1204_1248_B2.html
+20201204T2107_6.41_125.97,2020-12-04T21:07:00+08:00,6.41,125.97,121.0,2.5,030 km S 22° W of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1204_1307_B2.html
+20201204T2128_11.26_125.69,2020-12-04T21:28:00+08:00,11.26,125.69,16.0,2.6,012 km S 38° E of Hernani (Eastern Samar),2020_Earthquake_Information/December/2020_1204_1328_B2.html
+20201204T2208_5.24_125.27,2020-12-04T22:08:00+08:00,5.24,125.27,183.0,2.5,025 km S 43° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1204_1408_B2.html
+20201204T2230_11.41_124.49,2020-12-04T22:30:00+08:00,11.41,124.49,10.0,3.1,004 km N 03° E of Leyte (Leyte),2020_Earthquake_Information/December/2020_1204_1430_B2F.html
+20201204T2231_11.16_124.21,2020-12-04T22:31:00+08:00,11.16,124.21,10.0,1.9,020 km S 74° W of Villaba (Leyte),2020_Earthquake_Information/December/2020_1204_1431_B2.html
+20201204T2237_11.16_121.92,2020-12-04T22:37:00+08:00,11.16,121.92,1.0,2.7,013 km S 74° W of Barbaza (Antique),2020_Earthquake_Information/December/2020_1204_1437_B2.html
+20201204T2252_8.36_127.02,2020-12-04T22:52:00+08:00,8.36,127.02,118.0,2.7,075 km S 89° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1204_1452_B2.html
+20201204T2305_5.15_127.35,2020-12-04T23:05:00+08:00,5.15,127.35,119.0,2.8,207 km S 66° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1204_1505_B2.html
+20201204T2329_8.65_126.45,2020-12-04T23:29:00+08:00,8.65,126.45,27.0,3.7,024 km S 44° E of Marihatag (Surigao Del Sur),2020_Earthquake_Information/December/2020_1204_1529_B2F.html
+20201204T2338_13.92_119.88,2020-12-04T23:38:00+08:00,13.92,119.88,10.0,2.6,027 km N 76° W of Lubang (Occidental Mindoro),2020_Earthquake_Information/December/2020_1204_1538_B2.html
+20201205T0041_11.84_124.17,2020-12-05T00:41:00+08:00,11.84,124.17,10.0,2.7,014 km S 70° E of Pio V. Corpuz (Masbate),2020_Earthquake_Information/December/2020_1204_1641_B2.html
+20201205T0047_11.41_124.48,2020-12-05T00:47:00+08:00,11.41,124.48,9.0,2.8,004 km N 15° W of Leyte (Leyte),2020_Earthquake_Information/December/2020_1204_1647_B2F.html
+20201205T0049_11.4_124.5,2020-12-05T00:49:00+08:00,11.4,124.5,18.0,4.1,003 km N 20° E of Leyte (Leyte),2020_Earthquake_Information/December/2020_1204_1649_B2F.html
+20201205T0127_10.03_123.25,2020-12-05T01:27:00+08:00,10.03,123.25,10.0,2.7,002 km N 82° E of La Libertad (Negros Oriental),2020_Earthquake_Information/December/2020_1204_1727_B2.html
+20201205T0144_9.85_126.39,2020-12-05T01:44:00+08:00,9.85,126.39,16.0,3.3,027 km N 74° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1204_1744_B2.html
+20201205T0148_15.37_122.45,2020-12-05T01:48:00+08:00,15.37,122.45,23.0,3.2,073 km N 20° E of Patnanungan (Quezon),2020_Earthquake_Information/December/2020_1204_1748_B2.html
+20201205T0221_13.78_120.63,2020-12-05T02:21:00+08:00,13.78,120.63,103.0,2.8,006 km S 06° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1204_1821_B2.html
+20201205T0252_11.36_124.49,2020-12-05T02:52:00+08:00,11.36,124.49,8.0,2.3,001 km S 45° E of Leyte (Leyte),2020_Earthquake_Information/December/2020_1204_1852_B2.html
+20201205T0332_6.67_125.19,2020-12-05T03:32:00+08:00,6.67,125.19,10.0,2.8,006 km S 34° W of Matanao (Davao Del Sur),2020_Earthquake_Information/December/2020_1204_1932_B2.html
+20201205T0350_8.47_125.73,2020-12-05T03:50:00+08:00,8.47,125.73,76.0,2.8,004 km S 07° W of San Luis (Agusan Del Sur),2020_Earthquake_Information/December/2020_1204_1950_B2.html
+20201205T0404_9.88_124.03,2020-12-05T04:04:00+08:00,9.88,124.03,7.0,3.2,004 km N 52° E of Catigbian (Bohol),2020_Earthquake_Information/December/2020_1204_2004_B2.html
+20201205T0420_7.21_126.62,2020-12-05T04:20:00+08:00,7.21,126.62,18.0,2.4,009 km S 89° E of Manay (Davao Oriental),2020_Earthquake_Information/December/2020_1204_2020_B2.html
+20201205T0437_11.41_124.45,2020-12-05T04:37:00+08:00,11.41,124.45,3.0,2.8,006 km S 20° W of Biliran (Biliran),2020_Earthquake_Information/December/2020_1204_2037_B2F.html
+20201205T0441_9.46_122.32,2020-12-05T04:41:00+08:00,9.46,122.32,18.0,2.3,023 km S 47° W of Hinoba-an (Negros Occidental),2020_Earthquake_Information/December/2020_1204_2041_B2.html
+20201205T0516_11.83_125.93,2020-12-05T05:16:00+08:00,11.83,125.93,33.0,2.6,052 km N 81° E of San Julian (Eastern Samar),2020_Earthquake_Information/December/2020_1204_2116_B2.html
+20201205T0540_11.47_125.56,2020-12-05T05:40:00+08:00,11.47,125.56,19.0,2.7,005 km N 89° E of Balangkayan (Eastern Samar),2020_Earthquake_Information/December/2020_1204_2140_B2.html
+20201205T0608_8.28_126.51,2020-12-05T06:08:00+08:00,8.28,126.51,23.0,3.8,022 km S 63° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1204_2208_B2F.html
+20201205T1002_11.25_125.8,2020-12-05T10:02:00+08:00,11.25,125.8,1.0,2.6,023 km S 63° E of Hernani (Eastern Samar),2020_Earthquake_Information/December/2020_1205_0202_B2.html
+20201205T1237_10.23_125.93,2020-12-05T12:37:00+08:00,10.23,125.93,26.0,2.0,028 km N 35° W of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1205_0437_B2.html
+20201205T1516_13.71_120.59,2020-12-05T15:16:00+08:00,13.71,120.59,137.0,2.0,014 km S 18° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1205_0716_B2.html
+20201205T1641_9.03_126.52,2020-12-05T16:41:00+08:00,9.03,126.52,28.0,2.7,027 km N 75° E of Bayabas (Surigao Del Sur),2020_Earthquake_Information/December/2020_1205_0841_B2.html
+20201205T1811_4.88_125.93,2020-12-05T18:11:00+08:00,4.88,125.93,27.0,3.5,086 km S 41° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1205_1011_B2.html
+20201205T1837_8.36_125.87,2020-12-05T18:37:00+08:00,8.36,125.87,28.0,1.9,012 km N 38° E of La Paz (Agusan Del Sur),2020_Earthquake_Information/December/2020_1205_1037_B2.html
+20201205T1913_13.17_120.42,2020-12-05T19:13:00+08:00,13.17,120.42,23.0,2.3,020 km S 71° W of Mamburao (Occidental Mindoro),2020_Earthquake_Information/December/2020_1205_1113_B2.html
+20201205T2009_5.85_127.07,2020-12-05T20:09:00+08:00,5.85,127.07,126.0,3.2,141 km S 51° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1205_1209_B2.html
+20201205T2128_20.05_121.46,2020-12-05T21:28:00+08:00,20.05,121.46,15.0,3.1,053 km S 54° W of Sabtang (Batanes),2020_Earthquake_Information/December/2020_1205_1328_B2.html
+20201205T2130_16.21_122.06,2020-12-05T21:30:00+08:00,16.21,122.06,28.0,2.0,010 km S 44° W of Casiguran (Aurora),2020_Earthquake_Information/December/2020_1205_1330_B2.html
+20201205T2312_5.15_127.56,2020-12-05T23:12:00+08:00,5.15,127.56,33.0,3.6,228 km S 68° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1205_1512_B2.html
+20201205T2350_15.49_119.79,2020-12-05T23:50:00+08:00,15.49,119.79,20.0,1.8,014 km N 66° W of Palauig (Zambales),2020_Earthquake_Information/December/2020_1205_1550_B2.html
+20201206T0144_7.13_124.05,2020-12-06T01:44:00+08:00,7.13,124.05,81.0,2.5,022 km S 70° W of City Of Cotabato (Maguindanao),2020_Earthquake_Information/December/2020_1205_1744_B2.html
+20201206T0204_13.9_120.43,2020-12-06T02:04:00+08:00,13.9,120.43,69.0,1.8,023 km N 72° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1205_1804_B2.html
+20201206T0208_13.92_120.55,2020-12-06T02:08:00+08:00,13.92,120.55,95.0,2.2,013 km N 41° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1205_1808_B2.html
+20201206T0309_10.48_122.23,2020-12-06T03:09:00+08:00,10.48,122.23,34.0,2.1,015 km S 40° E of San Joaquin (Iloilo),2020_Earthquake_Information/December/2020_1205_1909_B2.html
+20201206T0332_9.33_122.26,2020-12-06T03:32:00+08:00,9.33,122.26,27.0,2.5,038 km S 38° W of Hinoba-an (Negros Occidental),2020_Earthquake_Information/December/2020_1205_1932_B2.html
+20201206T0414_6.97_125.67,2020-12-06T04:14:00+08:00,6.97,125.67,54.0,4.3,013 km S 21° W of Island Garden City Of Samal (Davao Del Norte),2020_Earthquake_Information/December/2020_1205_2014_B2.html
+20201206T0504_5.35_127.35,2020-12-06T05:04:00+08:00,5.35,127.35,110.0,3.3,199 km S 72° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1205_2104_B2.html
+20201206T0523_6.0_126.17,2020-12-06T05:23:00+08:00,6.0,126.17,33.0,2.3,057 km S 67° E of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1205_2123_B2.html
+20201206T0634_8.06_126.6,2020-12-06T06:34:00+08:00,8.06,126.6,33.0,2.2,021 km N 85° E of Lingig (Surigao Del Sur),2020_Earthquake_Information/December/2020_1205_2234_B2.html
+20201206T0729_11.32_124.56,2020-12-06T07:29:00+08:00,11.32,124.56,19.0,2.8,010 km S 55° E of Leyte (Leyte),2020_Earthquake_Information/December/2020_1205_2329_B2.html
+20201206T0754_9.62_124.14,2020-12-06T07:54:00+08:00,9.62,124.14,8.0,2.6,007 km N 77° W of Valencia (Bohol),2020_Earthquake_Information/December/2020_1205_2354_B2.html
+20201206T0756_9.67_124.24,2020-12-06T07:56:00+08:00,9.67,124.24,32.0,2.1,008 km N 32° E of Valencia (Bohol),2020_Earthquake_Information/December/2020_1205_2356_B2.html
+20201206T0810_13.53_120.72,2020-12-06T08:10:00+08:00,13.53,120.72,60.0,2.3,010 km N 06° W of Abra De Ilog (Occidental Mindoro),2020_Earthquake_Information/December/2020_1206_0010_B2.html
+20201206T0815_7.13_127.0,2020-12-06T08:15:00+08:00,7.13,127.0,22.0,3.5,052 km S 80° E of Manay (Davao Oriental),2020_Earthquake_Information/December/2020_1206_0015_B2.html
+20201206T0822_5.54_126.15,2020-12-06T08:22:00+08:00,5.54,126.15,108.0,2.6,088 km S 35° E of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1206_0022_B2.html
+20201206T1040_7.38_123.7,2020-12-06T10:40:00+08:00,7.38,123.7,12.0,2.7,033 km S 73° E of Tabina (Zamboanga Del Sur),2020_Earthquake_Information/December/2020_1206_0240_B2.html
+20201206T1213_5.66_127.11,2020-12-06T12:13:00+08:00,5.66,127.11,38.0,3.1,159 km S 46° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1206_0413_B2.html
+20201206T1224_6.31_124.17,2020-12-06T12:24:00+08:00,6.31,124.17,1.0,1.9,011 km N 12° W of Palimbang (Sultan Kudarat),2020_Earthquake_Information/December/2020_1206_0424_B2.html
+20201206T1303_10.28_126.18,2020-12-06T13:03:00+08:00,10.28,126.18,10.0,2.3,031 km N 21° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1206_0503_B2.html
+20201206T1511_7.74_126.44,2020-12-06T15:11:00+08:00,7.74,126.44,33.0,2.0,006 km S 17° W of Cateel (Davao Oriental),2020_Earthquake_Information/December/2020_1206_0711_B2.html
+20201206T1846_13.51_121.09,2020-12-06T18:46:00+08:00,13.51,121.09,1.0,2.6,015 km N 85° E of Puerto Galera (Oriental Mindoro),2020_Earthquake_Information/December/2020_1206_1046_B2F.html
+20201206T1853_8.94_125.67,2020-12-06T18:53:00+08:00,8.94,125.67,4.0,3.3,014 km N 13° W of Sibagat (Agusan Del Sur),2020_Earthquake_Information/December/2020_1206_1053_B2.html
+20201206T1924_13.79_120.53,2020-12-06T19:24:00+08:00,13.79,120.53,80.0,2.6,012 km S 65° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1206_1124_B2.html
+20201206T1939_9.58_126.72,2020-12-06T19:39:00+08:00,9.58,126.72,28.0,2.7,066 km S 70° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1206_1139_B2.html
+20201206T2150_8.6_126.45,2020-12-06T21:50:00+08:00,8.6,126.45,23.0,2.5,029 km N 26° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1206_1350_B2.html
+20201206T2203_9.54_126.15,2020-12-06T22:03:00+08:00,9.54,126.15,25.0,2.1,022 km S 67° E of Socorro (Surigao Del Norte),2020_Earthquake_Information/December/2020_1206_1403_B2.html
+20201206T2256_16.44_121.03,2020-12-06T22:56:00+08:00,16.44,121.03,1.0,3.0,010 km S 03° E of Ambaguio (Nueva Vizcaya),2020_Earthquake_Information/December/2020_1206_1456_B2.html
+20201206T2308_9.62_124.28,2020-12-06T23:08:00+08:00,9.62,124.28,27.0,2.3,008 km N 81° E of Valencia (Bohol),2020_Earthquake_Information/December/2020_1206_1508_B2.html
+20201207T0018_13.89_120.58,2020-12-07T00:18:00+08:00,13.89,120.58,98.0,2.2,009 km N 41° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1206_1618_B2.html
+20201207T0129_8.86_122.24,2020-12-07T01:29:00+08:00,8.86,122.24,48.0,3.5,075 km S 36° W of Basay (Negros Oriental),2020_Earthquake_Information/December/2020_1206_1729_B2.html
+20201207T0140_13.22_120.15,2020-12-07T01:40:00+08:00,13.22,120.15,22.0,2.3,040 km S 57° W of Paluan (Occidental Mindoro),2020_Earthquake_Information/December/2020_1206_1740_B2.html
+20201207T0226_12.13_123.95,2020-12-07T02:26:00+08:00,12.13,123.95,19.0,2.5,015 km N 20° W of Cataingan (Masbate),2020_Earthquake_Information/December/2020_1206_1826_B2.html
+20201207T0300_9.16_123.99,2020-12-07T03:00:00+08:00,9.16,123.99,33.0,2.2,037 km S 84° E of Maria (Siquijor),2020_Earthquake_Information/December/2020_1206_1900_B2.html
+20201207T0318_8.9_126.34,2020-12-07T03:18:00+08:00,8.9,126.34,28.0,1.8,005 km S 65° E of Cagwait (Surigao Del Sur),2020_Earthquake_Information/December/2020_1206_1918_B2.html
+20201207T0345_7.99_126.4,2020-12-07T03:45:00+08:00,7.99,126.4,26.0,1.9,023 km N 16° W of Cateel (Davao Oriental),2020_Earthquake_Information/December/2020_1206_1945_B2.html
+20201207T0446_9.51_125.62,2020-12-07T04:46:00+08:00,9.51,125.62,34.0,2.4,007 km N 48° E of Alegria (Surigao Del Norte),2020_Earthquake_Information/December/2020_1206_2046_B2.html
+20201207T0649_16.48_122.26,2020-12-07T06:49:00+08:00,16.48,122.26,3.0,2.3,005 km S 06° W of Dinapigue (Isabela),2020_Earthquake_Information/December/2020_1206_2249_B2.html
+20201207T0806_19.22_121.49,2020-12-07T08:06:00+08:00,19.22,121.49,8.0,2.7,005 km S 16° E of Calayan (Cagayan),2020_Earthquake_Information/December/2020_1207_0006_B2.html
+20201207T0829_7.41_127.35,2020-12-07T08:29:00+08:00,7.41,127.35,14.0,3.2,089 km S 78° E of Baganga (Davao Oriental),2020_Earthquake_Information/December/2020_1207_0029_B2.html
+20201207T0917_9.82_126.2,2020-12-07T09:17:00+08:00,9.82,126.2,43.0,2.8,006 km N 45° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1207_0117_B2.html
+20201207T0937_15.84_121.97,2020-12-07T09:37:00+08:00,15.84,121.97,33.0,1.9,034 km S 02° E of Dinalungan (Aurora),2020_Earthquake_Information/December/2020_1207_0137_B2.html
+20201207T1042_6.36_126.18,2020-12-07T10:42:00+08:00,6.36,126.18,120.0,2.3,035 km S 21° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1207_0242_B2.html
+20201207T1055_17.22_121.59,2020-12-07T10:55:00+08:00,17.22,121.59,4.0,2.0,002 km N 72° W of Mallig (Isabela),2020_Earthquake_Information/December/2020_1207_0255_B2.html
+20201207T1102_17.14_121.44,2020-12-07T11:02:00+08:00,17.14,121.44,23.0,1.8,006 km S 37° E of Paracelis (Mountain Province),2020_Earthquake_Information/December/2020_1207_0302_B2.html
+20201207T1216_11.41_124.49,2020-12-07T12:16:00+08:00,11.41,124.49,13.0,3.0,005 km N 10° E of Leyte (Leyte),2020_Earthquake_Information/December/2020_1207_0416_B3F.html
+20201207T1344_6.93_125.71,2020-12-07T13:44:00+08:00,6.93,125.71,54.0,2.1,017 km S 02° W of Island Garden City Of Samal (Davao Del Norte),2020_Earthquake_Information/December/2020_1207_0544_B2.html
+20201207T1443_19.28_121.23,2020-12-07T14:43:00+08:00,19.28,121.23,27.0,3.9,019 km N 07° E of Dalupiri Island (Calayan) (Cagayan),2020_Earthquake_Information/December/2020_1207_0643_B2.html
+20201207T1456_19.13_121.48,2020-12-07T14:56:00+08:00,19.13,121.48,24.0,2.6,014 km S 02° E of Calayan (Cagayan),2020_Earthquake_Information/December/2020_1207_0656_B2.html
+20201207T1500_19.05_121.57,2020-12-07T15:00:00+08:00,19.05,121.57,7.0,3.4,026 km S 22° E of Calayan (Cagayan),2020_Earthquake_Information/December/2020_1207_0700_B2.html
+20201207T1749_9.78_126.62,2020-12-07T17:49:00+08:00,9.78,126.62,25.0,3.1,051 km S 89° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1207_0949_B2.html
+20201207T1758_15.85_119.78,2020-12-07T17:58:00+08:00,15.85,119.78,28.0,2.3,014 km N 80° W of Infanta (Pangasinan),2020_Earthquake_Information/December/2020_1207_0958_B2.html
+20201207T1950_13.81_120.51,2020-12-07T19:50:00+08:00,13.81,120.51,105.0,2.5,013 km S 79° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1207_1150_B2.html
+20201207T2036_5.91_126.36,2020-12-07T20:36:00+08:00,5.91,126.36,1.0,2.4,081 km S 66° E of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1207_1236_B2.html
+20201207T2155_9.94_124.39,2020-12-07T21:55:00+08:00,9.94,124.39,33.0,1.8,008 km S 46° E of San Miguel (Bohol),2020_Earthquake_Information/December/2020_1207_1355_B2.html
+20201207T2202_18.48_121.04,2020-12-07T22:02:00+08:00,18.48,121.04,66.0,1.8,015 km N 81° E of Adams (Ilocos Norte),2020_Earthquake_Information/December/2020_1207_1402_B2.html
+20201207T2214_16.29_122.04,2020-12-07T22:14:00+08:00,16.29,122.04,31.0,2.8,019 km N 29° E of Dinalungan (Aurora),2020_Earthquake_Information/December/2020_1207_1414_B2.html
+20201207T2237_13.04_124.52,2020-12-07T22:37:00+08:00,13.04,124.52,79.0,5.4,035 km S 89° E of Prieto Diaz (Sorsogon),2020_Earthquake_Information/December/2020_1207_1437_B3F.html
+20201207T2327_6.7_125.17,2020-12-07T23:27:00+08:00,6.7,125.17,21.0,2.3,006 km S 74° W of Matanao (Davao Del Sur),2020_Earthquake_Information/December/2020_1207_1527_B2.html
+20201208T0024_16.04_119.72,2020-12-08T00:24:00+08:00,16.04,119.72,33.0,1.8,012 km S 48° W of Agno (Pangasinan),2020_Earthquake_Information/December/2020_1207_1624_B2.html
+20201208T0156_5.57_127.3,2020-12-08T01:56:00+08:00,5.57,127.3,87.0,3.2,182 km S 48° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1207_1756_B2.html
+20201208T0157_16.45_120.49,2020-12-08T01:57:00+08:00,16.45,120.49,26.0,2.0,009 km N 51° W of Tuba (Benguet),2020_Earthquake_Information/December/2020_1207_1757_B2.html
+20201208T0200_10.21_125.8,2020-12-08T02:00:00+08:00,10.21,125.8,21.0,1.8,029 km S 55° E of Loreto (Dinagat Islands),2020_Earthquake_Information/December/2020_1207_1800_B2.html
+20201208T0250_7.74_124.37,2020-12-08T02:50:00+08:00,7.74,124.37,9.0,2.5,006 km S 86° E of Butig (Lanao Del Sur),2020_Earthquake_Information/December/2020_1207_1850_B2.html
+20201208T0440_13.66_120.69,2020-12-08T04:40:00+08:00,13.66,120.69,108.0,2.2,020 km S 17° E of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1207_2040_B2.html
+20201208T0605_6.05_126.77,2020-12-08T06:05:00+08:00,6.05,126.77,32.0,2.8,101 km S 49° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1207_2205_B2.html
+20201208T0626_10.16_122.55,2020-12-08T06:26:00+08:00,10.16,122.55,27.0,2.4,022 km N 22° W of Cauayan (Negros Occidental),2020_Earthquake_Information/December/2020_1207_2226_B2.html
+20201208T0658_9.71_124.33,2020-12-08T06:58:00+08:00,9.71,124.33,6.0,2.6,008 km N 36° W of Jagna (Bohol),2020_Earthquake_Information/December/2020_1207_2258_B2.html
+20201208T0721_16.2_121.97,2020-12-08T07:21:00+08:00,16.2,121.97,30.0,1.6,019 km S 64° W of Casiguran (Aurora),2020_Earthquake_Information/December/2020_1207_2321_B2.html
+20201208T0750_13.74_120.58,2020-12-08T07:50:00+08:00,13.74,120.58,113.0,2.2,012 km S 29° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1207_2350_B2.html
+20201208T0848_7.87_126.47,2020-12-08T08:48:00+08:00,7.87,126.47,21.0,2.2,009 km N 14° E of Cateel (Davao Oriental),2020_Earthquake_Information/December/2020_1208_0048_B2.html
+20201208T0856_9.93_126.1,2020-12-08T08:56:00+08:00,9.93,126.1,32.0,2.6,001 km S 80° E of San Isidro (Surigao Del Norte),2020_Earthquake_Information/December/2020_1208_0056_B2.html
+20201208T1655_9.02_125.77,2020-12-08T16:55:00+08:00,9.02,125.77,15.0,2.9,021 km S 80° E of Remedios T. Romualdez (Agusan Del Norte),2020_Earthquake_Information/December/2020_1208_0855_B2.html
+20201208T1742_10.71_122.6,2020-12-08T17:42:00+08:00,10.71,122.6,14.0,2.4,002 km S 43° E of Jordan (Guimaras),2020_Earthquake_Information/December/2020_1208_0942_B2.html
+20201208T1928_10.04_126.1,2020-12-08T19:28:00+08:00,10.04,126.1,28.0,2.1,004 km N 48° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1208_1128_B2.html
+20201208T2002_10.09_125.06,2020-12-08T20:02:00+08:00,10.09,125.06,25.0,2.5,010 km S 39° W of Liloan (Southern Leyte),2020_Earthquake_Information/December/2020_1208_1202_B2.html
+20201208T2056_14.11_121.2,2020-12-08T20:56:00+08:00,14.11,121.2,21.0,1.6,007 km S 17° W of Los Banos (Laguna),2020_Earthquake_Information/December/2020_1208_1256_B2.html
+20201208T2122_11.75_124.25,2020-12-08T21:22:00+08:00,11.75,124.25,13.0,3.3,014 km N 58° W of Kawayan (Biliran),2020_Earthquake_Information/December/2020_1208_1322_B2.html
+20201208T2200_8.84_126.35,2020-12-08T22:00:00+08:00,8.84,126.35,29.0,2.2,008 km N 51° E of Marihatag (Surigao Del Sur),2020_Earthquake_Information/December/2020_1208_1400_B2.html
+20201208T2241_9.44_125.65,2020-12-08T22:41:00+08:00,9.44,125.65,34.0,2.1,009 km S 75° E of Alegria (Surigao Del Norte),2020_Earthquake_Information/December/2020_1208_1441_B2.html
+20201208T2253_15.89_119.84,2020-12-08T22:53:00+08:00,15.89,119.84,16.0,2.8,010 km N 47° W of Infanta (Pangasinan),2020_Earthquake_Information/December/2020_1208_1453_B2_Luzon.html
+20201208T2253_7.06_125.97,2020-12-08T22:53:00+08:00,7.06,125.97,20.0,3.3,011 km S 47° E of Pantukan (Davao De Oro),2020_Earthquake_Information/December/2020_1208_1453_B2_Mindanao.html
+20201208T2334_7.03_123.62,2020-12-08T23:34:00+08:00,7.03,123.62,48.0,2.2,053 km S 26° E of Tabina (Zamboanga Del Sur),2020_Earthquake_Information/December/2020_1208_1534_B2.html
+20201208T2346_19.12_121.04,2020-12-08T23:46:00+08:00,19.12,121.04,2.0,2.4,018 km N 86° W of Dalupiri Island (Calayan) (Cagayan),2020_Earthquake_Information/December/2020_1208_1546_B2.html
+20201208T2348_14.91_121.37,2020-12-08T23:48:00+08:00,14.91,121.37,20.0,2.1,032 km N 58° W of General Nakar (Quezon),2020_Earthquake_Information/December/2020_1208_1548_B2.html
+20201208T2352_9.56_122.48,2020-12-08T23:52:00+08:00,9.56,122.48,10.0,1.8,023 km S 12° E of City Of Sipalay (Negros Occidental),2020_Earthquake_Information/December/2020_1208_1552_B2.html
+20201209T0018_6.36_125.85,2020-12-09T00:18:00+08:00,6.36,125.85,125.0,2.7,024 km N 44° E of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1208_1618_B2.html
+20201209T0053_9.72_122.73,2020-12-09T00:53:00+08:00,9.72,122.73,29.0,2.0,015 km S 40° E of Candoni (Negros Occidental),2020_Earthquake_Information/December/2020_1208_1653_B2.html
+20201209T0058_10.56_121.63,2020-12-09T00:58:00+08:00,10.56,121.63,45.0,3.3,036 km N 66° W of Anini-y (Antique),2020_Earthquake_Information/December/2020_1208_1658_B2.html
+20201209T0111_10.37_121.89,2020-12-09T01:11:00+08:00,10.37,121.89,3.0,2.8,008 km S 33° W of Anini-y (Antique),2020_Earthquake_Information/December/2020_1208_1711_B2.html
+20201209T0151_13.74_120.59,2020-12-09T01:51:00+08:00,13.74,120.59,99.0,2.0,011 km S 24° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1208_1751_B2.html
+20201209T0156_7.92_126.58,2020-12-09T01:56:00+08:00,7.92,126.58,34.0,2.4,023 km S 56° E of Lingig (Surigao Del Sur),2020_Earthquake_Information/December/2020_1208_1756_B2.html
+20201209T0242_6.72_126.59,2020-12-09T02:42:00+08:00,6.72,126.59,58.0,2.6,039 km S 23° E of Tarragona (Davao Oriental),2020_Earthquake_Information/December/2020_1208_1842_B2.html
+20201209T0300_7.12_123.72,2020-12-09T03:00:00+08:00,7.12,123.72,30.0,2.3,052 km S 42° E of Tabina (Zamboanga Del Sur),2020_Earthquake_Information/December/2020_1208_1900_B2.html
+20201209T0314_5.64_125.06,2020-12-09T03:14:00+08:00,5.64,125.06,25.0,2.6,025 km S 40° W of Glan (Sarangani),2020_Earthquake_Information/December/2020_1208_1914_B2.html
+20201209T0321_15.74_119.89,2020-12-09T03:21:00+08:00,15.74,119.89,34.0,2.5,003 km S 43° W of Santa Cruz (Zambales),2020_Earthquake_Information/December/2020_1208_1921_B2_Zambales.html
+20201209T0321_18.45_121.25,2020-12-09T03:21:00+08:00,18.45,121.25,25.0,2.0,010 km S 81° W of Pamplona (Cagayan),2020_Earthquake_Information/December/2020_1208_1921_B2_Cagayan.html
+20201209T0354_18.6_121.15,2020-12-09T03:54:00+08:00,18.6,121.15,33.0,3.2,008 km S 87° E of Claveria (Cagayan),2020_Earthquake_Information/December/2020_1208_1954_B2.html
+20201209T0435_8.87_126.55,2020-12-09T04:35:00+08:00,8.87,126.55,24.0,3.4,027 km S 78° E of Cagwait (Surigao Del Sur),2020_Earthquake_Information/December/2020_1208_2035_B2.html
+20201209T0613_4.43_126.11,2020-12-09T06:13:00+08:00,4.43,126.11,1.0,3.2,133 km S 35° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1208_2213_B2.html
+20201209T0617_14.41_121.9,2020-12-09T06:17:00+08:00,14.41,121.9,28.0,1.9,015 km S 84° W of Balesin Island (Polillo) (Quezon),2020_Earthquake_Information/December/2020_1208_2217_B2.html
+20201209T0744_11.34_124.53,2020-12-09T07:44:00+08:00,11.34,124.53,1.0,3.7,006 km S 48° E of Leyte (Leyte),2020_Earthquake_Information/December/2020_1208_2344_B2F.html
+20201209T0805_11.02_124.37,2020-12-09T08:05:00+08:00,11.02,124.37,13.0,2.4,003 km S 21° W of Palompon (Leyte),2020_Earthquake_Information/December/2020_1209_0005_B2.html
+20201209T0916_9.06_126.29,2020-12-09T09:16:00+08:00,9.06,126.29,28.0,3.0,007 km N 57° E of Tago (Surigao Del Sur),2020_Earthquake_Information/December/2020_1209_0116_B2.html
+20201209T0929_11.13_124.53,2020-12-09T09:29:00+08:00,11.13,124.53,1.0,2.6,007 km S 26° W of Kananga (Leyte),2020_Earthquake_Information/December/2020_1209_0129_B2.html
+20201209T0958_15.04_120.35,2020-12-09T09:58:00+08:00,15.04,120.35,32.0,2.4,020 km N 54° E of Castillejos (Zambales),2020_Earthquake_Information/December/2020_1209_0158_B2.html
+20201209T1017_5.46_126.88,2020-12-09T10:17:00+08:00,5.46,126.88,33.0,2.8,146 km S 70° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1209_0217_B2.html
+20201209T1232_6.6_126.21,2020-12-09T12:32:00+08:00,6.6,126.21,59.0,3.8,016 km S 70° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1209_0432_B2.html
+20201209T1555_5.25_126.16,2020-12-09T15:55:00+08:00,5.25,126.16,39.0,2.4,084 km S 78° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1209_0755_B2.html
+20201209T1759_14.21_121.32,2020-12-09T17:59:00+08:00,14.21,121.32,32.0,1.9,006 km S 65° W of Pila (Laguna),2020_Earthquake_Information/December/2020_1209_0959_B2.html
+20201209T1808_11.85_125.45,2020-12-09T18:08:00+08:00,11.85,125.45,23.0,3.1,004 km N 05° W of Sulat (Eastern Samar),2020_Earthquake_Information/December/2020_1209_1008_B2.html
+20201209T1815_11.91_124.05,2020-12-09T18:15:00+08:00,11.91,124.05,23.0,2.7,011 km S 31° E of Cataingan (Masbate),2020_Earthquake_Information/December/2020_1209_1015_B2.html
+20201209T1910_11.18_124.53,2020-12-09T19:10:00+08:00,11.18,124.53,21.0,2.7,004 km S 78° W of Kananga (Leyte),2020_Earthquake_Information/December/2020_1209_1110_B2.html
+20201209T1920_9.92_126.13,2020-12-09T19:20:00+08:00,9.92,126.13,21.0,2.6,005 km S 72° E of San Isidro (Surigao Del Norte),2020_Earthquake_Information/December/2020_1209_1120_B2.html
+20201209T2025_10.3_122.49,2020-12-09T20:25:00+08:00,10.3,122.49,4.0,2.6,025 km S 12° W of Nueva Valencia (Guimaras),2020_Earthquake_Information/December/2020_1209_1225_B2.html
+20201209T2105_6.7_125.91,2020-12-09T21:05:00+08:00,6.7,125.91,111.0,2.7,019 km N 75° W of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1209_1305_B2.html
+20201209T2115_9.97_125.96,2020-12-09T21:15:00+08:00,9.97,125.96,6.0,2.7,010 km S 59° W of Santa Monica (Surigao Del Norte),2020_Earthquake_Information/December/2020_1209_1315_B2.html
+20201209T2238_10.3_122.44,2020-12-09T22:38:00+08:00,10.3,122.44,3.0,3.1,027 km S 24° W of Nueva Valencia (Guimaras),2020_Earthquake_Information/December/2020_1209_1438_B2.html
+20201210T0010_18.79_121.07,2020-12-10T00:10:00+08:00,18.79,121.07,27.0,2.4,020 km N 05° W of Claveria (Cagayan),2020_Earthquake_Information/December/2020_1209_1610_B2.html
+20201210T0026_13.94_120.39,2020-12-10T00:26:00+08:00,13.94,120.39,58.0,1.7,029 km N 65° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1209_1626_B2.html
+20201210T0037_10.34_126.11,2020-12-10T00:37:00+08:00,10.34,126.11,17.0,2.8,037 km N 13° E of Santa Monica (Surigao Del Norte),2020_Earthquake_Information/December/2020_1209_1637_B2.html
+20201210T0048_5.05_125.55,2020-12-10T00:48:00+08:00,5.05,125.55,196.0,3.1,042 km S 19° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1209_1648_B2.html
+20201210T0105_9.82_122.04,2020-12-10T01:05:00+08:00,9.82,122.04,24.0,2.9,043 km N 83° W of City Of Sipalay (Negros Occidental),2020_Earthquake_Information/December/2020_1209_1705_B2.html
+20201210T0117_14.29_124.34,2020-12-10T01:17:00+08:00,14.29,124.34,1.0,3.3,033 km N 34° E of Pandan (Catanduanes),2020_Earthquake_Information/December/2020_1209_1717_B2.html
+20201210T0215_10.27_126.2,2020-12-10T02:15:00+08:00,10.27,126.2,16.0,2.4,031 km N 27° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1209_1815_B2.html
+20201210T0219_10.08_125.87,2020-12-10T02:19:00+08:00,10.08,125.87,12.0,2.9,019 km N 70° W of Santa Monica (Surigao Del Norte),2020_Earthquake_Information/December/2020_1209_1819_B2.html
+20201210T0304_17.71_118.88,2020-12-10T03:04:00+08:00,17.71,118.88,38.0,2.6,158 km N 85° W of Santa Catalina (Ilocos Sur),2020_Earthquake_Information/December/2020_1209_1904_B2.html
+20201210T0331_19.0_121.46,2020-12-10T03:31:00+08:00,19.0,121.46,12.0,2.2,020 km N 31° E of Fuga Island (Aparri) (Cagayan),2020_Earthquake_Information/December/2020_1209_1931_B2.html
+20201210T0354_6.08_126.64,2020-12-10T03:54:00+08:00,6.08,126.64,68.0,3.9,090 km S 45° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1209_1954_B2.html
+20201210T0659_7.85_126.91,2020-12-10T06:59:00+08:00,7.85,126.91,10.0,2.1,049 km N 52° E of Baganga (Davao Oriental),2020_Earthquake_Information/December/2020_1209_2259_B2.html
+20201210T0804_13.94_120.51,2020-12-10T08:04:00+08:00,13.94,120.51,74.0,2.5,018 km N 50° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1210_0004_B2.html
+20201210T0835_16.96_121.27,2020-12-10T08:35:00+08:00,16.96,121.27,5.0,2.0,007 km S 77° W of Aguinaldo (Ifugao),2020_Earthquake_Information/December/2020_1210_0035_B2.html
+20201210T1257_18.79_121.11,2020-12-10T12:57:00+08:00,18.79,121.11,24.0,2.3,021 km N 09° E of Claveria (Cagayan),2020_Earthquake_Information/December/2020_1210_0457_B2.html
+20201210T1424_14.24_121.34,2020-12-10T14:24:00+08:00,14.24,121.34,33.0,1.0,003 km N 78° W of Pila (Laguna),2020_Earthquake_Information/December/2020_1210_0624_B2.html
+20201210T1531_9.74_126.02,2020-12-10T15:31:00+08:00,9.74,126.02,21.0,2.3,004 km S 57° W of Dapa (Surigao Del Norte),2020_Earthquake_Information/December/2020_1210_0731_B2.html
+20201210T1548_14.36_122.73,2020-12-10T15:48:00+08:00,14.36,122.73,29.0,2.5,009 km N 26° E of Jose Panganiban (Camarines Norte),2020_Earthquake_Information/December/2020_1210_0748_B2.html
+20201210T1748_5.33_126.52,2020-12-10T17:48:00+08:00,5.33,126.52,53.0,2.8,117 km S 57° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1210_0948_B2.html
+20201210T1808_6.24_126.41,2020-12-10T18:08:00+08:00,6.24,126.41,56.0,1.6,059 km S 40° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1210_1008_B2.html
+20201210T1941_13.93_120.24,2020-12-10T19:41:00+08:00,13.93,120.24,24.0,2.7,015 km N 58° E of Lubang (Occidental Mindoro),2020_Earthquake_Information/December/2020_1210_1141_B2.html
+20201210T2121_13.52_120.06,2020-12-10T21:21:00+08:00,13.52,120.06,23.0,3.0,030 km S 42° W of Looc (Occidental Mindoro),2020_Earthquake_Information/December/2020_1210_1321_B2.html
+20201210T2207_2.38_125.89,2020-12-10T22:07:00+08:00,2.38,125.89,74.0,3.9,339 km S 09° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1210_1407_B2.html
+20201210T2246_13.71_120.93,2020-12-10T22:46:00+08:00,13.71,120.93,8.0,3.6,004 km S 12° W of Mabini (Batangas),2020_Earthquake_Information/December/2020_1210_1446_B2F.html
+20201210T2330_14.25_120.23,2020-12-10T23:30:00+08:00,14.25,120.23,59.0,2.0,035 km S 54° W of Mariveles (Bataan),2020_Earthquake_Information/December/2020_1210_1530_B2.html
+20201210T2337_14.28_122.48,2020-12-10T23:37:00+08:00,14.28,122.48,1.0,2.6,033 km N 89° W of Paracale (Camarines Norte),2020_Earthquake_Information/December/2020_1210_1537_B2.html
+20201211T0019_11.9_124.11,2020-12-11T00:19:00+08:00,11.9,124.11,8.0,3.3,007 km N 75° E of Pio V. Corpuz (Masbate),2020_Earthquake_Information/December/2020_1210_1619_B2.html
+20201211T0023_14.27_119.74,2020-12-11T00:23:00+08:00,14.27,119.74,46.0,2.0,061 km N 42° W of Lubang (Occidental Mindoro),2020_Earthquake_Information/December/2020_1210_1623_B2.html
+20201211T0048_10.43_125.96,2020-12-11T00:48:00+08:00,10.43,125.96,10.0,2.3,043 km N 79° E of Loreto (Dinagat Islands),2020_Earthquake_Information/December/2020_1210_1648_B2.html
+20201211T0049_14.82_123.42,2020-12-11T00:49:00+08:00,14.82,123.42,1.0,2.6,090 km N 30° E of Mercedes (Camarines Norte),2020_Earthquake_Information/December/2020_1210_1649_B2.html
+20201211T0103_10.43_126.1,2020-12-11T01:03:00+08:00,10.43,126.1,13.0,3.0,046 km N 03° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1210_1703_B2.html
+20201211T0116_6.14_126.73,2020-12-11T01:16:00+08:00,6.14,126.73,33.0,2.5,092 km S 52° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1210_1716_B2.html
+20201211T0119_13.71_120.93,2020-12-11T01:19:00+08:00,13.71,120.93,15.0,1.7,004 km S 12° W of Mabini (Batangas),2020_Earthquake_Information/December/2020_1210_1719_B2.html
+20201211T0240_5.45_124.46,2020-12-11T02:40:00+08:00,5.45,124.46,518.0,4.4,062 km S 17° W of Kiamba (Sarangani),2020_Earthquake_Information/December/2020_1210_1840_B2.html
+20201211T0307_6.12_126.02,2020-12-11T03:07:00+08:00,6.12,126.02,125.0,3.6,037 km S 76° E of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1210_1907_B2.html
+20201211T0415_8.09_123.35,2020-12-11T04:15:00+08:00,8.09,123.35,17.0,3.3,007 km N 28° E of Midsalip (Zamboanga Del Sur),2020_Earthquake_Information/December/2020_1210_2015_B2.html
+20201211T0529_10.08_126.02,2020-12-11T05:29:00+08:00,10.08,126.02,28.0,3.0,007 km N 17° W of Santa Monica (Surigao Del Norte),2020_Earthquake_Information/December/2020_1210_2129_B2.html
+20201211T0735_9.96_124.15,2020-12-11T07:35:00+08:00,9.96,124.15,2.0,2.9,008 km N 79° W of Danao (Bohol),2020_Earthquake_Information/December/2020_1210_2335_B2.html
+20201211T0921_13.49_120.67,2020-12-11T09:21:00+08:00,13.49,120.67,50.0,2.2,008 km N 55° W of Abra De Ilog (Occidental Mindoro),2020_Earthquake_Information/December/2020_1211_0121_B2.html
+20201211T1029_6.09_126.02,2020-12-11T10:29:00+08:00,6.09,126.02,133.0,3.0,038 km S 71° E of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1211_0229_B2.html
+20201211T1034_6.26_127.3,2020-12-11T10:34:00+08:00,6.26,127.3,30.0,2.6,128 km S 47° E of Tarragona (Davao Oriental),2020_Earthquake_Information/December/2020_1211_0234_B2.html
+20201211T1210_13.83_120.51,2020-12-11T12:10:00+08:00,13.83,120.51,104.0,4.2,013 km S 87° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1211_0410_B2F.html
+20201211T1334_16.48_119.86,2020-12-11T13:34:00+08:00,16.48,119.86,69.0,2.8,011 km N 20° W of Bolinao (Pangasinan),2020_Earthquake_Information/December/2020_1211_0534_B2.html
+20201211T1431_7.12_123.71,2020-12-11T14:31:00+08:00,7.12,123.71,30.0,1.8,051 km S 41° E of Tabina (Zamboanga Del Sur),2020_Earthquake_Information/December/2020_1211_0631_B2.html
+20201211T1504_6.71_124.74,2020-12-11T15:04:00+08:00,6.71,124.74,34.0,2.2,002 km N 54° E of President Quirino (Sultan Kudarat),2020_Earthquake_Information/December/2020_1211_0704_B2.html
+20201211T1602_17.33_120.24,2020-12-11T16:02:00+08:00,17.33,120.24,22.0,2.3,022 km S 90° W of San Esteban (Ilocos Sur),2020_Earthquake_Information/December/2020_1211_0802_B2.html
+20201211T1723_10.39_122.5,2020-12-11T17:23:00+08:00,10.39,122.5,48.0,2.7,015 km S 16° W of Nueva Valencia (Guimaras),2020_Earthquake_Information/December/2020_1211_0923_B2.html
+20201211T1828_6.28_127.52,2020-12-11T18:28:00+08:00,6.28,127.52,15.0,2.9,146 km S 54° E of Tarragona (Davao Oriental),2020_Earthquake_Information/December/2020_1211_1028_B2.html
+20201211T2045_8.6_126.46,2020-12-11T20:45:00+08:00,8.6,126.46,34.0,2.4,030 km N 28° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1211_1245_B2.html
+20201211T2116_18.93_121.16,2020-12-11T21:16:00+08:00,18.93,121.16,27.0,3.1,020 km S 14° W of Dalupiri Island (Calayan) (Cagayan),2020_Earthquake_Information/December/2020_1211_1316_B2.html
+20201211T2209_9.07_126.39,2020-12-11T22:09:00+08:00,9.07,126.39,33.0,2.5,016 km N 45° E of Bayabas (Surigao Del Sur),2020_Earthquake_Information/December/2020_1211_1409_B2.html
+20201211T2243_2.37_126.49,2020-12-11T22:43:00+08:00,2.37,126.49,33.0,3.3,357 km S 19° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1211_1443_B2.html
+20201212T0122_16.61_122.17,2020-12-12T01:22:00+08:00,16.61,122.17,4.0,2.9,014 km N 47° W of Dinapigue (Isabela),2020_Earthquake_Information/December/2020_1211_1722_B2.html
+20201212T0141_6.75_123.73,2020-12-12T01:41:00+08:00,6.75,123.73,1.0,3.5,039 km N 71° W of Lebak (Sultan Kudarat),2020_Earthquake_Information/December/2020_1211_1741_B2.html
+20201212T0159_6.72_123.65,2020-12-12T01:59:00+08:00,6.72,123.65,14.0,3.6,047 km N 67° W of Kalamansig (Sultan Kudarat),2020_Earthquake_Information/December/2020_1211_1759_B2.html
+20201212T0222_6.67_123.65,2020-12-12T02:22:00+08:00,6.67,123.65,33.0,2.9,046 km N 86° W of Lebak (Sultan Kudarat),2020_Earthquake_Information/December/2020_1211_1822_B2.html
+20201212T0245_10.15_126.09,2020-12-12T02:45:00+08:00,10.15,126.09,7.0,2.7,015 km N 07° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1211_1845_B2.html
+20201212T0303_13.66_120.55,2020-12-12T03:03:00+08:00,13.66,120.55,104.0,2.5,021 km S 26° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1211_1903_B2.html
+20201212T0306_6.76_123.72,2020-12-12T03:06:00+08:00,6.76,123.72,1.0,3.6,041 km N 70° W of Lebak (Sultan Kudarat),2020_Earthquake_Information/December/2020_1211_1906_B3.html
+20201212T0307_7.05_123.84,2020-12-12T03:07:00+08:00,7.05,123.84,19.0,2.5,020 km S 86° W of Datu Blah T. Sinsuat (Maguindanao),2020_Earthquake_Information/December/2020_1211_1907_B2.html
+20201212T0312_18.6_120.56,2020-12-12T03:12:00+08:00,18.6,120.56,10.0,3.0,013 km N 43° W of Burgos (Ilocos Norte),2020_Earthquake_Information/December/2020_1211_1912_B2.html
+20201212T0314_16.21_121.42,2020-12-12T03:14:00+08:00,16.21,121.42,33.0,1.9,020 km S 84° W of Nagtipunan (Quirino),2020_Earthquake_Information/December/2020_1211_1914_B2.html
+20201212T0329_6.92_123.95,2020-12-12T03:29:00+08:00,6.92,123.95,22.0,2.8,034 km N 23° W of Lebak (Sultan Kudarat),2020_Earthquake_Information/December/2020_1211_1929_B2.html
+20201212T0404_10.86_126.64,2020-12-12T04:04:00+08:00,10.86,126.64,28.0,3.2,102 km S 79° E of Guiuan (Eastern Samar),2020_Earthquake_Information/December/2020_1211_2004_B2.html
+20201212T0439_6.78_123.68,2020-12-12T04:39:00+08:00,6.78,123.68,16.0,2.4,046 km N 70° W of Lebak (Sultan Kudarat),2020_Earthquake_Information/December/2020_1211_2039_B2.html
+20201212T0539_7.83_126.47,2020-12-12T05:39:00+08:00,7.83,126.47,25.0,3.1,005 km N 18° E of Cateel (Davao Oriental),2020_Earthquake_Information/December/2020_1211_2139_B2.html
+20201212T0707_18.36_120.17,2020-12-12T07:07:00+08:00,18.36,120.17,34.0,2.4,048 km N 87° W of Pasuquin (Ilocos Norte),2020_Earthquake_Information/December/2020_1211_2307_B2.html
+20201212T0710_5.88_127.14,2020-12-12T07:10:00+08:00,5.88,127.14,58.0,2.4,146 km S 54° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1211_2310_B2.html
+20201212T0745_6.76_123.69,2020-12-12T07:45:00+08:00,6.76,123.69,11.0,3.5,044 km N 72° W of Lebak (Sultan Kudarat),2020_Earthquake_Information/December/2020_1211_2345_B2.html
+20201212T0904_16.89_122.35,2020-12-12T09:04:00+08:00,16.89,122.35,33.0,2.1,021 km S 23° W of Palanan (Isabela),2020_Earthquake_Information/December/2020_1212_0104_B2.html
+20201212T1038_10.79_126.55,2020-12-12T10:38:00+08:00,10.79,126.55,28.0,3.2,091 km N 87° E of Homonhon Island (Guiuan) (Eastern Samar),2020_Earthquake_Information/December/2020_1212_0238_B2.html
+20201212T1122_13.65_120.57,2020-12-12T11:22:00+08:00,13.65,120.57,127.0,2.3,021 km S 20° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1212_0322_B2.html
+20201212T1149_13.84_120.83,2020-12-12T11:49:00+08:00,13.84,120.83,8.0,3.1,009 km S 82° W of San Luis (Batangas),2020_Earthquake_Information/December/2020_1212_0349_B2F.html
+20201212T1212_15.61_121.75,2020-12-12T12:12:00+08:00,15.61,121.75,21.0,3.0,026 km S 51° E of Baler (Aurora),2020_Earthquake_Information/December/2020_1212_0412_B2F.html
+20201212T1229_7.45_127.37,2020-12-12T12:29:00+08:00,7.45,127.37,22.0,2.9,091 km S 81° E of Baganga (Davao Oriental),2020_Earthquake_Information/December/2020_1212_0429_B2.html
+20201212T1231_13.57_120.2,2020-12-12T12:31:00+08:00,13.57,120.2,19.0,2.5,018 km S 16° W of Looc (Occidental Mindoro),2020_Earthquake_Information/December/2020_1212_0431_B2.html
+20201212T1248_13.71_120.54,2020-12-12T12:48:00+08:00,13.71,120.54,25.0,1.7,017 km S 39° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1212_0448_B2.html
+20201212T1324_4.13_126.29,2020-12-12T13:24:00+08:00,4.13,126.29,56.0,3.4,171 km S 34° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1212_0524_B2.html
+20201212T1856_6.6_126.05,2020-12-12T18:56:00+08:00,6.6,126.05,81.0,2.6,007 km S 24° W of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1212_1056_B2.html
+20201212T1920_15.2_122.19,2020-12-12T19:20:00+08:00,15.2,122.19,8.0,2.1,046 km N 31° E of Burdeos (Quezon),2020_Earthquake_Information/December/2020_1212_1120_B2.html
+20201212T2016_8.84_126.39,2020-12-12T20:16:00+08:00,8.84,126.39,38.0,2.5,019 km S 39° E of Bayabas (Surigao Del Sur),2020_Earthquake_Information/December/2020_1212_1216_B2.html
+20201212T2019_6.65_126.5,2020-12-12T20:19:00+08:00,6.65,126.5,19.0,2.2,045 km S 07° E of Tarragona (Davao Oriental),2020_Earthquake_Information/December/2020_1212_1219_B2.html
+20201212T2038_13.43_120.7,2020-12-12T20:38:00+08:00,13.43,120.7,76.0,1.6,003 km S 59° W of Abra De Ilog (Occidental Mindoro),2020_Earthquake_Information/December/2020_1212_1238_B2.html
+20201212T2105_2.43_126.51,2020-12-12T21:05:00+08:00,2.43,126.51,1.0,3.2,351 km S 20° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1212_1305_B2.html
+20201212T2226_9.98_122.41,2020-12-12T22:26:00+08:00,9.98,122.41,25.0,2.1,023 km N 87° W of Cauayan (Negros Occidental),2020_Earthquake_Information/December/2020_1212_1426_B2.html
+20201212T2249_5.8_126.07,2020-12-12T22:49:00+08:00,5.8,126.07,137.0,2.4,049 km S 76° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1212_1449_B2.html
+20201212T2336_18.73_121.68,2020-12-12T23:36:00+08:00,18.73,121.68,31.0,2.5,035 km S 68° E of Fuga Island (Aparri) (Cagayan),2020_Earthquake_Information/December/2020_1212_1536_B2.html
+20201212T2359_6.75_126.67,2020-12-12T23:59:00+08:00,6.75,126.67,40.0,2.6,041 km S 37° E of Tarragona (Davao Oriental),2020_Earthquake_Information/December/2020_1212_1559_B2.html
+20201213T0013_5.39_126.52,2020-12-13T00:13:00+08:00,5.39,126.52,26.0,3.4,112 km S 59° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1212_1613_B2.html
+20201213T0051_18.84_121.35,2020-12-13T00:51:00+08:00,18.84,121.35,23.0,2.4,002 km S 56° W of Fuga Island (Aparri) (Cagayan),2020_Earthquake_Information/December/2020_1212_1651_B2.html
+20201213T0118_16.55_120.28,2020-12-13T01:18:00+08:00,16.55,120.28,8.0,2.4,006 km N 63° W of Bauang (La Union),2020_Earthquake_Information/December/2020_1212_1718_B2.html
+20201213T0151_9.86_124.31,2020-12-13T01:51:00+08:00,9.86,124.31,18.0,1.8,005 km S 46° E of Dagohoy (Bohol),2020_Earthquake_Information/December/2020_1212_1751_B2.html
+20201213T0227_11.35_124.59,2020-12-13T02:27:00+08:00,11.35,124.59,2.0,2.4,012 km S 77° E of Leyte (Leyte),2020_Earthquake_Information/December/2020_1212_1827_B2.html
+20201213T0241_7.37_126.89,2020-12-13T02:41:00+08:00,7.37,126.89,125.0,2.5,036 km N 83° E of Caraga (Davao Oriental),2020_Earthquake_Information/December/2020_1212_1841_B2.html
+20201213T0358_5.27_126.24,2020-12-13T03:58:00+08:00,5.27,126.24,47.0,3.2,092 km S 80° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1212_1958_B2.html
+20201213T0359_16.54_119.73,2020-12-13T03:59:00+08:00,16.54,119.73,33.0,2.6,025 km N 46° W of Bolinao (Pangasinan),2020_Earthquake_Information/December/2020_1212_1959_B2.html
+20201213T0404_18.54_120.52,2020-12-13T04:04:00+08:00,18.54,120.52,21.0,4.4,014 km N 78° W of Burgos (Ilocos Norte),2020_Earthquake_Information/December/2020_1212_2004_B2.html
+20201213T0438_9.78_126.2,2020-12-13T04:38:00+08:00,9.78,126.2,24.0,2.5,004 km S 80° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1212_2038_B2.html
+20201213T0452_5.18_125.03,2020-12-13T04:52:00+08:00,5.18,125.03,21.0,2.9,050 km S 59° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1212_2052_B2.html
+20201213T0557_15.7_119.88,2020-12-13T05:57:00+08:00,15.7,119.88,32.0,2.0,008 km S 24° W of Santa Cruz (Zambales),2020_Earthquake_Information/December/2020_1212_2157_B2.html
+20201213T0930_17.52_120.86,2020-12-13T09:30:00+08:00,17.52,120.86,2.0,3.4,010 km N 50° W of Daguioman (Abra),2020_Earthquake_Information/December/2020_1213_0130_B2.html
+20201213T0949_17.39_120.93,2020-12-13T09:49:00+08:00,17.39,120.93,5.0,2.3,008 km S 01° W of Daguioman (Abra),2020_Earthquake_Information/December/2020_1213_0149_B2.html
+20201213T1015_11.98_123.94,2020-12-13T10:15:00+08:00,11.98,123.94,28.0,2.0,007 km S 67° W of Cataingan (Masbate),2020_Earthquake_Information/December/2020_1213_0215_B2.html
+20201213T1106_7.1_126.0,2020-12-13T11:06:00+08:00,7.1,126.0,33.0,2.5,012 km S 78° E of Pantukan (Davao De Oro),2020_Earthquake_Information/December/2020_1213_0306_B2.html
+20201213T1227_10.24_122.44,2020-12-13T12:27:00+08:00,10.24,122.44,35.0,1.6,034 km S 19° W of Nueva Valencia (Guimaras),2020_Earthquake_Information/December/2020_1213_0427_B2.html
+20201213T1305_13.75_120.85,2020-12-13T13:05:00+08:00,13.75,120.85,27.0,2.2,010 km N 89° W of Mabini (Batangas),2020_Earthquake_Information/December/2020_1213_0505_B2.html
+20201213T1418_10.38_125.96,2020-12-13T14:18:00+08:00,10.38,125.96,15.0,2.6,041 km N 87° E of Loreto (Dinagat Islands),2020_Earthquake_Information/December/2020_1213_0618_B2.html
+20201213T1440_6.72_127.18,2020-12-13T14:40:00+08:00,6.72,127.18,33.0,3.1,089 km S 53° E of Manay (Davao Oriental),2020_Earthquake_Information/December/2020_1213_0640_B2.html
+20201213T1445_11.94_124.06,2020-12-13T14:45:00+08:00,11.94,124.06,1.0,3.8,006 km N 14° E of Pio V. Corpuz (Masbate),2020_Earthquake_Information/December/2020_1213_0645_B3F.html
+20201213T1453_16.84_120.13,2020-12-13T14:53:00+08:00,16.84,120.13,82.0,4.1,026 km S 87° W of Luna (La Union),2020_Earthquake_Information/December/2020_1213_0653_B2F.html
+20201213T1556_15.02_119.94,2020-12-13T15:56:00+08:00,15.02,119.94,30.0,1.9,015 km S 70° W of San Felipe (Zambales),2020_Earthquake_Information/December/2020_1213_0756_B2.html
+20201213T1700_13.53_120.95,2020-12-13T17:00:00+08:00,13.53,120.95,3.0,2.6,003 km N 09° W of Puerto Galera (Oriental Mindoro),2020_Earthquake_Information/December/2020_1213_0900_B2F.html
+20201213T1917_15.91_119.75,2020-12-13T19:17:00+08:00,15.91,119.75,39.0,2.3,017 km S 56° W of Dasol (Pangasinan),2020_Earthquake_Information/December/2020_1213_1117_B2.html
+20201213T2000_21.7_121.35,2020-12-13T20:00:00+08:00,21.7,121.35,25.0,3.1,113 km N 27° W of Itbayat (Batanes),2020_Earthquake_Information/December/2020_1213_1200_B2.html
+20201213T2023_10.47_122.81,2020-12-13T20:23:00+08:00,10.47,122.81,18.0,1.7,008 km S 21° W of City Of Bago (Negros Occidental),2020_Earthquake_Information/December/2020_1213_1223_B2.html
+20201213T2051_13.81_120.26,2020-12-13T20:51:00+08:00,13.81,120.26,17.0,2.0,010 km N 05° E of Looc (Occidental Mindoro),2020_Earthquake_Information/December/2020_1213_1251_B2.html
+20201213T2104_8.79_125.74,2020-12-13T21:04:00+08:00,8.79,125.74,19.0,2.7,008 km N 06° W of City Of Bayugan (Agusan Del Sur),2020_Earthquake_Information/December/2020_1213_1304_B2.html
+20201213T2114_16.24_122.32,2020-12-13T21:14:00+08:00,16.24,122.32,8.0,2.3,022 km S 78° E of Casiguran (Aurora),2020_Earthquake_Information/December/2020_1213_1314_B2.html
+20201213T2135_10.36_125.15,2020-12-13T21:35:00+08:00,10.36,125.15,1.0,2.3,007 km S 55° W of Hinunangan (Southern Leyte),2020_Earthquake_Information/December/2020_1213_1335_B2.html
+20201213T2241_16.47_122.3,2020-12-13T22:41:00+08:00,16.47,122.3,34.0,2.0,007 km S 30° E of Dinapigue (Isabela),2020_Earthquake_Information/December/2020_1213_1441_B2.html
+20201213T2333_6.52_125.27,2020-12-13T23:33:00+08:00,6.52,125.27,4.0,2.8,011 km S 06° E of Kiblawan (Davao Del Sur),2020_Earthquake_Information/December/2020_1213_1533_B2.html
+20201213T2344_5.89_126.31,2020-12-13T23:44:00+08:00,5.89,126.31,110.0,2.5,074 km S 88° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1213_1544_B2.html
+20201213T2358_14.33_123.83,2020-12-13T23:58:00+08:00,14.33,123.83,12.0,2.3,051 km N 15° E of Garchitorena (Camarines Sur),2020_Earthquake_Information/December/2020_1213_1558_B2.html
+20201214T0010_13.9_124.47,2020-12-14T00:10:00+08:00,13.9,124.47,20.0,3.0,007 km N 83° W of Gigmoto (Catanduanes),2020_Earthquake_Information/December/2020_1213_1610_B2.html
+20201214T0022_14.15_125.03,2020-12-14T00:22:00+08:00,14.15,125.03,18.0,3.1,079 km N 60° E of Gigmoto (Catanduanes),2020_Earthquake_Information/December/2020_1213_1622_B2.html
+20201214T0024_13.98_124.5,2020-12-14T00:24:00+08:00,13.98,124.5,13.0,2.3,025 km N 29° E of Gigmoto (Catanduanes),2020_Earthquake_Information/December/2020_1213_1624_B2.html
+20201214T0031_12.48_122.7,2020-12-14T00:31:00+08:00,12.48,122.7,1.0,2.3,013 km N 05° E of Cajidiocan (Romblon),2020_Earthquake_Information/December/2020_1213_1631_B2.html
+20201214T0039_11.13_126.43,2020-12-14T00:39:00+08:00,11.13,126.43,25.0,3.3,078 km N 82° E of Guiuan (Eastern Samar),2020_Earthquake_Information/December/2020_1213_1639_B2.html
+20201214T0042_14.5_124.13,2020-12-14T00:42:00+08:00,14.5,124.13,16.0,2.5,064 km N 16° W of Bagamanoc (Catanduanes),2020_Earthquake_Information/December/2020_1213_1642_B2.html
+20201214T0105_13.81_120.51,2020-12-14T01:05:00+08:00,13.81,120.51,109.0,2.6,013 km S 80° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1213_1705_B2.html
+20201214T0107_9.62_126.15,2020-12-14T01:07:00+08:00,9.62,126.15,47.0,2.1,017 km S 01° W of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1213_1707_B2.html
+20201214T0117_6.15_125.4,2020-12-14T01:17:00+08:00,6.15,125.4,67.0,2.1,013 km N 66° E of Alabel (Sarangani),2020_Earthquake_Information/December/2020_1213_1717_B2.html
+20201214T0140_8.73_125.91,2020-12-14T01:40:00+08:00,8.73,125.91,19.0,3.1,026 km S 68° E of Sibagat (Agusan Del Sur),2020_Earthquake_Information/December/2020_1213_1740_B2.html
+20201214T0158_5.54_125.68,2020-12-14T01:58:00+08:00,5.54,125.68,116.0,2.5,032 km N 64° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1213_1758_B2.html
+20201214T0200_6.68_126.84,2020-12-14T02:00:00+08:00,6.68,126.84,165.0,2.6,059 km S 46° E of Tarragona (Davao Oriental),2020_Earthquake_Information/December/2020_1213_1800_B2.html
+20201214T0207_13.73_120.59,2020-12-14T02:07:00+08:00,13.73,120.59,104.0,2.7,012 km S 24° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1213_1807_B2.html
+20201214T0320_11.98_124.07,2020-12-14T03:20:00+08:00,11.98,124.07,10.0,3.0,008 km S 74° E of Cataingan (Masbate),2020_Earthquake_Information/December/2020_1213_1920_B2.html
+20201214T0321_19.19_120.99,2020-12-14T03:21:00+08:00,19.19,120.99,13.0,3.6,024 km N 67° W of Dalupiri Island (Calayan) (Cagayan),2020_Earthquake_Information/December/2020_1213_1921_B2.html
+20201214T0418_4.56_125.84,2020-12-14T04:18:00+08:00,4.56,125.84,139.0,3.0,105 km S 26° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1213_2018_B2.html
+20201214T0454_13.6_120.13,2020-12-14T04:54:00+08:00,13.6,120.13,28.0,2.8,019 km S 45° W of Looc (Occidental Mindoro),2020_Earthquake_Information/December/2020_1213_2054_B2.html
+20201214T0624_8.19_127.06,2020-12-14T06:24:00+08:00,8.19,127.06,19.0,3.0,073 km N 77° E of Lingig (Surigao Del Sur),2020_Earthquake_Information/December/2020_1213_2224_B2.html
+20201214T0839_9.15_126.23,2020-12-14T08:39:00+08:00,9.15,126.23,25.0,1.9,010 km N 38° E of City Of Tandag (Surigao Del Sur),2020_Earthquake_Information/December/2020_1214_0039_B2.html
+20201214T0845_11.19_125.55,2020-12-14T08:45:00+08:00,11.19,125.55,26.0,2.8,006 km S 15° E of General Macarthur (Eastern Samar),2020_Earthquake_Information/December/2020_1214_0045_B2.html
+20201214T0915_17.8_122.54,2020-12-14T09:15:00+08:00,17.8,122.54,4.0,2.7,058 km N 27° E of Divilacan (Isabela),2020_Earthquake_Information/December/2020_1214_0115_B2.html
+20201214T1018_11.29_124.38,2020-12-14T10:18:00+08:00,11.29,124.38,7.0,2.2,015 km S 52° W of Leyte (Leyte),2020_Earthquake_Information/December/2020_1214_0218_B2.html
+20201214T1111_9.09_127.63,2020-12-14T11:11:00+08:00,9.09,127.63,16.0,3.3,147 km N 83° E of Cagwait (Surigao Del Sur),2020_Earthquake_Information/December/2020_1214_0311_B2.html
+20201214T1133_9.09_126.41,2020-12-14T11:33:00+08:00,9.09,126.41,30.0,2.6,019 km N 44° E of Bayabas (Surigao Del Sur),2020_Earthquake_Information/December/2020_1214_0333_B2.html
+20201214T1139_9.03_122.73,2020-12-14T11:39:00+08:00,9.03,122.73,19.0,3.1,039 km S 09° W of City Of Bayawan (Negros Oriental),2020_Earthquake_Information/December/2020_1214_0339_B2F.html
+20201214T1155_6.45_125.94,2020-12-14T11:55:00+08:00,6.45,125.94,94.0,2.3,040 km N 44° E of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1214_0355_B2.html
+20201214T1304_14.32_120.39,2020-12-14T13:04:00+08:00,14.32,120.39,118.0,2.5,017 km S 41° W of Mariveles (Bataan),2020_Earthquake_Information/December/2020_1214_0504_B2.html
+20201214T1627_9.62_126.0,2020-12-14T16:27:00+08:00,9.62,126.0,32.0,2.2,003 km N 88° E of Socorro (Surigao Del Norte),2020_Earthquake_Information/December/2020_1214_0827_B2.html
+20201214T1738_15.06_121.59,2020-12-14T17:38:00+08:00,15.06,121.59,22.0,2.9,028 km N 60° W of Panukulan (Quezon),2020_Earthquake_Information/December/2020_1214_0938_B2.html
+20201214T1818_4.95_126.25,2020-12-14T18:18:00+08:00,4.95,126.25,47.0,2.3,126 km S 32° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1214_1018_B2.html
+20201214T1933_6.52_125.23,2020-12-14T19:33:00+08:00,6.52,125.23,7.0,2.7,017 km N 16° W of Malungon (Sarangani),2020_Earthquake_Information/December/2020_1214_1133_B2.html
+20201214T1959_5.7_127.41,2020-12-14T19:59:00+08:00,5.7,127.41,69.0,2.6,181 km S 55° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1214_1159_B2.html
+20201214T2008_18.53_120.77,2020-12-14T20:08:00+08:00,18.53,120.77,31.0,1.9,001 km S 40° E of Bangui (Ilocos Norte),2020_Earthquake_Information/December/2020_1214_1208_B2.html
+20201214T2017_13.78_120.55,2020-12-14T20:17:00+08:00,13.78,120.55,1.0,1.8,011 km S 55° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1214_1217_B2.html
+20201214T2025_9.99_123.2,2020-12-14T20:25:00+08:00,9.99,123.2,13.0,1.9,008 km N 21° E of Tayasan (Negros Oriental),2020_Earthquake_Information/December/2020_1214_1225_B2.html
+20201214T2208_5.26_126.47,2020-12-14T22:08:00+08:00,5.26,126.47,1.0,3.1,116 km S 51° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1214_1408_B2.html
+20201214T2214_12.25_123.83,2020-12-14T22:14:00+08:00,12.25,123.83,6.0,2.6,005 km N 60° E of Uson (Masbate),2020_Earthquake_Information/December/2020_1214_1414_B2.html
+20201214T2226_13.51_120.23,2020-12-14T22:26:00+08:00,13.51,120.23,1.0,2.4,023 km S 05° W of Looc (Occidental Mindoro),2020_Earthquake_Information/December/2020_1214_1426_B2.html
+20201214T2318_9.25_126.25,2020-12-14T23:18:00+08:00,9.25,126.25,17.0,2.5,007 km S 62° E of Cortes (Surigao Del Sur),2020_Earthquake_Information/December/2020_1214_1518_B2.html
+20201215T0047_8.59_126.53,2020-12-15T00:47:00+08:00,8.59,126.53,30.0,2.8,033 km N 41° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1214_1647_B2.html
+20201215T0114_3.58_125.83,2020-12-15T01:14:00+08:00,3.58,125.83,165.0,4.1,207 km S 13° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1214_1714_B2.html
+20201215T0140_9.25_126.45,2020-12-15T01:40:00+08:00,9.25,126.45,27.0,3.0,029 km S 85° E of Cortes (Surigao Del Sur),2020_Earthquake_Information/December/2020_1214_1740_B2.html
+20201215T0200_7.64_124.46,2020-12-15T02:00:00+08:00,7.64,124.46,4.0,2.8,017 km N 36° E of Buldon (Maguindanao),2020_Earthquake_Information/December/2020_1214_1800_B2.html
+20201215T0339_10.16_126.27,2020-12-15T03:39:00+08:00,10.16,126.27,21.0,2.9,027 km N 54° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1214_1939_B2.html
+20201215T0450_7.75_122.63,2020-12-15T04:50:00+08:00,7.75,122.63,32.0,2.6,005 km S 52° E of Ipil (Zamboanga Sibugay),2020_Earthquake_Information/December/2020_1214_2050_B2.html
+20201215T0637_19.04_121.51,2020-12-15T06:37:00+08:00,19.04,121.51,27.0,2.9,024 km S 08° E of Calayan (Cagayan),2020_Earthquake_Information/December/2020_1214_2237_B2.html
+20201215T0705_8.56_124.63,2020-12-15T07:05:00+08:00,8.56,124.63,11.0,3.0,010 km N 05° W of City Of Cagayan De Oro (Misamis Oriental),2020_Earthquake_Information/December/2020_1214_2305_B2F.html
+20201215T1030_3.61_126.31,2020-12-15T10:30:00+08:00,3.61,126.31,14.0,4.0,222 km S 26° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1215_0230_B2.html
+20201215T1146_7.49_126.65,2020-12-15T11:46:00+08:00,7.49,126.65,91.0,2.6,013 km S 46° E of Baganga (Davao Oriental),2020_Earthquake_Information/December/2020_1215_0346_B2.html
+20201215T1226_9.13_126.18,2020-12-15T12:26:00+08:00,9.13,126.18,30.0,2.0,007 km N 14° E of City Of Tandag (Surigao Del Sur),2020_Earthquake_Information/December/2020_1215_0426_B2.html
+20201215T1338_9.74_126.21,2020-12-15T13:38:00+08:00,9.74,126.21,22.0,2.5,008 km S 51° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1215_0538_B2.html
+20201215T1544_5.77_125.16,2020-12-15T15:44:00+08:00,5.77,125.16,45.0,3.0,008 km S 38° W of Glan (Sarangani),2020_Earthquake_Information/December/2020_1215_0744_B2.html
+20201215T1710_17.98_120.19,2020-12-15T17:10:00+08:00,17.98,120.19,35.0,1.8,031 km N 79° W of Badoc (Ilocos Norte),2020_Earthquake_Information/December/2020_1215_0910_B2.html
+20201215T1729_16.47_122.18,2020-12-15T17:29:00+08:00,16.47,122.18,1.0,3.0,010 km N 20° W of Dilasag (Aurora),2020_Earthquake_Information/December/2020_1215_0929_B2.html
+20201215T1900_4.06_126.45,2020-12-15T19:00:00+08:00,4.06,126.45,1.0,3.4,188 km S 37° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1215_1100_B2.html
+20201215T1906_9.95_126.02,2020-12-15T19:06:00+08:00,9.95,126.02,24.0,2.1,009 km S 40° W of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1215_1106_B2.html
+20201215T1932_13.83_120.55,2020-12-15T19:32:00+08:00,13.83,120.55,89.0,2.0,009 km N 89° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1215_1132_B2.html
+20201215T1934_10.74_123.09,2020-12-15T19:34:00+08:00,10.74,123.09,3.0,2.4,014 km S 63° E of City Of Silay (Negros Occidental),2020_Earthquake_Information/December/2020_1215_1134_B2.html
+20201215T2007_8.29_125.81,2020-12-15T20:07:00+08:00,8.29,125.81,29.0,2.4,001 km N 37° E of La Paz (Agusan Del Sur),2020_Earthquake_Information/December/2020_1215_1207_B2.html
+20201215T2134_9.32_126.27,2020-12-15T21:34:00+08:00,9.32,126.27,33.0,2.0,010 km N 58° E of Cortes (Surigao Del Sur),2020_Earthquake_Information/December/2020_1215_1334_B2.html
+20201215T2149_7.22_127.12,2020-12-15T21:49:00+08:00,7.22,127.12,97.0,3.0,073 km S 58° E of Baganga (Davao Oriental),2020_Earthquake_Information/December/2020_1215_1349_B2.html
+20201215T2323_16.57_120.27,2020-12-15T23:23:00+08:00,16.57,120.27,27.0,2.8,007 km S 48° W of City Of San Fernando (La Union),2020_Earthquake_Information/December/2020_1215_1523_B2.html
+20201215T2338_9.02_126.48,2020-12-15T23:38:00+08:00,9.02,126.48,17.0,4.4,022 km N 75° E of Bayabas (Surigao Del Sur),2020_Earthquake_Information/December/2020_1215_1538_B2.html
+20201215T2346_9.04_126.46,2020-12-15T23:46:00+08:00,9.04,126.46,29.0,2.4,021 km N 67° E of Bayabas (Surigao Del Sur),2020_Earthquake_Information/December/2020_1215_1546_B2.html
+20201215T2358_9.06_126.5,2020-12-15T23:58:00+08:00,9.06,126.5,22.0,2.6,026 km N 68° E of Bayabas (Surigao Del Sur),2020_Earthquake_Information/December/2020_1215_1558_B2.html
+20201216T0022_9.54_125.75,2020-12-16T00:22:00+08:00,9.54,125.75,12.0,2.0,021 km N 62° E of Kitcharao (Agusan Del Norte),2020_Earthquake_Information/December/2020_1215_1622_B2.html
+20201216T0044_9.73_123.65,2020-12-16T00:44:00+08:00,9.73,123.65,7.0,2.8,014 km S 74° E of Dalaguete (Cebu),2020_Earthquake_Information/December/2020_1215_1644_B2.html
+20201216T0053_13.71_120.59,2020-12-16T00:53:00+08:00,13.71,120.59,92.0,1.8,014 km S 17° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1215_1653_B2.html
+20201216T0101_17.49_120.32,2020-12-16T01:01:00+08:00,17.49,120.32,2.0,2.3,012 km S 26° W of Santa Catalina (Ilocos Sur),2020_Earthquake_Information/December/2020_1215_1701_B2.html
+20201216T0108_13.59_120.02,2020-12-16T01:08:00+08:00,13.59,120.02,21.0,2.4,029 km S 61° W of Looc (Occidental Mindoro),2020_Earthquake_Information/December/2020_1215_1708_B2.html
+20201216T0152_20.78_122.72,2020-12-16T01:52:00+08:00,20.78,122.72,123.0,2.7,086 km N 65° E of Basco (Batanes),2020_Earthquake_Information/December/2020_1215_1752_B2.html
+20201216T0207_9.08_126.91,2020-12-16T02:07:00+08:00,9.08,126.91,1.0,2.7,070 km N 79° E of Bayabas (Surigao Del Sur),2020_Earthquake_Information/December/2020_1215_1807_B2.html
+20201216T0315_9.71_124.52,2020-12-16T03:15:00+08:00,9.71,124.52,10.0,2.5,008 km S 58° W of Anda (Bohol),2020_Earthquake_Information/December/2020_1215_1915_B2.html
+20201216T0330_8.34_126.77,2020-12-16T03:30:00+08:00,8.34,126.77,30.0,2.6,048 km S 87° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1215_1930_B2.html
+20201216T0355_8.49_126.7,2020-12-16T03:55:00+08:00,8.49,126.7,20.0,2.7,043 km N 71° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1215_1955_B2.html
+20201216T0407_13.6_120.25,2020-12-16T04:07:00+08:00,13.6,120.25,34.0,1.8,013 km S 02° E of Looc (Occidental Mindoro),2020_Earthquake_Information/December/2020_1215_2007_B2.html
+20201216T0441_12.73_125.62,2020-12-16T04:41:00+08:00,12.73,125.62,1.0,2.8,049 km N 55° E of Mapanas (Northern Samar),2020_Earthquake_Information/December/2020_1215_2041_B2_Northern_Samar.html
+20201216T0441_8.44_126.74,2020-12-16T04:41:00+08:00,8.44,126.74,14.0,2.3,045 km N 79° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1215_2041_B2_Surigao_Del_Norte.html
+20201216T0605_6.01_127.12,2020-12-16T06:05:00+08:00,6.01,127.12,102.0,3.1,135 km S 58° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1215_2205_B2.html
+20201216T0707_5.53_125.4,2020-12-16T07:07:00+08:00,5.53,125.4,1.0,3.3,013 km N 11° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1215_2307_B2.html
+20201216T0721_4.87_125.43,2020-12-16T07:21:00+08:00,4.87,125.43,20.0,6.2,060 km S 01° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1215_2321_B3F.html
+20201216T0753_5.3_125.4,2020-12-16T07:53:00+08:00,5.3,125.4,7.0,2.6,012 km S 12° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1215_2353_B2.html
+20201216T0800_13.28_124.22,2020-12-16T08:00:00+08:00,13.28,124.22,19.0,4.1,037 km S 12° W of Bato (Catanduanes),2020_Earthquake_Information/December/2020_1216_0000_B2F.html
+20201216T0816_5.36_125.49,2020-12-16T08:16:00+08:00,5.36,125.49,3.0,3.5,009 km S 56° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_0016_B2.html
+20201216T0849_5.6_125.33,2020-12-16T08:49:00+08:00,5.6,125.33,4.0,2.5,023 km N 25° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_0049_B2.html
+20201216T1010_7.95_124.5,2020-12-16T10:10:00+08:00,7.95,124.5,1.0,2.7,013 km S 76° E of Bubong (Lanao Del Sur),2020_Earthquake_Information/December/2020_1216_0210_B2.html
+20201216T1039_7.95_124.5,2020-12-16T10:39:00+08:00,7.95,124.5,1.0,2.3,014 km S 85° E of Buadiposo-buntong (Lanao Del Sur),2020_Earthquake_Information/December/2020_1216_0239_B2.html
+20201216T1120_8.43_126.67,2020-12-16T11:20:00+08:00,8.43,126.67,11.0,2.3,037 km N 79° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1216_0320_B2.html
+20201216T1142_4.43_125.72,2020-12-16T11:42:00+08:00,4.43,125.72,124.0,3.5,114 km S 17° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_0342_B2.html
+20201216T1154_10.0_126.05,2020-12-16T11:54:00+08:00,10.0,126.05,99.0,2.6,002 km S 43° E of Santa Monica (Surigao Del Norte),2020_Earthquake_Information/December/2020_1216_0354_B2.html
+20201216T1230_7.1_125.88,2020-12-16T12:30:00+08:00,7.1,125.88,24.0,2.3,003 km S 34° W of Pantukan (Davao De Oro),2020_Earthquake_Information/December/2020_1216_0430_B2.html
+20201216T1317_5.4_125.4,2020-12-16T13:17:00+08:00,5.4,125.4,66.0,2.7,002 km S 66° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_0517_B2F.html
+20201216T1406_5.54_124.99,2020-12-16T14:06:00+08:00,5.54,124.99,21.0,3.9,039 km S 37° W of Glan (Sarangani),2020_Earthquake_Information/December/2020_1216_0606_B2F.html
+20201216T1410_9.88_126.12,2020-12-16T14:10:00+08:00,9.88,126.12,23.0,2.4,002 km N 49° E of Pilar (Surigao Del Norte),2020_Earthquake_Information/December/2020_1216_0610_B2.html
+20201216T1433_8.88_126.22,2020-12-16T14:33:00+08:00,8.88,126.22,33.0,2.4,010 km S 66° W of Cagwait (Surigao Del Sur),2020_Earthquake_Information/December/2020_1216_0633_B2.html
+20201216T1501_5.62_125.38,2020-12-16T15:01:00+08:00,5.62,125.38,3.0,2.9,023 km N 11° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_0701_B2F.html
+20201216T1526_5.1_125.62,2020-12-16T15:26:00+08:00,5.1,125.62,25.0,3.6,041 km S 33° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_0726_B2.html
+20201216T1610_10.61_126.82,2020-12-16T16:10:00+08:00,10.61,126.82,16.0,2.8,105 km N 52° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1216_0810_B2.html
+20201216T1631_18.48_120.78,2020-12-16T16:31:00+08:00,18.48,120.78,33.0,2.4,006 km S 12° E of Bangui (Ilocos Norte),2020_Earthquake_Information/December/2020_1216_0831_B2.html
+20201216T1659_8.94_126.32,2020-12-16T16:59:00+08:00,8.94,126.32,18.0,2.9,003 km N 33° E of Cagwait (Surigao Del Sur),2020_Earthquake_Information/December/2020_1216_0859_B2.html
+20201216T1830_5.16_125.38,2020-12-16T18:30:00+08:00,5.16,125.38,23.0,4.3,029 km S 09° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_1030_B2F.html
+20201216T1834_13.52_120.06,2020-12-16T18:34:00+08:00,13.52,120.06,16.0,2.8,030 km S 43° W of Looc (Occidental Mindoro),2020_Earthquake_Information/December/2020_1216_1034_B2.html
+20201216T1836_5.82_125.38,2020-12-16T18:36:00+08:00,5.82,125.38,5.0,2.0,019 km N 89° E of Glan (Sarangani),2020_Earthquake_Information/December/2020_1216_1036_B2.html
+20201216T1938_7.42_126.23,2020-12-16T19:38:00+08:00,7.42,126.23,4.0,2.9,017 km S 36° E of New Bataan (Davao De Oro),2020_Earthquake_Information/December/2020_1216_1138_B2.html
+20201216T1951_16.57_120.29,2020-12-16T19:51:00+08:00,16.57,120.29,27.0,2.1,006 km S 25° W of City Of San Fernando (La Union),2020_Earthquake_Information/December/2020_1216_1151_B2.html
+20201216T1956_17.06_122.23,2020-12-16T19:56:00+08:00,17.06,122.23,15.0,3.1,021 km S 89° W of Palanan (Isabela),2020_Earthquake_Information/December/2020_1216_1156_B2.html
+20201216T2021_5.38_125.33,2020-12-16T20:21:00+08:00,5.38,125.33,17.0,2.0,011 km S 71° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_1221_B2.html
+20201216T2111_5.17_125.32,2020-12-16T21:11:00+08:00,5.17,125.32,15.0,3.8,029 km S 23° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_1311_B2.html
+20201216T2132_5.23_125.33,2020-12-16T21:32:00+08:00,5.23,125.33,28.0,2.5,023 km S 28° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_1332_B2.html
+20201216T2220_11.23_124.64,2020-12-16T22:20:00+08:00,11.23,124.64,16.0,2.1,007 km S 05° W of Capoocan (Leyte),2020_Earthquake_Information/December/2020_1216_1420_B2.html
+20201216T2259_5.29_125.23,2020-12-16T22:59:00+08:00,5.29,125.23,3.0,2.3,025 km S 58° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_1459_B2.html
+20201216T2332_8.14_124.45,2020-12-16T23:32:00+08:00,8.14,124.45,18.0,1.9,008 km N 34° E of Tagoloan Ii (Lanao Del Sur),2020_Earthquake_Information/December/2020_1216_1532_B2.html
+20201217T0015_17.05_122.31,2020-12-17T00:15:00+08:00,17.05,122.31,27.0,2.2,013 km S 85° W of Palanan (Isabela),2020_Earthquake_Information/December/2020_1216_1615_B2.html
+20201217T0046_5.36_125.34,2020-12-17T00:46:00+08:00,5.36,125.34,19.0,2.3,011 km S 59° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_1646_B2.html
+20201217T0154_5.39_125.34,2020-12-17T01:54:00+08:00,5.39,125.34,12.0,2.5,009 km S 73° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_1754_B2.html
+20201217T0155_5.13_125.24,2020-12-17T01:55:00+08:00,5.13,125.24,23.0,3.4,037 km S 32° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_1755_B2.html
+20201217T0229_5.16_125.32,2020-12-17T02:29:00+08:00,5.16,125.32,22.0,2.3,030 km S 22° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_1829_B2.html
+20201217T0238_5.03_125.22,2020-12-17T02:38:00+08:00,5.03,125.22,24.0,2.6,048 km S 28° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_1838_B2.html
+20201217T0244_5.43_125.32,2020-12-17T02:44:00+08:00,5.43,125.32,8.0,2.7,012 km N 78° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_1844_B2.html
+20201217T0307_5.31_125.34,2020-12-17T03:07:00+08:00,5.31,125.34,14.0,3.8,014 km S 39° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_1907_B2.html
+20201217T0331_5.09_125.43,2020-12-17T03:31:00+08:00,5.09,125.43,28.0,2.6,036 km S 02° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_1931_B2.html
+20201217T0354_5.45_126.9,2020-12-17T03:54:00+08:00,5.45,126.9,79.0,2.8,148 km S 70° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1216_1954_B2.html
+20201217T0426_5.25_125.32,2020-12-17T04:26:00+08:00,5.25,125.32,1.0,3.2,021 km S 33° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_2026_B2.html
+20201217T0451_5.33_125.34,2020-12-17T04:51:00+08:00,5.33,125.34,17.0,4.1,013 km S 45° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_2051_B2.html
+20201217T0537_9.01_126.43,2020-12-17T05:37:00+08:00,9.01,126.43,23.0,3.5,017 km N 73° E of Bayabas (Surigao Del Sur),2020_Earthquake_Information/December/2020_1216_2137_B2.html
+20201217T0544_5.61_127.06,2020-12-17T05:44:00+08:00,5.61,127.06,67.0,4.4,159 km S 43° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1216_2144_B2_Davao_Oriental.html
+20201217T0544_5.63_125.37,2020-12-17T05:44:00+08:00,5.63,125.37,1.0,1.8,025 km N 14° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_2144_B2_Davao_Occidental.html
+20201217T0609_14.42_123.56,2020-12-17T06:09:00+08:00,14.42,123.56,1.0,2.6,069 km N 60° E of Mercedes (Camarines Norte),2020_Earthquake_Information/December/2020_1216_2209_B2.html
+20201217T0613_5.75_126.91,2020-12-17T06:13:00+08:00,5.75,126.91,47.0,2.9,141 km S 83° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1216_2213_B2.html
+20201217T0732_3.58_126.24,2020-12-17T07:32:00+08:00,3.58,126.24,60.0,3.8,222 km S 24° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1216_2332_B2.html
+20201217T0844_8.03_127.08,2020-12-17T08:44:00+08:00,8.03,127.08,9.0,3.5,076 km N 49° E of Baganga (Davao Oriental),2020_Earthquake_Information/December/2020_1217_0044_B2.html
+20201217T0908_9.55_126.7,2020-12-17T09:08:00+08:00,9.55,126.7,16.0,2.9,065 km S 67° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1217_0108_B2.html
+20201217T0939_6.75_124.92,2020-12-17T09:39:00+08:00,6.75,124.92,8.0,2.9,008 km N 35° W of Columbio (Sultan Kudarat),2020_Earthquake_Information/December/2020_1217_0139_B2.html
+20201217T0951_6.8_123.81,2020-12-17T09:51:00+08:00,6.8,123.81,32.0,1.9,034 km N 58° W of Lebak (Sultan Kudarat),2020_Earthquake_Information/December/2020_1217_0151_B2.html
+20201217T1038_15.57_119.63,2020-12-17T10:38:00+08:00,15.57,119.63,31.0,2.0,033 km S 80° W of Candelaria (Zambales),2020_Earthquake_Information/December/2020_1217_0238_B2.html
+20201217T1108_11.88_125.97,2020-12-17T11:08:00+08:00,11.88,125.97,11.0,2.4,055 km S 72° E of Dolores (Eastern Samar),2020_Earthquake_Information/December/2020_1217_0308_B2.html
+20201217T1109_5.16_125.34,2020-12-17T11:09:00+08:00,5.16,125.34,69.0,2.5,075 km S 12° E of Glan (Sarangani),2020_Earthquake_Information/December/2020_1217_0309_B2.html
+20201217T1448_6.54_125.8,2020-12-17T14:48:00+08:00,6.54,125.8,18.0,2.4,032 km S 67° W of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1217_0648_B2.html
+20201217T1613_5.33_125.35,2020-12-17T16:13:00+08:00,5.33,125.35,11.0,2.7,012 km S 39° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1217_0813_B2.html
+20201217T1638_6.42_125.33,2020-12-17T16:38:00+08:00,6.42,125.33,12.0,2.6,008 km N 55° E of Malungon (Sarangani),2020_Earthquake_Information/December/2020_1217_0838_B2.html
+20201217T1749_5.4_125.24,2020-12-17T17:49:00+08:00,5.4,125.24,1.0,3.3,046 km S 04° E of Glan (Sarangani),2020_Earthquake_Information/December/2020_1217_0949_B2.html
+20201217T1934_5.81_125.99,2020-12-17T19:34:00+08:00,5.81,125.99,92.0,3.4,039 km S 74° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1217_1134_B2.html
+20201217T1957_10.15_126.7,2020-12-17T19:57:00+08:00,10.15,126.7,20.0,2.6,071 km N 71° E of San Isidro (Surigao Del Norte),2020_Earthquake_Information/December/2020_1217_1157_B2.html
+20201217T2028_5.37_125.38,2020-12-17T20:28:00+08:00,5.37,125.38,20.0,2.5,006 km S 46° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1217_1228_B2F.html
+20201217T2038_4.82_125.34,2020-12-17T20:38:00+08:00,4.82,125.34,14.0,4.3,066 km S 08° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1217_1238_B2F.html
+20201217T2050_18.32_120.62,2020-12-17T20:50:00+08:00,18.32,120.62,22.0,3.1,002 km S 11° E of Pasuquin (Ilocos Norte),2020_Earthquake_Information/December/2020_1217_1250_B2.html
+20201217T2203_8.02_126.58,2020-12-17T22:03:00+08:00,8.02,126.58,26.0,2.9,018 km S 84° E of Lingig (Surigao Del Sur),2020_Earthquake_Information/December/2020_1217_1403_B2.html
+20201217T2213_13.66_120.48,2020-12-17T22:13:00+08:00,13.66,120.48,28.0,1.7,025 km S 74° E of Looc (Occidental Mindoro),2020_Earthquake_Information/December/2020_1217_1413_B2.html
+20201217T2219_5.43_125.36,2020-12-17T22:19:00+08:00,5.43,125.36,4.0,2.9,007 km N 78° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1217_1419_B2.html
+20201217T2227_5.28_125.33,2020-12-17T22:27:00+08:00,5.28,125.33,19.0,2.9,018 km S 35° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1217_1427_B2F.html
+20201217T2303_14.15_120.39,2020-12-17T23:03:00+08:00,14.15,120.39,116.0,2.5,028 km N 71° W of Nasugbu (Batangas),2020_Earthquake_Information/December/2020_1217_1503_B2.html
+20201218T0054_14.1_120.44,2020-12-18T00:54:00+08:00,14.1,120.44,89.0,2.0,022 km N 81° W of Nasugbu (Batangas),2020_Earthquake_Information/December/2020_1217_1654_B2.html
+20201218T0142_3.73_126.47,2020-12-18T01:42:00+08:00,3.73,126.47,1.0,3.7,220 km S 32° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1217_1742_B2.html
+20201218T0218_10.12_126.2,2020-12-18T02:18:00+08:00,10.12,126.2,6.0,3.1,018 km N 52° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1217_1818_B2.html
+20201218T0231_5.53_125.31,2020-12-18T02:31:00+08:00,5.53,125.31,1.0,2.7,018 km N 44° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1217_1831_B2.html
+20201218T0315_10.9_126.19,2020-12-18T03:15:00+08:00,10.9,126.19,1.0,2.9,053 km S 74° E of Guiuan (Eastern Samar),2020_Earthquake_Information/December/2020_1217_1915_B2.html
+20201218T0642_9.95_125.44,2020-12-18T06:42:00+08:00,9.95,125.44,32.0,1.8,017 km S 62° W of San Jose (Dinagat Islands),2020_Earthquake_Information/December/2020_1217_2242_B2.html
+20201218T0758_9.77_126.23,2020-12-18T07:58:00+08:00,9.77,126.23,18.0,2.2,008 km S 79° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1217_2358_B2.html
+20201218T1213_5.62_126.71,2020-12-18T12:13:00+08:00,5.62,126.71,114.0,3.1,122 km S 75° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1218_0413_B2.html
+20201218T1256_11.26_124.59,2020-12-18T12:56:00+08:00,11.26,124.59,8.0,2.4,007 km S 52° W of Capoocan (Leyte),2020_Earthquake_Information/December/2020_1218_0456_B2.html
+20201218T1304_8.98_126.35,2020-12-18T13:04:00+08:00,8.98,126.35,37.0,2.6,008 km N 82° E of Bayabas (Surigao Del Sur),2020_Earthquake_Information/December/2020_1218_0504_B2.html
+20201218T1435_13.11_120.49,2020-12-18T14:35:00+08:00,13.11,120.49,29.0,2.5,034 km S 04° E of Paluan (Occidental Mindoro),2020_Earthquake_Information/December/2020_1218_0635_B2.html
+20201218T1607_8.63_126.24,2020-12-18T16:07:00+08:00,8.63,126.24,138.0,3.0,021 km N 24° E of Tagbina (Surigao Del Sur),2020_Earthquake_Information/December/2020_1218_0807_B2.html
+20201218T1708_14.1_120.41,2020-12-18T17:08:00+08:00,14.1,120.41,16.0,1.8,024 km N 84° W of Nasugbu (Batangas),2020_Earthquake_Information/December/2020_1218_0908_B2.html
+20201218T1726_14.25_120.37,2020-12-18T17:26:00+08:00,14.25,120.37,128.0,3.4,024 km S 31° W of Mariveles (Bataan),2020_Earthquake_Information/December/2020_1218_0926_B2.html
+20201218T1836_11.3_124.53,2020-12-18T18:36:00+08:00,11.3,124.53,2.0,2.7,013 km N 86° W of Capoocan (Leyte),2020_Earthquake_Information/December/2020_1218_1036_B2.html
+20201218T1930_5.15_125.32,2020-12-18T19:30:00+08:00,5.15,125.32,45.0,2.3,031 km S 21° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1218_1130_B2.html
+20201218T2025_10.01_126.49,2020-12-18T20:25:00+08:00,10.01,126.49,8.0,3.2,046 km S 89° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1218_1225_B2.html
+20201218T2049_7.95_124.6,2020-12-18T20:49:00+08:00,7.95,124.6,1.0,2.2,024 km S 81° E of Bubong (Lanao Del Sur),2020_Earthquake_Information/December/2020_1218_1249_B2.html
+20201218T2218_9.05_122.44,2020-12-18T22:18:00+08:00,9.05,122.44,34.0,2.3,045 km S 30° W of Basay (Negros Oriental),2020_Earthquake_Information/December/2020_1218_1418_B2.html
+20201218T2259_6.58_124.96,2020-12-18T22:59:00+08:00,6.58,124.96,43.0,2.3,012 km S 01° E of Columbio (Sultan Kudarat),2020_Earthquake_Information/December/2020_1218_1459_B2.html
+20201219T0005_5.68_125.34,2020-12-19T00:05:00+08:00,5.68,125.34,15.0,2.9,021 km S 44° E of Glan (Sarangani),2020_Earthquake_Information/December/2020_1218_1605_B2.html
+20201219T0050_14.51_119.01,2020-12-19T00:50:00+08:00,14.51,119.01,33.0,2.8,126 km S 67° W of San Antonio (Zambales),2020_Earthquake_Information/December/2020_1218_1650_B2.html
+20201219T0152_13.63_120.57,2020-12-19T01:52:00+08:00,13.63,120.57,103.0,2.4,023 km S 16° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1218_1752_B2.html
+20201219T0228_6.93_123.97,2020-12-19T02:28:00+08:00,6.93,123.97,1.0,2.2,016 km S 18° W of Datu Blah T. Sinsuat (Maguindanao),2020_Earthquake_Information/December/2020_1218_1828_B2.html
+20201219T0251_13.62_120.61,2020-12-19T02:51:00+08:00,13.62,120.61,122.0,2.5,023 km N 34° W of Abra De Ilog (Occidental Mindoro),2020_Earthquake_Information/December/2020_1218_1851_B2_Occidental_Mindoro.html
+20201219T0251_21.29_119.83,2020-12-19T02:51:00+08:00,21.29,119.83,30.0,3.4,216 km N 76° W of Itbayat (Batanes),2020_Earthquake_Information/December/2020_1218_1851_B2_Batanes.html
+20201219T0309_6.12_125.77,2020-12-19T03:09:00+08:00,6.12,125.77,133.0,2.3,012 km S 42° E of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1218_1909_B2.html
+20201219T0633_9.27_126.38,2020-12-19T06:33:00+08:00,9.27,126.38,26.0,2.3,020 km S 90° E of Cortes (Surigao Del Sur),2020_Earthquake_Information/December/2020_1218_2233_B2.html
+20201219T1152_5.3_125.41,2020-12-19T11:52:00+08:00,5.3,125.41,15.0,3.0,013 km S 06° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1219_0352_B2.html
+20201219T1200_9.93_125.5,2020-12-19T12:00:00+08:00,9.93,125.5,21.0,1.6,012 km S 75° W of Dinagat (Dinagat Islands),2020_Earthquake_Information/December/2020_1219_0400_B2.html
+20201219T1558_6.82_125.81,2020-12-19T15:58:00+08:00,6.82,125.81,1.0,2.0,024 km S 68° W of Lupon (Davao Oriental),2020_Earthquake_Information/December/2020_1219_0758_B2.html
+20201219T1807_7.38_126.59,2020-12-19T18:07:00+08:00,7.38,126.59,37.0,2.1,006 km N 25° E of Caraga (Davao Oriental),2020_Earthquake_Information/December/2020_1219_1007_B2.html
+20201219T1906_15.09_120.25,2020-12-19T19:06:00+08:00,15.09,120.25,16.0,2.1,018 km N 17° E of Castillejos (Zambales),2020_Earthquake_Information/December/2020_1219_1106_B2.html
+20201219T1925_16.1_121.97,2020-12-19T19:25:00+08:00,16.1,121.97,8.0,2.5,005 km S 11° E of Dinalungan (Aurora),2020_Earthquake_Information/December/2020_1219_1125_B2.html
+20201219T2134_5.44_126.59,2020-12-19T21:34:00+08:00,5.44,126.59,109.0,3.2,117 km S 64° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1219_1334_B2.html
+20201219T2142_20.92_122.55,2020-12-19T21:42:00+08:00,20.92,122.55,162.0,3.2,075 km N 78° E of Itbayat (Batanes),2020_Earthquake_Information/December/2020_1219_1342_B2.html
+20201219T2156_10.1_126.07,2020-12-19T21:56:00+08:00,10.1,126.07,1.0,1.9,009 km N 02° W of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1219_1356_B2.html
+20201219T2242_9.72_126.12,2020-12-19T22:42:00+08:00,9.72,126.12,15.0,2.9,008 km S 32° W of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1219_1442_B2.html
+20201219T2251_5.47_125.38,2020-12-19T22:51:00+08:00,5.47,125.38,9.0,2.6,007 km N 36° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1219_1451_B2.html
+20201220T0200_14.23_119.33,2020-12-20T02:00:00+08:00,14.23,119.33,24.0,3.0,094 km N 64° W of Lubang (Occidental Mindoro),2020_Earthquake_Information/December/2020_1219_1800_B2_Occidental_Mindoro.html
+20201220T0200_9.65_126.22,2020-12-20T02:00:00+08:00,9.65,126.22,32.0,2.4,016 km S 23° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1219_1800_B2_Surigao_Del_Norte.html
+20201220T0253_13.75_120.89,2020-12-20T02:53:00+08:00,13.75,120.89,29.0,1.7,006 km S 89° W of Mabini (Batangas),2020_Earthquake_Information/December/2020_1219_1853_B2.html
+20201220T0318_10.68_126.34,2020-12-20T03:18:00+08:00,10.68,126.34,1.0,3.3,068 km S 84° E of Homonhon Island (Guiuan) (Eastern Samar),2020_Earthquake_Information/December/2020_1219_1918_B2.html
+20201220T0343_10.8_126.4,2020-12-20T03:43:00+08:00,10.8,126.4,1.0,3.4,075 km N 86° E of Homonhon Island (Guiuan) (Eastern Samar),2020_Earthquake_Information/December/2020_1219_1943_B2.html
+20201220T0435_10.89_126.51,2020-12-20T04:35:00+08:00,10.89,126.51,15.0,3.6,088 km S 80° E of Guiuan (Eastern Samar),2020_Earthquake_Information/December/2020_1219_2035_B2.html
+20201220T0440_10.83_126.44,2020-12-20T04:40:00+08:00,10.83,126.44,1.0,4.3,078 km N 83° E of Homonhon Island (Guiuan) (Eastern Samar),2020_Earthquake_Information/December/2020_1219_2040_B2.html
+20201220T0447_6.52_125.75,2020-12-20T04:47:00+08:00,6.52,125.75,1.0,2.4,020 km N 53° E of Malita (Davao Occidental),2020_Earthquake_Information/December/2020_1219_2047_B2.html
+20201220T0450_5.65_125.36,2020-12-20T04:50:00+08:00,5.65,125.36,5.0,2.3,026 km S 43° E of Glan (Sarangani),2020_Earthquake_Information/December/2020_1219_2050_B2.html
+20201220T0605_11.6_125.2,2020-12-20T06:05:00+08:00,11.6,125.2,33.0,2.3,018 km S 52° E of Hinabangan (Samar),2020_Earthquake_Information/December/2020_1219_2205_B2.html
+20201220T0726_6.75_126.16,2020-12-20T07:26:00+08:00,6.75,126.16,41.0,2.8,012 km S 42° E of San Isidro (Davao Oriental),2020_Earthquake_Information/December/2020_1219_2326_B2.html
+20201220T0746_10.77_126.47,2020-12-20T07:46:00+08:00,10.77,126.47,17.0,3.2,082 km N 88° E of Homonhon Island (Guiuan) (Eastern Samar),2020_Earthquake_Information/December/2020_1219_2346_B2.html
+20201220T0824_18.78_121.75,2020-12-20T08:24:00+08:00,18.78,121.75,69.0,2.2,019 km S 40° W of Camiguin Island (Calayan) (Cagayan),2020_Earthquake_Information/December/2020_1220_0024_B2.html
+20201220T1454_9.61_126.12,2020-12-20T14:54:00+08:00,9.61,126.12,22.0,2.2,019 km S 13° W of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1220_0654_B2.html
+20201220T1520_14.87_122.88,2020-12-20T15:20:00+08:00,14.87,122.88,36.0,2.0,062 km N 72° E of Jomalig (Quezon),2020_Earthquake_Information/December/2020_1220_0720_B2.html
+20201220T1552_13.41_122.91,2020-12-20T15:52:00+08:00,13.41,122.91,15.0,2.3,018 km S 51° W of Pasacao (Camarines Sur),2020_Earthquake_Information/December/2020_1220_0752_B2.html
+20201220T1557_9.68_126.19,2020-12-20T15:57:00+08:00,9.68,126.19,21.0,2.6,012 km S 17° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1220_0757_B2.html
+20201220T1851_15.71_120.1,2020-12-20T18:51:00+08:00,15.71,120.1,30.0,1.9,020 km N 64° E of Candelaria (Zambales),2020_Earthquake_Information/December/2020_1220_1051_B2.html
+20201220T1926_14.83_123.54,2020-12-20T19:26:00+08:00,14.83,123.54,1.0,3.3,095 km N 19° E of Siruma (Camarines Sur),2020_Earthquake_Information/December/2020_1220_1126_B2.html
+20201220T2126_4.57_124.72,2020-12-20T21:26:00+08:00,4.57,124.72,16.0,3.2,122 km S 40° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1220_1326_B2.html
+20201221T0001_8.4_126.97,2020-12-21T00:01:00+08:00,8.4,126.97,8.0,3.5,069 km N 87° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1220_1601_B2.html
+20201221T0246_9.59_125.63,2020-12-21T02:46:00+08:00,9.59,125.63,27.0,2.7,007 km S 82° W of Gigaquit (Surigao Del Norte),2020_Earthquake_Information/December/2020_1220_1846_B2.html
+20201221T0301_13.28_120.34,2020-12-21T03:01:00+08:00,13.28,120.34,6.0,2.5,020 km S 41° W of Paluan (Occidental Mindoro),2020_Earthquake_Information/December/2020_1220_1901_B2_OccidentalMindoro.html
+20201221T0301_8.59_126.62,2020-12-21T03:01:00+08:00,8.59,126.62,31.0,2.6,039 km N 51° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1220_1901_B2_SurigaoDelSur.html
+20201221T0307_6.41_127.36,2020-12-21T03:07:00+08:00,6.41,127.36,34.0,4.4,123 km S 55° E of Tarragona (Davao Oriental),2020_Earthquake_Information/December/2020_1220_1907_B2.html
+20201221T0611_5.43_125.33,2020-12-21T06:11:00+08:00,5.43,125.33,10.0,2.7,010 km N 80° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1220_2211_B2.html
+20201221T1014_7.88_124.15,2020-12-21T10:14:00+08:00,7.88,124.15,1.0,2.8,003 km N 07° E of Bacolod-kalawi (Lanao Del Sur),2020_Earthquake_Information/December/2020_1221_0214_B2.html
+20201221T1129_19.83_120.97,2020-12-21T11:29:00+08:00,19.83,120.97,1.0,2.8,072 km N 37° W of Calayan (Cagayan),2020_Earthquake_Information/December/2020_1221_0329_B2.html
+20201221T1223_9.64_125.8,2020-12-21T12:23:00+08:00,9.64,125.8,116.0,2.8,010 km N 45° E of Claver (Surigao Del Norte),2020_Earthquake_Information/December/2020_1221_0423_B2.html
+20201221T1450_8.98_126.67,2020-12-21T14:50:00+08:00,8.98,126.67,15.0,3.3,041 km N 81° E of Cagwait (Surigao Del Sur),2020_Earthquake_Information/December/2020_1221_0650_B2.html
+20201221T1821_13.63_121.68,2020-12-21T18:21:00+08:00,13.63,121.68,4.0,2.2,027 km N 41° W of Boac (Marinduque),2020_Earthquake_Information/December/2020_1221_1021_B2.html
+20201221T1826_9.65_123.53,2020-12-21T18:26:00+08:00,9.65,123.53,32.0,2.5,007 km S 17° E of Alcoy (Cebu),2020_Earthquake_Information/December/2020_1221_1026_B2.html
+20201221T2023_3.04_127.86,2020-12-21T20:23:00+08:00,3.04,127.86,27.0,3.3,402 km S 38° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1221_1223_B2.html
+20201221T2100_9.86_125.91,2020-12-21T21:00:00+08:00,9.86,125.91,32.0,2.8,007 km S 85° W of Del Carmen (Surigao Del Norte),2020_Earthquake_Information/December/2020_1221_1300_B2.html
+20201222T0045_19.09_121.02,2020-12-22T00:45:00+08:00,19.09,121.02,1.0,2.9,020 km S 85° W of Dalupiri Island (Calayan) (Cagayan),2020_Earthquake_Information/December/2020_1221_1645_B2.html
+20201222T0101_9.98_122.43,2020-12-22T01:01:00+08:00,9.98,122.43,1.0,2.0,021 km N 89° W of Cauayan (Negros Occidental),2020_Earthquake_Information/December/2020_1221_1701_B2.html
+20201222T0128_9.35_126.35,2020-12-22T01:28:00+08:00,9.35,126.35,25.0,2.8,019 km N 65° E of Cortes (Surigao Del Sur),2020_Earthquake_Information/December/2020_1221_1728_B2.html
+20201222T0133_9.61_122.67,2020-12-22T01:33:00+08:00,9.61,122.67,64.0,2.3,025 km S 08° E of Candoni (Negros Occidental),2020_Earthquake_Information/December/2020_1221_1733_B2.html
+20201222T0138_9.63_122.42,2020-12-22T01:38:00+08:00,9.63,122.42,20.0,2.1,033 km S 48° W of Candoni (Negros Occidental),2020_Earthquake_Information/December/2020_1221_1738_B2.html
+20201222T0214_14.84_121.57,2020-12-22T02:14:00+08:00,14.84,121.57,12.0,4.9,010 km N 30° W of General Nakar (Quezon),2020_Earthquake_Information/December/2020_1221_1814_B4F.html
+20201222T0316_10.51_122.71,2020-12-22T03:16:00+08:00,10.51,122.71,1.0,2.6,019 km S 85° E of Nueva Valencia (Guimaras),2020_Earthquake_Information/December/2020_1221_1916_B2.html
+20201222T0331_7.62_124.21,2020-12-22T03:31:00+08:00,7.62,124.21,2.0,3.7,008 km N 01° W of Kapatagan (Lanao Del Sur),2020_Earthquake_Information/December/2020_1221_1931_B2.html
+20201222T0409_14.93_121.52,2020-12-22T04:09:00+08:00,14.93,121.52,32.0,2.7,022 km N 29° W of General Nakar (Quezon),2020_Earthquake_Information/December/2020_1221_2009_B2F.html
+20201222T0410_14.89_121.62,2020-12-22T04:10:00+08:00,14.89,121.62,10.0,3.2,015 km N 02° W of General Nakar (Quezon),2020_Earthquake_Information/December/2020_1221_2010_B2F.html
+20201222T0518_11.83_124.24,2020-12-22T05:18:00+08:00,11.83,124.24,2.0,2.3,020 km N 38° W of Kawayan (Biliran),2020_Earthquake_Information/December/2020_1221_2118_B2.html
+20201222T0604_12.28_123.81,2020-12-22T06:04:00+08:00,12.28,123.81,13.0,3.6,006 km N 22° E of Uson (Masbate),2020_Earthquake_Information/December/2020_1221_2204_B2F.html
+20201222T0658_14.8_121.6,2020-12-22T06:58:00+08:00,14.8,121.6,17.0,3.3,005 km N 26° W of General Nakar (Quezon),2020_Earthquake_Information/December/2020_1221_2258_B2F.html
+20201222T0919_4.7_125.46,2020-12-22T09:19:00+08:00,4.7,125.46,1.0,4.2,079 km S 03° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1222_0119_B2F.html
+20201222T0933_10.15_124.65,2020-12-22T09:33:00+08:00,10.15,124.65,17.0,2.6,021 km N 86° W of City Of Maasin (Southern Leyte),2020_Earthquake_Information/December/2020_1222_0133_B2.html
+20201222T0935_5.53_127.36,2020-12-22T09:35:00+08:00,5.53,127.36,2.0,3.4,189 km S 49° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1222_0135_B2.html
+20201222T1103_7.79_126.45,2020-12-22T11:03:00+08:00,7.79,126.45,25.0,2.2,001 km N 45° W of Cateel (Davao Oriental),2020_Earthquake_Information/December/2020_1222_0303_B2.html
+20201222T1316_6.7_125.14,2020-12-22T13:16:00+08:00,6.7,125.14,27.0,2.2,009 km S 86° W of Matanao (Davao Del Sur),2020_Earthquake_Information/December/2020_1222_0516_B2.html
+20201222T1330_11.15_124.51,2020-12-22T13:30:00+08:00,11.15,124.51,2.0,2.3,007 km S 55° W of Kananga (Leyte),2020_Earthquake_Information/December/2020_1222_0530_B2.html
+20201222T1409_9.61_126.25,2020-12-22T14:09:00+08:00,9.61,126.25,31.0,2.2,022 km S 29° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1222_0609_B2.html
+20201222T1607_13.0_125.64,2020-12-22T16:07:00+08:00,13.0,125.64,21.0,2.9,071 km N 36° E of Mapanas (Northern Samar),2020_Earthquake_Information/December/2020_1222_0807_B2.html
+20201222T2107_10.12_125.15,2020-12-22T21:07:00+08:00,10.12,125.15,3.0,2.6,007 km N 03° W of San Francisco (Southern Leyte),2020_Earthquake_Information/December/2020_1222_1307_B2.html
+20201222T2137_10.08_126.24,2020-12-22T21:37:00+08:00,10.08,126.24,12.0,4.8,019 km N 70° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1222_1337_B3F.html
+20201222T2144_9.8_125.89,2020-12-22T21:44:00+08:00,9.8,125.89,13.0,2.4,012 km S 50° W of Del Carmen (Surigao Del Norte),2020_Earthquake_Information/December/2020_1222_1344_B2.html
+20201222T2149_9.92_126.04,2020-12-22T21:49:00+08:00,9.92,126.04,20.0,2.0,011 km S 21° W of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1222_1349_B2.html
+20201222T2152_15.71_119.71,2020-12-22T21:52:00+08:00,15.71,119.71,21.0,2.3,025 km N 69° W of Candelaria (Zambales),2020_Earthquake_Information/December/2020_1222_1352_B2.html
+20201222T2153_9.96_126.1,2020-12-22T21:53:00+08:00,9.96,126.1,31.0,1.8,007 km S 28° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1222_1353_B2.html
+20201222T2156_9.87_125.88,2020-12-22T21:56:00+08:00,9.87,125.88,6.0,2.1,010 km N 89° W of Del Carmen (Surigao Del Norte),2020_Earthquake_Information/December/2020_1222_1356_B2.html
+20201222T2157_9.94_126.11,2020-12-22T21:57:00+08:00,9.94,126.11,29.0,1.9,009 km S 24° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1222_1357_B2.html
+20201222T2220_9.99_126.11,2020-12-22T22:20:00+08:00,9.99,126.11,28.0,1.7,005 km S 49° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1222_1420_B2.html
+20201222T2225_5.88_126.2,2020-12-22T22:25:00+08:00,5.88,126.2,26.0,2.5,062 km S 87° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1222_1425_B2.html
+20201222T2226_13.23_120.21,2020-12-22T22:26:00+08:00,13.23,120.21,1.0,2.0,034 km S 53° W of Paluan (Occidental Mindoro),2020_Earthquake_Information/December/2020_1222_1426_B2.html
+20201222T2311_10.1_126.17,2020-12-22T23:11:00+08:00,10.1,126.17,19.0,2.8,014 km N 50° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1222_1511_B2.html
+20201222T2336_6.66_125.01,2020-12-22T23:36:00+08:00,6.66,125.01,2.0,3.1,006 km S 61° E of Columbio (Sultan Kudarat),2020_Earthquake_Information/December/2020_1222_1536_B2.html
+20201223T0107_11.9_125.1,2020-12-23T01:07:00+08:00,11.9,125.1,29.0,3.4,018 km S 26° E of San Jose De Buan (Samar),2020_Earthquake_Information/December/2020_1222_1707_B2F.html
+20201223T0119_6.66_125.03,2020-12-23T01:19:00+08:00,6.66,125.03,8.0,2.7,009 km S 73° E of Columbio (Sultan Kudarat),2020_Earthquake_Information/December/2020_1222_1719_B2.html
+20201223T0129_6.03_126.17,2020-12-23T01:29:00+08:00,6.03,126.17,115.0,2.8,055 km S 71° E of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1222_1729_B2.html
+20201223T0208_10.07_122.49,2020-12-23T02:08:00+08:00,10.07,122.49,1.0,2.0,019 km N 55° W of Cauayan (Negros Occidental),2020_Earthquake_Information/December/2020_1222_1808_B2.html
+20201223T0224_5.8_126.28,2020-12-23T02:24:00+08:00,5.8,126.28,106.0,3.1,071 km S 80° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1222_1824_B2.html
+20201223T0226_8.06_123.32,2020-12-23T02:26:00+08:00,8.06,123.32,13.0,2.1,004 km N 14° E of Midsalip (Zamboanga Del Sur),2020_Earthquake_Information/December/2020_1222_1826_B2.html
+20201223T0338_10.17_126.41,2020-12-23T03:38:00+08:00,10.17,126.41,1.0,2.2,059 km N 56° E of Del Carmen (Surigao Del Norte),2020_Earthquake_Information/December/2020_1222_1938_B2.html
+20201223T0347_10.05_123.22,2020-12-23T03:47:00+08:00,10.05,123.22,21.0,2.0,009 km S 39° W of City Of Guihulngan (Negros Oriental),2020_Earthquake_Information/December/2020_1222_1947_B2.html
+20201223T0424_12.25_123.85,2020-12-23T04:24:00+08:00,12.25,123.85,28.0,2.4,008 km N 70° E of Uson (Masbate),2020_Earthquake_Information/December/2020_1222_2024_B2.html
+20201223T0457_9.54_126.85,2020-12-23T04:57:00+08:00,9.54,126.85,18.0,2.6,081 km S 70° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1222_2057_B2.html
+20201223T0515_13.82_120.36,2020-12-23T05:15:00+08:00,13.82,120.36,33.0,2.0,016 km N 47° E of Looc (Occidental Mindoro),2020_Earthquake_Information/December/2020_1222_2115_B2.html
+20201223T0548_4.87_126.68,2020-12-23T05:48:00+08:00,4.87,126.68,22.0,3.4,162 km S 45° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1222_2148_B2.html
+20201223T0950_8.98_126.26,2020-12-23T09:50:00+08:00,8.98,126.26,50.0,2.7,003 km N 71° W of Bayabas (Surigao Del Sur),2020_Earthquake_Information/December/2020_1223_0150_B2.html
+20201223T1215_5.05_125.28,2020-12-23T12:15:00+08:00,5.05,125.28,39.0,3.0,043 km S 21° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1223_0415_B2.html
+20201223T1344_18.53_121.17,2020-12-23T13:44:00+08:00,18.53,121.17,29.0,2.4,007 km S 65° W of Sanchez-mira (Cagayan),2020_Earthquake_Information/December/2020_1223_0544_B2.html
+20201223T1644_7.91_126.38,2020-12-23T16:44:00+08:00,7.91,126.38,77.0,2.1,016 km N 33° W of Cateel (Davao Oriental),2020_Earthquake_Information/December/2020_1223_0844_B2.html
+20201223T1736_12.62_123.48,2020-12-23T17:36:00+08:00,12.62,123.48,1.0,3.0,020 km S 83° W of Monreal (Masbate),2020_Earthquake_Information/December/2020_1223_0936_B2.html
+20201223T1902_9.19_122.02,2020-12-23T19:02:00+08:00,9.19,122.02,20.0,3.5,067 km S 47° W of Hinoba-an (Negros Occidental),2020_Earthquake_Information/December/2020_1223_1102_B2.html
+20201223T2101_13.28_122.22,2020-12-23T21:01:00+08:00,13.28,122.22,7.0,3.1,015 km S 74° E of Torrijos (Marinduque),2020_Earthquake_Information/December/2020_1223_1301_B2.html
+20201223T2157_15.7_119.79,2020-12-23T21:57:00+08:00,15.7,119.79,19.0,2.8,017 km N 62° W of Candelaria (Zambales),2020_Earthquake_Information/December/2020_1223_1357_B2.html
+20201223T2158_6.82_123.93,2020-12-23T21:58:00+08:00,6.82,123.93,31.0,3.1,025 km N 37° W of Lebak (Sultan Kudarat),2020_Earthquake_Information/December/2020_1223_1358_B2.html
+20201223T2206_19.13_121.18,2020-12-23T22:06:00+08:00,19.13,121.18,24.0,3.6,004 km N 49° W of Dalupiri Island (Calayan) (Cagayan),2020_Earthquake_Information/December/2020_1223_1406_B2.html
+20201223T2226_13.7_120.61,2020-12-23T22:26:00+08:00,13.7,120.61,68.0,2.1,015 km S 09° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1223_1426_B2.html
+20201223T2325_13.46_122.33,2020-12-23T23:25:00+08:00,13.46,122.33,2.0,2.1,031 km N 60° E of Torrijos (Marinduque),2020_Earthquake_Information/December/2020_1223_1525_B2.html
+20201223T2334_13.76_120.61,2020-12-23T23:34:00+08:00,13.76,120.61,171.0,2.5,009 km S 18° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1223_1534_B2.html
+20201224T0017_6.86_125.07,2020-12-24T00:17:00+08:00,6.86,125.07,26.0,2.2,011 km S 09° W of Makilala (Cotabato),2020_Earthquake_Information/December/2020_1223_1617_B2.html
+20201224T0028_5.69_126.56,2020-12-24T00:28:00+08:00,5.69,126.56,35.0,3.0,104 km S 76° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1223_1628_B2.html
+20201224T0143_15.74_119.38,2020-12-24T01:43:00+08:00,15.74,119.38,25.0,2.1,057 km S 81° W of Infanta (Pangasinan),2020_Earthquake_Information/December/2020_1223_1743_B2.html
+20201224T0152_9.93_124.17,2020-12-24T01:52:00+08:00,9.93,124.17,4.0,2.3,006 km S 73° W of Danao (Bohol),2020_Earthquake_Information/December/2020_1223_1752_B2.html
+20201224T0157_8.88_123.32,2020-12-24T01:57:00+08:00,8.88,123.32,26.0,2.0,027 km S 29° E of Zamboanguita (Negros Oriental),2020_Earthquake_Information/December/2020_1223_1757_B2.html
+20201224T0201_8.95_124.07,2020-12-24T02:01:00+08:00,8.95,124.07,17.0,2.4,054 km N 36° W of Libertad (Misamis Oriental),2020_Earthquake_Information/December/2020_1223_1801_B2.html
+20201224T0356_5.26_126.72,2020-12-24T03:56:00+08:00,5.26,126.72,134.0,3.1,140 km S 59° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1223_1956_B2.html
+20201224T0403_15.56_119.92,2020-12-24T04:03:00+08:00,15.56,119.92,34.0,2.0,008 km S 13° W of Candelaria (Zambales),2020_Earthquake_Information/December/2020_1223_2003_B2.html
+20201224T0430_13.77_120.57,2020-12-24T04:30:00+08:00,13.77,120.57,109.0,2.0,010 km S 43° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1223_2030_B1.html
+20201224T0511_9.2_126.44,2020-12-24T05:11:00+08:00,9.2,126.44,16.0,2.7,029 km S 74° E of Cortes (Surigao Del Sur),2020_Earthquake_Information/December/2020_1223_2111_B2.html
+20201224T0646_14.27_119.31,2020-12-24T06:46:00+08:00,14.27,119.31,36.0,2.6,099 km N 62° W of Lubang (Occidental Mindoro),2020_Earthquake_Information/December/2020_1223_2246_B2.html
+20201224T0748_4.96_126.76,2020-12-24T07:48:00+08:00,4.96,126.76,65.0,2.9,157 km S 71° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1223_2348_B2.html
+20201224T0828_9.65_125.82,2020-12-24T08:28:00+08:00,9.65,125.82,33.0,2.2,013 km N 51° E of Claver (Surigao Del Norte),2020_Earthquake_Information/December/2020_1224_0028_B2.html
+20201224T0846_14.91_121.66,2020-12-24T08:46:00+08:00,14.91,121.66,6.0,2.5,017 km N 15° E of General Nakar (Quezon),2020_Earthquake_Information/December/2020_1224_0046_B2.html
+20201224T0939_14.13_122.4,2020-12-24T09:39:00+08:00,14.13,122.4,1.0,2.6,006 km S 11° E of Santa Elena (Camarines Norte),2020_Earthquake_Information/December/2020_1224_0139_B2.html
+20201224T1122_16.0_119.95,2020-12-24T11:22:00+08:00,16.0,119.95,8.0,3.0,020 km S 51° E of Agno (Pangasinan),2020_Earthquake_Information/December/2020_1224_0322_B2.html
+20201224T1216_13.64_120.61,2020-12-24T12:16:00+08:00,13.64,120.61,142.0,3.2,022 km S 07° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1224_0416_B2.html
+20201224T1536_8.29_125.87,2020-12-24T15:36:00+08:00,8.29,125.87,53.0,2.5,007 km N 80° E of La Paz (Agusan Del Sur),2020_Earthquake_Information/December/2020_1224_0736_B2.html
+20201224T1630_19.54_121.56,2020-12-24T16:30:00+08:00,19.54,121.56,18.0,3.8,037 km N 86° W of Babuyan Island (Calayan) (Cagayan),2020_Earthquake_Information/December/2020_1224_0830_B2.html
+20201224T1832_13.71_120.54,2020-12-24T18:32:00+08:00,13.71,120.54,120.0,4.0,017 km S 35° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1224_1032_B2F.html
+20201224T1924_6.15_126.09,2020-12-24T19:24:00+08:00,6.15,126.09,41.0,3.0,044 km S 84° E of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1224_1124_B2.html
+20201224T2055_18.23_120.76,2020-12-24T20:55:00+08:00,18.23,120.76,1.0,3.0,009 km N 35° E of Piddig (Ilocos Norte),2020_Earthquake_Information/December/2020_1224_1255_B2.html
+20201224T2226_6.1_126.23,2020-12-24T22:26:00+08:00,6.1,126.23,27.0,3.4,063 km S 16° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1224_1426_B1.html
+20201224T2230_6.17_125.78,2020-12-24T22:30:00+08:00,6.17,125.78,124.0,3.1,010 km S 75° E of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1224_1430_B2.html
+20201224T2256_5.1_125.73,2020-12-24T22:56:00+08:00,5.1,125.73,27.0,3.2,048 km S 44° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1224_1456_B2.html
+20201225T0004_6.41_126.36,2020-12-25T00:04:00+08:00,6.41,126.36,125.0,3.2,042 km S 50° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1224_1604_B2.html
+20201225T0527_11.65_125.12,2020-12-25T05:27:00+08:00,11.65,125.12,6.0,2.9,008 km S 45° E of Hinabangan (Samar),2020_Earthquake_Information/December/2020_1224_2127_B2.html
+20201225T0542_6.96_125.61,2020-12-25T05:42:00+08:00,6.96,125.61,26.0,2.3,011 km S 02° E of City Of Davao,2020_Earthquake_Information/December/2020_1224_2142_B2.html
+20201225T0603_5.07_125.24,2020-12-25T06:03:00+08:00,5.07,125.24,30.0,3.9,042 km S 28° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1224_2203_B2F.html
+20201225T0711_10.95_126.42,2020-12-25T07:11:00+08:00,10.95,126.42,2.0,3.4,077 km S 83° E of Guiuan (Eastern Samar),2020_Earthquake_Information/December/2020_1224_2311_B2.html
+20201225T0743_13.76_120.53,2020-12-25T07:43:00+08:00,13.76,120.53,107.0,6.3,014 km S 54° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1224_2343_B4F.html
+20201225T0753_13.69_120.58,2020-12-25T07:53:00+08:00,13.69,120.58,89.0,3.0,017 km S 21° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1224_2353_B2.html
+20201225T0757_13.87_120.54,2020-12-25T07:57:00+08:00,13.87,120.54,88.0,3.3,011 km N 69° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1224_2357_B2F.html
+20201225T0809_13.83_120.5,2020-12-25T08:09:00+08:00,13.83,120.5,97.0,2.8,014 km S 88° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_0009_B2.html
+20201225T0829_14.05_120.33,2020-12-25T08:29:00+08:00,14.05,120.33,98.0,2.0,041 km N 54° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_0029_B2.html
+20201225T0849_13.73_120.51,2020-12-25T08:49:00+08:00,13.73,120.51,95.0,2.6,018 km S 48° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_0049_B2.html
+20201225T0906_13.7_120.51,2020-12-25T09:06:00+08:00,13.7,120.51,95.0,3.2,019 km S 42° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_0106_B2.html
+20201225T0908_13.88_120.5,2020-12-25T09:08:00+08:00,13.88,120.5,86.0,1.7,015 km N 70° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_0108_B2.html
+20201225T0913_13.82_120.59,2020-12-25T09:13:00+08:00,13.82,120.59,88.0,2.0,004 km S 76° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_0113_B2.html
+20201225T0921_5.46_125.34,2020-12-25T09:21:00+08:00,5.46,125.34,3.0,3.4,011 km N 59° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1225_0121_B2.html
+20201225T0941_8.8_126.27,2020-12-25T09:41:00+08:00,8.8,126.27,58.0,2.1,003 km N 88° W of Marihatag (Surigao Del Sur),2020_Earthquake_Information/December/2020_1225_0141_B2.html
+20201225T0945_11.21_124.63,2020-12-25T09:45:00+08:00,11.21,124.63,1.0,3.1,009 km N 66° E of Kananga (Leyte),2020_Earthquake_Information/December/2020_1225_0145_B2F.html
+20201225T1000_4.91_125.97,2020-12-25T10:00:00+08:00,4.91,125.97,88.0,5.2,083 km S 48° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1225_0200_B3F.html
+20201225T1020_13.88_120.51,2020-12-25T10:20:00+08:00,13.88,120.51,90.0,2.1,015 km N 68° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_0220_B2F.html
+20201225T1118_13.84_120.52,2020-12-25T11:18:00+08:00,13.84,120.52,87.0,1.7,012 km N 88° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_0318_B2F.html
+20201225T1131_13.77_120.69,2020-12-25T11:31:00+08:00,13.77,120.69,89.0,1.8,009 km S 42° E of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_0331_B2.html
+20201225T1145_12.45_123.76,2020-12-25T11:45:00+08:00,12.45,123.76,28.0,2.9,004 km N 36° W of Batuan (Masbate),2020_Earthquake_Information/December/2020_1225_0345_B2.html
+20201225T1200_13.73_120.68,2020-12-25T12:00:00+08:00,13.73,120.68,81.0,1.9,012 km S 23° E of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_0400_B2.html
+20201225T1225_13.74_120.62,2020-12-25T12:25:00+08:00,13.74,120.62,83.0,2.1,006 km S 06° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_0425_B3.html
+20201225T1226_13.75_120.68,2020-12-25T12:26:00+08:00,13.75,120.68,88.0,1.7,011 km S 28° E of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_0426_B1F.html
+20201225T1237_13.64_120.17,2020-12-25T12:37:00+08:00,13.64,120.17,7.0,2.0,012 km S 47° W of Looc (Occidental Mindoro),2020_Earthquake_Information/December/2020_1225_0437_B2.html
+20201225T1339_6.33_126.6,2020-12-25T13:39:00+08:00,6.33,126.6,71.0,2.7,068 km S 59° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1225_0539_B2.html
+20201225T1509_17.5_120.88,2020-12-25T15:09:00+08:00,17.5,120.88,23.0,2.7,007 km N 20° E of Bucloc (Abra),2020_Earthquake_Information/December/2020_1225_0709_B2.html
+20201225T1637_13.7_120.02,2020-12-25T16:37:00+08:00,13.7,120.02,11.0,4.3,021 km S 32° W of Lubang (Occidental Mindoro),2020_Earthquake_Information/December/2020_1225_0837_B3F.html
+20201225T1639_6.68_126.08,2020-12-25T16:39:00+08:00,6.68,126.08,29.0,2.2,003 km N 18° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1225_0839_B2.html
+20201225T1737_10.74_125.98,2020-12-25T17:37:00+08:00,10.74,125.98,25.0,3.0,028 km S 89° E of Homonhon Island (Guiuan) (Eastern Samar),2020_Earthquake_Information/December/2020_1225_0937_B2.html
+20201225T1804_13.36_122.31,2020-12-25T18:04:00+08:00,13.36,122.31,4.0,5.2,022 km N 86° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1004_B3F.html
+20201225T1808_13.47_122.31,2020-12-25T18:08:00+08:00,13.47,122.31,8.0,2.9,026 km N 60° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1008_B2F.html
+20201225T1812_13.42_122.28,2020-12-25T18:12:00+08:00,13.42,122.28,2.0,2.3,027 km N 72° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1012_B1.html
+20201225T1817_13.46_122.27,2020-12-25T18:17:00+08:00,13.46,122.27,8.0,1.9,029 km N 66° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1017_B2.html
+20201225T1821_13.28_122.26,2020-12-25T18:21:00+08:00,13.28,122.26,26.0,1.7,029 km S 76° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1021_B2.html
+20201225T1823_13.44_122.34,2020-12-25T18:23:00+08:00,13.44,122.34,2.0,1.9,022 km N 64° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1023_B2.html
+20201225T1831_13.32_122.18,2020-12-25T18:31:00+08:00,13.32,122.18,29.0,1.5,037 km S 86° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1031_B2.html
+20201225T1832_4.95_127.52,2020-12-25T18:32:00+08:00,4.95,127.52,21.0,3.0,234 km S 63° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1225_1032_B2.html
+20201225T1842_13.39_122.12,2020-12-25T18:42:00+08:00,13.39,122.12,42.0,1.9,025 km N 52° E of Buenavista (Marinduque),2020_Earthquake_Information/December/2020_1225_1042_B2.html
+20201225T1857_13.87_120.53,2020-12-25T18:57:00+08:00,13.87,120.53,96.0,2.0,012 km N 72° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_1057_B2.html
+20201225T1907_13.46_122.28,2020-12-25T19:07:00+08:00,13.46,122.28,6.0,1.9,029 km N 64° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1107_B2.html
+20201225T1916_13.42_122.28,2020-12-25T19:16:00+08:00,13.42,122.28,4.0,2.1,027 km N 74° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1116_B2.html
+20201225T1925_13.38_122.35,2020-12-25T19:25:00+08:00,13.38,122.35,1.0,2.0,019 km N 80° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1125_B2.html
+20201225T1926_13.62_120.58,2020-12-25T19:26:00+08:00,13.62,120.58,99.0,1.9,024 km S 14° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_1126_B2.html
+20201225T1941_13.41_122.38,2020-12-25T19:41:00+08:00,13.41,122.38,1.0,2.9,016 km N 66° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1141_B2.html
+20201225T1947_13.34_122.28,2020-12-25T19:47:00+08:00,13.34,122.28,11.0,1.8,026 km S 88° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1147_B2.html
+20201225T1950_13.41_122.34,2020-12-25T19:50:00+08:00,13.41,122.34,1.0,2.8,021 km N 71° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1150_B2.html
+20201225T1954_13.41_122.3,2020-12-25T19:54:00+08:00,13.41,122.3,1.0,2.2,025 km N 73° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1154_B2.html
+20201225T1959_13.45_122.35,2020-12-25T19:59:00+08:00,13.45,122.35,1.0,2.3,022 km N 58° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1159_B2F.html
+20201225T2009_7.44_126.92,2020-12-25T20:09:00+08:00,7.44,126.92,36.0,2.9,041 km N 72° E of Caraga (Davao Oriental),2020_Earthquake_Information/December/2020_1225_1209_B2.html
+20201225T2036_13.39_122.34,2020-12-25T20:36:00+08:00,13.39,122.34,1.0,2.3,020 km N 75° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1236_B2F.html
+20201225T2038_13.47_122.35,2020-12-25T20:38:00+08:00,13.47,122.35,1.0,2.4,022 km N 55° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1238_B2F.html
+20201225T2041_9.87_125.48,2020-12-25T20:41:00+08:00,9.87,125.48,20.0,2.1,016 km S 55° W of Dinagat (Dinagat Islands),2020_Earthquake_Information/December/2020_1225_1241_B2.html
+20201225T2043_13.44_122.32,2020-12-25T20:43:00+08:00,13.44,122.32,2.0,3.1,024 km N 64° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1243_B2F.html
+20201225T2057_13.41_122.29,2020-12-25T20:57:00+08:00,13.41,122.29,6.0,2.6,026 km N 75° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1257_B2F.html
+20201225T2124_13.77_120.48,2020-12-25T21:24:00+08:00,13.77,120.48,96.0,4.1,017 km S 68° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_1324_B2F.html
+20201225T2126_13.42_122.19,2020-12-25T21:26:00+08:00,13.42,122.19,22.0,2.3,037 km N 77° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1326_B2F.html
+20201225T2149_6.83_125.06,2020-12-25T21:49:00+08:00,6.83,125.06,17.0,2.3,015 km S 11° W of Makilala (Cotabato),2020_Earthquake_Information/December/2020_1225_1349_B2.html
+20201225T2153_13.44_122.32,2020-12-25T21:53:00+08:00,13.44,122.32,4.0,2.2,024 km N 65° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1353_B1.html
+20201225T2154_13.43_122.28,2020-12-25T21:54:00+08:00,13.43,122.28,1.0,2.8,027 km N 70° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1354_B2.html
+20201225T2204_13.38_122.19,2020-12-25T22:04:00+08:00,13.38,122.19,33.0,1.7,036 km N 85° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1404_B2.html
+20201225T2220_13.46_122.3,2020-12-25T22:20:00+08:00,13.46,122.3,4.0,1.8,027 km N 63° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1420_B2F.html
+20201225T2227_6.42_126.32,2020-12-25T22:27:00+08:00,6.42,126.32,14.0,2.6,037 km S 47° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1225_1427_B2.html
+20201225T2242_7.91_124.76,2020-12-25T22:42:00+08:00,7.91,124.76,31.0,2.4,011 km N 39° W of Pangantucan (Bukidnon),2020_Earthquake_Information/December/2020_1225_1442_B2.html
+20201225T2245_9.68_126.07,2020-12-25T22:45:00+08:00,9.68,126.07,28.0,2.8,008 km S 12° E of Dapa (Surigao Del Norte),2020_Earthquake_Information/December/2020_1225_1445_B2.html
+20201225T2253_5.06_126.39,2020-12-25T22:53:00+08:00,5.06,126.39,1.0,3.6,115 km S 70° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1225_1453_B2.html
+20201225T2258_12.45_123.87,2020-12-25T22:58:00+08:00,12.45,123.87,17.0,2.3,011 km N 73° E of Batuan (Masbate),2020_Earthquake_Information/December/2020_1225_1458_B2.html
+20201225T2304_13.69_120.56,2020-12-25T23:04:00+08:00,13.69,120.56,92.0,1.8,018 km S 25° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_1504_B2.html
+20201225T2308_9.89_126.4,2020-12-25T23:08:00+08:00,9.89,126.4,2.0,3.1,030 km N 66° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1225_1508_B2.html
+20201225T2315_15.08_119.73,2020-12-25T23:15:00+08:00,15.08,119.73,27.0,2.2,037 km N 87° W of San Felipe (Zambales),2020_Earthquake_Information/December/2020_1225_1515_B2.html
+20201225T2319_8.47_126.74,2020-12-25T23:19:00+08:00,8.47,126.74,6.0,3.3,046 km N 76° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1225_1519_B2.html
+20201225T2335_16.81_121.6,2020-12-25T23:35:00+08:00,16.81,121.6,32.0,1.5,008 km N 65° E of Ramon (Isabela),2020_Earthquake_Information/December/2020_1225_1535_B2.html
+20201225T2350_13.26_124.25,2020-12-25T23:50:00+08:00,13.26,124.25,11.0,3.1,025 km N 14° E of Prieto Diaz (Sorsogon),2020_Earthquake_Information/December/2020_1225_1550_B2.html
+20201226T0002_13.43_122.32,2020-12-26T00:02:00+08:00,13.43,122.32,2.0,3.5,024 km N 69° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1602_B2F.html
+20201226T0013_13.4_122.29,2020-12-26T00:13:00+08:00,13.4,122.29,4.0,2.7,026 km N 77° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1613_B2F.html
+20201226T0021_13.46_122.32,2020-12-26T00:21:00+08:00,13.46,122.32,5.0,2.1,025 km N 60° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1621_B2.html
+20201226T0022_13.74_120.75,2020-12-26T00:22:00+08:00,13.74,120.75,92.0,1.9,016 km S 52° E of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_1622_B2.html
+20201226T0039_13.45_122.31,2020-12-26T00:39:00+08:00,13.45,122.31,7.0,1.8,026 km N 64° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1639_B2F.html
+20201226T0053_14.7_123.32,2020-12-26T00:53:00+08:00,14.7,123.32,31.0,3.4,073 km N 27° E of Mercedes (Camarines Norte),2020_Earthquake_Information/December/2020_1225_1653_B2.html
+20201226T0102_17.59_120.86,2020-12-26T01:02:00+08:00,17.59,120.86,21.0,2.5,005 km N 66° W of Licuan - Baay (Abra),2020_Earthquake_Information/December/2020_1225_1702_B2.html
+20201226T0118_13.39_122.17,2020-12-26T01:18:00+08:00,13.39,122.17,23.0,1.8,011 km N 51° E of Torrijos (Marinduque),2020_Earthquake_Information/December/2020_1225_1718_B2.html
+20201226T0129_6.79_124.99,2020-12-26T01:29:00+08:00,6.79,124.99,32.0,2.0,012 km N 16° E of Columbio (Sultan Kudarat),2020_Earthquake_Information/December/2020_1225_1729_B2.html
+20201226T0137_6.76_125.52,2020-12-26T01:37:00+08:00,6.76,125.52,52.0,2.1,018 km N 86° E of City Of Digos (Davao Del Sur),2020_Earthquake_Information/December/2020_1225_1737_B2.html
+20201226T0148_13.73_120.64,2020-12-26T01:48:00+08:00,13.73,120.64,96.0,2.3,012 km S 02° E of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_1748_B2.html
+20201226T0149_13.55_122.35,2020-12-26T01:49:00+08:00,13.55,122.35,12.0,2.3,029 km N 39° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_1749_B2.html
+20201226T0235_8.44_126.64,2020-12-26T02:35:00+08:00,8.44,126.64,9.0,2.9,035 km N 76° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1225_1835_B2.html
+20201226T0251_16.59_120.57,2020-12-26T02:51:00+08:00,16.59,120.57,17.0,2.7,004 km N 69° W of Kapangan (Benguet),2020_Earthquake_Information/December/2020_1225_1851_B2.html
+20201226T0322_10.94_124.06,2020-12-26T03:22:00+08:00,10.94,124.06,1.0,3.0,003 km S 84° E of Tabogon (Cebu),2020_Earthquake_Information/December/2020_1225_1922_B2.html
+20201226T0332_15.86_120.47,2020-12-26T03:32:00+08:00,15.86,120.47,130.0,3.0,015 km S 60° E of City Of San Carlos (Pangasinan),2020_Earthquake_Information/December/2020_1225_1932_B2.html
+20201226T0334_15.65_119.94,2020-12-26T03:34:00+08:00,15.65,119.94,24.0,2.4,003 km N 11° E of Candelaria (Zambales),2020_Earthquake_Information/December/2020_1225_1934_B2.html
+20201226T0347_13.72_120.7,2020-12-26T03:47:00+08:00,13.72,120.7,96.0,1.8,014 km S 31° E of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_1947_B2.html
+20201226T0350_9.99_124.21,2020-12-26T03:50:00+08:00,9.99,124.21,4.0,2.5,005 km N 12° W of Danao (Bohol),2020_Earthquake_Information/December/2020_1225_1950_B2.html
+20201226T0401_5.9_126.17,2020-12-26T04:01:00+08:00,5.9,126.17,27.0,3.0,062 km S 58° E of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1225_2001_B1.html
+20201226T0416_13.76_120.59,2020-12-26T04:16:00+08:00,13.76,120.59,94.0,1.8,009 km S 33° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_2016_B2.html
+20201226T0417_13.43_122.35,2020-12-26T04:17:00+08:00,13.43,122.35,2.0,2.4,020 km N 64° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_2017_B2.html
+20201226T0429_13.43_122.27,2020-12-26T04:29:00+08:00,13.43,122.27,8.0,2.6,028 km N 72° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_2029_B2.html
+20201226T0437_12.01_124.02,2020-12-26T04:37:00+08:00,12.01,124.02,15.0,3.5,003 km N 69° E of Cataingan (Masbate),2020_Earthquake_Information/December/2020_1225_2037_B2.html
+20201226T0445_20.85_120.0,2020-12-26T04:45:00+08:00,20.85,120.0,32.0,2.6,192 km N 88° W of Itbayat (Batanes),2020_Earthquake_Information/December/2020_1225_2045_B2.html
+20201226T0450_10.87_124.88,2020-12-26T04:50:00+08:00,10.87,124.88,33.0,1.7,009 km S 72° W of La Paz (Leyte),2020_Earthquake_Information/December/2020_1225_2050_B2.html
+20201226T0502_17.76_121.2,2020-12-26T05:02:00+08:00,17.76,121.2,1.0,2.1,014 km S 72° W of Conner (Apayao),2020_Earthquake_Information/December/2020_1225_2102_B2.html
+20201226T0511_13.58_122.21,2020-12-26T05:11:00+08:00,13.58,122.21,5.0,1.9,013 km S 84° W of Catanauan (Quezon),2020_Earthquake_Information/December/2020_1225_2111_B2.html
+20201226T0552_10.01_126.08,2020-12-26T05:52:00+08:00,10.01,126.08,6.0,3.4,001 km S 26° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1225_2152_B2.html
+20201226T0610_10.18_126.44,2020-12-26T06:10:00+08:00,10.18,126.44,10.0,3.0,044 km N 67° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1225_2210_B2.html
+20201226T0619_9.82_126.51,2020-12-26T06:19:00+08:00,9.82,126.51,17.0,2.5,039 km N 85° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1225_2219_B2.html
+20201226T0640_8.45_126.63,2020-12-26T06:40:00+08:00,8.45,126.63,10.0,2.6,034 km N 74° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1225_2240_B2.html
+20201226T0649_3.38_126.42,2020-12-26T06:49:00+08:00,3.38,126.42,25.0,3.9,251 km S 26° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1225_2249_B2.html
+20201226T0707_14.0_120.4,2020-12-26T07:07:00+08:00,14.0,120.4,56.0,2.1,031 km N 53° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1225_2307_B2.html
+20201226T0757_13.44_122.33,2020-12-26T07:57:00+08:00,13.44,122.33,6.0,2.6,023 km N 63° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1225_2357_B2F.html
+20201226T0808_6.42_126.04,2020-12-26T08:08:00+08:00,6.42,126.04,123.0,3.9,026 km S 08° W of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1226_0008_B2.html
+20201226T0841_8.81_126.62,2020-12-26T08:41:00+08:00,8.81,126.62,25.0,2.4,035 km N 87° E of Marihatag (Surigao Del Sur),2020_Earthquake_Information/December/2020_1226_0041_B2.html
+20201226T0903_8.73_126.17,2020-12-26T09:03:00+08:00,8.73,126.17,34.0,2.0,006 km S 79° W of San Agustin (Surigao Del Sur),2020_Earthquake_Information/December/2020_1226_0103_B2.html
+20201226T1003_13.88_120.53,2020-12-26T10:03:00+08:00,13.88,120.53,8.0,1.6,013 km N 49° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1226_0203_B2F.html
+20201226T1122_9.7_122.64,2020-12-26T11:22:00+08:00,9.7,122.64,66.0,2.5,015 km S 02° W of Candoni (Negros Occidental),2020_Earthquake_Information/December/2020_1226_0322_B2.html
+20201226T1141_13.34_122.36,2020-12-26T11:41:00+08:00,13.34,122.36,7.0,3.8,017 km S 86° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1226_0341_B2F.html
+20201226T1214_13.9_119.91,2020-12-26T12:14:00+08:00,13.9,119.91,14.0,3.1,023 km N 80° W of Lubang (Occidental Mindoro),2020_Earthquake_Information/December/2020_1226_0414_B2.html
+20201226T1222_13.41_122.31,2020-12-26T12:22:00+08:00,13.41,122.31,12.0,2.2,023 km N 74° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1226_0422_B2.html
+20201226T1230_10.24_122.37,2020-12-26T12:30:00+08:00,10.24,122.37,10.0,2.0,036 km S 30° W of Nueva Valencia (Guimaras),2020_Earthquake_Information/December/2020_1226_0430_B2.html
+20201226T1258_5.75_125.7,2020-12-26T12:58:00+08:00,5.75,125.7,44.0,2.1,050 km S 01° E of Don Marcelino (Davao Occidental),2020_Earthquake_Information/December/2020_1226_0458_B2.html
+20201226T1455_13.74_120.94,2020-12-26T14:55:00+08:00,13.74,120.94,23.0,2.1,001 km S 18° W of Mabini (Batangas),2020_Earthquake_Information/December/2020_1226_0655_B2.html
+20201226T1917_10.93_124.05,2020-12-26T19:17:00+08:00,10.93,124.05,5.0,2.6,003 km S 76° E of Tabogon (Cebu),2020_Earthquake_Information/December/2020_1226_1117_B2.html
+20201226T1931_13.39_122.36,2020-12-26T19:31:00+08:00,13.39,122.36,1.0,3.4,018 km N 73° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1226_1131_B2.html
+20201226T1954_9.85_126.28,2020-12-26T19:54:00+08:00,9.85,126.28,17.0,3.2,015 km N 61° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1226_1154_B2.html
+20201226T2014_8.03_126.23,2020-12-26T20:14:00+08:00,8.03,126.23,1.0,2.6,020 km S 88° W of Lingig (Surigao Del Sur),2020_Earthquake_Information/December/2020_1226_1214_B2.html
+20201226T2036_13.76_120.52,2020-12-26T20:36:00+08:00,13.76,120.52,96.0,2.5,015 km S 56° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1226_1236_B2F.html
+20201226T2114_13.82_119.78,2020-12-26T21:14:00+08:00,13.82,119.78,13.0,3.3,037 km S 84° W of Lubang (Occidental Mindoro),2020_Earthquake_Information/December/2020_1226_1314_B2.html
+20201226T2138_15.08_120.01,2020-12-26T21:38:00+08:00,15.08,120.01,33.0,2.3,007 km N 67° W of San Felipe (Zambales),2020_Earthquake_Information/December/2020_1226_1338_B2.html
+20201226T2143_13.74_120.56,2020-12-26T21:43:00+08:00,13.74,120.56,98.0,1.9,013 km S 40° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1226_1343_B2.html
+20201226T2148_17.57_122.5,2020-12-26T21:48:00+08:00,17.57,122.5,22.0,3.3,034 km N 39° E of Divilacan (Isabela),2020_Earthquake_Information/December/2020_1226_1348_B2.html
+20201226T2241_9.73_123.59,2020-12-26T22:41:00+08:00,9.73,123.59,27.0,2.0,007 km S 66° E of Dalaguete (Cebu),2020_Earthquake_Information/December/2020_1226_1441_B2.html
+20201226T2323_17.56_122.58,2020-12-26T23:23:00+08:00,17.56,122.58,31.0,2.4,039 km N 49° E of Divilacan (Isabela),2020_Earthquake_Information/December/2020_1226_1523_B2.html
+20201226T2324_10.2_125.2,2020-12-26T23:24:00+08:00,10.2,125.2,33.0,1.9,022 km S 01° E of Hinunangan (Southern Leyte),2020_Earthquake_Information/December/2020_1226_1524_B2.html
+20201226T2347_8.58_126.56,2020-12-26T23:47:00+08:00,8.58,126.56,28.0,2.2,034 km N 45° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1226_1547_B2.html
+20201227T0000_13.96_120.55,2020-12-27T00:00:00+08:00,13.96,120.55,119.0,2.0,017 km N 33° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1226_1600_B2F.html
+20201227T0009_13.89_120.55,2020-12-27T00:09:00+08:00,13.89,120.55,88.0,1.8,010 km N 56° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1226_1609_B2F.html
+20201227T0140_6.49_126.23,2020-12-27T01:40:00+08:00,6.49,126.23,118.0,2.8,025 km S 43° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1226_1740_B2.html
+20201227T0150_10.92_126.48,2020-12-27T01:50:00+08:00,10.92,126.48,14.0,3.3,083 km S 81° E of Guiuan (Eastern Samar),2020_Earthquake_Information/December/2020_1226_1750_B2.html
+20201227T0218_18.41_122.45,2020-12-27T02:18:00+08:00,18.41,122.45,39.0,2.3,033 km S 81° E of Santa Ana (Cagayan),2020_Earthquake_Information/December/2020_1226_1818_B2.html
+20201227T0234_5.38_125.34,2020-12-27T02:34:00+08:00,5.38,125.34,3.0,3.7,010 km S 67° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1226_1834_B2.html
+20201227T0317_7.34_124.83,2020-12-27T03:17:00+08:00,7.34,124.83,9.0,2.6,015 km N 14° E of Carmen (Cotabato),2020_Earthquake_Information/December/2020_1226_1917_B2.html
+20201227T0348_8.86_122.52,2020-12-27T03:48:00+08:00,8.86,122.52,18.0,2.6,061 km S 69° W of Siaton (Negros Oriental),2020_Earthquake_Information/December/2020_1226_1948_B2.html
+20201227T0401_12.85_122.82,2020-12-27T04:01:00+08:00,12.85,122.82,20.0,3.4,046 km S 83° W of Claveria (Masbate),2020_Earthquake_Information/December/2020_1226_2001_B2.html
+20201227T0412_13.33_122.43,2020-12-27T04:12:00+08:00,13.33,122.43,1.0,3.1,010 km S 79° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1226_2012_B2.html
+20201227T0430_13.37_122.4,2020-12-27T04:30:00+08:00,13.37,122.4,1.0,2.9,013 km N 78° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1226_2030_B2.html
+20201227T0510_13.42_122.34,2020-12-27T05:10:00+08:00,13.42,122.34,7.0,2.0,021 km N 69° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1227_0910_B2_Quezon.html
+20201227T0541_8.66_124.76,2020-12-27T05:41:00+08:00,8.66,124.76,1.0,3.4,009 km S 12° W of Balingasag (Misamis Oriental),2020_Earthquake_Information/December/2020_1226_2141_B2.html
+20201227T0638_14.32_119.51,2020-12-27T06:38:00+08:00,14.32,119.51,1.0,2.8,083 km N 53° W of Lubang (Occidental Mindoro),2020_Earthquake_Information/December/2020_1226_2238_B2.html
+20201227T0651_14.15_121.26,2020-12-27T06:51:00+08:00,14.15,121.26,8.0,2.6,005 km S 54° E of Los Banos (Laguna),2020_Earthquake_Information/December/2020_1226_2251_B2.html
+20201227T0857_11.14_124.65,2020-12-27T08:57:00+08:00,11.14,124.65,12.0,2.1,016 km S 43° W of Tunga (Leyte),2020_Earthquake_Information/December/2020_1227_0057_B2.html
+20201227T0906_9.24_126.59,2020-12-27T09:06:00+08:00,9.24,126.59,9.0,2.3,045 km N 49° E of Bayabas (Surigao Del Sur),2020_Earthquake_Information/December/2020_1227_0106_B2.html
+20201227T0951_5.53_125.33,2020-12-27T09:51:00+08:00,5.53,125.33,1.0,2.9,016 km N 40° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1227_0151_B2.html
+20201227T1206_14.87_119.26,2020-12-27T12:06:00+08:00,14.87,119.26,30.0,2.8,090 km S 84° W of San Antonio (Zambales),2020_Earthquake_Information/December/2020_1227_0406_B2.html
+20201227T1218_14.82_119.41,2020-12-27T12:18:00+08:00,14.82,119.41,12.0,2.7,074 km S 79° W of San Antonio (Zambales),2020_Earthquake_Information/December/2020_1227_0418_B2.html
+20201227T1419_5.86_125.83,2020-12-27T14:19:00+08:00,5.86,125.83,95.0,3.2,022 km S 76° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1227_0619_B2.html
+20201227T1526_19.44_121.78,2020-12-27T15:26:00+08:00,19.44,121.78,105.0,2.5,016 km S 61° W of Babuyan Island (Calayan) (Cagayan),2020_Earthquake_Information/December/2020_1227_0726_B2.html
+20201227T1621_6.13_126.83,2020-12-27T16:21:00+08:00,6.13,126.83,17.0,2.0,103 km S 55° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1227_0821_B2.html
+20201227T1659_13.67_120.51,2020-12-27T16:59:00+08:00,13.67,120.51,113.0,3.3,022 km S 35° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1227_0859_B2F.html
+20201227T1710_7.55_121.52,2020-12-27T17:10:00+08:00,7.55,121.52,71.0,3.3,038 km 00 °est of Siocon (Zamboanga Del Norte),2020_Earthquake_Information/December/2020_1227_0910_B2_Zamboanga_Del_Norte.html
+20201227T1822_14.09_120.49,2020-12-27T18:22:00+08:00,14.09,120.49,95.0,2.0,015 km N 85° W of Nasugbu (Batangas),2020_Earthquake_Information/December/2020_1227_1022_B2.html
+20201227T1831_15.12_120.12,2020-12-27T18:31:00+08:00,15.12,120.12,27.0,2.1,009 km N 36° E of San Felipe (Zambales),2020_Earthquake_Information/December/2020_1227_1031_B2.html
+20201227T1832_13.72_120.61,2020-12-27T18:32:00+08:00,13.72,120.61,87.0,2.0,012 km S 13° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1227_1032_B2F.html
+20201227T1949_19.7_121.86,2020-12-27T19:49:00+08:00,19.7,121.86,13.0,3.3,021 km N 16° W of Babuyan Island (Calayan) (Cagayan),2020_Earthquake_Information/December/2020_1227_1149_B2.html
+20201227T1957_11.61_126.15,2020-12-27T19:57:00+08:00,11.61,126.15,1.0,3.4,078 km N 90° E of City Of Borongan (Eastern Samar),2020_Earthquake_Information/December/2020_1227_1157_B2.html
+20201227T2142_10.45_123.04,2020-12-27T21:42:00+08:00,10.45,123.04,7.0,2.1,014 km N 78° E of City Of La Carlota (Negros Occidental),2020_Earthquake_Information/December/2020_1227_1342_B2.html
+20201227T2155_12.27_123.87,2020-12-27T21:55:00+08:00,12.27,123.87,25.0,3.2,033 km N 25° W of Cataingan (Masbate),2020_Earthquake_Information/December/2020_1227_1355_B2.html
+20201227T2231_13.43_122.32,2020-12-27T22:31:00+08:00,13.43,122.32,11.0,2.8,013 km S 41° W of Mulanay (Quezon),2020_Earthquake_Information/December/2020_1227_1431_B2.html
+20201227T2238_10.21_125.97,2020-12-27T22:38:00+08:00,10.21,125.97,13.0,2.9,022 km N 19° W of Santa Monica (Surigao Del Norte),2020_Earthquake_Information/December/2020_1227_1438_B2.html
+20201228T0022_5.85_125.39,2020-12-28T00:22:00+08:00,5.85,125.39,179.0,2.5,017 km S 40° E of Malapatan (Sarangani),2020_Earthquake_Information/December/2020_1227_1622_B2.html
+20201228T0111_13.78_120.56,2020-12-28T01:11:00+08:00,13.78,120.56,103.0,3.0,010 km S 54° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1227_1711_B2.html
+20201228T0128_6.59_126.81,2020-12-28T01:28:00+08:00,6.59,126.81,15.0,3.4,065 km S 38° E of Tarragona (Davao Oriental),2020_Earthquake_Information/December/2020_1227_1728_B2.html
+20201228T0201_13.73_120.66,2020-12-28T02:01:00+08:00,13.73,120.66,107.0,2.5,012 km S 15° E of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1227_1801_B2.html
+20201228T0343_14.75_119.44,2020-12-28T03:43:00+08:00,14.75,119.44,5.0,3.2,073 km S 73° W of San Antonio (Zambales),2020_Earthquake_Information/December/2020_1227_1943_B2.html
+20201228T0441_13.81_120.54,2020-12-28T04:41:00+08:00,13.81,120.54,102.0,2.4,011 km S 74° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1227_2041_B2F.html
+20201228T0442_10.35_126.0,2020-12-28T04:42:00+08:00,10.35,126.0,16.0,2.1,037 km N 13° W of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1227_2042_B2.html
+20201228T0448_6.77_126.82,2020-12-28T04:48:00+08:00,6.77,126.82,155.0,2.5,052 km S 53° E of Tarragona (Davao Oriental),2020_Earthquake_Information/December/2020_1227_2048_B2.html
+20201228T0538_6.23_125.1,2020-12-28T05:38:00+08:00,6.23,125.1,76.0,1.8,025 km N 56° W of Alabel (Sarangani),2020_Earthquake_Information/December/2020_1227_2138_B2.html
+20201228T0613_3.39_126.82,2020-12-28T06:13:00+08:00,3.39,126.82,32.0,4.9,273 km S 35° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1227_2213_B2.html
+20201228T0631_13.78_120.48,2020-12-28T06:31:00+08:00,13.78,120.48,103.0,4.1,017 km S 71° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1227_2231_B2F.html
+20201228T0811_10.31_125.18,2020-12-28T08:11:00+08:00,10.31,125.18,1.0,2.1,006 km N 53° E of Saint Bernard (Southern Leyte),2020_Earthquake_Information/December/2020_1228_0011_B1.html
+20201228T1037_4.32_123.94,2020-12-28T10:37:00+08:00,4.32,123.94,471.0,4.2,200 km S 22° W of Kiamba (Sarangani),2020_Earthquake_Information/December/2020_1228_0237_B2.html
+20201228T1146_13.35_122.38,2020-12-28T11:46:00+08:00,13.35,122.38,1.0,4.4,016 km N 88° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1228_0346_B3F.html
+20201228T1236_13.35_122.35,2020-12-28T12:36:00+08:00,13.35,122.35,2.0,3.1,019 km N 90° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1228_0436_B3F.html
+20201228T1246_4.54_126.99,2020-12-28T12:46:00+08:00,4.54,126.99,48.0,4.4,198 km S 61° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1228_0446_B2.html
+20201228T1309_13.35_122.29,2020-12-28T13:09:00+08:00,13.35,122.29,11.0,2.0,025 km N 89° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1228_0509_B2F.html
+20201228T1415_10.93_124.09,2020-12-28T14:15:00+08:00,10.93,124.09,5.0,2.0,018 km S 43° E of City Of Bogo (Cebu),2020_Earthquake_Information/December/2020_1228_0615_B2.html
+20201228T1506_7.48_124.7,2020-12-28T15:06:00+08:00,7.48,124.7,7.0,2.7,003 km S 09° E of Banisilan (Cotabato),2020_Earthquake_Information/December/2020_1228_0706_B2.html
+20201228T1540_5.74_126.13,2020-12-28T15:40:00+08:00,5.74,126.13,94.0,2.6,057 km S 71° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1228_0740_B2.html
+20201228T1641_5.71_126.4,2020-12-28T16:41:00+08:00,5.71,126.4,68.0,2.9,086 km S 75° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1228_0841_B2.html
+20201228T1704_11.81_124.22,2020-12-28T17:04:00+08:00,11.81,124.22,1.0,2.4,020 km S 66° E of Pio V. Corpuz (Masbate),2020_Earthquake_Information/December/2020_1228_0904_B2.html
+20201228T1712_13.41_122.24,2020-12-28T17:12:00+08:00,13.41,122.24,20.0,2.0,031 km N 78° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1228_0912_B2.html
+20201228T1848_6.82_125.55,2020-12-28T18:48:00+08:00,6.82,125.55,25.0,2.4,015 km S 84° E of Santa Cruz (Davao Del Sur),2020_Earthquake_Information/December/2020_1228_1048_B2.html
+20201228T1857_11.64_125.17,2020-12-28T18:57:00+08:00,11.64,125.17,19.0,2.4,013 km S 57° E of Hinabangan (Samar),2020_Earthquake_Information/December/2020_1228_1057_B2.html
+20201228T1901_9.97_126.11,2020-12-28T19:01:00+08:00,9.97,126.11,32.0,2.0,007 km S 31° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1228_1101_B2.html
+20201228T1920_16.32_123.63,2020-12-28T19:20:00+08:00,16.32,123.63,25.0,2.9,148 km S 81° E of Dinapigue (Isabela),2020_Earthquake_Information/December/2020_1228_1120_B2.html
+20201228T1938_13.21_122.36,2020-12-28T19:38:00+08:00,13.21,122.36,10.0,2.2,023 km S 49° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1228_1138_B2.html
+20201228T2006_7.66_126.29,2020-12-28T20:06:00+08:00,7.66,126.29,34.0,2.2,024 km S 51° W of Cateel (Davao Oriental),2020_Earthquake_Information/December/2020_1228_1206_B2.html
+20201228T2008_6.71_123.85,2020-12-28T20:08:00+08:00,6.71,123.85,42.0,2.0,026 km N 74° W of Lebak (Sultan Kudarat),2020_Earthquake_Information/December/2020_1228_1208_B2.html
+20201228T2048_13.8_120.51,2020-12-28T20:48:00+08:00,13.8,120.51,93.0,1.9,013 km S 76° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1228_1248_B2.html
+20201228T2143_13.75_120.5,2020-12-28T21:43:00+08:00,13.75,120.5,92.0,4.2,017 km S 57° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1228_1343_B2F.html
+20201228T2209_18.51_120.64,2020-12-28T22:09:00+08:00,18.51,120.64,22.0,3.4,001 km N 75° W of Burgos (Ilocos Norte),2020_Earthquake_Information/December/2020_1228_1409_B1.html
+20201228T2215_5.54_125.35,2020-12-28T22:15:00+08:00,5.54,125.35,2.0,2.7,017 km N 29° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1228_1415_B1.html
+20201228T2241_13.27_122.4,2020-12-28T22:41:00+08:00,13.27,122.4,2.0,3.5,016 km S 56° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1228_1441_B2F.html
+20201228T2246_10.08_122.37,2020-12-28T22:46:00+08:00,10.08,122.37,7.0,2.3,040 km N 32° W of City Of Sipalay (Negros Occidental),2020_Earthquake_Information/December/2020_1228_1446_B2.html
+20201228T2256_5.09_125.39,2020-12-28T22:56:00+08:00,5.09,125.39,30.0,3.7,036 km S 06° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1228_1456_B2.html
+20201228T2334_18.45_120.62,2020-12-28T23:34:00+08:00,18.45,120.62,7.0,2.9,007 km S 19° W of Burgos (Ilocos Norte),2020_Earthquake_Information/December/2020_1228_1534_B2.html
+20201228T2346_9.55_125.64,2020-12-28T23:46:00+08:00,9.55,125.64,14.0,2.7,011 km N 36° E of Alegria (Surigao Del Norte),2020_Earthquake_Information/December/2020_1228_1546_B2.html
+20201228T2356_12.26_123.9,2020-12-28T23:56:00+08:00,12.26,123.9,22.0,2.6,031 km N 19° W of Cataingan (Masbate),2020_Earthquake_Information/December/2020_1228_1556_B2.html
+20201229T0006_9.82_122.27,2020-12-29T00:06:00+08:00,9.82,122.27,18.0,2.8,018 km N 73° W of City Of Sipalay (Negros Occidental),2020_Earthquake_Information/December/2020_1228_1606_B2.html
+20201229T0059_15.25_119.98,2020-12-29T00:59:00+08:00,15.25,119.98,57.0,2.0,008 km S 02° E of Iba (Zambales),2020_Earthquake_Information/December/2020_1228_1659_B2.html
+20201229T0123_11.04_124.71,2020-12-29T01:23:00+08:00,11.04,124.71,5.0,3.1,012 km N 78° E of Ormoc City (Leyte),2020_Earthquake_Information/December/2020_1228_1723_B2F.html
+20201229T0129_13.39_122.29,2020-12-29T01:29:00+08:00,13.39,122.29,1.0,2.6,025 km N 80° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1228_1729_B2.html
+20201229T0132_13.45_122.29,2020-12-29T01:32:00+08:00,13.45,122.29,1.0,2.1,027 km N 65° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1228_1732_B2.html
+20201229T0136_9.89_122.3,2020-12-29T01:36:00+08:00,9.89,122.3,24.0,2.3,020 km N 48° W of City Of Sipalay (Negros Occidental),2020_Earthquake_Information/December/2020_1228_1736_B2.html
+20201229T0157_15.27_119.86,2020-12-29T01:57:00+08:00,15.27,119.86,27.0,4.2,014 km S 62° W of Iba (Zambales),2020_Earthquake_Information/December/2020_1228_1757_B2.html
+20201229T0216_12.8_123.69,2020-12-29T02:16:00+08:00,12.8,123.69,28.0,3.3,016 km S 40° E of Donsol (Sorsogon),2020_Earthquake_Information/December/2020_1228_1816_B2.html
+20201229T0323_9.99_126.06,2020-12-29T03:23:00+08:00,9.99,126.06,9.0,3.6,003 km S 30° W of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1228_1923_B2.html
+20201229T0506_5.58_126.74,2020-12-29T05:06:00+08:00,5.58,126.74,33.0,3.3,126 km S 73° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1228_2106_B2.html
+20201229T0559_10.02_123.45,2020-12-29T05:59:00+08:00,10.02,123.45,35.0,2.1,004 km S 25° E of Dumanjug (Cebu),2020_Earthquake_Information/December/2020_1228_2159_B2.html
+20201229T0650_3.98_126.14,2020-12-29T06:50:00+08:00,3.98,126.14,93.0,3.9,165 km S 30° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1228_2250_B2.html
+20201229T0818_9.61_122.4,2020-12-29T08:18:00+08:00,9.61,122.4,9.0,2.4,018 km S 12° W of City Of Sipalay (Negros Occidental),2020_Earthquake_Information/December/2020_1229_0018_B2.html
+20201229T0946_5.19_127.13,2020-12-29T09:46:00+08:00,5.19,127.13,15.0,3.8,183 km S 64° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1229_0146_B2.html
+20201229T1116_13.33_122.31,2020-12-29T11:16:00+08:00,13.33,122.31,4.0,3.5,023 km S 85° W of San Francisco (Quezon),2020_Earthquake_Information/December/2020_1229_0316_B2F.html
+20201229T1126_6.96_126.44,2020-12-29T11:26:00+08:00,6.96,126.44,35.0,1.9,010 km S 03° W of Tarragona (Davao Oriental),2020_Earthquake_Information/December/2020_1229_0326_B1.html
+20201229T1210_9.51_126.25,2020-12-29T12:10:00+08:00,9.51,126.25,32.0,1.8,031 km S 24° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1229_0410_B1.html
+20201229T1416_11.87_124.15,2020-12-29T14:16:00+08:00,11.87,124.15,8.0,2.1,023 km S 51° E of Cataingan (Masbate),2020_Earthquake_Information/December/2020_1229_0616_B2.html
+20201229T1524_8.62_124.85,2020-12-29T15:24:00+08:00,8.62,124.85,13.0,2.8,016 km S 30° E of Balingasag (Misamis Oriental),2020_Earthquake_Information/December/2020_1229_0724_B2.html
+20201229T1808_2.67_126.75,2020-12-29T18:08:00+08:00,2.67,126.75,65.0,4.3,337 km S 26° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_1008_B2.html
+20201229T1830_9.42_126.14,2020-12-29T18:30:00+08:00,9.42,126.14,9.0,2.5,017 km N 19° W of Cortes (Surigao Del Sur),2020_Earthquake_Information/December/2020_1229_1030_B2.html
+20201229T1902_13.67_120.7,2020-12-29T19:02:00+08:00,13.67,120.7,68.0,2.2,020 km S 22° E of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1229_1102_B2.html
+20201229T1916_14.72_119.46,2020-12-29T19:16:00+08:00,14.72,119.46,28.0,3.2,072 km S 70° W of San Antonio (Zambales),2020_Earthquake_Information/December/2020_1229_1116_B2.html
+20201229T1934_10.95_124.06,2020-12-29T19:34:00+08:00,10.95,124.06,6.0,3.0,004 km N 79° E of Tabogon (Cebu),2020_Earthquake_Information/December/2020_1229_1134_B2.html
+20201229T2153_4.21_125.48,2020-12-29T21:53:00+08:00,4.21,125.48,122.0,2.9,133 km S 03° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_1353_B2.html
+20201229T2219_6.33_126.55,2020-12-29T22:19:00+08:00,6.33,126.55,88.0,2.5,064 km S 56° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1229_1419_B2.html
+20201229T2220_15.63_119.77,2020-12-29T22:20:00+08:00,15.63,119.77,21.0,2.6,017 km N 87° W of Candelaria (Zambales),2020_Earthquake_Information/December/2020_1229_1420_B2.html
+20201229T2333_9.2_126.04,2020-12-29T23:33:00+08:00,9.2,126.04,92.0,2.7,004 km S 30° W of Lanuza (Surigao Del Sur),2020_Earthquake_Information/December/2020_1229_1533_B2.html
+20201230T0012_19.19_121.04,2020-12-30T00:12:00+08:00,19.19,121.04,1.0,2.7,020 km N 63° W of Dalupiri Island (Calayan) (Cagayan),2020_Earthquake_Information/December/2020_1229_1612_B2.html
+20201230T0021_5.01_125.45,2020-12-30T00:21:00+08:00,5.01,125.45,68.0,5.5,044 km S 04° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_1621_B2F.html
+20201230T0038_8.45_126.68,2020-12-30T00:38:00+08:00,8.45,126.68,11.0,3.4,039 km N 76° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1229_1638_B2.html
+20201230T0039_8.43_126.72,2020-12-30T00:39:00+08:00,8.43,126.72,15.0,3.2,043 km N 80° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1229_1639_B2.html
+20201230T0045_5.04_125.34,2020-12-30T00:45:00+08:00,5.04,125.34,35.0,4.2,042 km S 13° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_1645_B2.html
+20201230T0050_8.9_125.6,2020-12-30T00:50:00+08:00,8.9,125.6,5.0,2.9,010 km S 53° E of City Of Butuan (Agusan Del Norte),2020_Earthquake_Information/December/2020_1229_1650_B2.html
+20201230T0055_17.19_121.39,2020-12-30T00:55:00+08:00,17.19,121.39,26.0,2.7,024 km N 15° E of Aguinaldo (Ifugao),2020_Earthquake_Information/December/2020_1229_1655_B2_Ifugao.html
+20201230T0055_5.23_125.54,2020-12-30T00:55:00+08:00,5.23,125.54,1.0,2.5,024 km S 33° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_1655_B2_Davao_Occidental.html
+20201230T0058_7.63_126.65,2020-12-30T00:58:00+08:00,7.63,126.65,33.0,1.8,011 km N 60° E of Baganga (Davao Oriental),2020_Earthquake_Information/December/2020_1229_1658_B2.html
+20201230T0105_5.01_125.33,2020-12-30T01:05:00+08:00,5.01,125.33,31.0,4.3,045 km S 13° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_1705_B2F.html
+20201230T0109_14.27_119.14,2020-12-30T01:09:00+08:00,14.27,119.14,29.0,2.5,115 km N 67° W of Lubang (Occidental Mindoro),2020_Earthquake_Information/December/2020_1229_1709_B2.html
+20201230T0111_5.21_125.3,2020-12-30T01:11:00+08:00,5.21,125.3,20.0,3.5,026 km S 31° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_1711_B2.html
+20201230T0118_5.33_125.34,2020-12-30T01:18:00+08:00,5.33,125.34,9.0,3.4,013 km S 43° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_1718_B2.html
+20201230T0126_5.23_125.35,2020-12-30T01:26:00+08:00,5.23,125.35,26.0,2.1,020 km S 20° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_1726_B2.html
+20201230T0128_9.49_125.54,2020-12-30T01:28:00+08:00,9.49,125.54,1.0,3.0,005 km N 54° W of Alegria (Surigao Del Norte),2020_Earthquake_Information/December/2020_1229_1728_B2.html
+20201230T0135_5.14_125.3,2020-12-30T01:35:00+08:00,5.14,125.3,51.0,2.2,033 km S 24° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_1735_B2.html
+20201230T0219_8.53_126.76,2020-12-30T02:19:00+08:00,8.53,126.76,14.0,2.5,050 km N 69° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1229_1819_B2.html
+20201230T0236_13.7_120.63,2020-12-30T02:36:00+08:00,13.7,120.63,93.0,1.8,015 km S 02° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1229_1836_B2.html
+20201230T0237_5.27_125.45,2020-12-30T02:37:00+08:00,5.27,125.45,13.0,2.6,016 km S 10° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_1837_B2.html
+20201230T0243_9.42_124.25,2020-12-30T02:43:00+08:00,9.42,124.25,536.0,4.3,021 km S 13° E of Valencia (Bohol),2020_Earthquake_Information/December/2020_1229_1843_B2.html
+20201230T0253_5.33_125.35,2020-12-30T02:53:00+08:00,5.33,125.35,18.0,3.1,013 km S 41° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_1853_B2.html
+20201230T0254_8.43_127.11,2020-12-30T02:54:00+08:00,8.43,127.11,76.0,2.5,085 km N 85° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1229_1854_B2.html
+20201230T0308_5.08_125.29,2020-12-30T03:08:00+08:00,5.08,125.29,18.0,3.9,040 km S 21° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_1908_B2.html
+20201230T0319_8.76_126.61,2020-12-30T03:19:00+08:00,8.76,126.61,27.0,2.3,035 km S 82° E of Marihatag (Surigao Del Sur),2020_Earthquake_Information/December/2020_1229_1919_B2.html
+20201230T0322_15.44_120.0,2020-12-30T03:22:00+08:00,15.44,120.0,21.0,1.7,009 km N 86° E of Palauig (Zambales),2020_Earthquake_Information/December/2020_1229_1922_B2.html
+20201230T0323_18.78_121.41,2020-12-30T03:23:00+08:00,18.78,121.41,29.0,1.9,009 km S 27° E of Fuga Island (Aparri) (Cagayan),2020_Earthquake_Information/December/2020_1229_1923_B2.html
+20201230T0325_5.14_125.43,2020-12-30T03:25:00+08:00,5.14,125.43,19.0,1.9,030 km S 02° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_1925_B2.html
+20201230T0345_5.41_125.33,2020-12-30T03:45:00+08:00,5.41,125.33,1.0,2.1,010 km S 86° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_1945_B2.html
+20201230T0403_5.41_125.38,2020-12-30T04:03:00+08:00,5.41,125.38,7.0,3.1,005 km S 84° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_2003_B2F.html
+20201230T0420_18.7_122.24,2020-12-30T04:20:00+08:00,18.7,122.24,100.0,3.5,046 km S 60° E of Camiguin Island (Calayan) (Cagayan),2020_Earthquake_Information/December/2020_1229_2020_B2.html
+20201230T0437_8.38_126.82,2020-12-30T04:37:00+08:00,8.38,126.82,9.0,2.3,053 km N 89° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1229_2037_B2.html
+20201230T0453_5.65_125.63,2020-12-30T04:53:00+08:00,5.65,125.63,107.0,2.6,035 km N 41° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_2053_B2F.html
+20201230T0610_5.64_125.4,2020-12-30T06:10:00+08:00,5.64,125.4,1.0,2.3,026 km N 06° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_2210_B2.html
+20201230T0617_5.54_125.38,2020-12-30T06:17:00+08:00,5.54,125.38,1.0,2.8,015 km N 17° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_2217_B2F.html
+20201230T0632_8.2_126.38,2020-12-30T06:32:00+08:00,8.2,126.38,18.0,2.0,007 km S 74° E of City Of Bislig (Surigao Del Sur),2020_Earthquake_Information/December/2020_1229_2232_B2.html
+20201230T0650_13.15_121.07,2020-12-30T06:50:00+08:00,13.15,121.07,22.0,2.5,023 km S 83° W of Victoria (Oriental Mindoro),2020_Earthquake_Information/December/2020_1229_2250_B2.html
+20201230T0718_19.07_121.28,2020-12-30T07:18:00+08:00,19.07,121.28,15.0,3.0,009 km S 64° E of Dalupiri Island (Calayan) (Cagayan),2020_Earthquake_Information/December/2020_1229_2318_B2.html
+20201230T0720_5.34_125.43,2020-12-30T07:20:00+08:00,5.34,125.43,15.0,3.1,009 km S 09° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1229_2320_B2F.html
+20201230T0858_4.64_125.85,2020-12-30T08:58:00+08:00,4.64,125.85,158.0,4.0,098 km S 29° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1230_0058_B2F.html
+20201230T0906_7.25_126.54,2020-12-30T09:06:00+08:00,7.25,126.54,7.0,2.1,004 km N 01° W of Manay (Davao Oriental),2020_Earthquake_Information/December/2020_1230_0106_B2.html
+20201230T0930_5.49_125.4,2020-12-30T09:30:00+08:00,5.49,125.4,1.0,3.3,009 km N 16° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1230_0130_B2F.html
+20201230T0950_5.55_125.36,2020-12-30T09:50:00+08:00,5.55,125.36,1.0,2.8,035 km S 31° E of Glan (Sarangani),2020_Earthquake_Information/December/2020_1230_0150_B2.html
+20201230T0956_5.56_125.34,2020-12-30T09:56:00+08:00,5.56,125.34,3.0,3.2,019 km N 29° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1230_0156_B2F.html
+20201230T0957_18.45_122.17,2020-12-30T09:57:00+08:00,18.45,122.17,33.0,3.2,003 km S 83° E of Santa Ana (Cagayan),2020_Earthquake_Information/December/2020_1230_0157_B2.html
+20201230T1016_6.42_125.15,2020-12-30T10:16:00+08:00,6.42,125.15,29.0,2.6,014 km N 73° W of Malungon (Sarangani),2020_Earthquake_Information/December/2020_1230_0216_B2.html
+20201230T1323_9.76_126.24,2020-12-30T13:23:00+08:00,9.76,126.24,32.0,2.1,010 km S 74° E of General Luna (Surigao Del Norte),2020_Earthquake_Information/December/2020_1230_0523_B2.html
+20201230T1354_6.74_126.74,2020-12-30T13:54:00+08:00,6.74,126.74,159.0,2.5,056 km S 23° E of Manay (Davao Oriental),2020_Earthquake_Information/December/2020_1230_0554_B2.html
+20201230T1546_10.36_125.9,2020-12-30T15:46:00+08:00,10.36,125.9,32.0,2.3,035 km N 89° E of Loreto (Dinagat Islands),2020_Earthquake_Information/December/2020_1230_0746_B2.html
+20201230T1709_11.18_125.55,2020-12-30T17:09:00+08:00,11.18,125.55,30.0,2.2,028 km N 81° E of Lawaan (Eastern Samar),2020_Earthquake_Information/December/2020_1230_0909_B2.html
+20201230T1747_5.18_125.36,2020-12-30T17:47:00+08:00,5.18,125.36,15.0,3.1,027 km S 14° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1230_0947_B2.html
+20201230T1748_14.89_124.26,2020-12-30T17:48:00+08:00,14.89,124.26,3.0,2.4,094 km N 06° E of Pandan (Catanduanes),2020_Earthquake_Information/December/2020_1230_0948_B2.html
+20201230T1912_6.4_127.01,2020-12-30T19:12:00+08:00,6.4,127.01,33.0,3.2,100 km S 38° E of Tarragona (Davao Oriental),2020_Earthquake_Information/December/2020_1230_1112_B2.html
+20201230T2011_7.93_123.82,2020-12-30T20:11:00+08:00,7.93,123.82,4.0,2.9,014 km S 13° E of Tubod (Lanao Del Norte),2020_Earthquake_Information/December/2020_1230_1211_B2F.html
+20201230T2121_5.15_125.35,2020-12-30T21:21:00+08:00,5.15,125.35,24.0,3.3,031 km S 15° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1230_1321_B2F.html
+20201230T2127_5.74_127.28,2020-12-30T21:27:00+08:00,5.74,127.28,34.0,2.7,167 km S 53° E of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1230_1327_B2.html
+20201230T2201_9.67_122.43,2020-12-30T22:01:00+08:00,9.67,122.43,27.0,2.6,011 km S 02° W of City Of Sipalay (Negros Occidental),2020_Earthquake_Information/December/2020_1230_1401_B2.html
+20201230T2229_6.62_125.85,2020-12-30T22:29:00+08:00,6.62,125.85,18.0,2.4,025 km S 82° W of Governor Generoso (Davao Oriental),2020_Earthquake_Information/December/2020_1230_1429_B2.html
+20201230T2321_10.18_122.66,2020-12-30T23:21:00+08:00,10.18,122.66,10.0,2.4,023 km N 09° E of Cauayan (Negros Occidental),2020_Earthquake_Information/December/2020_1230_1521_B2.html
+20201230T2343_6.63_125.03,2020-12-30T23:43:00+08:00,6.63,125.03,33.0,2.4,010 km S 49° E of Columbio (Sultan Kudarat),2020_Earthquake_Information/December/2020_1230_1543_B2.html
+20201231T0051_6.53_125.68,2020-12-31T00:51:00+08:00,6.53,125.68,1.0,2.6,014 km N 31° E of Malita (Davao Occidental),2020_Earthquake_Information/December/2020_1230_1651_B2.html
+20201231T0139_5.36_125.35,2020-12-31T01:39:00+08:00,5.36,125.35,13.0,2.8,010 km S 52° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1230_1739_B2F.html
+20201231T0232_10.38_125.96,2020-12-31T02:32:00+08:00,10.38,125.96,18.0,2.7,042 km N 87° E of Loreto (Dinagat Islands),2020_Earthquake_Information/December/2020_1230_1832_B2.html
+20201231T0248_16.42_122.14,2020-12-31T02:48:00+08:00,16.42,122.14,7.0,2.1,016 km N 05° E of Casiguran (Aurora),2020_Earthquake_Information/December/2020_1230_1848_B2.html
+20201231T0251_8.93_126.45,2020-12-31T02:51:00+08:00,8.93,126.45,27.0,2.7,019 km S 76° E of Bayabas (Surigao Del Sur),2020_Earthquake_Information/December/2020_1230_1851_B2.html
+20201231T0350_5.44_125.34,2020-12-31T03:50:00+08:00,5.44,125.34,11.0,3.3,009 km N 68° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1230_1950_B2F.html
+20201231T0503_5.05_125.39,2020-12-31T05:03:00+08:00,5.05,125.39,35.0,3.3,040 km S 05° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1230_2103_B2F.html
+20201231T0508_9.86_125.44,2020-12-31T05:08:00+08:00,9.86,125.44,30.0,2.0,010 km N 38° W of City Of Surigao (Surigao Del Norte),2020_Earthquake_Information/December/2020_1230_2108_B2.html
+20201231T0527_7.62_127.17,2020-12-31T05:27:00+08:00,7.62,127.17,8.0,3.5,067 km N 85° E of Baganga (Davao Oriental),2020_Earthquake_Information/December/2020_1230_2127_B2F.html
+20201231T0635_5.34_125.27,2020-12-31T06:35:00+08:00,5.34,125.27,11.0,3.4,019 km S 66° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1230_2235_B2F.html
+20201231T0702_5.02_125.36,2020-12-31T07:02:00+08:00,5.02,125.36,8.0,4.2,044 km S 08° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1230_2302_B2F.html
+20201231T0737_9.83_125.75,2020-12-31T07:37:00+08:00,9.83,125.75,139.0,2.4,013 km S 41° E of Cagdianao (Dinagat Islands),2020_Earthquake_Information/December/2020_1230_2337_B2.html
+20201231T0859_5.2_125.2,2020-12-31T08:59:00+08:00,5.2,125.2,13.0,2.4,034 km S 46° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1231_0059_B2F.html
+20201231T0922_11.34_124.62,2020-12-31T09:22:00+08:00,11.34,124.62,3.0,2.4,015 km S 78° E of Leyte (Leyte),2020_Earthquake_Information/December/2020_1231_0122_B2.html
+20201231T1016_7.59_126.31,2020-12-31T10:16:00+08:00,7.59,126.31,7.0,2.1,028 km N 87° W of Baganga (Davao Oriental),2020_Earthquake_Information/December/2020_1231_0216_B2.html
+20201231T1141_13.58_120.67,2020-12-31T11:41:00+08:00,13.58,120.67,97.0,2.6,016 km N 21° W of Abra De Ilog (Occidental Mindoro),2020_Earthquake_Information/December/2020_1231_0341_B2.html
+20201231T1229_5.39_125.42,2020-12-31T12:29:00+08:00,5.39,125.42,18.0,3.2,002 km S 03° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1231_0429_B2.html
+20201231T1236_5.49_125.36,2020-12-31T12:36:00+08:00,5.49,125.36,5.0,2.8,011 km N 39° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1231_0436_B2.html
+20201231T1241_5.23_126.68,2020-12-31T12:41:00+08:00,5.23,126.68,71.0,2.0,137 km S 56° E of Jose Abad Santos (Davao Occidental),2020_Earthquake_Information/December/2020_1231_0441_B2.html
+20201231T1245_5.65_125.34,2020-12-31T12:45:00+08:00,5.65,125.34,3.0,3.4,028 km N 20° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1231_0445_B2.html
+20201231T1257_13.75_120.58,2020-12-31T12:57:00+08:00,13.75,120.58,95.0,2.8,011 km S 31° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1231_0457_B2.html
+20201231T1353_13.78_120.57,2020-12-31T13:53:00+08:00,13.78,120.57,83.0,2.1,009 km S 46° W of Calatagan (Batangas),2020_Earthquake_Information/December/2020_1231_0553_B2.html
+20201231T1450_9.89_122.91,2020-12-31T14:50:00+08:00,9.89,122.91,7.0,2.8,017 km S 42° E of City Of Kabankalan (Negros Occidental),2020_Earthquake_Information/December/2020_1231_0650_B2.html
+20201231T1514_13.47_122.29,2020-12-31T15:14:00+08:00,13.47,122.29,1.0,2.2,014 km S 62° W of Mulanay (Quezon),2020_Earthquake_Information/December/2020_1231_0714_B2.html
+20201231T1701_8.59_126.6,2020-12-31T17:01:00+08:00,8.59,126.6,26.0,2.3,038 km N 50° E of Hinatuan (Surigao Del Sur),2020_Earthquake_Information/December/2020_1231_0901_B2.html
+20201231T1720_9.72_123.87,2020-12-31T17:20:00+08:00,9.72,123.87,11.0,3.6,007 km N 08° E of City Of Tagbilaran (Bohol),2020_Earthquake_Information/December/2020_1231_0920_B3F.html
+20201231T1809_4.48_126.41,2020-12-31T18:09:00+08:00,4.48,126.41,6.0,3.1,151 km S 47° E of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1231_1009_B2.html
+20201231T2001_10.22_126.09,2020-12-31T20:01:00+08:00,10.22,126.09,9.0,2.0,022 km N 04° E of Burgos (Surigao Del Norte),2020_Earthquake_Information/December/2020_1231_1201_B2.html
+20201231T2159_6.0_124.88,2020-12-31T21:59:00+08:00,6.0,124.88,23.0,2.2,020 km N 41° W of Maasim (Sarangani),2020_Earthquake_Information/December/2020_1231_1359_B2.html
+20201231T2221_17.37_120.61,2020-12-31T22:21:00+08:00,17.37,120.61,10.0,2.7,012 km S 53° W of Manabo (Abra),2020_Earthquake_Information/December/2020_1231_1421_B2.html
+20201231T2318_5.17_125.25,2020-12-31T23:18:00+08:00,5.17,125.25,23.0,3.2,033 km S 36° W of Sarangani (Davao Occidental),2020_Earthquake_Information/December/2020_1231_1518_B2F.html

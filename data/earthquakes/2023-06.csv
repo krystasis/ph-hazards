@@ -1,0 +1,1076 @@
+event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
+20230601T0000_8.88_125.74,2023-06-01T00:00:00+08:00,8.88,125.74,6.0,3.2,009 km N 39° E of Sibagat (Agusan Del Sur),2023_Earthquake_Information/May/2023_0531_1600_B2.html
+20230601T0046_6.56_125.26,2023-06-01T00:46:00+08:00,6.56,125.26,22.0,3.2,007 km S 07° E of Kiblawan (Davao Del Sur),2023_Earthquake_Information/May/2023_0531_1646_B2F.html
+20230601T0053_7.06_126.97,2023-06-01T00:53:00+08:00,7.06,126.97,20.0,2.4,050 km S 71° E of Manay (Davao Oriental),2023_Earthquake_Information/May/2023_0531_1653_B1.html
+20230601T0101_7.18_125.59,2023-06-01T01:01:00+08:00,7.18,125.59,24.0,2.3,015 km S 36° W of City Of Panabo (Davao Del Norte),2023_Earthquake_Information/May/2023_0531_1701_B2.html
+20230601T0137_13.36_120.38,2023-06-01T01:37:00+08:00,13.36,120.38,30.0,3.8,011 km S 58° W of Paluan (Occidental Mindoro),2023_Earthquake_Information/May/2023_0531_1737_B2.html
+20230601T0148_14.8_121.82,2023-06-01T01:48:00+08:00,14.8,121.82,35.0,1.4,020 km N 72° E of Infanta (Quezon),2023_Earthquake_Information/May/2023_0531_1748_B1F.html
+20230601T0254_10.05_126.0,2023-06-01T02:54:00+08:00,10.05,126.0,13.0,3.7,009 km N 63° W of Burgos (Surigao Del Norte),2023_Earthquake_Information/May/2023_0531_1854_B2.html
+20230601T0303_10.11_126.11,2023-06-01T03:03:00+08:00,10.11,126.11,29.0,1.6,011 km N 19° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/May/2023_0531_1903_B1.html
+20230601T0328_9.64_126.18,2023-06-01T03:28:00+08:00,9.64,126.18,33.0,1.7,016 km S 09° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/May/2023_0531_1928_B2.html
+20230601T0336_19.2_121.11,2023-06-01T03:36:00+08:00,19.2,121.11,11.0,2.1,015 km N 44° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/May/2023_0531_1936_B2.html
+20230601T0420_6.84_126.38,2023-06-01T04:20:00+08:00,6.84,126.38,29.0,2.3,022 km S 54° E of City Of Mati (Davao Oriental),2023_Earthquake_Information/May/2023_0531_2020_B1.html
+20230601T0632_4.01_125.76,2023-06-01T06:32:00+08:00,4.01,125.76,118.0,2.9,178 km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/May/2023_0531_2232_B1.html
+20230601T0653_17.58_122.4,2023-06-01T06:53:00+08:00,17.58,122.4,38.0,2.3,027 km N 39° E of Maconacon (Isabela),2023_Earthquake_Information/May/2023_0531_2253_B1.html
+20230601T1045_8.52_122.68,2023-06-01T10:45:00+08:00,8.52,122.68,28.0,3.2,039 km N 77° W of Jose Dalman (Zamboanga Del Norte),2023_Earthquake_Information/June/2023_0601_0245_B2.html
+20230601T1240_5.1_125.77,2023-06-01T12:40:00+08:00,5.1,125.77,98.0,3.2,051 km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0601_0440_B2.html
+20230601T1444_18.38_120.61,2023-06-01T14:44:00+08:00,18.38,120.61,27.0,1.6,006 km N 10° W of Pasuquin (Ilocos Norte),2023_Earthquake_Information/June/2023_0601_0644_B2.html
+20230601T1510_13.83_120.4,2023-06-01T15:10:00+08:00,13.83,120.4,73.0,3.3,021 km N 53° E of Looc (Occidental Mindoro),2023_Earthquake_Information/June/2023_0601_0710_B2.html
+20230601T1652_15.21_120.16,2023-06-01T16:52:00+08:00,15.21,120.16,7.0,2.2,012 km N 65° E of Cabangan (Zambales),2023_Earthquake_Information/June/2023_0601_0852_B1.html
+20230601T1805_12.27_121.36,2023-06-01T18:05:00+08:00,12.27,121.36,33.0,1.6,007 km S 19° E of Bulalacao (Oriental Mindoro),2023_Earthquake_Information/June/2023_0601_1005_B2.html
+20230601T2034_10.42_125.29,2023-06-01T20:34:00+08:00,10.42,125.29,16.0,2.6,011 km N 72° E of Hinunangan (Southern Leyte),2023_Earthquake_Information/June/2023_0601_1234_B2F.html
+20230601T2053_9.38_126.9,2023-06-01T20:53:00+08:00,9.38,126.9,19.0,2.7,078 km N 82° E of Cortes (Surigao Del Sur),2023_Earthquake_Information/June/2023_0601_1253_B2.html
+20230601T2111_13.24_119.91,2023-06-01T21:11:00+08:00,13.24,119.91,12.0,3.0,063 km S 72° W of Paluan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0601_1311_B2.html
+20230601T2119_9.94_122.58,2023-06-01T21:19:00+08:00,9.94,122.58,16.0,2.3,007 km S 53° W of Cauayan (Negros Occidental),2023_Earthquake_Information/June/2023_0601_1319_B1.html
+20230601T2125_14.09_120.39,2023-06-01T21:25:00+08:00,14.09,120.39,59.0,2.0,026 km N 86° W of Nasugbu (Batangas),2023_Earthquake_Information/June/2023_0601_1325_B1.html
+20230601T2350_10.07_122.04,2023-06-01T23:50:00+08:00,10.07,122.04,17.0,2.8,041 km S 17° E of Anini-y (Antique),2023_Earthquake_Information/June/2023_0601_1550_B2.html
+20230601T2355_9.6_126.34,2023-06-01T23:55:00+08:00,9.6,126.34,12.0,2.9,028 km S 45° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0601_1555_B2.html
+20230602T0043_16.42_120.95,2023-06-02T00:43:00+08:00,16.42,120.95,2.0,3.0,009 km N 47° E of Kayapa (Nueva Vizcaya),2023_Earthquake_Information/June/2023_0601_1643_B2.html
+20230602T0111_11.07_121.74,2023-06-02T01:11:00+08:00,11.07,121.74,28.0,2.9,033 km N 59° W of Patnongon (Antique),2023_Earthquake_Information/June/2023_0601_1711_B2.html
+20230602T0131_11.07_121.88,2023-06-02T01:31:00+08:00,11.07,121.88,7.0,2.8,020 km N 83° W of Bugasong (Antique),2023_Earthquake_Information/June/2023_0601_1731_B2.html
+20230602T0146_5.48_125.18,2023-06-02T01:46:00+08:00,5.48,125.18,18.0,2.0,028 km N 75° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0601_1746_B2.html
+20230602T0233_11.0_121.77,2023-06-02T02:33:00+08:00,11.0,121.77,20.0,2.6,027 km N 69° W of Patnongon (Antique),2023_Earthquake_Information/June/2023_0601_1833_B2.html
+20230602T0309_9.19_126.25,2023-06-02T03:09:00+08:00,9.19,126.25,26.0,2.2,011 km S 35° E of Cortes (Surigao Del Sur),2023_Earthquake_Information/June/2023_0601_1909_B2.html
+20230602T0316_19.16_121.14,2023-06-02T03:16:00+08:00,19.16,121.14,22.0,1.7,009 km N 53° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0601_1916_B2.html
+20230602T0323_6.09_126.86,2023-06-02T03:23:00+08:00,6.09,126.86,172.0,2.8,107 km S 54° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0601_1923_B2.html
+20230602T0326_17.44_120.65,2023-06-02T03:26:00+08:00,17.44,120.65,23.0,2.8,006 km S 62° E of San Isidro (Abra),2023_Earthquake_Information/June/2023_0601_1926_B2.html
+20230602T0359_10.99_121.75,2023-06-02T03:59:00+08:00,10.99,121.75,2.0,3.4,028 km N 73° W of Patnongon (Antique),2023_Earthquake_Information/June/2023_0601_1959_B2.html
+20230602T0524_11.18_125.69,2023-06-02T05:24:00+08:00,11.18,125.69,20.0,3.9,004 km N 43° E of Salcedo (Eastern Samar),2023_Earthquake_Information/June/2023_0601_2124_B3F.html
+20230602T0538_5.27_125.89,2023-06-02T05:38:00+08:00,5.27,125.89,123.0,4.0,051 km S 64° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0601_2138_B2.html
+20230602T0653_13.36_120.1,2023-06-02T06:53:00+08:00,13.36,120.1,8.0,2.7,043 km S 23° W of Looc (Occidental Mindoro),2023_Earthquake_Information/June/2023_0601_2253_B2.html
+20230602T0737_13.53_120.72,2023-06-02T07:37:00+08:00,13.53,120.72,90.0,1.8,009 km N 07° W of Abra De Ilog (Occidental Mindoro),2023_Earthquake_Information/June/2023_0601_2337_B2.html
+20230602T0940_10.34_125.23,2023-06-02T09:40:00+08:00,10.34,125.23,17.0,3.2,003 km S 68° W of Hinundayan (Southern Leyte),2023_Earthquake_Information/June/2023_0602_0140_B2F.html
+20230602T0959_12.77_123.39,2023-06-02T09:59:00+08:00,12.77,123.39,8.0,2.6,022 km S 48° E of Claveria (Masbate),2023_Earthquake_Information/June/2023_0602_0159_B2F.html
+20230602T1151_14.12_120.43,2023-06-02T11:51:00+08:00,14.12,120.43,110.0,2.2,022 km N 76° W of Nasugbu (Batangas),2023_Earthquake_Information/June/2023_0602_0351_B2.html
+20230602T1337_11.09_121.82,2023-06-02T13:37:00+08:00,11.09,121.82,6.0,2.5,027 km N 46° W of Patnongon (Antique),2023_Earthquake_Information/June/2023_0602_0537_B2.html
+20230602T1351_8.9_126.21,2023-06-02T13:51:00+08:00,8.9,126.21,22.0,2.8,010 km S 79° W of Cagwait (Surigao Del Sur),2023_Earthquake_Information/June/2023_0602_0551_B1.html
+20230602T1453_14.98_122.83,2023-06-02T14:53:00+08:00,14.98,122.83,1.0,2.4,057 km N 13° W of Tinaga Island (Vinzons) (Camarines Norte),2023_Earthquake_Information/June/2023_0602_0653_B2.html
+20230602T1531_8.56_122.57,2023-06-02T15:31:00+08:00,8.56,122.57,7.0,3.2,050 km N 13° W of Liloy (Zamboanga Del Norte),2023_Earthquake_Information/June/2023_0602_0731_B2.html
+20230602T1637_10.59_122.73,2023-06-02T16:37:00+08:00,10.59,122.73,88.0,2.6,005 km S 85° E of San Lorenzo (Guimaras),2023_Earthquake_Information/June/2023_0602_0837_B2.html
+20230602T1726_9.49_126.62,2023-06-02T17:26:00+08:00,9.49,126.62,35.0,1.9,053 km N 63° E of Cortes (Surigao Del Sur),2023_Earthquake_Information/June/2023_0602_0926_B1.html
+20230602T1834_9.36_126.27,2023-06-02T18:34:00+08:00,9.36,126.27,22.0,2.0,013 km N 44° E of Cortes (Surigao Del Sur),2023_Earthquake_Information/June/2023_0602_1034_B1.html
+20230602T1916_9.58_125.35,2023-06-02T19:16:00+08:00,9.58,125.35,25.0,2.2,007 km S 57° W of Malimono (Surigao Del Norte),2023_Earthquake_Information/June/2023_0602_1116_B2.html
+20230602T1935_9.73_122.39,2023-06-02T19:35:00+08:00,9.73,122.39,20.0,2.0,007 km S 44° W of City Of Sipalay (Negros Occidental),2023_Earthquake_Information/June/2023_0602_1135_B1.html
+20230602T1940_8.29_126.22,2023-06-02T19:40:00+08:00,8.29,126.22,6.0,3.3,016 km S 58° W of Hinatuan (Surigao Del Sur),2023_Earthquake_Information/June/2023_0602_1140_B2.html
+20230602T1941_11.03_121.77,2023-06-02T19:41:00+08:00,11.03,121.77,32.0,2.2,028 km N 63° W of Patnongon (Antique),2023_Earthquake_Information/June/2023_0602_1141_B2.html
+20230602T2104_9.59_122.35,2023-06-02T21:04:00+08:00,9.59,122.35,28.0,2.6,013 km S 86° W of Hinoba-an (Negros Occidental),2023_Earthquake_Information/June/2023_0602_1304_B2.html
+20230602T2106_19.35_121.61,2023-06-02T21:06:00+08:00,19.35,121.61,44.0,2.4,017 km N 55° E of Calayan (Cagayan),2023_Earthquake_Information/June/2023_0602_1306_B1.html
+20230602T2133_6.57_125.83,2023-06-02T21:33:00+08:00,6.57,125.83,139.0,2.4,029 km S 70° W of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0602_1333_B2.html
+20230602T2159_8.21_123.66,2023-06-02T21:59:00+08:00,8.21,123.66,13.0,2.2,012 km S 87° E of Josefina (Zamboanga Del Sur),2023_Earthquake_Information/June/2023_0602_1359_B2.html
+20230602T2257_12.31_121.9,2023-06-02T22:57:00+08:00,12.31,121.9,1.0,2.8,013 km S 43° W of Odiongan (Romblon),2023_Earthquake_Information/June/2023_0602_1457_B2F.html
+20230602T2319_20.08_120.43,2023-06-02T23:19:00+08:00,20.08,120.43,15.0,3.1,135 km N 37° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0602_1519_B1.html
+20230602T2322_17.99_120.87,2023-06-02T23:22:00+08:00,17.99,120.87,23.0,1.6,016 km S 43° E of Solsona (Ilocos Norte),2023_Earthquake_Information/June/2023_0602_1522_B2.html
+20230602T2339_6.19_120.85,2023-06-02T23:39:00+08:00,6.19,120.85,9.0,4.2,016 km N 55° W of Hadji Panglima Tahil (Sulu),2023_Earthquake_Information/June/2023_0602_1539_B3F.html
+20230603T0018_8.48_126.78,2023-06-03T00:18:00+08:00,8.48,126.78,28.0,2.1,050 km N 76° E of Hinatuan (Surigao Del Sur),2023_Earthquake_Information/June/2023_0602_1618_B1.html
+20230603T0022_12.38_123.69,2023-06-03T00:22:00+08:00,12.38,123.69,17.0,4.6,008 km N 85° E of City Of Masbate (Masbate),2023_Earthquake_Information/June/2023_0602_1622_B3F.html
+20230603T0059_12.36_123.78,2023-06-03T00:59:00+08:00,12.36,123.78,1.0,2.3,007 km S 05° W of Batuan (Masbate),2023_Earthquake_Information/June/2023_0602_1659_B2.html
+20230603T0107_5.65_126.96,2023-06-03T01:07:00+08:00,5.65,126.96,108.0,3.3,149 km S 79° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0602_1707_B2.html
+20230603T0108_12.38_123.73,2023-06-03T01:08:00+08:00,12.38,123.73,8.0,2.6,007 km S 52° W of Batuan (Masbate),2023_Earthquake_Information/June/2023_0602_1708_B2F.html
+20230603T0115_17.98_120.77,2023-06-03T01:15:00+08:00,17.98,120.77,2.0,1.5,012 km N 88° E of Banna (Ilocos Norte),2023_Earthquake_Information/June/2023_0602_1715_B1.html
+20230603T0126_12.37_123.68,2023-06-03T01:26:00+08:00,12.37,123.68,8.0,2.4,004 km N 34° E of Mobo (Masbate),2023_Earthquake_Information/June/2023_0602_1726_B2.html
+20230603T0140_6.14_120.9,2023-06-03T01:40:00+08:00,6.14,120.9,20.0,4.4,008 km N 55° W of Hadji Panglima Tahil (Sulu),2023_Earthquake_Information/June/2023_0602_1740_B4F.html
+20230603T0143_9.75_125.46,2023-06-03T01:43:00+08:00,9.75,125.46,30.0,2.1,006 km S 36° W of City Of Surigao (Surigao Del Norte),2023_Earthquake_Information/June/2023_0602_1743_B2.html
+20230603T0221_3.93_126.44,2023-06-03T02:21:00+08:00,3.93,126.44,84.0,3.1,199 km S 34° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0602_1821_B1.html
+20230603T0232_19.53_121.31,2023-06-03T02:32:00+08:00,19.53,121.31,27.0,2.3,034 km N 30° W of Calayan (Cagayan),2023_Earthquake_Information/June/2023_0602_1832_B2.html
+20230603T0235_12.27_123.84,2023-06-03T02:35:00+08:00,12.27,123.84,13.0,2.5,008 km N 47° E of Uson (Masbate),2023_Earthquake_Information/June/2023_0602_1835_B2.html
+20230603T0307_3.33_126.49,2023-06-03T03:07:00+08:00,3.33,126.49,33.0,3.9,259 km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0602_1907_B2.html
+20230603T0318_12.44_123.7,2023-06-03T03:18:00+08:00,12.44,123.7,18.0,2.4,008 km S 57° W of San Fernando (Masbate),2023_Earthquake_Information/June/2023_0602_1918_B2.html
+20230603T0326_9.57_122.15,2023-06-03T03:26:00+08:00,9.57,122.15,24.0,2.0,035 km S 83° W of Hinoba-an (Negros Occidental),2023_Earthquake_Information/June/2023_0602_1926_B2.html
+20230603T0333_12.3_121.91,2023-06-03T03:33:00+08:00,12.3,121.91,7.0,2.9,005 km S 45° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0602_1933_B2F.html
+20230603T0412_8.67_126.14,2023-06-03T04:12:00+08:00,8.67,126.14,34.0,1.8,013 km S 49° W of San Agustin (Surigao Del Sur),2023_Earthquake_Information/June/2023_0602_2012_B1.html
+20230603T0520_10.0_126.2,2023-06-03T05:20:00+08:00,10.0,126.2,27.0,1.5,014 km S 80° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0602_2120_B2.html
+20230603T0531_4.56_125.2,2023-06-03T05:31:00+08:00,4.56,125.2,51.0,3.4,098 km S 14° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0602_2131_B2.html
+20230603T0540_4.54_125.27,2023-06-03T05:40:00+08:00,4.54,125.27,54.0,4.3,098 km S 10° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0602_2140_B2.html
+20230603T0604_12.43_123.68,2023-06-03T06:04:00+08:00,12.43,123.68,25.0,1.8,009 km N 42° E of City Of Masbate (Masbate),2023_Earthquake_Information/June/2023_0602_2204_B1.html
+20230603T0627_12.37_123.66,2023-06-03T06:27:00+08:00,12.37,123.66,10.0,1.6,004 km S 88° E of City Of Masbate (Masbate),2023_Earthquake_Information/June/2023_0602_2227_B1.html
+20230603T0628_6.65_125.21,2023-06-03T06:28:00+08:00,6.65,125.21,30.0,2.1,006 km N 55° W of Kiblawan (Davao Del Sur),2023_Earthquake_Information/June/2023_0602_2228_B1.html
+20230603T0635_6.19_126.52,2023-06-03T06:35:00+08:00,6.19,126.52,33.0,2.4,071 km S 44° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0602_2235_B1.html
+20230603T0936_12.68_122.19,2023-06-03T09:36:00+08:00,12.68,122.19,6.0,2.5,014 km N 36° W of Romblon (Romblon),2023_Earthquake_Information/June/2023_0603_0136_B2.html
+20230603T1027_8.73_126.51,2023-06-03T10:27:00+08:00,8.73,126.51,25.0,1.8,024 km S 71° E of Marihatag (Surigao Del Sur),2023_Earthquake_Information/June/2023_0603_0227_B1.html
+20230603T1125_15.32_119.96,2023-06-03T11:25:00+08:00,15.32,119.96,27.0,1.6,002 km S 62° W of Iba (Zambales),2023_Earthquake_Information/June/2023_0603_0325_B2.html
+20230603T1151_5.57_125.22,2023-06-03T11:51:00+08:00,5.57,125.22,11.0,2.3,028 km N 52° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0603_0351_B1.html
+20230603T1223_13.48_125.49,2023-06-03T12:23:00+08:00,13.48,125.49,29.0,3.0,111 km N 21° E of Palapag (Northern Samar),2023_Earthquake_Information/June/2023_0603_0423_B2.html
+20230603T1239_9.82_127.03,2023-06-03T12:39:00+08:00,9.82,127.03,3.0,2.9,096 km N 88° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0603_0439_B2.html
+20230603T1306_12.36_123.56,2023-06-03T13:06:00+08:00,12.36,123.56,2.0,1.7,007 km S 81° W of City Of Masbate (Masbate),2023_Earthquake_Information/June/2023_0603_0506_B1.html
+20230603T1539_5.42_127.35,2023-06-03T15:39:00+08:00,5.42,127.35,110.0,3.2,197 km S 74° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0603_0739_B2.html
+20230603T1639_6.38_124.67,2023-06-03T16:39:00+08:00,6.38,124.67,9.0,4.5,005 km S 17° W of Santo Niño (South Cotabato),2023_Earthquake_Information/June/2023_0603_0839_B3F.html
+20230603T1646_9.88_122.23,2023-06-03T16:46:00+08:00,9.88,122.23,19.0,2.2,026 km N 61° W of City Of Sipalay (Negros Occidental),2023_Earthquake_Information/June/2023_0603_0846_B1.html
+20230603T1927_8.01_127.48,2023-06-03T19:27:00+08:00,8.01,127.48,15.0,3.4,112 km N 65° E of Baganga (Davao Oriental),2023_Earthquake_Information/June/2023_0603_1127_B2.html
+20230603T1956_12.45_123.63,2023-06-03T19:56:00+08:00,12.45,123.63,4.0,2.2,008 km N 02° E of City Of Masbate (Masbate),2023_Earthquake_Information/June/2023_0603_1156_B2.html
+20230603T2032_15.55_121.75,2023-06-03T20:32:00+08:00,15.55,121.75,29.0,1.6,031 km S 41° E of Baler (Aurora),2023_Earthquake_Information/June/2023_0603_1232_B1_Aurora.html
+20230603T2032_17.96_120.7,2023-06-03T20:32:00+08:00,17.96,120.7,24.0,2.5,005 km S 58° E of Banna (Ilocos Norte),2023_Earthquake_Information/June/2023_0603_1232_B2_Ilocos_Norte.html
+20230603T2034_15.53_119.84,2023-06-03T20:34:00+08:00,15.53,119.84,27.0,1.8,013 km S 87° W of Masinloc (Zambales),2023_Earthquake_Information/June/2023_0603_1234_B2.html
+20230603T2229_12.33_121.89,2023-06-03T22:29:00+08:00,12.33,121.89,6.0,3.9,005 km S 82° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0603_1429_B2F.html
+20230603T2238_6.22_126.79,2023-06-03T22:38:00+08:00,6.22,126.79,31.0,2.9,093 km S 59° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0603_1438_B1.html
+20230603T2302_11.22_125.96,2023-06-03T23:02:00+08:00,11.22,125.96,1.0,2.5,033 km N 52° E of Guiuan (Eastern Samar),2023_Earthquake_Information/June/2023_0603_1502_B2.html
+20230604T0148_18.77_120.8,2023-06-04T01:48:00+08:00,18.77,120.8,1.0,2.4,024 km N 04° E of Pagudpud (Ilocos Norte),2023_Earthquake_Information/June/2023_0603_1748_B2.html
+20230604T0158_3.29_126.55,2023-06-04T01:58:00+08:00,3.29,126.55,79.0,4.1,266 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0603_1758_B2.html
+20230604T0229_19.41_121.76,2023-06-04T02:29:00+08:00,19.41,121.76,29.0,2.2,020 km S 54° W of Babuyan Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0603_1829_B2.html
+20230604T0243_19.13_121.07,2023-06-04T02:43:00+08:00,19.13,121.07,17.0,2.9,014 km N 81° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0603_1843_B2.html
+20230604T0313_7.18_123.65,2023-06-04T03:13:00+08:00,7.18,123.65,29.0,2.7,041 km S 40° E of Tabina (Zamboanga Del Sur),2023_Earthquake_Information/June/2023_0603_1913_B2.html
+20230604T0409_14.72_121.57,2023-06-04T04:09:00+08:00,14.72,121.57,1.0,2.4,009 km S 68° W of Infanta (Quezon),2023_Earthquake_Information/June/2023_0603_2009_B2F.html
+20230604T0410_14.69_121.62,2023-06-04T04:10:00+08:00,14.69,121.62,5.0,2.4,006 km S 24° W of Infanta (Quezon),2023_Earthquake_Information/June/2023_0603_2010_B2F.html
+20230604T0500_9.23_126.39,2023-06-04T05:00:00+08:00,9.23,126.39,24.0,2.4,022 km S 76° E of Cortes (Surigao Del Sur),2023_Earthquake_Information/June/2023_0603_2100_B2.html
+20230604T0827_17.62_122.39,2023-06-04T08:27:00+08:00,17.62,122.39,33.0,2.7,031 km N 32° E of Maconacon (Isabela),2023_Earthquake_Information/June/2023_0604_0027_B2.html
+20230604T1114_14.59_123.11,2023-06-04T11:14:00+08:00,14.59,123.11,1.0,4.3,021 km N 55° E of Tinaga Island (Vinzons) (Camarines Norte),2023_Earthquake_Information/June/2023_0604_0314_B2F.html
+20230604T1127_8.78_126.11,2023-06-04T11:27:00+08:00,8.78,126.11,13.0,4.0,013 km N 72° W of San Agustin (Surigao Del Sur),2023_Earthquake_Information/June/2023_0604_0327_B3.html
+20230604T1142_13.58_120.19,2023-06-04T11:42:00+08:00,13.58,120.19,4.0,3.4,017 km S 22° W of Looc (Occidental Mindoro),2023_Earthquake_Information/June/2023_0604_0342_B2.html
+20230604T1231_13.54_120.06,2023-06-04T12:31:00+08:00,13.54,120.06,2.0,2.8,029 km S 46° W of Looc (Occidental Mindoro),2023_Earthquake_Information/June/2023_0604_0431_B2.html
+20230604T1530_18.03_119.25,2023-06-04T15:30:00+08:00,18.03,119.25,26.0,3.1,128 km N 68° W of Santa Catalina (Ilocos Sur),2023_Earthquake_Information/June/2023_0604_0730_B2.html
+20230604T1534_7.25_123.75,2023-06-04T15:34:00+08:00,7.25,123.75,33.0,2.0,036 km N 56° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),2023_Earthquake_Information/June/2023_0604_0734_B1.html
+20230604T1535_7.23_123.71,2023-06-04T15:35:00+08:00,7.23,123.71,33.0,1.7,039 km N 63° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),2023_Earthquake_Information/June/2023_0604_0735_B2.html
+20230604T1647_10.17_124.94,2023-06-04T16:47:00+08:00,10.17,124.94,3.0,2.0,007 km N 82° W of Malitbog (Southern Leyte),2023_Earthquake_Information/June/2023_0604_0847_B1.html
+20230604T1739_5.71_126.08,2023-06-04T17:39:00+08:00,5.71,126.08,30.0,2.6,053 km S 65° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0604_0939_B2.html
+20230604T1821_11.19_125.4,2023-06-04T18:21:00+08:00,11.19,125.4,41.0,2.2,009 km N 08° E of Balangiga (Eastern Samar),2023_Earthquake_Information/June/2023_0604_1021_B1.html
+20230604T1906_14.19_120.44,2023-06-04T19:06:00+08:00,14.19,120.44,115.0,2.1,025 km N 59° W of Nasugbu (Batangas),2023_Earthquake_Information/June/2023_0604_1106_B2.html
+20230604T1913_9.28_125.43,2023-06-04T19:13:00+08:00,9.28,125.43,1.0,2.9,014 km N 85° W of Santiago (Agusan Del Norte),2023_Earthquake_Information/June/2023_0604_1113_B2.html
+20230604T1926_8.79_126.66,2023-06-04T19:26:00+08:00,8.79,126.66,14.0,2.5,039 km S 88° E of Marihatag (Surigao Del Sur),2023_Earthquake_Information/June/2023_0604_1126_B2.html
+20230604T2012_11.24_125.51,2023-06-04T20:12:00+08:00,11.24,125.51,25.0,2.5,003 km S 71° W of General Macarthur (Eastern Samar),2023_Earthquake_Information/June/2023_0604_1212_B2.html
+20230604T2028_6.26_125.25,2023-06-04T20:28:00+08:00,6.26,125.25,111.0,3.2,014 km S 11° W of Malungon (Sarangani),2023_Earthquake_Information/June/2023_0604_1228_B2.html
+20230604T2059_9.4_126.39,2023-06-04T20:59:00+08:00,9.4,126.39,36.0,1.7,025 km N 57° E of Cortes (Surigao Del Sur),2023_Earthquake_Information/June/2023_0604_1259_B1.html
+20230604T2108_17.56_120.76,2023-06-04T21:08:00+08:00,17.56,120.76,9.0,2.4,004 km N 62° E of Bucay (Abra),2023_Earthquake_Information/June/2023_0604_1308_B2.html
+20230604T2135_14.13_120.38,2023-06-04T21:35:00+08:00,14.13,120.38,117.0,2.6,028 km N 77° W of Nasugbu (Batangas),2023_Earthquake_Information/June/2023_0604_1335_B2.html
+20230604T2147_8.73_126.18,2023-06-04T21:47:00+08:00,8.73,126.18,4.0,2.5,005 km S 72° W of San Agustin (Surigao Del Sur),2023_Earthquake_Information/June/2023_0604_1347_B2.html
+20230604T2210_17.58_120.52,2023-06-04T22:10:00+08:00,17.58,120.52,10.0,2.4,004 km N 06° E of San Quintin (Abra),2023_Earthquake_Information/June/2023_0604_1410_B2.html
+20230604T2224_16.52_122.23,2023-06-04T22:24:00+08:00,16.52,122.23,11.0,2.2,004 km S 82° W of Dinapigue (Isabela),2023_Earthquake_Information/June/2023_0604_1424_B2.html
+20230604T2316_9.8_125.5,2023-06-04T23:16:00+08:00,9.8,125.5,19.0,1.7,002 km N 47° E of City Of Surigao (Surigao Del Norte),2023_Earthquake_Information/June/2023_0604_1516_B2.html
+20230604T2329_9.67_122.41,2023-06-04T23:29:00+08:00,9.67,122.41,17.0,2.4,009 km N 41° W of Hinoba-an (Negros Occidental),2023_Earthquake_Information/June/2023_0604_1529_B1.html
+20230605T0009_7.77_124.63,2023-06-05T00:09:00+08:00,7.77,124.63,2.0,2.5,013 km N 75° W of Kalilangan (Bukidnon),2023_Earthquake_Information/June/2023_0604_1609_B2.html
+20230605T0013_17.56_120.73,2023-06-05T00:13:00+08:00,17.56,120.73,26.0,1.8,002 km N 26° E of Bucay (Abra),2023_Earthquake_Information/June/2023_0604_1613_B1.html
+20230605T0021_9.64_126.22,2023-06-05T00:21:00+08:00,9.64,126.22,33.0,1.9,018 km S 24° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0604_1621_B2.html
+20230605T0033_13.91_120.01,2023-06-05T00:33:00+08:00,13.91,120.01,7.0,1.7,014 km N 66° W of Lubang (Occidental Mindoro),2023_Earthquake_Information/June/2023_0604_1633_B2.html
+20230605T0054_9.95_125.42,2023-06-05T00:54:00+08:00,9.95,125.42,11.0,2.6,016 km N 76° E of San Ricardo (Southern Leyte),2023_Earthquake_Information/June/2023_0604_1654_B2.html
+20230605T0136_5.73_124.72,2023-06-05T01:36:00+08:00,5.73,124.72,31.0,2.1,030 km S 20° E of Kiamba (Sarangani),2023_Earthquake_Information/June/2023_0604_1736_B2.html
+20230605T0149_11.23_126.17,2023-06-05T01:49:00+08:00,11.23,126.17,2.0,3.2,052 km N 74° E of Mercedes (Eastern Samar),2023_Earthquake_Information/June/2023_0604_1749_B2.html
+20230605T0204_9.5_125.56,2023-06-05T02:04:00+08:00,9.5,125.56,33.0,2.0,004 km N 30° W of Alegria (Surigao Del Norte),2023_Earthquake_Information/June/2023_0604_1804_B1.html
+20230605T0224_18.63_120.93,2023-06-05T02:24:00+08:00,18.63,120.93,1.0,2.2,009 km N 43° W of Santa Praxedes (Cagayan),2023_Earthquake_Information/June/2023_0604_1824_B1.html
+20230605T0251_18.65_120.74,2023-06-05T02:51:00+08:00,18.65,120.74,31.0,2.3,036 km N 21° W of Pagudpud (Ilocos Norte),2023_Earthquake_Information/June/2023_0604_1851_B1.html
+20230605T0256_17.82_120.7,2023-06-05T02:56:00+08:00,17.82,120.7,1.0,3.2,011 km N 04° W of Lagayan (Abra),2023_Earthquake_Information/June/2023_0604_1856_B2.html
+20230605T0302_8.49_126.62,2023-06-05T03:02:00+08:00,8.49,126.62,19.0,3.1,034 km N 66° E of Hinatuan (Surigao Del Sur),2023_Earthquake_Information/June/2023_0604_1902_B2.html
+20230605T0316_19.59_121.51,2023-06-05T03:16:00+08:00,19.59,121.51,32.0,2.4,037 km N 06° E of Calayan (Cagayan),2023_Earthquake_Information/June/2023_0604_1916_B2.html
+20230605T0400_17.58_120.63,2023-06-05T04:00:00+08:00,17.58,120.63,12.0,2.2,002 km S 23° E of Bangued (Abra),2023_Earthquake_Information/June/2023_0604_2000_B2.html
+20230605T0511_13.74_120.56,2023-06-05T05:11:00+08:00,13.74,120.56,95.0,1.7,013 km S 38° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0604_2111_B1.html
+20230605T0525_16.55_122.23,2023-06-05T05:25:00+08:00,16.55,122.23,17.0,2.3,005 km N 54° W of Dinapigue (Isabela),2023_Earthquake_Information/June/2023_0604_2125_B1_Isabela.html
+20230605T0525_8.76_126.78,2023-06-05T05:25:00+08:00,8.76,126.78,3.0,1.5,053 km S 85° E of Marihatag (Surigao Del Sur),2023_Earthquake_Information/June/2023_0604_2125_B1_Surigao_del_Sur.html
+20230605T0621_11.75_124.23,2023-06-05T06:21:00+08:00,11.75,124.23,8.0,2.7,013 km S 77° W of Maripipi (Biliran),2023_Earthquake_Information/June/2023_0604_2221_B2.html
+20230605T0633_17.85_120.57,2023-06-05T06:33:00+08:00,17.85,120.57,4.0,2.4,012 km S 56° W of Nueva Era (Ilocos Norte),2023_Earthquake_Information/June/2023_0604_2233_B2.html
+20230605T0708_6.22_126.51,2023-06-05T07:08:00+08:00,6.22,126.51,20.0,3.2,067 km S 45° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0604_2308_B2.html
+20230605T0710_18.43_120.84,2023-06-05T07:10:00+08:00,18.43,120.84,12.0,1.9,008 km S 63° W of Adams (Ilocos Norte),2023_Earthquake_Information/June/2023_0604_2310_B1.html
+20230605T0737_9.95_126.14,2023-06-05T07:37:00+08:00,9.95,126.14,19.0,3.6,006 km N 78° E of San Isidro (Surigao Del Norte),2023_Earthquake_Information/June/2023_0604_2337_B2.html
+20230605T0806_13.73_120.61,2023-06-05T08:06:00+08:00,13.73,120.61,95.0,2.0,012 km S 12° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0605_0006_B2.html
+20230605T0842_9.12_126.29,2023-06-05T08:42:00+08:00,9.12,126.29,19.0,3.1,012 km N 29° E of Tago (Surigao Del Sur),2023_Earthquake_Information/June/2023_0605_0042_B2.html
+20230605T1019_9.05_125.7,2023-06-05T10:19:00+08:00,9.05,125.7,8.0,2.2,012 km S 87° E of Remedios T. Romualdez (Agusan Del Norte),2023_Earthquake_Information/June/2023_0605_0219_B2.html
+20230605T1135_11.74_124.23,2023-06-05T11:35:00+08:00,11.74,124.23,8.0,2.6,013 km S 72° W of Maripipi (Biliran),2023_Earthquake_Information/June/2023_0605_0335_B2.html
+20230605T1312_9.23_125.5,2023-06-05T13:12:00+08:00,9.23,125.5,27.0,1.7,006 km S 79° W of Santiago (Agusan Del Norte),2023_Earthquake_Information/June/2023_0605_0512_B1.html
+20230605T1355_10.69_126.51,2023-06-05T13:55:00+08:00,10.69,126.51,26.0,2.8,089 km N 33° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0605_0555_B2.html
+20230605T1436_10.7_126.62,2023-06-05T14:36:00+08:00,10.7,126.62,19.0,2.8,098 km S 87° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0605_0636_B2.html
+20230605T1628_13.71_120.56,2023-06-05T16:28:00+08:00,13.71,120.56,121.0,2.2,015 km S 30° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0605_0828_B2.html
+20230605T1830_5.76_127.29,2023-06-05T18:30:00+08:00,5.76,127.29,73.0,4.3,167 km S 54° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0605_1030_B2.html
+20230605T2000_14.65_119.95,2023-06-05T20:00:00+08:00,14.65,119.95,17.0,3.2,035 km S 85° W of Morong (Bataan),2023_Earthquake_Information/June/2023_0605_1200_B2.html
+20230605T2023_12.43_120.86,2023-06-05T20:23:00+08:00,12.43,120.86,10.0,2.0,011 km S 75° W of Rizal (Occidental Mindoro),2023_Earthquake_Information/June/2023_0605_1223_B2.html
+20230605T2041_16.22_120.73,2023-06-05T20:41:00+08:00,16.22,120.73,34.0,1.5,017 km N 11° W of San Nicolas (Pangasinan),2023_Earthquake_Information/June/2023_0605_1241_B2.html
+20230605T2057_9.38_126.47,2023-06-05T20:57:00+08:00,9.38,126.47,13.0,2.2,032 km N 68° E of Cortes (Surigao Del Sur),2023_Earthquake_Information/June/2023_0605_1257_B2.html
+20230605T2108_17.61_122.29,2023-06-05T21:08:00+08:00,17.61,122.29,63.0,3.1,026 km N 14° E of Maconacon (Isabela),2023_Earthquake_Information/June/2023_0605_1308_B2.html
+20230605T2317_18.31_120.91,2023-06-05T23:17:00+08:00,18.31,120.91,27.0,1.7,017 km S 04° E of Adams (Ilocos Norte),2023_Earthquake_Information/June/2023_0605_1517_B2.html
+20230606T0004_13.53_120.66,2023-06-06T00:04:00+08:00,13.53,120.66,127.0,3.4,012 km N 37° W of Abra De Ilog (Occidental Mindoro),2023_Earthquake_Information/June/2023_0605_1604_B2.html
+20230606T0010_9.73_122.12,2023-06-06T00:10:00+08:00,9.73,122.12,29.0,4.2,035 km S 83° W of City Of Sipalay (Negros Occidental),2023_Earthquake_Information/June/2023_0605_1610_B3F.html
+20230606T0156_10.65_126.34,2023-06-06T01:56:00+08:00,10.65,126.34,28.0,2.7,068 km S 81° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0605_1756_B2.html
+20230606T0232_10.2_125.99,2023-06-06T02:32:00+08:00,10.2,125.99,6.0,2.3,023 km N 25° W of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0605_1832_B2.html
+20230606T0238_12.79_124.97,2023-06-06T02:38:00+08:00,12.79,124.97,17.0,3.7,025 km N 10° W of Laoang (Northern Samar),2023_Earthquake_Information/June/2023_0605_1838_B2.html
+20230606T0252_13.84_120.58,2023-06-06T02:52:00+08:00,13.84,120.58,115.0,1.9,005 km N 85° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0605_1852_B2.html
+20230606T0427_12.85_124.96,2023-06-06T04:27:00+08:00,12.85,124.96,22.0,3.4,032 km N 07° E of Pambujan (Northern Samar),2023_Earthquake_Information/June/2023_0605_2027_B2.html
+20230606T0715_12.44_123.66,2023-06-06T07:15:00+08:00,12.44,123.66,1.0,2.8,008 km N 27° E of City Of Masbate (Masbate),2023_Earthquake_Information/June/2023_0605_2315_B2F.html
+20230606T0915_9.77_126.4,2023-06-06T09:15:00+08:00,9.77,126.4,9.0,2.4,027 km S 86° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0606_0115_B2.html
+20230606T0955_12.88_125.0,2023-06-06T09:55:00+08:00,12.88,125.0,8.0,2.5,034 km N 02° W of Laoang (Northern Samar),2023_Earthquake_Information/June/2023_0606_0155_B2.html
+20230606T1001_13.63_120.71,2023-06-06T10:01:00+08:00,13.63,120.71,31.0,1.8,018 km S 79° W of Tingloy (Batangas),2023_Earthquake_Information/June/2023_0606_0201_B2.html
+20230606T1135_9.11_125.62,2023-06-06T11:35:00+08:00,9.11,125.62,30.0,1.8,007 km N 27° E of Remedios T. Romualdez (Agusan Del Norte),2023_Earthquake_Information/June/2023_0606_0335_B1.html
+20230606T1136_10.45_124.8,2023-06-06T11:36:00+08:00,10.45,124.8,1.0,2.0,008 km S 50° E of Inopacan (Leyte),2023_Earthquake_Information/June/2023_0606_0336_B2.html
+20230606T1617_13.77_120.58,2023-06-06T16:17:00+08:00,13.77,120.58,15.0,2.0,009 km S 44° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0606_0817_B1.html
+20230606T1626_10.59_126.61,2023-06-06T16:26:00+08:00,10.59,126.61,119.0,1.7,087 km N 43° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0606_0826_B1.html
+20230606T1800_10.39_124.77,2023-06-06T18:00:00+08:00,10.39,124.77,7.0,1.7,003 km N 43° E of Hilongos (Leyte),2023_Earthquake_Information/June/2023_0606_1000_B1.html
+20230606T1902_18.07_120.76,2023-06-06T19:02:00+08:00,18.07,120.76,1.0,2.5,003 km S 18° W of Solsona (Ilocos Norte),2023_Earthquake_Information/June/2023_0606_1102_B2.html
+20230606T1959_12.37_123.54,2023-06-06T19:59:00+08:00,12.37,123.54,1.0,1.6,009 km N 88° W of City Of Masbate (Masbate),2023_Earthquake_Information/June/2023_0606_1159_B1.html
+20230606T2007_11.7_125.73,2023-06-06T20:07:00+08:00,11.7,125.73,26.0,3.8,034 km N 48° E of Maydolong (Eastern Samar),2023_Earthquake_Information/June/2023_0606_1207_B2F_Eastern_Samar.html
+20230606T2007_13.73_120.65,2023-06-06T20:07:00+08:00,13.73,120.65,136.0,1.8,011 km S 08° E of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0606_1207_B1_Batangas.html
+20230606T2007_6.43_124.64,2023-06-06T20:07:00+08:00,6.43,124.64,5.0,4.1,004 km S 89° W of Santo Niño (South Cotabato),2023_Earthquake_Information/June/2023_0606_1207_B2F_South_Cotabato.html
+20230606T2015_12.44_123.72,2023-06-06T20:15:00+08:00,12.44,123.72,4.0,2.6,007 km S 48° W of San Fernando (Masbate),2023_Earthquake_Information/June/2023_0606_1215_B2F.html
+20230606T2043_14.56_123.5,2023-06-06T20:43:00+08:00,14.56,123.5,10.0,2.4,060 km N 81° E of Tinaga Island (Vinzons) (Camarines Norte),2023_Earthquake_Information/June/2023_0606_1243_B2.html
+20230606T2119_7.74_121.99,2023-06-06T21:19:00+08:00,7.74,121.99,28.0,1.8,024 km N 74° W of Siocon (Zamboanga Del Norte),2023_Earthquake_Information/June/2023_0606_1319_B1.html
+20230606T2215_9.65_123.69,2023-06-06T22:15:00+08:00,9.65,123.69,13.0,3.0,010 km N 40° W of Panglao (Bohol),2023_Earthquake_Information/June/2023_0606_1415_B2.html
+20230606T2226_19.73_120.33,2023-06-06T22:26:00+08:00,19.73,120.33,17.0,3.6,115 km N 54° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0606_1426_B2.html
+20230606T2259_5.29_126.97,2023-06-06T22:59:00+08:00,5.29,126.97,9.0,2.7,162 km S 65° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0606_1459_B2.html
+20230606T2314_5.28_127.27,2023-06-06T23:14:00+08:00,5.28,127.27,15.0,3.8,194 km S 69° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0606_1514_B2.html
+20230607T0000_18.56_119.94,2023-06-07T00:00:00+08:00,18.56,119.94,19.0,2.6,076 km N 71° W of Pasuquin (Ilocos Norte),2023_Earthquake_Information/June/2023_0606_1600_B2.html
+20230607T0016_9.07_122.37,2023-06-07T00:16:00+08:00,9.07,122.37,33.0,2.8,048 km S 39° W of Basay (Negros Oriental),2023_Earthquake_Information/June/2023_0606_1616_B2.html
+20230607T0116_9.99_127.08,2023-06-07T01:16:00+08:00,9.99,127.08,58.0,2.7,104 km N 78° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0606_1716_B2.html
+20230607T0117_5.13_127.03,2023-06-07T01:17:00+08:00,5.13,127.03,1.0,2.3,176 km S 60° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0606_1717_B2.html
+20230607T0130_9.95_126.04,2023-06-07T01:30:00+08:00,9.95,126.04,11.0,2.3,004 km S 66° E of San Benito (Surigao Del Norte),2023_Earthquake_Information/June/2023_0606_1730_B2.html
+20230607T0132_9.76_126.15,2023-06-07T01:32:00+08:00,9.76,126.15,27.0,1.9,003 km S 09° W of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0606_1732_B2.html
+20230607T0134_7.23_123.51,2023-06-07T01:34:00+08:00,7.23,123.51,12.0,2.3,028 km S 23° E of Tabina (Zamboanga Del Sur),2023_Earthquake_Information/June/2023_0606_1734_B2.html
+20230607T0147_5.52_126.85,2023-06-07T01:47:00+08:00,5.52,126.85,10.0,2.6,141 km S 72° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0606_1747_B2.html
+20230607T0148_21.5_122.67,2023-06-07T01:48:00+08:00,21.5,122.67,24.0,3.0,117 km N 48° E of Itbayat (Batanes),2023_Earthquake_Information/June/2023_0606_1748_B1.html
+20230607T0220_10.67_125.65,2023-06-07T02:20:00+08:00,10.67,125.65,19.0,2.1,012 km S 47° W of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0606_1820_B2.html
+20230607T0225_13.17_120.89,2023-06-07T02:25:00+08:00,13.17,120.89,32.0,1.3,021 km N 62° E of Santa Cruz (Occidental Mindoro),2023_Earthquake_Information/June/2023_0606_1825_B2.html
+20230607T0255_8.89_126.44,2023-06-07T02:55:00+08:00,8.89,126.44,30.0,2.2,016 km S 77° E of Cagwait (Surigao Del Sur),2023_Earthquake_Information/June/2023_0606_1855_B1.html
+20230607T0324_13.39_122.3,2023-06-07T03:24:00+08:00,13.39,122.3,4.0,3.2,019 km S 37° W of Mulanay (Quezon),2023_Earthquake_Information/June/2023_0606_1924_B2.html
+20230607T0335_17.74_120.72,2023-06-07T03:35:00+08:00,17.74,120.72,24.0,1.8,003 km N 42° E of Lagayan (Abra),2023_Earthquake_Information/June/2023_0606_1935_B2.html
+20230607T0532_8.53_122.2,2023-06-07T05:32:00+08:00,8.53,122.2,36.0,2.2,063 km N 35° W of Labason (Zamboanga Del Norte),2023_Earthquake_Information/June/2023_0606_2132_B1.html
+20230607T0622_13.36_122.31,2023-06-07T06:22:00+08:00,13.36,122.31,1.0,2.7,020 km S 30° W of Mulanay (Quezon),2023_Earthquake_Information/June/2023_0606_2222_B2.html
+20230607T0800_8.37_122.81,2023-06-07T08:00:00+08:00,8.37,122.81,2.0,2.3,025 km S 71° W of Jose Dalman (Zamboanga Del Norte),2023_Earthquake_Information/June/2023_0607_0000_B1.html
+20230607T0804_7.48_123.63,2023-06-07T08:04:00+08:00,7.48,123.63,16.0,3.3,025 km N 86° E of Tabina (Zamboanga Del Sur),2023_Earthquake_Information/June/2023_0607_0004_B2.html
+20230607T0858_5.25_126.47,2023-06-07T08:58:00+08:00,5.25,126.47,53.0,2.3,113 km S 77° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0607_0058_B1.html
+20230607T1122_8.19_123.1,2023-06-07T11:22:00+08:00,8.19,123.1,31.0,2.3,007 km S 16° W of Siayan (Zamboanga Del Norte),2023_Earthquake_Information/June/2023_0607_0322_B2.html
+20230607T1227_14.15_120.13,2023-06-07T12:27:00+08:00,14.15,120.13,45.0,2.1,032 km N 02° E of Lubang (Occidental Mindoro),2023_Earthquake_Information/June/2023_0607_0427_B2.html
+20230607T1353_9.92_125.35,2023-06-07T13:53:00+08:00,9.92,125.35,8.0,3.0,008 km N 87° E of San Ricardo (Southern Leyte),2023_Earthquake_Information/June/2023_0607_0553_B2F.html
+20230607T1505_5.34_126.97,2023-06-07T15:05:00+08:00,5.34,126.97,5.0,3.5,160 km S 67° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0607_0705_B2.html
+20230607T1612_10.32_126.13,2023-06-07T16:12:00+08:00,10.32,126.13,18.0,3.3,034 km N 10° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0607_0812_B2F.html
+20230607T1631_12.32_121.85,2023-06-07T16:31:00+08:00,12.32,121.85,1.0,3.0,010 km S 78° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0607_0831_B2F.html
+20230607T1638_12.35_121.9,2023-06-07T16:38:00+08:00,12.35,121.9,5.0,3.3,010 km S 56° W of Odiongan (Romblon),2023_Earthquake_Information/June/2023_0607_0838_B2F.html
+20230607T1719_10.34_126.11,2023-06-07T17:19:00+08:00,10.34,126.11,10.0,2.4,036 km N 07° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0607_0919_B2.html
+20230607T1756_6.54_126.44,2023-06-07T17:56:00+08:00,6.54,126.44,23.0,2.4,043 km S 72° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0607_0956_B2.html
+20230607T1816_13.82_122.8,2023-06-07T18:16:00+08:00,13.82,122.8,4.0,4.4,001 km East of Ragay (Camarines Sur),2023_Earthquake_Information/June/2023_0607_1016_B3F.html
+20230607T1822_13.96_122.64,2023-06-07T18:22:00+08:00,13.96,122.64,34.0,1.8,006 km N 50° E of Del Gallego (Camarines Sur),2023_Earthquake_Information/June/2023_0607_1022_B1.html
+20230607T1949_6.02_126.48,2023-06-07T19:49:00+08:00,6.02,126.48,81.0,2.5,084 km S 33° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0607_1149_B2.html
+20230607T1950_13.84_122.82,2023-06-07T19:50:00+08:00,13.84,122.82,3.0,2.8,003 km N 55° E of Ragay (Camarines Sur),2023_Earthquake_Information/June/2023_0607_1150_B2F.html
+20230607T1957_14.92_121.48,2023-06-07T19:57:00+08:00,14.92,121.48,13.0,2.3,024 km N 40° W of General Nakar (Quezon),2023_Earthquake_Information/June/2023_0607_1157_B2.html
+20230607T2023_16.12_119.58,2023-06-07T20:23:00+08:00,16.12,119.58,21.0,3.7,024 km N 88° W of Agno (Pangasinan),2023_Earthquake_Information/June/2023_0607_1223_B2F.html
+20230607T2123_12.9_125.75,2023-06-07T21:23:00+08:00,12.9,125.75,21.0,2.6,072 km N 49° E of Mapanas (Northern Samar),2023_Earthquake_Information/June/2023_0607_1323_B2.html
+20230607T2126_12.78_125.51,2023-06-07T21:26:00+08:00,12.78,125.51,25.0,2.5,044 km N 39° E of Mapanas (Northern Samar),2023_Earthquake_Information/June/2023_0607_1326_B2.html
+20230607T2238_13.73_120.92,2023-06-07T22:38:00+08:00,13.73,120.92,15.0,2.6,003 km S 56° W of Mabini (Batangas),2023_Earthquake_Information/June/2023_0607_1438_B2.html
+20230607T2313_13.49_120.49,2023-06-07T23:13:00+08:00,13.49,120.49,36.0,1.5,009 km N 21° E of Paluan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0607_1513_B1.html
+20230607T2321_13.32_121.14,2023-06-07T23:21:00+08:00,13.32,121.14,34.0,2.0,006 km S 49° E of Baco (Oriental Mindoro),2023_Earthquake_Information/June/2023_0607_1521_B1_Oriental_Mindoro.html
+20230607T2321_13.91_122.83,2023-06-07T23:21:00+08:00,13.91,122.83,7.0,2.1,010 km N 21° E of Ragay (Camarines Sur),2023_Earthquake_Information/June/2023_0607_1521_B2_Camarines_Sur.html
+20230607T2326_10.14_126.1,2023-06-07T23:26:00+08:00,10.14,126.1,13.0,3.3,014 km N 11° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0607_1526_B2.html
+20230607T2328_17.56_122.28,2023-06-07T23:28:00+08:00,17.56,122.28,20.0,2.9,020 km N 12° E of Maconacon (Isabela),2023_Earthquake_Information/June/2023_0607_1528_B2.html
+20230608T0002_7.62_126.72,2023-06-08T00:02:00+08:00,7.62,126.72,29.0,3.0,034 km S 57° E of Cateel (Davao Oriental),2023_Earthquake_Information/June/2023_0607_1602_B2.html
+20230608T0017_3.79_126.29,2023-06-08T00:17:00+08:00,3.79,126.29,39.0,4.4,203 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0607_1617_B2.html
+20230608T0040_13.86_125.42,2023-06-08T00:40:00+08:00,13.86,125.42,33.0,2.4,111 km N 86° E of Gigmoto (Catanduanes),2023_Earthquake_Information/June/2023_0607_1640_B2.html
+20230608T0049_7.51_124.69,2023-06-08T00:49:00+08:00,7.51,124.69,31.0,1.9,000 km West of Banisilan (Cotabato),2023_Earthquake_Information/June/2023_0607_1649_B1.html
+20230608T0147_16.03_121.99,2023-06-08T01:47:00+08:00,16.03,121.99,31.0,1.8,013 km S 15° E of Dinalungan (Aurora),2023_Earthquake_Information/June/2023_0607_1747_B1.html
+20230608T0213_14.15_119.29,2023-06-08T02:13:00+08:00,14.15,119.29,24.0,2.3,096 km N 71° W of Lubang (Occidental Mindoro),2023_Earthquake_Information/June/2023_0607_1813_B2.html
+20230608T0232_17.81_120.74,2023-06-08T02:32:00+08:00,17.81,120.74,12.0,2.5,010 km N 18° E of Lagayan (Abra),2023_Earthquake_Information/June/2023_0607_1832_B2.html
+20230608T0304_7.88_122.44,2023-06-08T03:04:00+08:00,7.88,122.44,34.0,1.6,010 km S 73° W of Kalawit (Zamboanga Del Norte),2023_Earthquake_Information/June/2023_0607_1904_B1.html
+20230608T0317_9.24_125.95,2023-06-08T03:17:00+08:00,9.24,125.95,13.0,1.9,002 km S 31° W of Madrid (Surigao Del Sur),2023_Earthquake_Information/June/2023_0607_1917_B2.html
+20230608T0319_6.7_126.65,2023-06-08T03:19:00+08:00,6.7,126.65,32.0,2.5,045 km S 30° E of Tarragona (Davao Oriental),2023_Earthquake_Information/June/2023_0607_1919_B1.html
+20230608T0413_14.11_120.48,2023-06-08T04:13:00+08:00,14.11,120.48,105.0,1.6,016 km N 78° W of Nasugbu (Batangas),2023_Earthquake_Information/June/2023_0607_2013_B2.html
+20230608T0421_9.12_126.34,2023-06-08T04:21:00+08:00,9.12,126.34,19.0,2.7,017 km N 20° E of Bayabas (Surigao Del Sur),2023_Earthquake_Information/June/2023_0607_2021_B2.html
+20230608T0428_11.28_124.59,2023-06-08T04:28:00+08:00,11.28,124.59,8.0,2.2,006 km S 81° W of Capoocan (Leyte),2023_Earthquake_Information/June/2023_0607_2028_B2.html
+20230608T0455_12.58_121.59,2023-06-08T04:55:00+08:00,12.58,121.59,35.0,1.9,009 km S 84° E of Roxas (Oriental Mindoro),2023_Earthquake_Information/June/2023_0607_2055_B1.html
+20230608T0457_9.86_126.02,2023-06-08T04:57:00+08:00,9.86,126.02,13.0,1.8,006 km S 83° E of Del Carmen (Surigao Del Norte),2023_Earthquake_Information/June/2023_0607_2057_B2.html
+20230608T0511_9.83_124.08,2023-06-08T05:11:00+08:00,9.83,124.08,35.0,1.5,008 km S 70° E of Catigbian (Bohol),2023_Earthquake_Information/June/2023_0607_2111_B1.html
+20230608T0635_18.81_122.37,2023-06-08T06:35:00+08:00,18.81,122.37,11.0,3.8,046 km N 31° E of Santa Ana (Cagayan),2023_Earthquake_Information/June/2023_0607_2235_B2F.html
+20230608T0857_16.07_119.93,2023-06-08T08:57:00+08:00,16.07,119.93,21.0,3.6,001 km S 80° W of Mabini (Pangasinan),2023_Earthquake_Information/June/2023_0608_0057_B2.html
+20230608T0954_12.38_123.75,2023-06-08T09:54:00+08:00,12.38,123.75,8.0,2.5,006 km S 42° W of Batuan (Masbate),2023_Earthquake_Information/June/2023_0608_0154_B3F.html
+20230608T0958_6.93_125.27,2023-06-08T09:58:00+08:00,6.93,125.27,42.0,2.3,017 km N 23° E of Bansalan (Davao Del Sur),2023_Earthquake_Information/June/2023_0608_0158_B1.html
+20230608T1043_10.15_126.22,2023-06-08T10:43:00+08:00,10.15,126.22,21.0,3.7,021 km N 48° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0608_0243_B2.html
+20230608T1156_19.56_120.93,2023-06-08T11:56:00+08:00,19.56,120.93,10.0,2.7,058 km N 30° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0608_0356_B1.html
+20230608T1346_12.54_123.61,2023-06-08T13:46:00+08:00,12.54,123.61,5.0,2.2,013 km S 25° W of Monreal (Masbate),2023_Earthquake_Information/June/2023_0608_0546_B1.html
+20230608T1727_9.9_125.43,2023-06-08T17:27:00+08:00,9.9,125.43,11.0,2.9,014 km N 30° W of City Of Surigao (Surigao Del Norte),2023_Earthquake_Information/June/2023_0608_0927_B2.html
+20230608T1738_9.35_123.98,2023-06-08T17:38:00+08:00,9.35,123.98,11.0,2.0,028 km S 07° W of Loay (Bohol),2023_Earthquake_Information/June/2023_0608_0938_B2.html
+20230608T1824_13.76_120.61,2023-06-08T18:24:00+08:00,13.76,120.61,95.0,1.9,008 km S 20° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0608_1024_B2.html
+20230608T1947_17.83_120.68,2023-06-08T19:47:00+08:00,17.83,120.68,5.0,2.0,010 km S 10° E of Nueva Era (Ilocos Norte),2023_Earthquake_Information/June/2023_0608_1147_B2.html
+20230608T2009_14.09_120.45,2023-06-08T20:09:00+08:00,14.09,120.45,90.0,1.8,020 km N 85° W of Nasugbu (Batangas),2023_Earthquake_Information/June/2023_0608_1209_B2.html
+20230608T2141_18.09_120.22,2023-06-08T21:41:00+08:00,18.09,120.22,23.0,2.5,029 km N 75° W of Currimao (Ilocos Norte),2023_Earthquake_Information/June/2023_0608_1341_B2.html
+20230608T2205_4.48_125.89,2023-06-08T22:05:00+08:00,4.48,125.89,24.0,3.3,115 km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0608_1405_B1.html
+20230608T2232_9.19_122.49,2023-06-08T22:32:00+08:00,9.19,122.49,8.0,2.2,029 km S 34° W of Basay (Negros Oriental),2023_Earthquake_Information/June/2023_0608_1432_B2.html
+20230608T2242_6.82_126.53,2023-06-08T22:42:00+08:00,6.82,126.53,26.0,2.1,027 km S 19° E of Tarragona (Davao Oriental),2023_Earthquake_Information/June/2023_0608_1442_B2.html
+20230609T0032_13.74_120.56,2023-06-09T00:32:00+08:00,13.74,120.56,93.0,1.8,013 km S 39° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0608_1632_B2.html
+20230609T0153_9.34_125.61,2023-06-09T01:53:00+08:00,9.34,125.61,7.0,2.4,010 km S 88° E of Jabonga (Agusan Del Norte),2023_Earthquake_Information/June/2023_0608_1753_B2.html
+20230609T0230_13.96_120.47,2023-06-09T02:30:00+08:00,13.96,120.47,54.0,1.6,022 km N 52° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0608_1830_B2.html
+20230609T0305_17.52_122.45,2023-06-09T03:05:00+08:00,17.52,122.45,23.0,3.4,027 km N 56° E of Maconacon (Isabela),2023_Earthquake_Information/June/2023_0608_1905_B2.html
+20230609T0328_16.15_122.01,2023-06-09T03:28:00+08:00,16.15,122.01,8.0,2.1,005 km N 79° E of Dinalungan (Aurora),2023_Earthquake_Information/June/2023_0608_1928_B1.html
+20230609T0329_17.55_122.46,2023-06-09T03:29:00+08:00,17.55,122.46,44.0,2.1,030 km N 35° E of Divilacan (Isabela),2023_Earthquake_Information/June/2023_0608_1929_B2.html
+20230609T0349_15.94_121.0,2023-06-09T03:49:00+08:00,15.94,121.0,2.0,3.0,008 km S 75° W of Carranglan (Nueva Ecija),2023_Earthquake_Information/June/2023_0608_1949_B2.html
+20230609T0434_16.65_119.79,2023-06-09T04:34:00+08:00,16.65,119.79,28.0,2.7,031 km N 20° W of Bolinao (Pangasinan),2023_Earthquake_Information/June/2023_0608_2034_B2.html
+20230609T0523_6.85_124.9,2023-06-09T05:23:00+08:00,6.85,124.9,38.0,2.1,004 km N 50° E of Tulunan (Cotabato),2023_Earthquake_Information/June/2023_0608_2123_B1.html
+20230609T0645_5.99_124.77,2023-06-09T06:45:00+08:00,5.99,124.77,28.0,2.0,017 km N 88° E of Kiamba (Sarangani),2023_Earthquake_Information/June/2023_0608_2245_B1.html
+20230609T0830_7.67_126.02,2023-06-09T08:30:00+08:00,7.67,126.02,33.0,4.6,007 km West of Compostela (Davao De Oro),2023_Earthquake_Information/June/2023_0609_0030_B2F.html
+20230609T0849_12.1_121.4,2023-06-09T08:49:00+08:00,12.1,121.4,3.0,2.6,026 km S 13° E of Bulalacao (Oriental Mindoro),2023_Earthquake_Information/June/2023_0609_0049_B2.html
+20230609T0956_9.01_122.39,2023-06-09T09:56:00+08:00,9.01,122.39,9.0,3.1,052 km S 32° W of Basay (Negros Oriental),2023_Earthquake_Information/June/2023_0609_0156_B2.html
+20230609T1229_7.62_124.69,2023-06-09T12:29:00+08:00,7.62,124.69,27.0,2.7,004 km S 58° W of Wao (Lanao Del Sur),2023_Earthquake_Information/June/2023_0609_0429_B2.html
+20230609T1341_13.57_120.29,2023-06-09T13:41:00+08:00,13.57,120.29,33.0,2.2,017 km S 15° E of Looc (Occidental Mindoro),2023_Earthquake_Information/June/2023_0609_0541_B2.html
+20230609T1804_7.77_127.28,2023-06-09T18:04:00+08:00,7.77,127.28,1.0,3.3,083 km N 75° E of Baganga (Davao Oriental),2023_Earthquake_Information/June/2023_0609_1004_B2.html
+20230609T1848_3.29_128.08,2023-06-09T18:48:00+08:00,3.29,128.08,188.0,4.4,377 km S 51° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0609_1048_B2.html
+20230609T1853_15.1_120.3,2023-06-09T18:53:00+08:00,15.1,120.3,83.0,2.1,021 km N 48° E of San Marcelino (Zambales),2023_Earthquake_Information/June/2023_0609_1053_B2.html
+20230609T1921_6.07_126.15,2023-06-09T19:21:00+08:00,6.07,126.15,5.0,3.0,052 km S 74° E of Don Marcelino (Davao Occidental),2023_Earthquake_Information/June/2023_0609_1121_B2.html
+20230609T2037_7.7_126.06,2023-06-09T20:37:00+08:00,7.7,126.06,9.0,2.1,005 km N 36° W of Compostela (Davao De Oro),2023_Earthquake_Information/June/2023_0609_1237_B1.html
+20230609T2108_17.12_120.71,2023-06-09T21:08:00+08:00,17.12,120.71,13.0,2.4,003 km S 59° E of Quirino (Ilocos Sur),2023_Earthquake_Information/June/2023_0609_1308_B1.html
+20230609T2123_11.61_125.1,2023-06-09T21:23:00+08:00,11.61,125.1,21.0,1.7,010 km S 77° E of Calbiga (Samar),2023_Earthquake_Information/June/2023_0609_1323_B1.html
+20230609T2134_18.09_121.0,2023-06-09T21:34:00+08:00,18.09,121.0,24.0,2.0,019 km S 16° W of Calanasan (Apayao),2023_Earthquake_Information/June/2023_0609_1334_B1.html
+20230609T2208_19.13_121.59,2023-06-09T22:08:00+08:00,19.13,121.59,1.0,2.4,019 km S 40° E of Calayan (Cagayan),2023_Earthquake_Information/June/2023_0609_1408_B1.html
+20230609T2310_7.49_126.01,2023-06-09T23:10:00+08:00,7.49,126.01,34.0,2.1,010 km S 79° E of Mawab (Davao De Oro),2023_Earthquake_Information/June/2023_0609_1510_B1.html
+20230610T0019_19.14_121.08,2023-06-10T00:19:00+08:00,19.14,121.08,7.0,3.6,014 km N 74° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0609_1619_B2.html
+20230610T0033_9.65_126.18,2023-06-10T00:33:00+08:00,9.65,126.18,32.0,1.7,014 km S 10° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0609_1633_B1.html
+20230610T0051_17.62_122.31,2023-06-10T00:51:00+08:00,17.62,122.31,27.0,2.3,027 km N 17° E of Maconacon (Isabela),2023_Earthquake_Information/June/2023_0609_1651_B1.html
+20230610T0110_16.57_121.33,2023-06-10T01:10:00+08:00,16.57,121.33,32.0,1.6,010 km S 63° E of Bagabag (Nueva Vizcaya),2023_Earthquake_Information/June/2023_0609_1710_B1.html
+20230610T0125_10.23_122.21,2023-06-10T01:25:00+08:00,10.23,122.21,11.0,1.6,038 km S 54° E of Anini-y (Antique),2023_Earthquake_Information/June/2023_0609_1725_B1.html
+20230610T0353_12.32_123.78,2023-06-10T03:53:00+08:00,12.32,123.78,5.0,2.4,011 km S 01° E of Batuan (Masbate),2023_Earthquake_Information/June/2023_0609_1953_B2.html
+20230610T0413_18.97_121.43,2023-06-10T04:13:00+08:00,18.97,121.43,8.0,1.6,015 km N 27° E of Fuga Island (Aparri) (Cagayan),2023_Earthquake_Information/June/2023_0609_2013_B1.html
+20230610T0526_8.72_125.91,2023-06-10T05:26:00+08:00,8.72,125.91,29.0,1.6,013 km N 03° W of Prosperidad (Agusan Del Sur),2023_Earthquake_Information/June/2023_0609_2126_B2.html
+20230610T1322_14.14_120.48,2023-06-10T13:22:00+08:00,14.14,120.48,115.0,1.7,018 km N 67° W of Nasugbu (Batangas),2023_Earthquake_Information/June/2023_0610_0522_B2.html
+20230610T1342_10.84_122.97,2023-06-10T13:42:00+08:00,10.84,122.97,10.0,3.3,004 km S 08° W of Enrique B. Magalona (Negros Occidental),2023_Earthquake_Information/June/2023_0610_0542_B2F_Negros_Occidental.html
+20230610T1342_17.75_120.93,2023-06-10T13:42:00+08:00,17.75,120.93,1.0,2.0,009 km N 11° W of Lacub (Abra),2023_Earthquake_Information/June/2023_0610_0542_B2_Abra.html
+20230610T1447_16.86_119.65,2023-06-10T14:47:00+08:00,16.86,119.65,32.0,2.6,058 km N 26° W of Bolinao (Pangasinan),2023_Earthquake_Information/June/2023_0610_0647_B2.html
+20230610T1554_18.93_121.1,2023-06-10T15:54:00+08:00,18.93,121.1,2.0,2.4,022 km S 30° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0610_0754_B2.html
+20230610T1717_12.43_120.97,2023-06-10T17:17:00+08:00,12.43,120.97,20.0,2.3,004 km S 17° E of Rizal (Occidental Mindoro),2023_Earthquake_Information/June/2023_0610_0917_B2.html
+20230610T1827_13.31_124.27,2023-06-10T18:27:00+08:00,13.31,124.27,32.0,2.1,021 km N 49° E of Rapu-rapu (Albay),2023_Earthquake_Information/June/2023_0610_1027_B2.html
+20230610T1835_12.33_123.76,2023-06-10T18:35:00+08:00,12.33,123.76,3.0,2.6,011 km S 09° W of Batuan (Masbate),2023_Earthquake_Information/June/2023_0610_1035_B2.html
+20230610T1941_9.72_123.59,2023-06-10T19:41:00+08:00,9.72,123.59,32.0,1.7,008 km S 58° E of Dalaguete (Cebu),2023_Earthquake_Information/June/2023_0610_1141_B1.html
+20230610T1943_13.44_122.98,2023-06-10T19:43:00+08:00,13.44,122.98,1.0,2.1,011 km S 38° W of Pasacao (Camarines Sur),2023_Earthquake_Information/June/2023_0610_1143_B2.html
+20230610T1951_8.99_126.51,2023-06-10T19:51:00+08:00,8.99,126.51,19.0,3.0,024 km N 70° E of Cagwait (Surigao Del Sur),2023_Earthquake_Information/June/2023_0610_1151_B2.html
+20230610T2007_16.51_121.02,2023-06-10T20:07:00+08:00,16.51,121.02,7.0,2.0,002 km S 17° W of Ambaguio (Nueva Vizcaya),2023_Earthquake_Information/June/2023_0610_1207_B2.html
+20230610T2008_13.18_122.8,2023-06-10T20:08:00+08:00,13.18,122.8,1.0,3.5,021 km S 40° E of San Andres (Quezon),2023_Earthquake_Information/June/2023_0610_1208_B2.html
+20230610T2150_13.79_125.63,2023-06-10T21:50:00+08:00,13.79,125.63,33.0,2.8,134 km N 90° E of Gigmoto (Catanduanes),2023_Earthquake_Information/June/2023_0610_1350_B2.html
+20230610T2224_9.73_123.82,2023-06-10T22:24:00+08:00,9.73,123.82,10.0,2.5,002 km S 62° W of Maribojoc (Bohol),2023_Earthquake_Information/June/2023_0610_1424_B2.html
+20230610T2250_11.98_126.34,2023-06-10T22:50:00+08:00,11.98,126.34,21.0,4.5,093 km S 86° E of Dolores (Eastern Samar),2023_Earthquake_Information/June/2023_0610_1450_B3F.html
+20230610T2255_12.05_122.14,2023-06-10T22:55:00+08:00,12.05,122.14,16.0,3.7,019 km S 55° E of Santa Fe (Romblon),2023_Earthquake_Information/June/2023_0610_1455_B2.html
+20230610T2256_11.88_126.02,2023-06-10T22:56:00+08:00,11.88,126.02,23.0,2.7,061 km S 73° E of Dolores (Eastern Samar),2023_Earthquake_Information/June/2023_0610_1456_B1.html
+20230610T2300_9.73_125.93,2023-06-10T23:00:00+08:00,9.73,125.93,8.0,2.6,013 km N 18° W of Socorro (Surigao Del Norte),2023_Earthquake_Information/June/2023_0610_1500_B2.html
+20230610T2323_12.59_123.5,2023-06-10T23:23:00+08:00,12.59,123.5,3.0,2.1,013 km N 52° E of Aroroy (Masbate),2023_Earthquake_Information/June/2023_0610_1523_B2.html
+20230611T0021_7.86_122.46,2023-06-11T00:21:00+08:00,7.86,122.46,32.0,1.6,009 km S 56° W of Kalawit (Zamboanga Del Norte),2023_Earthquake_Information/June/2023_0610_1621_B1.html
+20230611T0055_9.16_126.27,2023-06-11T00:55:00+08:00,9.16,126.27,24.0,3.0,015 km N 49° E of City Of Tandag (Surigao Del Sur),2023_Earthquake_Information/June/2023_0610_1655_B2.html
+20230611T0121_14.29_120.46,2023-06-11T01:21:00+08:00,14.29,120.46,112.0,1.9,016 km S 12° W of Mariveles (Bataan),2023_Earthquake_Information/June/2023_0610_1721_B1.html
+20230611T0124_9.37_126.26,2023-06-11T01:24:00+08:00,9.37,126.26,25.0,1.7,013 km N 36° E of Cortes (Surigao Del Sur),2023_Earthquake_Information/June/2023_0610_1724_B2.html
+20230611T0213_8.03_126.15,2023-06-11T02:13:00+08:00,8.03,126.15,2.0,2.3,009 km S 89° E of Trento (Agusan Del Sur),2023_Earthquake_Information/June/2023_0610_1813_B2.html
+20230611T0241_15.86_121.75,2023-06-11T02:41:00+08:00,15.86,121.75,1.0,2.5,023 km N 60° E of Baler (Aurora),2023_Earthquake_Information/June/2023_0610_1841_B2.html
+20230611T0346_18.56_120.98,2023-06-11T03:46:00+08:00,18.56,120.98,33.0,1.5,001 km West of Santa Praxedes (Cagayan),2023_Earthquake_Information/June/2023_0610_1946_B1.html
+20230611T0416_9.68_122.43,2023-06-11T04:16:00+08:00,9.68,122.43,24.0,2.5,009 km N 25° W of Hinoba-an (Negros Occidental),2023_Earthquake_Information/June/2023_0610_2016_B2.html
+20230611T0424_10.71_126.49,2023-06-11T04:24:00+08:00,10.71,126.49,1.0,2.8,084 km S 87° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0610_2024_B2_Eastern_Samar.html
+20230611T0424_7.73_126.05,2023-06-11T04:24:00+08:00,7.73,126.05,10.0,1.8,007 km N 28° W of Compostela (Davao De Oro),2023_Earthquake_Information/June/2023_0610_2024_B1_Davao_de_Oro.html
+20230611T0425_10.68_126.46,2023-06-11T04:25:00+08:00,10.68,126.46,1.0,4.1,081 km S 85° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0610_2025_B2.html
+20230611T0433_10.67_126.03,2023-06-11T04:33:00+08:00,10.67,126.03,79.0,2.5,035 km S 77° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0610_2033_B1_2.html
+20230611T0433_10.7_126.39,2023-06-11T04:33:00+08:00,10.7,126.39,1.0,3.8,074 km S 86° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0610_2033_B2_Eastern_Samar.html
+20230611T0453_10.7_126.46,2023-06-11T04:53:00+08:00,10.7,126.46,21.0,2.9,081 km S 87° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0610_2053_B2.html
+20230611T0454_10.49_126.22,2023-06-11T04:54:00+08:00,10.49,126.22,3.0,1.8,061 km S 63° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0610_2054_B1.html
+20230611T0456_7.42_126.59,2023-06-11T04:56:00+08:00,7.42,126.59,2.0,1.5,011 km N 08° E of Caraga (Davao Oriental),2023_Earthquake_Information/June/2023_0610_2056_B1.html
+20230611T0501_10.62_126.35,2023-06-11T05:01:00+08:00,10.62,126.35,3.0,3.5,070 km S 79° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0610_2101_B2.html
+20230611T0551_18.12_121.01,2023-06-11T05:51:00+08:00,18.12,121.01,29.0,1.8,015 km S 15° W of Calanasan (Apayao),2023_Earthquake_Information/June/2023_0610_2151_B1.html
+20230611T0620_10.66_126.35,2023-06-11T06:20:00+08:00,10.66,126.35,1.0,2.7,069 km S 83° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0610_2220_B2.html
+20230611T0626_9.77_126.42,2023-06-11T06:26:00+08:00,9.77,126.42,9.0,2.0,029 km S 87° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0610_2226_B2.html
+20230611T0707_10.67_126.44,2023-06-11T07:07:00+08:00,10.67,126.44,8.0,3.7,079 km S 84° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0610_2307_B2.html
+20230611T0723_10.72_126.44,2023-06-11T07:23:00+08:00,10.72,126.44,1.0,3.1,079 km S 88° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0610_2323_B2.html
+20230611T0751_10.81_126.68,2023-06-11T07:51:00+08:00,10.81,126.68,20.0,2.8,104 km N 86° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0610_2351_B2.html
+20230611T0927_18.64_120.95,2023-06-11T09:27:00+08:00,18.64,120.95,2.0,2.5,009 km N 25° W of Santa Praxedes (Cagayan),2023_Earthquake_Information/June/2023_0611_0127_B1.html
+20230611T1105_19.53_121.59,2023-06-11T11:05:00+08:00,19.53,121.59,36.0,2.2,032 km N 21° E of Calayan (Cagayan),2023_Earthquake_Information/June/2023_0611_0305_B1.html
+20230611T1143_7.97_126.34,2023-06-11T11:43:00+08:00,7.97,126.34,11.0,1.9,012 km S 46° W of Lingig (Surigao Del Sur),2023_Earthquake_Information/June/2023_0611_0343_B1.html
+20230611T1320_7.2_125.36,2023-06-11T13:20:00+08:00,7.2,125.36,25.0,1.6,031 km N 61° W of City Of Davao,2023_Earthquake_Information/June/2023_0611_0520_B2.html
+20230611T1327_19.34_121.2,2023-06-11T13:27:00+08:00,19.34,121.2,38.0,1.4,026 km N 02° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0611_0527_B1.html
+20230611T1400_16.62_122.17,2023-06-11T14:00:00+08:00,16.62,122.17,12.0,2.5,014 km N 45° W of Dinapigue (Isabela),2023_Earthquake_Information/June/2023_0611_0600_B2.html
+20230611T1455_9.98_126.14,2023-06-11T14:55:00+08:00,9.98,126.14,35.0,1.7,008 km S 55° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0611_0655_B2.html
+20230611T1458_20.15_121.32,2023-06-11T14:58:00+08:00,20.15,121.32,23.0,3.3,062 km S 71° W of Sabtang (Batanes),2023_Earthquake_Information/June/2023_0611_0658_B2.html
+20230611T1831_12.35_121.88,2023-06-11T18:31:00+08:00,12.35,121.88,2.0,3.5,007 km N 79° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0611_1031_B3F.html
+20230611T1835_12.34_121.89,2023-06-11T18:35:00+08:00,12.34,121.89,4.0,2.8,005 km N 89° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0611_1035_B2F.html
+20230611T1845_12.45_121.87,2023-06-11T18:45:00+08:00,12.45,121.87,1.0,2.6,015 km N 31° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0611_1045_B2F.html
+20230611T1848_12.43_123.63,2023-06-11T18:48:00+08:00,12.43,123.63,9.0,1.8,007 km N 09° E of City Of Masbate (Masbate),2023_Earthquake_Information/June/2023_0611_1048_B2.html
+20230611T1849_12.33_121.89,2023-06-11T18:49:00+08:00,12.33,121.89,2.0,3.2,006 km S 87° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0611_1049_B3F.html
+20230611T1927_12.35_121.87,2023-06-11T19:27:00+08:00,12.35,121.87,3.0,3.7,008 km N 83° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0611_1127_B2F.html
+20230611T1937_12.38_121.9,2023-06-11T19:37:00+08:00,12.38,121.9,2.0,3.9,006 km N 42° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0611_1137_B2F.html
+20230611T1944_12.36_121.91,2023-06-11T19:44:00+08:00,12.36,121.91,5.0,2.7,004 km N 42° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0611_1144_B2.html
+20230611T2052_12.34_121.93,2023-06-11T20:52:00+08:00,12.34,121.93,4.0,3.0,001 km N 79° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0611_1252_B2.html
+20230611T2059_11.83_125.95,2023-06-11T20:59:00+08:00,11.83,125.95,15.0,2.9,054 km N 81° E of San Julian (Eastern Samar),2023_Earthquake_Information/June/2023_0611_1259_B2.html
+20230611T2112_12.37_121.87,2023-06-11T21:12:00+08:00,12.37,121.87,2.0,2.4,012 km S 74° W of Odiongan (Romblon),2023_Earthquake_Information/June/2023_0611_1312_B2.html
+20230611T2202_12.45_121.91,2023-06-11T22:02:00+08:00,12.45,121.91,1.0,1.6,010 km N 57° W of Odiongan (Romblon),2023_Earthquake_Information/June/2023_0611_1402_B1.html
+20230611T2215_14.33_120.14,2023-06-11T22:15:00+08:00,14.33,120.14,25.0,2.8,040 km S 72° W of Mariveles (Bataan),2023_Earthquake_Information/June/2023_0611_1415_B2.html
+20230611T2233_6.49_126.54,2023-06-11T22:33:00+08:00,6.49,126.54,72.0,3.3,063 km S 10° E of Tarragona (Davao Oriental),2023_Earthquake_Information/June/2023_0611_1433_B2.html
+20230611T2234_19.24_121.27,2023-06-11T22:34:00+08:00,19.24,121.27,1.0,2.1,016 km N 24° E of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0611_1434_B2.html
+20230611T2252_12.36_121.82,2023-06-11T22:52:00+08:00,12.36,121.82,4.0,3.1,013 km N 77° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0611_1452_B3F.html
+20230611T2259_13.5_120.68,2023-06-11T22:59:00+08:00,13.5,120.68,1.0,2.0,008 km N 37° W of Abra De Ilog (Occidental Mindoro),2023_Earthquake_Information/June/2023_0611_1459_B2.html
+20230612T0007_19.13_121.19,2023-06-12T00:07:00+08:00,19.13,121.19,12.0,2.8,003 km N 32° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0611_1607_B2.html
+20230612T0010_6.18_124.63,2023-06-12T00:10:00+08:00,6.18,124.63,17.0,2.4,010 km S 59° W of Lake Sebu (South Cotabato),2023_Earthquake_Information/June/2023_0611_1610_B2.html
+20230612T0118_12.42_121.91,2023-06-12T01:18:00+08:00,12.42,121.91,1.0,2.4,007 km N 76° W of Odiongan (Romblon),2023_Earthquake_Information/June/2023_0611_1718_B1.html
+20230612T0225_7.74_126.06,2023-06-12T02:25:00+08:00,7.74,126.06,14.0,2.4,008 km N 17° W of Compostela (Davao De Oro),2023_Earthquake_Information/June/2023_0611_1825_B1.html
+20230612T0301_12.49_122.02,2023-06-12T03:01:00+08:00,12.49,122.02,32.0,1.9,004 km S 19° E of San Andres (Romblon),2023_Earthquake_Information/June/2023_0611_1901_B1.html
+20230612T0309_8.8_126.5,2023-06-12T03:09:00+08:00,8.8,126.5,23.0,2.2,023 km East of Marihatag (Surigao Del Sur),2023_Earthquake_Information/June/2023_0611_1909_B2.html
+20230612T0320_13.58_124.55,2023-06-12T03:20:00+08:00,13.58,124.55,18.0,2.1,028 km S 83° E of Bato (Catanduanes),2023_Earthquake_Information/June/2023_0611_1920_B2.html
+20230612T0347_18.73_120.71,2023-06-12T03:47:00+08:00,18.73,120.71,33.0,1.7,021 km N 24° W of Pagudpud (Ilocos Norte),2023_Earthquake_Information/June/2023_0611_1947_B1.html
+20230612T0416_12.38_121.87,2023-06-12T04:16:00+08:00,12.38,121.87,1.0,3.5,009 km N 59° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0611_2016_B3F.html
+20230612T0500_10.78_124.76,2023-06-12T05:00:00+08:00,10.78,124.76,25.0,2.1,012 km N 19° W of City Of Baybay (Leyte),2023_Earthquake_Information/June/2023_0611_2100_B2.html
+20230612T0512_12.35_122.01,2023-06-12T05:12:00+08:00,12.35,122.01,31.0,2.1,006 km S 31° E of Odiongan (Romblon),2023_Earthquake_Information/June/2023_0611_2112_B1.html
+20230612T0526_5.69_126.58,2023-06-12T05:26:00+08:00,5.69,126.58,91.0,3.9,107 km S 76° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0611_2126_B2.html
+20230612T0705_7.85_124.78,2023-06-12T07:05:00+08:00,7.85,124.78,24.0,1.7,006 km N 68° W of Pangantucan (Bukidnon),2023_Earthquake_Information/June/2023_0611_2305_B1.html
+20230612T0848_10.7_125.5,2023-06-12T08:48:00+08:00,10.7,125.5,62.0,3.6,025 km S 79° W of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0612_0048_B2F.html
+20230612T0905_16.18_119.57,2023-06-12T09:05:00+08:00,16.18,119.57,6.0,2.5,026 km N 75° W of Agno (Pangasinan),2023_Earthquake_Information/June/2023_0612_0105_B1.html
+20230612T0906_6.18_123.79,2023-06-12T09:06:00+08:00,6.18,123.79,3.0,2.0,044 km S 86° W of Palimbang (Sultan Kudarat),2023_Earthquake_Information/June/2023_0612_0106_B1.html
+20230612T1118_12.48_123.65,2023-06-12T11:18:00+08:00,12.48,123.65,9.0,2.6,012 km S 86° W of San Fernando (Masbate),2023_Earthquake_Information/June/2023_0612_0318_B2F.html
+20230612T1208_9.9_125.4,2023-06-12T12:08:00+08:00,9.9,125.4,20.0,1.9,016 km N 39° W of City Of Surigao (Surigao Del Norte),2023_Earthquake_Information/June/2023_0612_0408_B2.html
+20230612T1230_16.47_121.53,2023-06-12T12:30:00+08:00,16.47,121.53,32.0,1.6,004 km S 09° E of Cabarroguis (Quirino),2023_Earthquake_Information/June/2023_0612_0430_B1.html
+20230612T1351_10.45_125.04,2023-06-12T13:51:00+08:00,10.45,125.04,2.0,2.2,010 km N 42° E of Sogod (Southern Leyte),2023_Earthquake_Information/June/2023_0612_0551_B2.html
+20230612T1408_9.42_125.57,2023-06-12T14:08:00+08:00,9.42,125.57,33.0,1.5,003 km S 14° W of Kitcharao (Agusan Del Norte),2023_Earthquake_Information/June/2023_0612_0608_B1.html
+20230612T1505_10.32_125.21,2023-06-12T15:05:00+08:00,10.32,125.21,15.0,2.7,009 km S 06° E of Hinunangan (Southern Leyte),2023_Earthquake_Information/June/2023_0612_0705_B2F.html
+20230612T1520_9.92_126.11,2023-06-12T15:20:00+08:00,9.92,126.11,19.0,2.9,003 km S 58° E of San Isidro (Surigao Del Norte),2023_Earthquake_Information/June/2023_0612_0720_B2.html
+20230612T1547_8.32_125.94,2023-06-12T15:47:00+08:00,8.32,125.94,8.0,2.4,010 km S 46° W of Rosario (Agusan Del Sur),2023_Earthquake_Information/June/2023_0612_0747_B2.html
+20230612T1701_13.81_120.67,2023-06-12T17:01:00+08:00,13.81,120.67,147.0,3.2,005 km S 53° E of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0612_0901_B2.html
+20230612T1836_18.95_120.81,2023-06-12T18:36:00+08:00,18.95,120.81,13.0,2.5,045 km S 67° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0612_1036_B2.html
+20230612T1849_10.03_126.12,2023-06-12T18:49:00+08:00,10.03,126.12,19.0,2.5,011 km N 19° E of San Isidro (Surigao Del Norte),2023_Earthquake_Information/June/2023_0612_1049_B2.html
+20230612T2016_10.5_125.69,2023-06-12T20:16:00+08:00,10.5,125.69,25.0,2.2,019 km N 38° E of Loreto (Dinagat Islands),2023_Earthquake_Information/June/2023_0612_1216_B2.html
+20230612T2042_9.11_125.69,2023-06-12T20:42:00+08:00,9.11,125.69,7.0,2.5,013 km N 60° E of Remedios T. Romualdez (Agusan Del Norte),2023_Earthquake_Information/June/2023_0612_1242_B2.html
+20230612T2123_17.55_122.25,2023-06-12T21:23:00+08:00,17.55,122.25,74.0,2.0,018 km N 03° E of Maconacon (Isabela),2023_Earthquake_Information/June/2023_0612_1323_B1.html
+20230612T2126_17.63_120.86,2023-06-12T21:26:00+08:00,17.63,120.86,6.0,1.8,008 km N 34° W of Licuan - Baay (Abra),2023_Earthquake_Information/June/2023_0612_1326_B2.html
+20230612T2211_17.3_122.65,2023-06-12T22:11:00+08:00,17.3,122.65,32.0,2.4,035 km N 43° E of Palanan (Isabela),2023_Earthquake_Information/June/2023_0612_1411_B2.html
+20230612T2257_13.67_120.62,2023-06-12T22:57:00+08:00,13.67,120.62,92.0,2.0,018 km S 04° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0612_1457_B2.html
+20230612T2329_6.99_126.93,2023-06-12T23:29:00+08:00,6.99,126.93,19.0,2.7,050 km S 61° E of Manay (Davao Oriental),2023_Earthquake_Information/June/2023_0612_1529_B2.html
+20230612T2332_3.08_126.54,2023-06-12T23:32:00+08:00,3.08,126.54,31.0,4.1,286 km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0612_1532_B2.html
+20230613T0030_14.98_121.6,2023-06-13T00:30:00+08:00,14.98,121.6,21.0,1.7,023 km N 78° W of Panukulan (Quezon),2023_Earthquake_Information/June/2023_0612_1630_B2.html
+20230613T0122_10.46_122.35,2023-06-13T01:22:00+08:00,10.46,122.35,9.0,2.3,022 km S 72° W of Nueva Valencia (Guimaras),2023_Earthquake_Information/June/2023_0612_1722_B2.html
+20230613T0126_15.51_120.64,2023-06-13T01:26:00+08:00,15.51,120.64,32.0,1.3,006 km N 58° E of City Of Tarlac (Tarlac),2023_Earthquake_Information/June/2023_0612_1726_B2.html
+20230613T0152_5.72_126.11,2023-06-13T01:52:00+08:00,5.72,126.11,123.0,2.2,056 km S 67° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0612_1752_B1.html
+20230613T0207_12.44_121.91,2023-06-13T02:07:00+08:00,12.44,121.91,1.0,2.6,012 km N 15° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0612_1807_B2.html
+20230613T0240_12.3_123.77,2023-06-13T02:40:00+08:00,12.3,123.77,10.0,1.9,009 km N 09° W of Uson (Masbate),2023_Earthquake_Information/June/2023_0612_1840_B2.html
+20230613T0241_13.84_122.81,2023-06-13T02:41:00+08:00,13.84,122.81,6.0,2.1,003 km N 43° E of Ragay (Camarines Sur),2023_Earthquake_Information/June/2023_0612_1841_B2.html
+20230613T0302_7.7_126.04,2023-06-13T03:02:00+08:00,7.7,126.04,16.0,2.0,006 km N 52° W of Compostela (Davao De Oro),2023_Earthquake_Information/June/2023_0612_1902_B2.html
+20230613T0315_8.34_125.89,2023-06-13T03:15:00+08:00,8.34,125.89,27.0,1.6,012 km N 55° E of La Paz (Agusan Del Sur),2023_Earthquake_Information/June/2023_0612_1915_B2.html
+20230613T0319_17.91_120.5,2023-06-13T03:19:00+08:00,17.91,120.5,11.0,1.8,003 km S 64° E of Badoc (Ilocos Norte),2023_Earthquake_Information/June/2023_0612_1919_B1.html
+20230613T0320_5.94_125.96,2023-06-13T03:20:00+08:00,5.94,125.96,134.0,2.5,036 km N 86° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0612_1920_B1.html
+20230613T0335_9.69_122.01,2023-06-13T03:35:00+08:00,9.69,122.01,11.0,2.4,048 km S 79° W of City Of Sipalay (Negros Occidental),2023_Earthquake_Information/June/2023_0612_1935_B2.html
+20230613T0344_7.62_124.71,2023-06-13T03:44:00+08:00,7.62,124.71,4.0,2.0,003 km S 38° W of Wao (Lanao Del Sur),2023_Earthquake_Information/June/2023_0612_1944_B2.html
+20230613T0353_8.12_126.43,2023-06-13T03:53:00+08:00,8.12,126.43,25.0,1.5,009 km N 10° E of Lingig (Surigao Del Sur),2023_Earthquake_Information/June/2023_0612_1953_B1.html
+20230613T0526_8.88_125.69,2023-06-13T05:26:00+08:00,8.88,125.69,10.0,2.4,007 km N 02° W of Sibagat (Agusan Del Sur),2023_Earthquake_Information/June/2023_0612_2126_B2.html
+20230613T0641_9.58_126.22,2023-06-13T06:41:00+08:00,9.58,126.22,33.0,2.3,024 km S 17° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0612_2241_B1.html
+20230613T0915_17.53_120.62,2023-06-13T09:15:00+08:00,17.53,120.62,12.0,2.1,005 km S 44° W of Peñarrubia (Abra),2023_Earthquake_Information/June/2023_0613_0115_B2.html
+20230613T1237_8.36_127.04,2023-06-13T12:37:00+08:00,8.36,127.04,12.0,3.3,077 km S 89° E of Hinatuan (Surigao Del Sur),2023_Earthquake_Information/June/2023_0613_0437_B2.html
+20230613T1417_20.64_121.54,2023-06-13T14:17:00+08:00,20.64,121.54,31.0,3.0,036 km S 62° W of Itbayat (Batanes),2023_Earthquake_Information/June/2023_0613_0617_B2.html
+20230613T1444_5.63_126.06,2023-06-13T14:44:00+08:00,5.63,126.06,108.0,2.7,055 km S 56° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0613_0644_B2.html
+20230613T1553_16.66_122.29,2023-06-13T15:53:00+08:00,16.66,122.29,32.0,2.2,015 km N 10° E of Dinapigue (Isabela),2023_Earthquake_Information/June/2023_0613_0753_B1.html
+20230613T1717_14.9_121.84,2023-06-13T17:17:00+08:00,14.9,121.84,1.0,2.9,005 km S 44° E of Panukulan (Quezon),2023_Earthquake_Information/June/2023_0613_0917_B2F.html
+20230613T1731_9.43_126.34,2023-06-13T17:31:00+08:00,9.43,126.34,30.0,1.9,024 km N 42° E of Cortes (Surigao Del Sur),2023_Earthquake_Information/June/2023_0613_0931_B2.html
+20230613T1758_18.82_121.07,2023-06-13T17:58:00+08:00,18.82,121.07,17.0,3.0,024 km N 03° W of Claveria (Cagayan),2023_Earthquake_Information/June/2023_0613_0958_B2.html
+20230613T1809_13.68_119.87,2023-06-13T18:09:00+08:00,13.68,119.87,24.0,3.0,033 km S 57° W of Lubang (Occidental Mindoro),2023_Earthquake_Information/June/2023_0613_1009_B2.html
+20230613T1824_12.51_123.64,2023-06-13T18:24:00+08:00,12.51,123.64,13.0,2.4,013 km S 57° W of San Jacinto (Masbate),2023_Earthquake_Information/June/2023_0613_1024_B2.html
+20230613T2016_12.82_124.8,2023-06-13T20:16:00+08:00,12.82,124.8,1.0,2.9,032 km N 26° W of Pambujan (Northern Samar),2023_Earthquake_Information/June/2023_0613_1216_B2.html
+20230613T2037_4.26_126.23,2023-06-13T20:37:00+08:00,4.26,126.23,137.0,3.7,156 km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0613_1237_B1.html
+20230613T2057_13.88_119.69,2023-06-13T20:57:00+08:00,13.88,119.69,21.0,4.8,047 km N 87° W of Lubang (Occidental Mindoro),2023_Earthquake_Information/June/2023_0613_1257_B3F.html
+20230613T2139_13.92_120.02,2023-06-13T21:39:00+08:00,13.92,120.02,10.0,1.8,013 km N 61° W of Lubang (Occidental Mindoro),2023_Earthquake_Information/June/2023_0613_1339_B2.html
+20230613T2221_13.94_120.03,2023-06-13T22:21:00+08:00,13.94,120.03,7.0,2.0,013 km N 48° W of Lubang (Occidental Mindoro),2023_Earthquake_Information/June/2023_0613_1421_B2.html
+20230613T2252_18.85_121.22,2023-06-13T22:52:00+08:00,18.85,121.22,10.0,2.4,016 km S 90° W of Fuga Island (Aparri) (Cagayan),2023_Earthquake_Information/June/2023_0613_1452_B2.html
+20230614T0024_18.55_120.88,2023-06-14T00:24:00+08:00,18.55,120.88,20.0,2.7,009 km N 68° E of Dumalneg (Ilocos Norte),2023_Earthquake_Information/June/2023_0613_1624_B2.html
+20230614T0034_12.33_123.75,2023-06-14T00:34:00+08:00,12.33,123.75,11.0,1.8,009 km S 88° E of Mobo (Masbate),2023_Earthquake_Information/June/2023_0613_1634_B2.html
+20230614T0147_12.83_123.35,2023-06-14T01:47:00+08:00,12.83,123.35,9.0,2.0,013 km S 54° E of Claveria (Masbate),2023_Earthquake_Information/June/2023_0613_1747_B2.html
+20230614T0228_4.67_125.05,2023-06-14T02:28:00+08:00,4.67,125.05,55.0,3.7,092 km S 27° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0613_1828_B2.html
+20230614T0249_6.05_125.75,2023-06-14T02:49:00+08:00,6.05,125.75,30.0,4.2,017 km S 21° E of Don Marcelino (Davao Occidental),2023_Earthquake_Information/June/2023_0613_1849_B2F.html
+20230614T0357_6.14_126.45,2023-06-14T03:57:00+08:00,6.14,126.45,46.0,3.3,071 km S 36° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0613_1957_B2_Davao_Oriental_2.html
+20230614T0357_7.05_127.33,2023-06-14T03:57:00+08:00,7.05,127.33,2.0,3.3,090 km S 70° E of Caraga (Davao Oriental),2023_Earthquake_Information/June/2023_0613_1957_B2_Davao_Oriental_1.html
+20230614T0522_18.28_120.69,2023-06-14T05:22:00+08:00,18.28,120.69,24.0,3.0,007 km N 35° E of Vintar (Ilocos Norte),2023_Earthquake_Information/June/2023_0613_2122_B2.html
+20230614T0937_14.03_120.46,2023-06-14T09:37:00+08:00,14.03,120.46,115.0,1.7,019 km S 73° W of Nasugbu (Batangas),2023_Earthquake_Information/June/2023_0614_0137_B2.html
+20230614T1038_5.85_126.01,2023-06-14T10:38:00+08:00,5.85,126.01,122.0,2.3,042 km S 80° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0614_0238_B2.html
+20230614T1045_15.59_119.91,2023-06-14T10:45:00+08:00,15.59,119.91,62.0,1.6,004 km S 35° W of Candelaria (Zambales),2023_Earthquake_Information/June/2023_0614_0245_B1.html
+20230614T1054_9.83_122.34,2023-06-14T10:54:00+08:00,9.83,122.34,30.0,1.7,012 km N 58° W of City Of Sipalay (Negros Occidental),2023_Earthquake_Information/June/2023_0614_0254_B1.html
+20230614T1117_13.82_120.59,2023-06-14T11:17:00+08:00,13.82,120.59,87.0,1.9,005 km S 69° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0614_0317_B1.html
+20230614T1310_13.53_120.71,2023-06-14T13:10:00+08:00,13.53,120.71,2.0,2.6,009 km N 10° W of Abra De Ilog (Occidental Mindoro),2023_Earthquake_Information/June/2023_0614_0510_B2.html
+20230614T1324_13.11_120.89,2023-06-14T13:24:00+08:00,13.11,120.89,34.0,1.8,019 km N 80° E of Santa Cruz (Occidental Mindoro),2023_Earthquake_Information/June/2023_0614_0524_B2.html
+20230614T1356_5.79_126.16,2023-06-14T13:56:00+08:00,5.79,126.16,122.0,1.8,059 km S 77° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0614_0556_B1.html
+20230614T1655_11.88_125.69,2023-06-14T16:55:00+08:00,11.88,125.69,32.0,1.6,026 km N 75° E of Sulat (Eastern Samar),2023_Earthquake_Information/June/2023_0614_0855_B1.html
+20230614T1942_15.56_120.15,2023-06-14T19:42:00+08:00,15.56,120.15,13.0,1.6,021 km N 81° E of Masinloc (Zambales),2023_Earthquake_Information/June/2023_0614_1142_B1.html
+20230614T2139_18.34_120.84,2023-06-14T21:39:00+08:00,18.34,120.84,2.0,3.4,015 km S 28° W of Adams (Ilocos Norte),2023_Earthquake_Information/June/2023_0614_1339_B2F.html
+20230614T2208_13.76_120.55,2023-06-14T22:08:00+08:00,13.76,120.55,108.0,2.3,013 km S 48° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0614_1408_B2.html
+20230615T0003_12.35_123.83,2023-06-15T00:03:00+08:00,12.35,123.83,15.0,2.5,009 km S 32° E of Batuan (Masbate),2023_Earthquake_Information/June/2023_0614_1603_B2.html
+20230615T0033_16.19_120.71,2023-06-15T00:33:00+08:00,16.19,120.71,11.0,2.3,015 km N 15° E of San Manuel (Pangasinan),2023_Earthquake_Information/June/2023_0614_1633_B1.html
+20230615T0125_6.84_126.04,2023-06-15T01:25:00+08:00,6.84,126.04,33.0,2.2,005 km N 83° W of San Isidro (Davao Oriental),2023_Earthquake_Information/June/2023_0614_1725_B2.html
+20230615T0139_6.75_125.76,2023-06-15T01:39:00+08:00,6.75,125.76,23.0,2.2,033 km S 60° W of Lupon (Davao Oriental),2023_Earthquake_Information/June/2023_0614_1739_B2.html
+20230615T0158_9.05_126.33,2023-06-15T01:58:00+08:00,9.05,126.33,30.0,3.0,010 km N 27° E of Bayabas (Surigao Del Sur),2023_Earthquake_Information/June/2023_0614_1758_B2.html
+20230615T0208_3.82_126.19,2023-06-15T02:08:00+08:00,3.82,126.19,12.0,4.3,196 km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0614_1808_B2.html
+20230615T0214_8.92_121.54,2023-06-15T02:14:00+08:00,8.92,121.54,33.0,3.4,082 km S 27° E of Cagayancillo (Palawan),2023_Earthquake_Information/June/2023_0614_1814_B2.html
+20230615T0231_13.61_120.56,2023-06-15T02:31:00+08:00,13.61,120.56,108.0,3.2,024 km N 27° E of Paluan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0614_1831_B2.html
+20230615T0250_12.32_121.91,2023-06-15T02:50:00+08:00,12.32,121.91,4.0,2.2,004 km S 56° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0614_1850_B2.html
+20230615T0305_11.5_125.47,2023-06-15T03:05:00+08:00,11.5,125.47,1.0,1.8,003 km S 86° W of Maydolong (Eastern Samar),2023_Earthquake_Information/June/2023_0614_1905_B1.html
+20230615T0312_7.17_122.11,2023-06-15T03:12:00+08:00,7.17,122.11,1.0,1.6,014 km S 21° E of Sibuco (Zamboanga Del Norte),2023_Earthquake_Information/June/2023_0614_1912_B2.html
+20230615T0331_9.6_126.16,2023-06-15T03:31:00+08:00,9.6,126.16,30.0,2.3,020 km S 01° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0614_1931_B2.html
+20230615T0332_9.64_126.12,2023-06-15T03:32:00+08:00,9.64,126.12,20.0,2.3,016 km S 14° W of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0614_1932_B2.html
+20230615T0339_13.93_120.34,2023-06-15T03:39:00+08:00,13.93,120.34,119.0,3.3,033 km N 72° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0614_1939_B2.html
+20230615T0412_14.78_121.8,2023-06-15T04:12:00+08:00,14.78,121.8,17.0,1.8,016 km N 64° W of Polillo (Quezon),2023_Earthquake_Information/June/2023_0614_2012_B1.html
+20230615T0437_12.35_121.86,2023-06-15T04:37:00+08:00,12.35,121.86,1.0,2.9,009 km N 82° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0614_2037_B2F.html
+20230615T0827_11.77_124.25,2023-06-15T08:27:00+08:00,11.77,124.25,4.0,2.9,010 km S 84° W of Maripipi (Biliran),2023_Earthquake_Information/June/2023_0615_0027_B2F.html
+20230615T0914_8.6_125.89,2023-06-15T09:14:00+08:00,8.6,125.89,21.0,2.4,003 km S 88° W of Prosperidad (Agusan Del Sur),2023_Earthquake_Information/June/2023_0615_0114_B1.html
+20230615T0925_17.61_122.21,2023-06-15T09:25:00+08:00,17.61,122.21,20.0,2.6,025 km N 06° W of Maconacon (Isabela),2023_Earthquake_Information/June/2023_0615_0125_B2.html
+20230615T1008_16.9_121.26,2023-06-15T10:08:00+08:00,16.9,121.26,33.0,1.5,008 km S 26° E of Mayoyao (Ifugao),2023_Earthquake_Information/June/2023_0615_0208_B1.html
+20230615T1019_13.78_120.52,2023-06-15T10:19:00+08:00,13.78,120.52,107.0,6.3,013 km S 66° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_0219_B4F.html
+20230615T1115_13.88_120.55,2023-06-15T11:15:00+08:00,13.88,120.55,94.0,1.7,011 km N 62° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_0315_B2F.html
+20230615T1143_13.85_120.56,2023-06-15T11:43:00+08:00,13.85,120.56,96.0,2.2,008 km N 78° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_0343_B2F.html
+20230615T1223_13.79_120.56,2023-06-15T12:23:00+08:00,13.79,120.56,103.0,1.6,009 km S 59° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_0423_B1F.html
+20230615T1238_13.77_120.47,2023-06-15T12:38:00+08:00,13.77,120.47,111.0,3.1,019 km S 68° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_0438_B2F.html
+20230615T1241_5.85_124.48,2023-06-15T12:41:00+08:00,5.85,124.48,44.0,2.9,023 km S 46° W of Kiamba (Sarangani),2023_Earthquake_Information/June/2023_0615_0441_B2.html
+20230615T1258_8.44_126.55,2023-06-15T12:58:00+08:00,8.44,126.55,12.0,1.9,025 km N 71° E of Hinatuan (Surigao Del Sur),2023_Earthquake_Information/June/2023_0615_0458_B1.html
+20230615T1328_13.69_120.65,2023-06-15T13:28:00+08:00,13.69,120.65,107.0,1.5,016 km S 05° E of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_0528_B1F.html
+20230615T1424_8.96_126.19,2023-06-15T14:24:00+08:00,8.96,126.19,27.0,2.1,008 km S 31° W of Tago (Surigao Del Sur),2023_Earthquake_Information/June/2023_0615_0624_B1.html
+20230615T1525_13.84_120.57,2023-06-15T15:25:00+08:00,13.84,120.57,99.0,2.5,007 km N 81° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_0725_B2F.html
+20230615T1631_8.92_122.68,2023-06-15T16:31:00+08:00,8.92,122.68,94.0,2.2,041 km S 67° W of Siaton (Negros Oriental),2023_Earthquake_Information/June/2023_0615_0831_B1.html
+20230615T1709_15.58_120.06,2023-06-15T17:09:00+08:00,15.58,120.06,56.0,1.7,012 km N 66° E of Masinloc (Zambales),2023_Earthquake_Information/June/2023_0615_0909_B1.html
+20230615T1724_9.33_126.19,2023-06-15T17:24:00+08:00,9.33,126.19,11.0,2.3,006 km N 01° E of Cortes (Surigao Del Sur),2023_Earthquake_Information/June/2023_0615_0924_B2.html
+20230615T1731_7.13_127.09,2023-06-15T17:31:00+08:00,7.13,127.09,6.0,2.6,061 km S 81° E of Manay (Davao Oriental),2023_Earthquake_Information/June/2023_0615_0931_B2.html
+20230615T1733_13.8_120.59,2023-06-15T17:33:00+08:00,13.8,120.59,101.0,1.8,006 km S 52° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_0933_B2F.html
+20230615T1751_13.95_120.55,2023-06-15T17:51:00+08:00,13.95,120.55,93.0,1.4,016 km N 35° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_0951_B1F.html
+20230615T1753_13.76_120.61,2023-06-15T17:53:00+08:00,13.76,120.61,113.0,2.3,009 km S 16° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_0953_B2F.html
+20230615T1804_7.43_123.55,2023-06-15T18:04:00+08:00,7.43,123.55,13.0,2.0,027 km S 23° E of San Pablo (Zamboanga Del Sur),2023_Earthquake_Information/June/2023_0615_1004_B2.html
+20230615T1842_13.87_120.62,2023-06-15T18:42:00+08:00,13.87,120.62,110.0,1.5,004 km N 25° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_1042_B1F.html
+20230615T1852_12.96_120.79,2023-06-15T18:52:00+08:00,12.96,120.79,1.0,2.5,013 km N 02° E of Sablayan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0615_1052_B2.html
+20230615T1855_12.96_120.81,2023-06-15T18:55:00+08:00,12.96,120.81,2.0,3.1,013 km N 13° E of Sablayan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0615_1055_B2.html
+20230615T1906_13.0_120.84,2023-06-15T19:06:00+08:00,13.0,120.84,1.0,2.7,019 km N 21° E of Sablayan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0615_1106_B2.html
+20230615T1907_15.04_121.52,2023-06-15T19:07:00+08:00,15.04,121.52,26.0,2.2,033 km N 20° W of General Nakar (Quezon),2023_Earthquake_Information/June/2023_0615_1107_B1.html
+20230615T1910_12.95_120.78,2023-06-15T19:10:00+08:00,12.95,120.78,7.0,2.3,011 km N 02° W of Sablayan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0615_1110_B2.html
+20230615T1923_12.85_120.81,2023-06-15T19:23:00+08:00,12.85,120.81,17.0,1.9,004 km N 74° E of Sablayan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0615_1123_B1.html
+20230615T1930_13.77_120.54,2023-06-15T19:30:00+08:00,13.77,120.54,98.0,1.8,012 km S 56° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_1130_B2F.html
+20230615T1932_12.97_120.81,2023-06-15T19:32:00+08:00,12.97,120.81,1.0,2.5,014 km N 14° E of Sablayan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0615_1132_B2.html
+20230615T1939_12.97_120.88,2023-06-15T19:39:00+08:00,12.97,120.88,13.0,1.9,018 km N 38° E of Sablayan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0615_1139_B2.html
+20230615T1944_18.51_120.26,2023-06-15T19:44:00+08:00,18.51,120.26,5.0,3.4,040 km N 90° W of Burgos (Ilocos Norte),2023_Earthquake_Information/June/2023_0615_1144_B2F.html
+20230615T1950_18.33_120.54,2023-06-15T19:50:00+08:00,18.33,120.54,1.0,3.3,009 km S 85° W of Pasuquin (Ilocos Norte),2023_Earthquake_Information/June/2023_0615_1150_B2F.html
+20230615T1951_8.31_126.94,2023-06-15T19:51:00+08:00,8.31,126.94,8.0,2.5,066 km N 63° E of Lingig (Surigao Del Sur),2023_Earthquake_Information/June/2023_0615_1151_B2.html
+20230615T2002_7.57_124.45,2023-06-15T20:02:00+08:00,7.57,124.45,1.0,2.7,011 km N 53° E of Buldon (Maguindanao Del Norte),2023_Earthquake_Information/June/2023_0615_1202_B2.html
+20230615T2004_7.48_124.51,2023-06-15T20:04:00+08:00,7.48,124.51,27.0,2.0,012 km N 26° W of Alamada (Cotabato),2023_Earthquake_Information/June/2023_0615_1204_B2.html
+20230615T2019_8.64_125.83,2023-06-15T20:19:00+08:00,8.64,125.83,18.0,2.3,010 km N 63° W of Prosperidad (Agusan Del Sur),2023_Earthquake_Information/June/2023_0615_1219_B2.html
+20230615T2031_12.88_120.87,2023-06-15T20:31:00+08:00,12.88,120.87,24.0,1.6,010 km N 66° E of Sablayan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0615_1231_B1.html
+20230615T2110_18.4_120.55,2023-06-15T21:10:00+08:00,18.4,120.55,7.0,2.0,010 km N 46° W of Pasuquin (Ilocos Norte),2023_Earthquake_Information/June/2023_0615_1310_B1.html
+20230615T2151_10.38_125.24,2023-06-15T21:51:00+08:00,10.38,125.24,1.0,2.6,004 km S 68° E of Hinunangan (Southern Leyte),2023_Earthquake_Information/June/2023_0615_1351_B2F.html
+20230615T2201_10.84_122.09,2023-06-15T22:01:00+08:00,10.84,122.09,45.0,2.3,001 km N 06° W of San Remigio (Antique),2023_Earthquake_Information/June/2023_0615_1401_B2.html
+20230615T2218_8.76_126.81,2023-06-15T22:18:00+08:00,8.76,126.81,33.0,1.8,057 km S 85° E of Marihatag (Surigao Del Sur),2023_Earthquake_Information/June/2023_0615_1418_B1.html
+20230615T2227_13.82_120.59,2023-06-15T22:27:00+08:00,13.82,120.59,106.0,1.7,005 km S 70° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_1427_B2.html
+20230615T2232_12.32_121.89,2023-06-15T22:32:00+08:00,12.32,121.89,2.0,3.4,006 km S 76° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0615_1432_B2.html
+20230615T2248_12.43_121.87,2023-06-15T22:48:00+08:00,12.43,121.87,1.0,1.9,012 km N 75° W of Odiongan (Romblon),2023_Earthquake_Information/June/2023_0615_1448_B2.html
+20230615T2252_12.33_121.92,2023-06-15T22:52:00+08:00,12.33,121.92,7.0,2.8,003 km S 67° W of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0615_1452_B2.html
+20230615T2300_14.01_120.53,2023-06-15T23:00:00+08:00,14.01,120.53,118.0,1.5,023 km N 28° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_1500_B1.html
+20230615T2327_17.56_122.31,2023-06-15T23:27:00+08:00,17.56,122.31,81.0,2.1,021 km N 23° E of Maconacon (Isabela),2023_Earthquake_Information/June/2023_0615_1527_B1.html
+20230615T2348_9.38_126.37,2023-06-15T23:48:00+08:00,9.38,126.37,86.0,1.9,022 km N 60° E of Cortes (Surigao Del Sur),2023_Earthquake_Information/June/2023_0615_1548_B1.html
+20230616T0128_9.81_122.41,2023-06-16T01:28:00+08:00,9.81,122.41,17.0,2.6,005 km N 26° W of City Of Sipalay (Negros Occidental),2023_Earthquake_Information/June/2023_0615_1728_B2.html
+20230616T0129_18.33_120.59,2023-06-16T01:29:00+08:00,18.33,120.59,12.0,2.1,003 km S 70° W of Pasuquin (Ilocos Norte),2023_Earthquake_Information/June/2023_0615_1729_B1.html
+20230616T0134_18.61_120.91,2023-06-16T01:34:00+08:00,18.61,120.91,6.0,2.3,009 km N 61° W of Santa Praxedes (Cagayan),2023_Earthquake_Information/June/2023_0615_1734_B1.html
+20230616T0219_6.48_125.77,2023-06-16T02:19:00+08:00,6.48,125.77,60.0,2.8,019 km N 67° E of Malita (Davao Occidental),2023_Earthquake_Information/June/2023_0615_1819_B2.html
+20230616T0300_17.63_122.36,2023-06-16T03:00:00+08:00,17.63,122.36,51.0,2.2,030 km N 26° E of Maconacon (Isabela),2023_Earthquake_Information/June/2023_0615_1900_B2.html
+20230616T0305_18.9_121.04,2023-06-16T03:05:00+08:00,18.9,121.04,22.0,2.1,029 km S 37° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0615_1905_B1.html
+20230616T0326_10.5_122.24,2023-06-16T03:26:00+08:00,10.5,122.24,16.0,2.0,015 km S 49° E of San Joaquin (Iloilo),2023_Earthquake_Information/June/2023_0615_1926_B2.html
+20230616T0339_12.96_120.83,2023-06-16T03:39:00+08:00,12.96,120.83,1.0,3.0,014 km N 22° E of Sablayan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0615_1939_B2.html
+20230616T0349_17.36_120.5,2023-06-16T03:49:00+08:00,17.36,120.5,11.0,1.8,003 km N 21° E of Burgos (Ilocos Sur),2023_Earthquake_Information/June/2023_0615_1949_B2.html
+20230616T0351_15.97_119.75,2023-06-16T03:51:00+08:00,15.97,119.75,26.0,1.9,014 km S 80° W of Dasol (Pangasinan),2023_Earthquake_Information/June/2023_0615_1951_B1.html
+20230616T0403_8.05_123.16,2023-06-16T04:03:00+08:00,8.05,123.16,9.0,2.3,017 km N 83° W of Midsalip (Zamboanga Del Sur),2023_Earthquake_Information/June/2023_0615_2003_B1.html
+20230616T0441_2.69_122.57,2023-06-16T04:41:00+08:00,2.69,122.57,526.0,4.4,361 km S 40° E of South Ubian (Tawi-tawi),2023_Earthquake_Information/June/2023_0615_2041_B2.html
+20230616T0457_13.64_120.68,2023-06-16T04:57:00+08:00,13.64,120.68,114.0,1.7,022 km S 15° E of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_2057_B1.html
+20230616T0503_10.09_126.14,2023-06-16T05:03:00+08:00,10.09,126.14,11.0,2.4,018 km N 18° E of San Isidro (Surigao Del Norte),2023_Earthquake_Information/June/2023_0615_2103_B2.html
+20230616T0509_13.72_120.63,2023-06-16T05:09:00+08:00,13.72,120.63,102.0,1.6,013 km S 03° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_2109_B1F.html
+20230616T0526_8.46_126.65,2023-06-16T05:26:00+08:00,8.46,126.65,13.0,2.2,035 km N 74° E of Hinatuan (Surigao Del Sur),2023_Earthquake_Information/June/2023_0615_2126_B1.html
+20230616T0612_13.84_120.7,2023-06-16T06:12:00+08:00,13.84,120.7,105.0,1.6,007 km N 87° E of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_2212_B1F.html
+20230616T0617_13.89_120.56,2023-06-16T06:17:00+08:00,13.89,120.56,101.0,1.4,011 km N 51° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0615_2217_B1F.html
+20230616T0630_9.71_126.06,2023-06-16T06:30:00+08:00,9.71,126.06,17.0,3.0,006 km S 10° E of Dapa (Surigao Del Norte),2023_Earthquake_Information/June/2023_0615_2230_B2.html
+20230616T0634_18.9_121.17,2023-06-16T06:34:00+08:00,18.9,121.17,22.0,2.5,021 km N 76° W of Fuga Island (Aparri) (Cagayan),2023_Earthquake_Information/June/2023_0615_2234_B1.html
+20230616T0647_8.6_126.07,2023-06-16T06:47:00+08:00,8.6,126.07,19.0,2.2,005 km S 39° W of Lianga (Surigao Del Sur),2023_Earthquake_Information/June/2023_0615_2247_B1.html
+20230616T0745_13.34_120.28,2023-06-16T07:45:00+08:00,13.34,120.28,29.0,1.5,022 km S 68° W of Paluan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0615_2345_B2.html
+20230616T0834_10.21_126.02,2023-06-16T08:34:00+08:00,10.21,126.02,21.0,2.4,022 km N 15° W of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0616_0034_B2.html
+20230616T0859_13.66_120.58,2023-06-16T08:59:00+08:00,13.66,120.58,99.0,2.6,020 km S 16° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0616_0059_B2.html
+20230616T1026_13.51_123.14,2023-06-16T10:26:00+08:00,13.51,123.14,1.0,2.5,006 km S 03° W of San Fernando (Camarines Sur),2023_Earthquake_Information/June/2023_0616_0226_B2.html
+20230616T1140_14.96_122.66,2023-06-16T11:40:00+08:00,14.96,122.66,9.0,3.7,046 km N 50° E of Jomalig (Quezon),2023_Earthquake_Information/June/2023_0616_0340_B2F.html
+20230616T1148_14.97_122.63,2023-06-16T11:48:00+08:00,14.97,122.63,7.0,3.5,045 km N 46° E of Jomalig (Quezon),2023_Earthquake_Information/June/2023_0616_0348_B2.html
+20230616T1151_14.85_122.61,2023-06-16T11:51:00+08:00,14.85,122.61,12.0,2.0,034 km N 60° E of Jomalig (Quezon),2023_Earthquake_Information/June/2023_0616_0351_B2.html
+20230616T1253_13.82_120.58,2023-06-16T12:53:00+08:00,13.82,120.58,102.0,1.5,006 km S 80° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0616_0453_B2F.html
+20230616T1257_5.28_126.08,2023-06-16T12:57:00+08:00,5.28,126.08,77.0,3.0,074 km S 79° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0616_0457_B1.html
+20230616T1431_9.86_125.97,2023-06-16T14:31:00+08:00,9.86,125.97,33.0,1.8,001 km S 35° W of Del Carmen (Surigao Del Norte),2023_Earthquake_Information/June/2023_0616_0631_B1.html
+20230616T1631_8.71_125.67,2023-06-16T16:31:00+08:00,8.71,125.67,27.0,2.4,004 km N 43° E of Esperanza (Agusan Del Sur),2023_Earthquake_Information/June/2023_0616_0831_B2.html
+20230616T1806_13.79_120.55,2023-06-16T18:06:00+08:00,13.79,120.55,102.0,2.2,010 km S 65° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0616_1006_B2.html
+20230616T1809_14.09_120.42,2023-06-16T18:09:00+08:00,14.09,120.42,110.0,1.8,023 km N 86° W of Nasugbu (Batangas),2023_Earthquake_Information/June/2023_0616_1009_B2.html
+20230616T1916_13.38_121.71,2023-06-16T19:16:00+08:00,13.38,121.71,33.0,1.5,016 km S 61° W of Boac (Marinduque),2023_Earthquake_Information/June/2023_0616_1116_B1_Marinduque.html
+20230616T1916_18.51_120.71,2023-06-16T19:16:00+08:00,18.51,120.71,18.0,2.9,006 km S 57° W of Bangui (Ilocos Norte),2023_Earthquake_Information/June/2023_0616_1116_B1.html
+20230616T1955_5.36_121.94,2023-06-16T19:55:00+08:00,5.36,121.94,52.0,3.1,080 km S 12° E of Tongkil (Sulu),2023_Earthquake_Information/June/2023_0616_1155_B2.html
+20230616T2003_7.71_126.02,2023-06-16T20:03:00+08:00,7.71,126.02,14.0,2.1,003 km N 79° E of Montevista (Davao De Oro),2023_Earthquake_Information/June/2023_0616_1203_B1.html
+20230616T2131_16.89_121.48,2023-06-16T21:31:00+08:00,16.89,121.48,26.0,1.9,004 km S 19° W of Alfonso Lista (Ifugao),2023_Earthquake_Information/June/2023_0616_1331_B1.html
+20230616T2139_15.06_120.13,2023-06-16T21:39:00+08:00,15.06,120.13,20.0,2.0,006 km S 87° E of San Felipe (Zambales),2023_Earthquake_Information/June/2023_0616_1339_B2.html
+20230616T2317_9.7_125.43,2023-06-16T23:17:00+08:00,9.7,125.43,5.0,4.2,009 km N 18° E of Malimono (Surigao Del Norte),2023_Earthquake_Information/June/2023_0616_1517_B2F.html
+20230616T2349_18.47_120.97,2023-06-16T23:49:00+08:00,18.47,120.97,19.0,2.2,007 km N 83° E of Adams (Ilocos Norte),2023_Earthquake_Information/June/2023_0616_1549_B1.html
+20230616T2355_17.61_122.35,2023-06-16T23:55:00+08:00,17.61,122.35,27.0,4.1,027 km N 26° E of Maconacon (Isabela),2023_Earthquake_Information/June/2023_0616_1555_B2F.html
+20230617T0034_9.03_122.34,2023-06-17T00:34:00+08:00,9.03,122.34,33.0,2.2,053 km S 38° W of Basay (Negros Oriental),2023_Earthquake_Information/June/2023_0616_1634_B2.html
+20230617T0043_13.47_119.78,2023-06-17T00:43:00+08:00,13.47,119.78,25.0,2.2,057 km S 41° W of Lubang (Occidental Mindoro),2023_Earthquake_Information/June/2023_0616_1643_B1.html
+20230617T0056_13.54_122.11,2023-06-17T00:56:00+08:00,13.54,122.11,6.0,1.8,012 km N 51° E of Santa Cruz (Marinduque),2023_Earthquake_Information/June/2023_0616_1656_B1_Marinduque.html
+20230617T0056_9.71_125.88,2023-06-17T00:56:00+08:00,9.71,125.88,33.0,1.6,014 km N 42° W of Socorro (Surigao Del Norte),2023_Earthquake_Information/June/2023_0616_1656_B1_SurigaoDelNorte.html
+20230617T0102_19.28_120.91,2023-06-17T01:02:00+08:00,19.28,120.91,23.0,3.8,037 km N 59° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0616_1702_B2.html
+20230617T0146_11.88_120.76,2023-06-17T01:46:00+08:00,11.88,120.76,7.0,2.5,062 km S 33° W of San Jose (Occidental Mindoro),2023_Earthquake_Information/June/2023_0616_1746_B2.html
+20230617T0215_14.1_120.45,2023-06-17T02:15:00+08:00,14.1,120.45,109.0,1.7,019 km N 81° W of Nasugbu (Batangas),2023_Earthquake_Information/June/2023_0616_1815_B1.html
+20230617T0256_19.99_121.46,2023-06-17T02:56:00+08:00,19.99,121.46,30.0,4.6,058 km S 48° W of Sabtang (Batanes),2023_Earthquake_Information/June/2023_0616_1856_B2.html
+20230617T0259_8.68_126.06,2023-06-17T02:59:00+08:00,8.68,126.06,8.0,2.5,006 km N 36° W of Lianga (Surigao Del Sur),2023_Earthquake_Information/June/2023_0616_1859_B1.html
+20230617T0310_17.6_122.34,2023-06-17T03:10:00+08:00,17.6,122.34,27.0,3.5,026 km N 24° E of Maconacon (Isabela),2023_Earthquake_Information/June/2023_0616_1910_B2.html
+20230617T0312_8.86_126.5,2023-06-17T03:12:00+08:00,8.86,126.5,31.0,3.1,023 km N 74° E of Marihatag (Surigao Del Sur),2023_Earthquake_Information/June/2023_0616_1912_B2.html
+20230617T0318_8.67_126.07,2023-06-17T03:18:00+08:00,8.67,126.07,9.0,3.3,005 km N 29° W of Lianga (Surigao Del Sur),2023_Earthquake_Information/June/2023_0616_1918_B2.html
+20230617T0345_15.14_121.11,2023-06-17T03:45:00+08:00,15.14,121.11,10.0,3.3,015 km N 89° E of San Miguel (Bulacan),2023_Earthquake_Information/June/2023_0616_1945_B3F.html
+20230617T0403_15.2_121.03,2023-06-17T04:03:00+08:00,15.2,121.03,9.0,2.0,009 km N 45° E of San Miguel (Bulacan),2023_Earthquake_Information/June/2023_0616_2003_B1.html
+20230617T0452_2.49_127.24,2023-06-17T04:52:00+08:00,2.49,127.24,1.0,4.5,381 km S 32° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0616_2052_B2.html
+20230617T0524_15.28_120.42,2023-06-17T05:24:00+08:00,15.28,120.42,36.0,1.9,016 km N 75° W of Mabalacat City (Pampanga),2023_Earthquake_Information/June/2023_0616_2124_B1.html
+20230617T0621_14.07_122.28,2023-06-17T06:21:00+08:00,14.07,122.28,3.0,2.4,012 km N 06° W of Calauag (Quezon),2023_Earthquake_Information/June/2023_0616_2221_B2.html
+20230617T0958_13.05_121.43,2023-06-17T09:58:00+08:00,13.05,121.43,32.0,1.6,003 km S 82° E of Socorro (Oriental Mindoro),2023_Earthquake_Information/June/2023_0617_0158_B1.html
+20230617T1010_9.64_126.22,2023-06-17T10:10:00+08:00,9.64,126.22,26.0,2.0,017 km S 23° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0617_0210_B2.html
+20230617T1017_9.68_126.27,2023-06-17T10:17:00+08:00,9.68,126.27,25.0,1.3,017 km S 46° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0617_0217_B2.html
+20230617T1023_9.68_126.26,2023-06-17T10:23:00+08:00,9.68,126.26,35.0,1.9,016 km S 46° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0617_0223_B1.html
+20230617T1321_15.14_121.12,2023-06-17T13:21:00+08:00,15.14,121.12,25.0,1.9,015 km N 90° E of San Miguel (Bulacan),2023_Earthquake_Information/June/2023_0617_0521_B2.html
+20230617T1357_16.27_119.94,2023-06-17T13:57:00+08:00,16.27,119.94,3.0,3.5,003 km S 30° W of Anda (Pangasinan),2023_Earthquake_Information/June/2023_0617_0557_B2.html
+20230617T1406_10.0_122.33,2023-06-17T14:06:00+08:00,10.0,122.33,18.0,2.4,028 km N 24° W of City Of Sipalay (Negros Occidental),2023_Earthquake_Information/June/2023_0617_0606_B2.html
+20230617T1420_9.99_126.05,2023-06-17T14:20:00+08:00,9.99,126.05,26.0,2.0,003 km S 18° E of Santa Monica (Surigao Del Norte),2023_Earthquake_Information/June/2023_0617_0620_B2.html
+20230617T1522_13.7_120.68,2023-06-17T15:22:00+08:00,13.7,120.68,84.0,1.4,016 km S 18° E of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0617_0722_B1F.html
+20230617T1632_12.07_121.43,2023-06-17T16:32:00+08:00,12.07,121.43,37.0,2.6,020 km N 40° W of Caluya (Antique),2023_Earthquake_Information/June/2023_0617_0832_B2.html
+20230617T1650_9.26_126.38,2023-06-17T16:50:00+08:00,9.26,126.38,24.0,2.3,020 km S 86° E of Cortes (Surigao Del Sur),2023_Earthquake_Information/June/2023_0617_0850_B1.html
+20230617T1815_19.31_121.14,2023-06-17T18:15:00+08:00,19.31,121.14,3.0,5.5,024 km N 18° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0617_1015_B3F.html
+20230617T2025_10.27_122.21,2023-06-17T20:25:00+08:00,10.27,122.21,14.0,2.9,036 km S 12° E of San Joaquin (Iloilo),2023_Earthquake_Information/June/2023_0617_1225_B2.html
+20230617T2049_7.48_126.56,2023-06-17T20:49:00+08:00,7.48,126.56,136.0,2.6,010 km S 02° W of Baganga (Davao Oriental),2023_Earthquake_Information/June/2023_0617_1249_B1.html
+20230617T2220_9.14_125.55,2023-06-17T22:20:00+08:00,9.14,125.55,29.0,1.9,002 km N 17° E of City Of Cabadbaran (Agusan Del Norte),2023_Earthquake_Information/June/2023_0617_1420_B1.html
+20230617T2301_18.33_120.44,2023-06-17T23:01:00+08:00,18.33,120.44,29.0,1.9,018 km S 89° W of Pasuquin (Ilocos Norte),2023_Earthquake_Information/June/2023_0617_1501_B1.html
+20230618T0221_12.61_123.62,2023-06-18T02:21:00+08:00,12.61,123.62,8.0,2.2,006 km S 55° W of Monreal (Masbate),2023_Earthquake_Information/June/2023_0617_1821_B2.html
+20230618T0230_18.6_120.73,2023-06-18T02:30:00+08:00,18.6,120.73,6.0,2.2,007 km N 52° W of Pagudpud (Ilocos Norte),2023_Earthquake_Information/June/2023_0617_1830_B2.html
+20230618T0343_7.79_126.76,2023-06-18T03:43:00+08:00,7.79,126.76,19.0,2.9,032 km N 41° E of Baganga (Davao Oriental),2023_Earthquake_Information/June/2023_0617_1943_B2.html
+20230618T0404_7.81_124.73,2023-06-18T04:04:00+08:00,7.81,124.73,3.0,3.6,008 km N 11° W of Kalilangan (Bukidnon),2023_Earthquake_Information/June/2023_0617_2004_B3F.html
+20230618T0452_12.52_120.95,2023-06-18T04:52:00+08:00,12.52,120.95,13.0,4.4,006 km N 14° W of Rizal (Occidental Mindoro),2023_Earthquake_Information/June/2023_0617_2052_B3F.html
+20230618T0502_12.57_120.95,2023-06-18T05:02:00+08:00,12.57,120.95,9.0,2.5,012 km N 10° W of Rizal (Occidental Mindoro),2023_Earthquake_Information/June/2023_0617_2102_B2.html
+20230618T0510_12.54_120.9,2023-06-18T05:10:00+08:00,12.54,120.9,6.0,2.5,011 km N 37° W of Rizal (Occidental Mindoro),2023_Earthquake_Information/June/2023_0617_2110_B2.html
+20230618T0519_17.63_120.51,2023-06-18T05:19:00+08:00,17.63,120.51,3.0,1.6,008 km N 45° W of Langiden (Abra),2023_Earthquake_Information/June/2023_0617_2119_B1.html
+20230618T0711_2.68_125.91,2023-06-18T07:11:00+08:00,2.68,125.91,111.0,4.0,307 km S 10° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0617_2311_B2.html
+20230618T0716_9.85_125.52,2023-06-18T07:16:00+08:00,9.85,125.52,31.0,2.3,006 km N 22° E of City Of Surigao (Surigao Del Norte),2023_Earthquake_Information/June/2023_0617_2316_B1.html
+20230618T0829_5.24_124.33,2023-06-18T08:29:00+08:00,5.24,124.33,9.0,2.5,089 km S 22° W of Kiamba (Sarangani),2023_Earthquake_Information/June/2023_0618_0029_B1.html
+20230618T0900_6.89_126.44,2023-06-18T09:00:00+08:00,6.89,126.44,31.0,3.8,018 km S 02° W of Tarragona (Davao Oriental),2023_Earthquake_Information/June/2023_0618_0100_B2F.html
+20230618T0946_6.05_125.6,2023-06-18T09:46:00+08:00,6.05,125.6,63.0,2.4,016 km N 18° W of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0618_0146_B2.html
+20230618T1027_7.32_127.4,2023-06-18T10:27:00+08:00,7.32,127.4,7.0,3.1,092 km S 89° E of Caraga (Davao Oriental),2023_Earthquake_Information/June/2023_0618_0227_B2.html
+20230618T1152_12.58_120.97,2023-06-18T11:52:00+08:00,12.58,120.97,10.0,2.5,004 km N 80° E of Calintaan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0618_0352_B2.html
+20230618T1201_10.0_126.08,2023-06-18T12:01:00+08:00,10.0,126.08,32.0,1.7,002 km S 15° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0618_0401_B2.html
+20230618T1210_5.72_126.09,2023-06-18T12:10:00+08:00,5.72,126.09,123.0,2.8,053 km S 66° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0618_0410_B2.html
+20230618T1252_13.83_120.64,2023-06-18T12:52:00+08:00,13.83,120.64,107.0,1.8,001 km S 85° E of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0618_0452_B1F_Batangas.html
+20230618T1252_5.67_126.38,2023-06-18T12:52:00+08:00,5.67,126.38,26.0,3.3,086 km S 72° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0618_0452_B2_Davao_Occidental.html
+20230618T1415_15.32_119.92,2023-06-18T14:15:00+08:00,15.32,119.92,31.0,1.3,006 km S 86° W of Iba (Zambales),2023_Earthquake_Information/June/2023_0618_0615_B1.html
+20230618T1452_12.45_120.86,2023-06-18T14:52:00+08:00,12.45,120.86,12.0,2.0,011 km S 82° W of Rizal (Occidental Mindoro),2023_Earthquake_Information/June/2023_0618_0652_B1.html
+20230618T1529_17.73_123.07,2023-06-18T15:29:00+08:00,17.73,123.07,39.0,2.8,093 km N 62° E of Divilacan (Isabela),2023_Earthquake_Information/June/2023_0618_0729_B2.html
+20230618T1630_15.74_119.96,2023-06-18T16:30:00+08:00,15.74,119.96,26.0,1.6,007 km S 65° E of Santa Cruz (Zambales),2023_Earthquake_Information/June/2023_0618_0830_B1.html
+20230618T1644_16.34_120.68,2023-06-18T16:44:00+08:00,16.34,120.68,3.0,1.4,002 km S 16° E of Itogon (Benguet),2023_Earthquake_Information/June/2023_0618_0844_B1.html
+20230618T1652_5.76_126.36,2023-06-18T16:52:00+08:00,5.76,126.36,17.0,2.9,081 km S 78° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0618_0852_B2.html
+20230618T1738_16.51_120.84,2023-06-18T17:38:00+08:00,16.51,120.84,32.0,1.5,002 km N 38° E of Bokod (Benguet),2023_Earthquake_Information/June/2023_0618_0938_B1.html
+20230618T1756_18.43_120.57,2023-06-18T17:56:00+08:00,18.43,120.57,4.0,1.8,012 km S 41° W of Burgos (Ilocos Norte),2023_Earthquake_Information/June/2023_0618_0956_B1.html
+20230618T1838_8.67_126.06,2023-06-18T18:38:00+08:00,8.67,126.06,10.0,3.2,005 km N 40° W of Lianga (Surigao Del Sur),2023_Earthquake_Information/June/2023_0618_1038_B2.html
+20230618T2021_7.65_121.87,2023-06-18T20:21:00+08:00,7.65,121.87,12.0,1.9,030 km S 79° W of Siocon (Zamboanga Del Norte),2023_Earthquake_Information/June/2023_0618_1221_B1.html
+20230618T2120_10.67_124.94,2023-06-18T21:20:00+08:00,10.67,124.94,1.0,3.5,008 km N 22° W of Mahaplag (Leyte),2023_Earthquake_Information/June/2023_0618_1320_B3F.html
+20230618T2207_12.46_121.1,2023-06-18T22:07:00+08:00,12.46,121.1,33.0,2.0,012 km N 19° E of San Jose (Occidental Mindoro),2023_Earthquake_Information/June/2023_0618_1407_B1.html
+20230618T2318_9.47_125.67,2023-06-18T23:18:00+08:00,9.47,125.67,13.0,2.0,010 km N 74° E of Kitcharao (Agusan Del Norte),2023_Earthquake_Information/June/2023_0618_1518_B1.html
+20230619T0104_9.35_125.95,2023-06-19T01:04:00+08:00,9.35,125.95,8.0,2.9,004 km N 59° W of Cantilan (Surigao Del Sur),2023_Earthquake_Information/June/2023_0618_1704_B2.html
+20230619T0113_13.29_120.04,2023-06-19T01:13:00+08:00,13.29,120.04,29.0,2.8,048 km S 74° W of Paluan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0618_1713_B2.html
+20230619T0122_6.24_124.7,2023-06-19T01:22:00+08:00,6.24,124.7,79.0,2.2,002 km N 58° W of Lake Sebu (South Cotabato),2023_Earthquake_Information/June/2023_0618_1722_B2.html
+20230619T0133_10.31_126.48,2023-06-19T01:33:00+08:00,10.31,126.48,28.0,5.0,055 km N 54° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0618_1733_B3F.html
+20230619T0150_7.76_126.51,2023-06-19T01:50:00+08:00,7.76,126.51,34.0,2.6,021 km N 15° W of Baganga (Davao Oriental),2023_Earthquake_Information/June/2023_0618_1750_B2.html
+20230619T0245_10.64_122.16,2023-06-19T02:45:00+08:00,10.64,122.16,28.0,3.4,008 km N 87° W of Miagao (Iloilo),2023_Earthquake_Information/June/2023_0618_1845_B2_Iloilo.html
+20230619T0245_16.0_119.88,2023-06-19T02:45:00+08:00,16.0,119.88,24.0,2.4,001 km N 21° E of Dasol (Pangasinan),2023_Earthquake_Information/June/2023_0618_1845_B1_Pangasinan.html
+20230619T0250_5.81_126.27,2023-06-19T02:50:00+08:00,5.81,126.27,16.0,2.7,071 km S 81° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0618_1850_B2.html
+20230619T0323_13.71_120.34,2023-06-19T03:23:00+08:00,13.71,120.34,19.0,1.9,010 km S 82° E of Looc (Occidental Mindoro),2023_Earthquake_Information/June/2023_0618_1923_B2.html
+20230619T0420_10.23_125.89,2023-06-19T04:20:00+08:00,10.23,125.89,22.0,3.4,031 km N 41° W of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0618_2020_B2.html
+20230619T0456_9.72_126.34,2023-06-19T04:56:00+08:00,9.72,126.34,1.0,2.8,021 km S 72° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0618_2056_B2.html
+20230619T0720_9.64_126.47,2023-06-19T07:20:00+08:00,9.64,126.47,7.0,2.2,038 km S 65° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0618_2320_B2.html
+20230619T0728_11.23_124.65,2023-06-19T07:28:00+08:00,11.23,124.65,13.0,2.5,007 km S 04° E of Capoocan (Leyte),2023_Earthquake_Information/June/2023_0618_2328_B2.html
+20230619T0749_5.07_126.96,2023-06-19T07:49:00+08:00,5.07,126.96,10.0,4.0,174 km S 57° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0618_2349_B2.html
+20230619T0846_18.82_120.94,2023-06-19T08:46:00+08:00,18.82,120.94,28.0,1.9,028 km N 32° W of Claveria (Cagayan),2023_Earthquake_Information/June/2023_0619_0046_B1.html
+20230619T0850_5.26_126.85,2023-06-19T08:50:00+08:00,5.26,126.85,2.0,3.4,151 km S 62° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0619_0050_B2.html
+20230619T1007_19.17_121.08,2023-06-19T10:07:00+08:00,19.17,121.08,7.0,2.7,015 km N 61° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0619_0207_B1.html
+20230619T1117_17.67_120.67,2023-06-19T11:17:00+08:00,17.67,120.67,20.0,2.1,002 km S 70° W of La Paz (Abra),2023_Earthquake_Information/June/2023_0619_0317_B2.html
+20230619T1134_18.09_121.65,2023-06-19T11:34:00+08:00,18.09,121.65,33.0,2.9,003 km North of Gattaran (Cagayan),2023_Earthquake_Information/June/2023_0619_0334_B2.html
+20230619T1152_13.85_120.57,2023-06-19T11:52:00+08:00,13.85,120.57,97.0,1.4,007 km N 71° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0619_0352_B1F.html
+20230619T1258_5.9_127.88,2023-06-19T12:58:00+08:00,5.9,127.88,121.0,2.8,204 km S 51° E of Tarragona (Davao Oriental),2023_Earthquake_Information/June/2023_0619_0458_B2.html
+20230619T1424_12.46_121.1,2023-06-19T14:24:00+08:00,12.46,121.1,31.0,2.0,015 km N 90° E of Rizal (Occidental Mindoro),2023_Earthquake_Information/June/2023_0619_0624_B1.html
+20230619T1507_5.04_126.97,2023-06-19T15:07:00+08:00,5.04,126.97,1.0,3.1,173 km S 74° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0619_0707_B1.html
+20230619T1527_15.34_122.8,2023-06-19T15:27:00+08:00,15.34,122.8,1.0,2.3,087 km N 35° E of Jomalig (Quezon),2023_Earthquake_Information/June/2023_0619_0727_B2.html
+20230619T1722_8.91_122.95,2023-06-19T17:22:00+08:00,8.91,122.95,7.0,2.8,019 km S 30° W of Siaton (Negros Oriental),2023_Earthquake_Information/June/2023_0619_0922_B1.html
+20230619T1853_7.81_126.0,2023-06-19T18:53:00+08:00,7.81,126.0,32.0,2.1,006 km S 72° W of Monkayo (Davao De Oro),2023_Earthquake_Information/June/2023_0619_1053_B1.html
+20230619T1900_6.91_123.82,2023-06-19T19:00:00+08:00,6.91,123.82,41.0,1.8,028 km S 51° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),2023_Earthquake_Information/June/2023_0619_1100_B1.html
+20230619T1906_5.72_126.32,2023-06-19T19:06:00+08:00,5.72,126.32,57.0,2.5,078 km S 74° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0619_1106_B2.html
+20230619T1949_10.56_123.3,2023-06-19T19:49:00+08:00,10.56,123.3,11.0,2.7,008 km S 76° E of Salvador Benedicto (Negros Occidental),2023_Earthquake_Information/June/2023_0619_1149_B3.html
+20230619T2007_8.24_126.57,2023-06-19T20:07:00+08:00,8.24,126.57,24.0,2.8,028 km N 84° E of City Of Bislig (Surigao Del Sur),2023_Earthquake_Information/June/2023_0619_1207_B1.html
+20230619T2203_18.01_121.22,2023-06-19T22:03:00+08:00,18.01,121.22,21.0,1.8,004 km S 70° E of Kabugao (Apayao),2023_Earthquake_Information/June/2023_0619_1403_B2.html
+20230619T2211_17.5_120.08,2023-06-19T22:11:00+08:00,17.5,120.08,10.0,2.8,032 km S 72° W of Santa Catalina (Ilocos Sur),2023_Earthquake_Information/June/2023_0619_1411_B2.html
+20230619T2213_17.67_119.85,2023-06-19T22:13:00+08:00,17.67,119.85,34.0,1.8,055 km N 81° W of Santa Catalina (Ilocos Sur),2023_Earthquake_Information/June/2023_0619_1413_B1.html
+20230619T2218_8.3_126.37,2023-06-19T22:18:00+08:00,8.3,126.37,64.0,2.2,009 km S 25° E of Hinatuan (Surigao Del Sur),2023_Earthquake_Information/June/2023_0619_1418_B1.html
+20230619T2247_17.02_121.34,2023-06-19T22:47:00+08:00,17.02,121.34,1.0,1.7,004 km N 17° E of Aguinaldo (Ifugao),2023_Earthquake_Information/June/2023_0619_1447_B1.html
+20230620T0014_10.18_125.85,2023-06-20T00:14:00+08:00,10.18,125.85,34.0,1.8,027 km N 49° W of Santa Monica (Surigao Del Norte),2023_Earthquake_Information/June/2023_0619_1614_B1.html
+20230620T0017_5.0_127.03,2023-06-20T00:17:00+08:00,5.0,127.03,28.0,4.5,180 km S 73° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0619_1617_B3.html
+20230620T0032_13.63_120.6,2023-06-20T00:32:00+08:00,13.63,120.6,52.0,2.3,023 km S 10° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0619_1632_B2F.html
+20230620T0037_9.03_126.86,2023-06-20T00:37:00+08:00,9.03,126.86,3.0,2.9,062 km N 79° E of Cagwait (Surigao Del Sur),2023_Earthquake_Information/June/2023_0619_1637_B2.html
+20230620T0043_14.11_120.35,2023-06-20T00:43:00+08:00,14.11,120.35,77.0,2.9,031 km N 84° W of Nasugbu (Batangas),2023_Earthquake_Information/June/2023_0619_1643_B2.html
+20230620T0103_17.75_120.74,2023-06-20T01:03:00+08:00,17.75,120.74,11.0,3.8,005 km N 49° E of Lagayan (Abra),2023_Earthquake_Information/June/2023_0619_1703_B2F.html
+20230620T0125_6.43_127.13,2023-06-20T01:25:00+08:00,6.43,127.13,171.0,2.5,102 km S 47° E of Tarragona (Davao Oriental),2023_Earthquake_Information/June/2023_0619_1725_B1.html
+20230620T0130_4.34_125.91,2023-06-20T01:30:00+08:00,4.34,125.91,148.0,2.8,131 km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0619_1730_B2.html
+20230620T0135_7.33_126.66,2023-06-20T01:35:00+08:00,7.33,126.66,32.0,2.7,011 km N 88° E of Caraga (Davao Oriental),2023_Earthquake_Information/June/2023_0619_1735_B1.html
+20230620T0138_10.1_126.04,2023-06-20T01:38:00+08:00,10.1,126.04,23.0,1.9,009 km N 03° E of Santa Monica (Surigao Del Norte),2023_Earthquake_Information/June/2023_0619_1738_B1.html
+20230620T0140_5.51_126.98,2023-06-20T01:40:00+08:00,5.51,126.98,5.0,2.7,155 km S 73° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0619_1740_B2.html
+20230620T0151_13.61_121.11,2023-06-20T01:51:00+08:00,13.61,121.11,1.0,2.3,009 km N 25° E of Verde Island (Batangas City) (Batangas),2023_Earthquake_Information/June/2023_0619_1751_B1.html
+20230620T0211_5.79_127.09,2023-06-20T02:11:00+08:00,5.79,127.09,10.0,2.8,147 km S 50° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0619_1811_B1.html
+20230620T0214_9.68_122.21,2023-06-20T02:14:00+08:00,9.68,122.21,10.0,3.2,026 km S 68° W of City Of Sipalay (Negros Occidental),2023_Earthquake_Information/June/2023_0619_1814_B2.html
+20230620T0225_10.15_125.06,2023-06-20T02:25:00+08:00,10.15,125.06,8.0,3.3,007 km S 84° E of Malitbog (Southern Leyte),2023_Earthquake_Information/June/2023_0619_1825_B2.html
+20230620T0249_17.97_121.04,2023-06-20T02:49:00+08:00,17.97,121.04,39.0,1.6,016 km S 67° W of Kabugao (Apayao),2023_Earthquake_Information/June/2023_0619_1849_B1.html
+20230620T0306_15.23_122.83,2023-06-20T03:06:00+08:00,15.23,122.83,25.0,1.8,080 km N 43° E of Jomalig (Quezon),2023_Earthquake_Information/June/2023_0619_1906_B2.html
+20230620T0320_13.99_119.86,2023-06-20T03:20:00+08:00,13.99,119.86,3.0,3.2,032 km N 62° W of Lubang (Occidental Mindoro),2023_Earthquake_Information/June/2023_0619_1920_B2.html
+20230620T0335_12.86_120.92,2023-06-20T03:35:00+08:00,12.86,120.92,35.0,1.5,016 km N 84° E of Sablayan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0619_1935_B1.html
+20230620T0401_18.5_120.8,2023-06-20T04:01:00+08:00,18.5,120.8,19.0,3.4,003 km S 16° W of Dumalneg (Ilocos Norte),2023_Earthquake_Information/June/2023_0619_2001_B2F.html
+20230620T0423_13.86_120.58,2023-06-20T04:23:00+08:00,13.86,120.58,103.0,1.5,006 km N 59° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0619_2023_B1F.html
+20230620T0432_15.33_120.09,2023-06-20T04:32:00+08:00,15.33,120.09,28.0,1.9,009 km N 60° E of Botolan (Zambales),2023_Earthquake_Information/June/2023_0619_2032_B1.html
+20230620T0446_9.66_126.22,2023-06-20T04:46:00+08:00,9.66,126.22,27.0,2.5,015 km S 27° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0619_2046_B2.html
+20230620T0516_2.38_128.26,2023-06-20T05:16:00+08:00,2.38,128.26,184.0,4.9,460 km S 43° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0619_2116_B2.html
+20230620T0552_8.5_126.68,2023-06-20T05:52:00+08:00,8.5,126.68,23.0,1.9,040 km N 69° E of Hinatuan (Surigao Del Sur),2023_Earthquake_Information/June/2023_0619_2152_B2.html
+20230620T0613_7.35_124.81,2023-06-20T06:13:00+08:00,7.35,124.81,20.0,2.0,016 km N 06° E of Carmen (Cotabato),2023_Earthquake_Information/June/2023_0619_2213_B2.html
+20230620T0841_5.51_126.51,2023-06-20T08:41:00+08:00,5.51,126.51,32.0,2.9,106 km S 65° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0620_0041_B1.html
+20230620T0900_10.46_125.06,2023-06-20T09:00:00+08:00,10.46,125.06,32.0,1.6,012 km N 45° E of Sogod (Southern Leyte),2023_Earthquake_Information/June/2023_0620_0100_B1.html
+20230620T0942_13.49_124.72,2023-06-20T09:42:00+08:00,13.49,124.72,2.0,2.2,042 km S 64° E of Baras (Catanduanes),2023_Earthquake_Information/June/2023_0620_0142_B2.html
+20230620T0945_5.94_126.7,2023-06-20T09:45:00+08:00,5.94,126.7,42.0,4.2,105 km S 42° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0620_0145_B2F.html
+20230620T1010_18.06_121.75,2023-06-20T10:10:00+08:00,18.06,121.75,40.0,1.9,008 km N 72° E of Gattaran (Cagayan),2023_Earthquake_Information/June/2023_0620_0210_B2.html
+20230620T1112_13.5_120.83,2023-06-20T11:12:00+08:00,13.5,120.83,15.0,2.4,027 km S 82° W of Verde Island (Batangas City) (Batangas),2023_Earthquake_Information/June/2023_0620_0312_B2.html
+20230620T1149_13.91_120.52,2023-06-20T11:49:00+08:00,13.91,120.52,93.0,2.0,015 km N 52° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0620_0349_B2F.html
+20230620T1202_8.69_126.24,2023-06-20T12:02:00+08:00,8.69,126.24,30.0,1.6,006 km S 21° E of San Agustin (Surigao Del Sur),2023_Earthquake_Information/June/2023_0620_0402_B1.html
+20230620T1209_10.04_126.32,2023-06-20T12:09:00+08:00,10.04,126.32,8.0,3.7,027 km N 86° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0620_0409_B2.html
+20230620T1305_15.42_121.78,2023-06-20T13:05:00+08:00,15.42,121.78,8.0,1.5,041 km N 86° E of Dingalan (Aurora),2023_Earthquake_Information/June/2023_0620_0505_B2.html
+20230620T1510_17.87_121.12,2023-06-20T15:10:00+08:00,17.87,121.12,3.0,2.6,018 km S 22° W of Kabugao (Apayao),2023_Earthquake_Information/June/2023_0620_0710_B2F.html
+20230620T1713_16.12_121.56,2023-06-20T17:13:00+08:00,16.12,121.56,10.0,2.4,013 km S 21° W of Nagtipunan (Quirino),2023_Earthquake_Information/June/2023_0620_0913_B2.html
+20230620T1732_13.8_120.31,2023-06-20T17:32:00+08:00,13.8,120.31,6.0,2.2,011 km N 39° E of Looc (Occidental Mindoro),2023_Earthquake_Information/June/2023_0620_0932_B1.html
+20230620T1753_10.16_126.11,2023-06-20T17:53:00+08:00,10.16,126.11,2.0,3.5,025 km N 07° E of San Isidro (Surigao Del Norte),2023_Earthquake_Information/June/2023_0620_0953_B2.html
+20230620T1803_9.78_126.14,2023-06-20T18:03:00+08:00,9.78,126.14,25.0,2.3,002 km S 62° W of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0620_1003_B2.html
+20230620T2015_10.06_124.98,2023-06-20T20:15:00+08:00,10.06,124.98,5.0,2.3,005 km N 57° W of Padre Burgos (Southern Leyte),2023_Earthquake_Information/June/2023_0620_1215_B2.html
+20230620T2034_13.9_120.56,2023-06-20T20:34:00+08:00,13.9,120.56,96.0,1.9,011 km N 47° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0620_1234_B2.html
+20230620T2100_16.14_120.04,2023-06-20T21:00:00+08:00,16.14,120.04,34.0,1.7,007 km S 78° E of City Of Alaminos (Pangasinan),2023_Earthquake_Information/June/2023_0620_1300_B2.html
+20230620T2111_18.33_120.87,2023-06-20T21:11:00+08:00,18.33,120.87,32.0,1.6,015 km S 13° W of Adams (Ilocos Norte),2023_Earthquake_Information/June/2023_0620_1311_B2.html
+20230620T2117_7.91_125.98,2023-06-20T21:17:00+08:00,7.91,125.98,2.0,2.1,013 km N 37° W of Monkayo (Davao De Oro),2023_Earthquake_Information/June/2023_0620_1317_B1.html
+20230620T2130_17.49_120.67,2023-06-20T21:30:00+08:00,17.49,120.67,18.0,3.0,007 km S 46° W of Bucay (Abra),2023_Earthquake_Information/June/2023_0620_1330_B2.html
+20230620T2150_17.15_121.4,2023-06-20T21:50:00+08:00,17.15,121.4,24.0,2.6,004 km S 02° W of Paracelis (Mountain Province),2023_Earthquake_Information/June/2023_0620_1350_B2.html
+20230620T2213_17.32_119.66,2023-06-20T22:13:00+08:00,17.32,119.66,5.0,2.7,081 km S 72° W of Caoayan (Ilocos Sur),2023_Earthquake_Information/June/2023_0620_1413_B2.html
+20230620T2216_9.65_126.25,2023-06-20T22:16:00+08:00,9.65,126.25,32.0,2.3,018 km S 34° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0620_1416_B2.html
+20230620T2223_17.17_121.41,2023-06-20T22:23:00+08:00,17.17,121.41,20.0,2.0,001 km S 18° E of Paracelis (Mountain Province),2023_Earthquake_Information/June/2023_0620_1423_B2.html
+20230620T2259_9.4_126.09,2023-06-20T22:59:00+08:00,9.4,126.09,6.0,2.3,015 km N 62° E of Cantilan (Surigao Del Sur),2023_Earthquake_Information/June/2023_0620_1459_B2.html
+20230620T2309_9.98_126.22,2023-06-20T23:09:00+08:00,9.98,126.22,13.0,2.7,015 km N 72° E of San Isidro (Surigao Del Norte),2023_Earthquake_Information/June/2023_0620_1509_B2.html
+20230620T2311_16.66_120.05,2023-06-20T23:11:00+08:00,16.66,120.05,10.0,2.0,028 km N 81° W of City Of San Fernando (La Union),2023_Earthquake_Information/June/2023_0620_1511_B2.html
+20230620T2315_14.23_120.05,2023-06-20T23:15:00+08:00,14.23,120.05,38.0,1.7,042 km N 10° W of Lubang (Occidental Mindoro),2023_Earthquake_Information/June/2023_0620_1515_B2.html
+20230620T2328_14.07_120.54,2023-06-20T23:28:00+08:00,14.07,120.54,101.0,1.6,011 km S 85° W of Nasugbu (Batangas),2023_Earthquake_Information/June/2023_0620_1528_B2.html
+20230620T2332_5.79_126.17,2023-06-20T23:32:00+08:00,5.79,126.17,148.0,2.8,059 km S 77° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0620_1532_B2.html
+20230620T2352_10.39_125.1,2023-06-20T23:52:00+08:00,10.39,125.1,30.0,2.0,011 km S 87° W of Hinunangan (Southern Leyte),2023_Earthquake_Information/June/2023_0620_1552_B1.html
+20230620T2355_9.87_126.18,2023-06-20T23:55:00+08:00,9.87,126.18,26.0,2.2,010 km N 14° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0620_1555_B2.html
+20230621T0000_17.18_121.41,2023-06-21T00:00:00+08:00,17.18,121.41,19.0,2.5,001 km S 63° E of Paracelis (Mountain Province),2023_Earthquake_Information/June/2023_0620_1600_B2.html
+20230621T0002_18.46_120.97,2023-06-21T00:02:00+08:00,18.46,120.97,33.0,1.5,008 km N 88° E of Adams (Ilocos Norte),2023_Earthquake_Information/June/2023_0620_1602_B1.html
+20230621T0010_16.59_121.25,2023-06-21T00:10:00+08:00,16.59,121.25,25.0,1.8,002 km S 14° W of Bagabag (Nueva Vizcaya),2023_Earthquake_Information/June/2023_0620_1610_B2.html
+20230621T0042_10.51_125.2,2023-06-21T00:42:00+08:00,10.51,125.2,1.0,2.3,005 km S 71° E of Silago (Southern Leyte),2023_Earthquake_Information/June/2023_0620_1642_B2.html
+20230621T0107_10.85_122.9,2023-06-21T01:07:00+08:00,10.85,122.9,11.0,2.2,010 km N 57° W of City Of Silay (Negros Occidental),2023_Earthquake_Information/June/2023_0620_1707_B2.html
+20230621T0120_17.98_120.77,2023-06-21T01:20:00+08:00,17.98,120.77,29.0,2.0,013 km S 01° E of Solsona (Ilocos Norte),2023_Earthquake_Information/June/2023_0620_1720_B2.html
+20230621T0128_17.46_120.58,2023-06-21T01:28:00+08:00,17.46,120.58,24.0,2.5,002 km S 72° W of San Isidro (Abra),2023_Earthquake_Information/June/2023_0620_1728_B2.html
+20230621T0200_15.33_123.35,2023-06-21T02:00:00+08:00,15.33,123.35,68.0,2.1,105 km N 24° E of Tinaga Island (Vinzons) (Camarines Norte),2023_Earthquake_Information/June/2023_0620_1800_B3.html
+20230621T0228_13.73_120.54,2023-06-21T02:28:00+08:00,13.73,120.54,82.0,2.5,015 km S 43° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0620_1828_B2.html
+20230621T0338_10.21_125.23,2023-06-21T03:38:00+08:00,10.21,125.23,16.0,1.9,008 km S 21° W of Anahawan (Southern Leyte),2023_Earthquake_Information/June/2023_0620_1938_B2.html
+20230621T0340_17.44_120.53,2023-06-21T03:40:00+08:00,17.44,120.53,22.0,2.4,001 km S 21° E of Nagbukel (Ilocos Sur),2023_Earthquake_Information/June/2023_0620_1940_B2.html
+20230621T0346_11.01_124.65,2023-06-21T03:46:00+08:00,11.01,124.65,5.0,3.3,005 km S 84° E of Ormoc City,2023_Earthquake_Information/June/2023_0620_1946_B3F.html
+20230621T0354_10.62_126.11,2023-06-21T03:54:00+08:00,10.62,126.11,16.0,2.4,044 km S 73° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0620_1954_B2.html
+20230621T0408_8.94_122.86,2023-06-21T04:08:00+08:00,8.94,122.86,1.0,2.6,023 km S 55° W of Siaton (Negros Oriental),2023_Earthquake_Information/June/2023_0620_2008_B2.html
+20230621T0425_9.0_125.65,2023-06-21T04:25:00+08:00,9.0,125.65,22.0,1.8,009 km S 53° E of Remedios T. Romualdez (Agusan Del Norte),2023_Earthquake_Information/June/2023_0620_2025_B1.html
+20230621T0443_8.62_126.06,2023-06-21T04:43:00+08:00,8.62,126.06,18.0,2.2,004 km S 65° W of Lianga (Surigao Del Sur),2023_Earthquake_Information/June/2023_0620_2043_B1.html
+20230621T0505_7.92_126.36,2023-06-21T05:05:00+08:00,7.92,126.36,132.0,2.7,014 km S 24° W of Lingig (Surigao Del Sur),2023_Earthquake_Information/June/2023_0620_2105_B2.html
+20230621T0703_5.52_126.01,2023-06-21T07:03:00+08:00,5.52,126.01,94.0,2.6,059 km S 43° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0620_2303_B2.html
+20230621T0735_10.01_125.24,2023-06-21T07:35:00+08:00,10.01,125.24,34.0,1.7,007 km N 08° W of Pintuyan (Southern Leyte),2023_Earthquake_Information/June/2023_0620_2335_B2.html
+20230621T0825_5.15_127.23,2023-06-21T08:25:00+08:00,5.15,127.23,27.0,3.7,195 km S 64° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0621_0025_B1.html
+20230621T0942_10.46_125.0,2023-06-21T09:42:00+08:00,10.46,125.0,1.0,3.1,009 km N 18° E of Sogod (Southern Leyte),2023_Earthquake_Information/June/2023_0621_0142_B2F.html
+20230621T1221_8.44_125.86,2023-06-21T12:21:00+08:00,8.44,125.86,28.0,2.2,008 km S 82° E of Talacogon (Agusan Del Sur),2023_Earthquake_Information/June/2023_0621_0421_B1.html
+20230621T1244_9.09_126.05,2023-06-21T12:44:00+08:00,9.09,126.05,111.0,2.3,016 km S 11° E of Carmen (Surigao Del Sur),2023_Earthquake_Information/June/2023_0621_0444_B2.html
+20230621T1302_10.29_125.19,2023-06-21T13:02:00+08:00,10.29,125.19,33.0,1.7,003 km N 25° E of San Juan (Southern Leyte),2023_Earthquake_Information/June/2023_0621_0502_B1.html
+20230621T1720_6.34_126.33,2023-06-21T17:20:00+08:00,6.34,126.33,22.0,2.8,045 km S 39° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0621_0920_B2.html
+20230621T1739_10.06_126.09,2023-06-21T17:39:00+08:00,10.06,126.09,10.0,3.3,004 km N 17° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0621_0939_B2.html
+20230621T1747_10.01_126.1,2023-06-21T17:47:00+08:00,10.01,126.1,32.0,1.4,003 km S 80° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0621_0947_B1.html
+20230621T1753_9.64_126.23,2023-06-21T17:53:00+08:00,9.64,126.23,33.0,1.9,018 km S 27° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0621_0953_B1.html
+20230621T1755_10.05_126.02,2023-06-21T17:55:00+08:00,10.05,126.02,17.0,2.0,005 km N 33° W of Santa Monica (Surigao Del Norte),2023_Earthquake_Information/June/2023_0621_0955_B2.html
+20230621T1936_20.19_122.04,2023-06-21T19:36:00+08:00,20.19,122.04,115.0,2.9,021 km S 30° E of Uyugan (Batanes),2023_Earthquake_Information/June/2023_0621_1136_B2.html
+20230621T1939_9.68_126.27,2023-06-21T19:39:00+08:00,9.68,126.27,29.0,2.3,017 km S 48° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0621_1139_B1.html
+20230621T1941_5.68_126.86,2023-06-21T19:41:00+08:00,5.68,126.86,2.0,3.0,137 km S 79° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0621_1141_B2.html
+20230621T2010_10.9_123.0,2023-06-21T20:10:00+08:00,10.9,123.0,3.0,2.9,003 km N 43° E of Enrique B. Magalona (Negros Occidental),2023_Earthquake_Information/June/2023_0621_1210_B2.html
+20230621T2012_17.35_120.53,2023-06-21T20:12:00+08:00,17.35,120.53,13.0,2.4,004 km N 55° E of Burgos (Ilocos Sur),2023_Earthquake_Information/June/2023_0621_1212_B2.html
+20230621T2106_9.41_126.09,2023-06-21T21:06:00+08:00,9.41,126.09,19.0,2.9,016 km N 73° E of Carrascal (Surigao Del Sur),2023_Earthquake_Information/June/2023_0621_1306_B2.html
+20230621T2239_6.99_125.27,2023-06-21T22:39:00+08:00,6.99,125.27,27.0,2.2,020 km S 85° E of City Of Kidapawan (Cotabato),2023_Earthquake_Information/June/2023_0621_1439_B1.html
+20230621T2240_12.25_124.75,2023-06-21T22:40:00+08:00,12.25,124.75,22.0,2.5,015 km S 71° E of Lope De Vega (Northern Samar),2023_Earthquake_Information/June/2023_0621_1440_B2.html
+20230621T2328_18.92_120.91,2023-06-21T23:28:00+08:00,18.92,120.91,2.0,1.9,038 km S 57° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0621_1528_B1.html
+20230621T2332_5.63_126.23,2023-06-21T23:32:00+08:00,5.63,126.23,33.0,2.6,072 km S 65° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0621_1532_B2.html
+20230622T0133_19.13_121.28,2023-06-22T01:33:00+08:00,19.13,121.28,19.0,3.6,008 km N 69° E of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0621_1733_B2.html
+20230622T0133_5.18_127.38,2023-06-22T01:33:00+08:00,5.18,127.38,1.0,3.2,208 km S 67° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0621_1733_B1_Davao_Occidental.html
+20230622T0151_19.1_120.98,2023-06-22T01:51:00+08:00,19.1,120.98,4.0,2.1,024 km S 87° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0621_1751_B2.html
+20230622T0224_17.61_120.62,2023-06-22T02:24:00+08:00,17.61,120.62,10.0,3.4,002 km N 03° W of Bangued (Abra),2023_Earthquake_Information/June/2023_0621_1824_B2F.html
+20230622T0300_9.21_122.99,2023-06-22T03:00:00+08:00,9.21,122.99,8.0,3.2,017 km N 17° W of Siaton (Negros Oriental),2023_Earthquake_Information/June/2023_0621_1900_B2.html
+20230622T0305_9.23_122.97,2023-06-22T03:05:00+08:00,9.23,122.97,10.0,2.2,020 km N 21° W of Siaton (Negros Oriental),2023_Earthquake_Information/June/2023_0621_1905_B2.html
+20230622T0433_10.17_125.96,2023-06-22T04:33:00+08:00,10.17,125.96,31.0,1.8,019 km N 29° W of Santa Monica (Surigao Del Norte),2023_Earthquake_Information/June/2023_0621_2033_B1.html
+20230622T0451_9.26_122.98,2023-06-22T04:51:00+08:00,9.26,122.98,12.0,1.8,015 km S 56° E of Santa Catalina (Negros Oriental),2023_Earthquake_Information/June/2023_0621_2051_B2.html
+20230622T0531_9.67_122.04,2023-06-22T05:31:00+08:00,9.67,122.04,4.0,3.5,045 km S 75° W of City Of Sipalay (Negros Occidental),2023_Earthquake_Information/June/2023_0621_2131_B2.html
+20230622T0554_13.94_125.13,2023-06-22T05:54:00+08:00,13.94,125.13,55.0,2.2,082 km N 78° E of Gigmoto (Catanduanes),2023_Earthquake_Information/June/2023_0621_2154_B1_Catanduanes.html
+20230622T0554_9.64_122.04,2023-06-22T05:54:00+08:00,9.64,122.04,5.0,2.5,045 km S 72° W of City Of Sipalay (Negros Occidental),2023_Earthquake_Information/June/2023_0621_2154_B2_NegrosOccidental.html
+20230622T0622_9.92_126.1,2023-06-22T06:22:00+08:00,9.92,126.1,13.0,2.6,002 km S 36° E of San Isidro (Surigao Del Norte),2023_Earthquake_Information/June/2023_0621_2222_B2.html
+20230622T0644_17.61_120.68,2023-06-22T06:44:00+08:00,17.61,120.68,17.0,2.1,003 km S 71° E of Tayum (Abra),2023_Earthquake_Information/June/2023_0621_2244_B2.html
+20230622T0933_19.11_121.19,2023-06-22T09:33:00+08:00,19.11,121.19,1.0,3.7,002 km N 72° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0622_0133_B2F.html
+20230622T1153_9.54_122.51,2023-06-22T11:53:00+08:00,9.54,122.51,26.0,1.8,009 km S 33° E of Hinoba-an (Negros Occidental),2023_Earthquake_Information/June/2023_0622_0353_B1.html
+20230622T1155_6.01_127.21,2023-06-22T11:55:00+08:00,6.01,127.21,46.0,3.1,143 km S 36° E of Tarragona (Davao Oriental),2023_Earthquake_Information/June/2023_0622_0355_B2.html
+20230622T1225_5.83_126.03,2023-06-22T12:25:00+08:00,5.83,126.03,142.0,2.3,055 km S 42° E of Don Marcelino (Davao Occidental),2023_Earthquake_Information/June/2023_0622_0425_B1.html
+20230622T1306_6.52_126.29,2023-06-22T13:06:00+08:00,6.52,126.29,8.0,2.7,028 km S 59° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0622_0506_B2.html
+20230622T1543_4.98_126.3,2023-06-22T15:43:00+08:00,4.98,126.3,50.0,2.2,106 km S 59° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0622_0743_B1.html
+20230622T1651_11.66_125.72,2023-06-22T16:51:00+08:00,11.66,125.72,17.0,3.1,029 km N 53° E of Maydolong (Eastern Samar),2023_Earthquake_Information/June/2023_0622_0851_B2.html
+20230622T2009_9.75_126.85,2023-06-22T20:09:00+08:00,9.75,126.85,6.0,3.5,076 km S 88° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0622_1209_B2.html
+20230622T2155_5.25_126.33,2023-06-22T21:55:00+08:00,5.25,126.33,14.0,3.4,099 km S 76° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0622_1355_B2.html
+20230622T2200_19.02_121.05,2023-06-22T22:00:00+08:00,19.02,121.05,7.0,3.7,019 km S 61° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0622_1400_B2.html
+20230622T2201_5.42_126.16,2023-06-22T22:01:00+08:00,5.42,126.16,1.0,3.0,077 km S 86° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0622_1401_B1.html
+20230622T2219_18.97_121.16,2023-06-22T22:19:00+08:00,18.97,121.16,8.0,3.0,016 km S 18° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0622_1419_B2.html
+20230623T0035_13.85_120.55,2023-06-23T00:35:00+08:00,13.85,120.55,74.0,1.5,010 km N 77° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0622_1635_B1F.html
+20230623T0113_20.18_121.16,2023-06-23T01:13:00+08:00,20.18,121.16,28.0,2.3,077 km S 77° W of Sabtang (Batanes),2023_Earthquake_Information/June/2023_0622_1713_B2.html
+20230623T0130_7.68_126.07,2023-06-23T01:30:00+08:00,7.68,126.07,7.0,2.2,002 km N 37° W of Compostela (Davao De Oro),2023_Earthquake_Information/June/2023_0622_1730_B2.html
+20230623T0134_9.69_126.26,2023-06-23T01:34:00+08:00,9.69,126.26,17.0,2.7,015 km S 47° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0622_1734_B2.html
+20230623T0136_8.25_126.46,2023-06-23T01:36:00+08:00,8.25,126.46,32.0,1.5,017 km N 76° E of City Of Bislig (Surigao Del Sur),2023_Earthquake_Information/June/2023_0622_1736_B1.html
+20230623T0217_4.96_126.62,2023-06-23T02:17:00+08:00,4.96,126.62,12.0,3.4,140 km S 66° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0622_1817_B2.html
+20230623T0258_13.63_120.12,2023-06-23T02:58:00+08:00,13.63,120.12,30.0,2.8,017 km S 54° W of Looc (Occidental Mindoro),2023_Earthquake_Information/June/2023_0622_1858_B2.html
+20230623T0327_17.7_120.65,2023-06-23T03:27:00+08:00,17.7,120.65,10.0,2.0,004 km N 46° W of La Paz (Abra),2023_Earthquake_Information/June/2023_0622_1927_B2.html
+20230623T0449_18.24_120.78,2023-06-23T04:49:00+08:00,18.24,120.78,1.0,3.0,011 km N 41° E of Piddig (Ilocos Norte),2023_Earthquake_Information/June/2023_0622_2049_B2.html
+20230623T0504_8.4_127.07,2023-06-23T05:04:00+08:00,8.4,127.07,14.0,1.7,081 km N 87° E of Hinatuan (Surigao Del Sur),2023_Earthquake_Information/June/2023_0622_2104_B1.html
+20230623T0627_6.44_126.28,2023-06-23T06:27:00+08:00,6.44,126.28,25.0,3.8,033 km S 44° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0622_2227_B2.html
+20230623T1122_3.41_126.21,2023-06-23T11:22:00+08:00,3.41,126.21,24.0,3.4,238 km S 22° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0623_0322_B2.html
+20230623T1649_19.16_121.05,2023-06-23T16:49:00+08:00,19.16,121.05,28.0,3.1,017 km N 72° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0623_0849_B2.html
+20230623T1722_7.72_122.04,2023-06-23T17:22:00+08:00,7.72,122.04,16.0,3.4,011 km N 80° W of Siocon (Zamboanga Del Norte),2023_Earthquake_Information/June/2023_0623_0922_B2.html
+20230623T1937_8.5_126.57,2023-06-23T19:37:00+08:00,8.5,126.57,8.0,2.5,030 km N 60° E of Hinatuan (Surigao Del Sur),2023_Earthquake_Information/June/2023_0623_1137_B2.html
+20230623T1952_17.19_119.8,2023-06-23T19:52:00+08:00,17.19,119.8,10.0,3.3,068 km N 88° W of City Of Candon (Ilocos Sur),2023_Earthquake_Information/June/2023_0623_1152_B2.html
+20230623T1953_13.93_122.87,2023-06-23T19:53:00+08:00,13.93,122.87,4.0,3.3,015 km N 36° E of Ragay (Camarines Sur),2023_Earthquake_Information/June/2023_0623_1153_B2F.html
+20230623T1959_17.57_122.36,2023-06-23T19:59:00+08:00,17.57,122.36,33.0,2.6,024 km N 33° E of Maconacon (Isabela),2023_Earthquake_Information/June/2023_0623_1159_B2.html
+20230623T2004_9.05_123.79,2023-06-23T20:04:00+08:00,9.05,123.79,30.0,2.4,020 km S 63° E of Lazi (Siquijor),2023_Earthquake_Information/June/2023_0623_1204_B2.html
+20230623T2006_13.88_122.85,2023-06-23T20:06:00+08:00,13.88,122.85,4.0,3.1,009 km N 45° E of Ragay (Camarines Sur),2023_Earthquake_Information/June/2023_0623_1206_B2F.html
+20230623T2112_15.72_119.81,2023-06-23T21:12:00+08:00,15.72,119.81,19.0,2.4,012 km S 66° W of Santa Cruz (Zambales),2023_Earthquake_Information/June/2023_0623_1312_B2.html
+20230623T2116_15.6_122.63,2023-06-23T21:16:00+08:00,15.6,122.63,17.0,3.5,093 km S 36° E of Casiguran (Aurora),2023_Earthquake_Information/June/2023_0623_1316_B2.html
+20230623T2119_8.24_126.66,2023-06-23T21:19:00+08:00,8.24,126.66,60.0,1.9,035 km N 50° E of Lingig (Surigao Del Sur),2023_Earthquake_Information/June/2023_0623_1319_B2.html
+20230623T2207_9.5_126.28,2023-06-23T22:07:00+08:00,9.5,126.28,22.0,1.5,026 km N 20° E of Cortes (Surigao Del Sur),2023_Earthquake_Information/June/2023_0623_1407_B1.html
+20230623T2237_7.97_126.75,2023-06-23T22:37:00+08:00,7.97,126.75,57.0,2.8,038 km S 79° E of Lingig (Surigao Del Sur),2023_Earthquake_Information/June/2023_0623_1437_B2.html
+20230623T2257_17.78_122.34,2023-06-23T22:57:00+08:00,17.78,122.34,60.0,2.4,045 km N 15° E of Maconacon (Isabela),2023_Earthquake_Information/June/2023_0623_1457_B2.html
+20230623T2311_13.94_122.87,2023-06-23T23:11:00+08:00,13.94,122.87,3.0,1.5,016 km N 31° E of Ragay (Camarines Sur),2023_Earthquake_Information/June/2023_0623_1511_B2.html
+20230623T2317_6.59_126.03,2023-06-23T23:17:00+08:00,6.59,126.03,124.0,2.3,009 km S 33° W of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0623_1517_B1_Davao_Oriental.html
+20230623T2317_9.89_126.33,2023-06-23T23:17:00+08:00,9.89,126.33,19.0,2.3,023 km N 59° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0623_1517_B2_Surigao_del_Norte.html
+20230623T2333_9.59_125.83,2023-06-23T23:33:00+08:00,9.59,125.83,41.0,1.5,011 km N 82° E of Claver (Surigao Del Norte),2023_Earthquake_Information/June/2023_0623_1533_B1.html
+20230623T2340_6.44_126.8,2023-06-23T23:40:00+08:00,6.44,126.8,27.0,2.0,078 km S 30° E of Tarragona (Davao Oriental),2023_Earthquake_Information/June/2023_0623_1540_B1.html
+20230623T2347_5.56_126.71,2023-06-23T23:47:00+08:00,5.56,126.71,93.0,3.0,124 km S 71° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0623_1547_B2.html
+20230624T0037_13.95_120.5,2023-06-24T00:37:00+08:00,13.95,120.5,137.0,2.8,019 km N 48° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0623_1637_B2F.html
+20230624T0105_10.05_126.22,2023-06-24T01:05:00+08:00,10.05,126.22,1.0,3.2,016 km N 76° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0623_1705_B2.html
+20230624T0120_19.28_121.08,2023-06-24T01:20:00+08:00,19.28,121.08,3.0,3.3,024 km N 36° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0623_1720_B2.html
+20230624T0142_9.34_122.41,2023-06-24T01:42:00+08:00,9.34,122.41,31.0,2.4,027 km S 73° W of Basay (Negros Oriental),2023_Earthquake_Information/June/2023_0623_1742_B2.html
+20230624T0204_9.75_125.76,2023-06-24T02:04:00+08:00,9.75,125.76,10.0,4.0,019 km N 08° E of Claver (Surigao Del Norte),2023_Earthquake_Information/June/2023_0623_1804_B2F.html
+20230624T0211_9.77_125.78,2023-06-24T02:11:00+08:00,9.77,125.78,18.0,2.2,021 km S 35° E of Cagdianao (Dinagat Islands),2023_Earthquake_Information/June/2023_0623_1811_B2.html
+20230624T0257_19.19_121.28,2023-06-24T02:57:00+08:00,19.19,121.28,7.0,2.4,012 km N 42° E of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0623_1857_B1.html
+20230624T0302_14.97_122.6,2023-06-24T03:02:00+08:00,14.97,122.6,1.0,2.5,042 km N 44° E of Jomalig (Quezon),2023_Earthquake_Information/June/2023_0623_1902_B2.html
+20230624T0311_13.7_120.44,2023-06-24T03:11:00+08:00,13.7,120.44,95.0,4.3,026 km S 55° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0623_1911_B2F.html
+20230624T0403_9.82_122.33,2023-06-24T04:03:00+08:00,9.82,122.33,17.0,2.0,012 km N 61° W of City Of Sipalay (Negros Occidental),2023_Earthquake_Information/June/2023_0623_2003_B2.html
+20230624T0409_16.86_119.84,2023-06-24T04:09:00+08:00,16.86,119.84,16.0,2.6,053 km N 06° W of Bolinao (Pangasinan),2023_Earthquake_Information/June/2023_0623_2009_B2.html
+20230624T0418_10.01_125.81,2023-06-24T04:18:00+08:00,10.01,125.81,33.0,1.6,018 km N 58° E of Cagdianao (Dinagat Islands),2023_Earthquake_Information/June/2023_0623_2018_B1.html
+20230624T0449_10.05_126.16,2023-06-24T04:49:00+08:00,10.05,126.16,30.0,1.5,010 km N 68° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0623_2049_B1.html
+20230624T0452_9.77_124.4,2023-06-24T04:52:00+08:00,9.77,124.4,3.0,1.7,007 km N 01° W of Duero (Bohol),2023_Earthquake_Information/June/2023_0623_2052_B1.html
+20230624T0513_14.63_119.88,2023-06-24T05:13:00+08:00,14.63,119.88,13.0,2.3,042 km S 83° W of Morong (Bataan),2023_Earthquake_Information/June/2023_0623_2113_B2.html
+20230624T0522_6.39_126.42,2023-06-24T05:22:00+08:00,6.39,126.42,29.0,2.7,048 km S 54° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0623_2122_B2.html
+20230624T0649_9.76_125.75,2023-06-24T06:49:00+08:00,9.76,125.75,30.0,1.6,019 km N 19° E of Gigaquit (Surigao Del Norte),2023_Earthquake_Information/June/2023_0623_2249_B2.html
+20230624T0807_17.55_119.85,2023-06-24T08:07:00+08:00,17.55,119.85,34.0,2.4,055 km S 85° W of Santa Catalina (Ilocos Sur),2023_Earthquake_Information/June/2023_0624_0007_B2.html
+20230624T0848_18.85_121.05,2023-06-24T08:48:00+08:00,18.85,121.05,1.0,2.2,028 km N 07° W of Claveria (Cagayan),2023_Earthquake_Information/June/2023_0624_0048_B1.html
+20230624T0949_11.76_124.25,2023-06-24T09:49:00+08:00,11.76,124.25,1.0,3.2,011 km S 83° W of Maripipi (Biliran),2023_Earthquake_Information/June/2023_0624_0149_B2F.html
+20230624T1044_8.74_122.68,2023-06-24T10:44:00+08:00,8.74,122.68,17.0,3.1,050 km N 48° W of Jose Dalman (Zamboanga Del Norte),2023_Earthquake_Information/June/2023_0624_0244_B2.html
+20230624T1133_15.98_119.82,2023-06-24T11:33:00+08:00,15.98,119.82,1.0,2.0,006 km S 84° W of Dasol (Pangasinan),2023_Earthquake_Information/June/2023_0624_0333_B1.html
+20230624T1203_13.5_120.81,2023-06-24T12:03:00+08:00,13.5,120.81,1.0,4.2,011 km N 55° E of Abra De Ilog (Occidental Mindoro),2023_Earthquake_Information/June/2023_0624_0403_B3F.html
+20230624T1214_13.18_121.14,2023-06-24T12:14:00+08:00,13.18,121.14,8.0,2.5,015 km N 86° W of Victoria (Oriental Mindoro),2023_Earthquake_Information/June/2023_0624_0414_B2.html
+20230624T1227_13.2_120.49,2023-06-24T12:27:00+08:00,13.2,120.49,1.0,2.2,012 km S 73° W of Mamburao (Occidental Mindoro),2023_Earthquake_Information/June/2023_0624_0427_B2.html
+20230624T1230_13.3_120.49,2023-06-24T12:30:00+08:00,13.3,120.49,31.0,1.8,013 km S 12° E of Paluan (Occidental Mindoro),2023_Earthquake_Information/June/2023_0624_0430_B1.html
+20230624T1238_13.2_121.13,2023-06-24T12:38:00+08:00,13.2,121.13,6.0,2.0,017 km N 79° W of Victoria (Oriental Mindoro),2023_Earthquake_Information/June/2023_0624_0438_B2.html
+20230624T1326_18.74_120.89,2023-06-24T13:26:00+08:00,18.74,120.89,1.0,2.7,022 km N 28° W of Santa Praxedes (Cagayan),2023_Earthquake_Information/June/2023_0624_0526_B2.html
+20230624T1724_9.97_126.06,2023-06-24T17:24:00+08:00,9.97,126.06,16.0,2.3,006 km S 11° W of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0624_0924_B2.html
+20230624T1827_10.33_125.92,2023-06-24T18:27:00+08:00,10.33,125.92,26.0,2.5,036 km N 20° W of Santa Monica (Surigao Del Norte),2023_Earthquake_Information/June/2023_0624_1027_B2.html
+20230624T1956_8.61_126.1,2023-06-24T19:56:00+08:00,8.61,126.1,21.0,2.1,002 km S 05° E of Lianga (Surigao Del Sur),2023_Earthquake_Information/June/2023_0624_1156_B1.html
+20230624T2002_18.7_120.76,2023-06-24T20:02:00+08:00,18.7,120.76,34.0,1.8,015 km N 09° W of Pagudpud (Ilocos Norte),2023_Earthquake_Information/June/2023_0624_1202_B1.html
+20230624T2016_18.85_121.16,2023-06-24T20:16:00+08:00,18.85,121.16,14.0,2.8,029 km S 10° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0624_1216_B2.html
+20230624T2021_14.0_120.65,2023-06-24T20:21:00+08:00,14.0,120.65,18.0,2.1,004 km S 09° W of Lian (Batangas),2023_Earthquake_Information/June/2023_0624_1221_B2.html
+20230624T2105_16.12_120.61,2023-06-24T21:05:00+08:00,16.12,120.61,29.0,1.5,009 km N 43° W of San Manuel (Pangasinan),2023_Earthquake_Information/June/2023_0624_1305_B1.html
+20230624T2116_17.43_120.19,2023-06-24T21:16:00+08:00,17.43,120.19,18.0,2.6,025 km S 58° W of Caoayan (Ilocos Sur),2023_Earthquake_Information/June/2023_0624_1316_B1.html
+20230624T2219_6.11_126.23,2023-06-24T22:19:00+08:00,6.11,126.23,30.0,3.2,060 km S 81° E of Don Marcelino (Davao Occidental),2023_Earthquake_Information/June/2023_0624_1419_B2.html
+20230624T2226_16.54_122.12,2023-06-24T22:26:00+08:00,16.54,122.12,21.0,2.5,015 km N 85° W of Dinapigue (Isabela),2023_Earthquake_Information/June/2023_0624_1426_B2.html
+20230624T2249_5.2_125.97,2023-06-24T22:49:00+08:00,5.2,125.97,20.0,3.0,062 km S 61° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0624_1449_B1.html
+20230624T2311_4.96_124.39,2023-06-24T23:11:00+08:00,4.96,124.39,18.0,2.5,117 km S 13° W of Kiamba (Sarangani),2023_Earthquake_Information/June/2023_0624_1511_B2.html
+20230625T0052_9.74_125.66,2023-06-25T00:52:00+08:00,9.74,125.66,35.0,1.5,009 km N 64° E of Taganaan (Surigao Del Norte),2023_Earthquake_Information/June/2023_0624_1652_B1.html
+20230625T0105_11.15_126.6,2023-06-25T01:05:00+08:00,11.15,126.6,35.0,2.6,106 km N 65° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0624_1705_B2.html
+20230625T0154_9.8_125.92,2023-06-25T01:54:00+08:00,9.8,125.92,1.0,2.1,010 km S 36° W of Del Carmen (Surigao Del Norte),2023_Earthquake_Information/June/2023_0624_1754_B2.html
+20230625T0220_8.92_125.61,2023-06-25T02:20:00+08:00,8.92,125.61,26.0,1.6,016 km S 10° E of Remedios T. Romualdez (Agusan Del Norte),2023_Earthquake_Information/June/2023_0624_1820_B1.html
+20230625T0314_6.58_125.71,2023-06-25T03:14:00+08:00,6.58,125.71,1.0,2.4,021 km N 31° E of Malita (Davao Occidental),2023_Earthquake_Information/June/2023_0624_1914_B1.html
+20230625T0341_5.48_126.58,2023-06-25T03:41:00+08:00,5.48,126.58,32.0,2.6,114 km S 65° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0624_1941_B2.html
+20230625T0407_5.38_126.72,2023-06-25T04:07:00+08:00,5.38,126.72,1.0,3.6,133 km S 64° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0624_2007_B2.html
+20230625T0418_5.49_126.62,2023-06-25T04:18:00+08:00,5.49,126.62,16.0,3.5,118 km S 67° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0624_2018_B2.html
+20230625T0440_5.46_126.77,2023-06-25T04:40:00+08:00,5.46,126.77,8.0,3.2,135 km S 68° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0624_2040_B2.html
+20230625T0441_8.43_126.96,2023-06-25T04:41:00+08:00,8.43,126.96,15.0,2.1,069 km N 85° E of Hinatuan (Surigao Del Sur),2023_Earthquake_Information/June/2023_0624_2041_B1.html
+20230625T0539_11.18_122.64,2023-06-25T05:39:00+08:00,11.18,122.64,26.0,2.6,007 km N 03° W of City Of Passi (Iloilo),2023_Earthquake_Information/June/2023_0624_2139_B2.html
+20230625T0551_6.43_126.2,2023-06-25T05:51:00+08:00,6.43,126.2,115.0,3.0,029 km S 30° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0624_2151_B2.html
+20230625T0553_14.51_120.24,2023-06-25T05:53:00+08:00,14.51,120.24,16.0,1.8,019 km S 08° W of Morong (Bataan),2023_Earthquake_Information/June/2023_0624_2153_B2.html
+20230625T0707_9.29_125.57,2023-06-25T07:07:00+08:00,9.29,125.57,3.0,2.3,003 km N 31° E of Santiago (Agusan Del Norte),2023_Earthquake_Information/June/2023_0624_2307_B2.html
+20230625T0811_13.68_120.58,2023-06-25T08:11:00+08:00,13.68,120.58,94.0,1.8,017 km S 17° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0625_0011_B1.html
+20230625T0901_10.53_125.21,2023-06-25T09:01:00+08:00,10.53,125.21,1.0,2.9,006 km N 83° E of Silago (Southern Leyte),2023_Earthquake_Information/June/2023_0625_0101_B3F.html
+20230625T1132_19.17_121.13,2023-06-25T11:32:00+08:00,19.17,121.13,4.0,2.4,011 km N 48° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0625_0332_B2.html
+20230625T1325_19.97_121.38,2023-06-25T13:25:00+08:00,19.97,121.38,7.0,3.0,066 km S 52° W of Sabtang (Batanes),2023_Earthquake_Information/June/2023_0625_0525_B2.html
+20230625T1350_15.93_119.89,2023-06-25T13:50:00+08:00,15.93,119.89,15.0,2.1,006 km S 10° E of Dasol (Pangasinan),2023_Earthquake_Information/June/2023_0625_0550_B2.html
+20230625T1513_7.76_122.34,2023-06-25T15:13:00+08:00,7.76,122.34,22.0,1.5,020 km N 27° W of Tungawan (Zamboanga Sibugay),2023_Earthquake_Information/June/2023_0625_0713_B1.html
+20230625T1810_7.77_126.49,2023-06-25T18:10:00+08:00,7.77,126.49,115.0,3.1,005 km S 54° E of Cateel (Davao Oriental),2023_Earthquake_Information/June/2023_0625_1010_B2.html
+20230625T1824_6.51_126.75,2023-06-25T18:24:00+08:00,6.51,126.75,15.0,2.5,068 km S 29° E of Tarragona (Davao Oriental),2023_Earthquake_Information/June/2023_0625_1024_B2.html
+20230625T1835_11.73_125.74,2023-06-25T18:35:00+08:00,11.73,125.74,6.0,3.1,031 km S 85° E of San Julian (Eastern Samar),2023_Earthquake_Information/June/2023_0625_1035_B2F.html
+20230625T1927_9.81_122.16,2023-06-25T19:27:00+08:00,9.81,122.16,5.0,2.3,031 km N 81° W of City Of Sipalay (Negros Occidental),2023_Earthquake_Information/June/2023_0625_1127_B1.html
+20230625T2143_13.51_120.72,2023-06-25T21:43:00+08:00,13.51,120.72,1.0,2.0,008 km N 04° W of Abra De Ilog (Occidental Mindoro),2023_Earthquake_Information/June/2023_0625_1343_B2_Occidental_Mindoro.html
+20230625T2143_15.7_119.93,2023-06-25T21:43:00+08:00,15.7,119.93,53.0,1.4,007 km S 14° E of Santa Cruz (Zambales),2023_Earthquake_Information/June/2023_0625_1343_B1_Zambales.html
+20230625T2246_10.37_125.83,2023-06-25T22:46:00+08:00,10.37,125.83,21.0,2.0,028 km N 87° E of Loreto (Dinagat Islands),2023_Earthquake_Information/June/2023_0625_1446_B2.html
+20230625T2307_13.07_123.91,2023-06-25T23:07:00+08:00,13.07,123.91,1.0,2.6,008 km S 40° E of Manito (Albay),2023_Earthquake_Information/June/2023_0625_1507_B2.html
+20230625T2319_13.25_123.81,2023-06-25T23:19:00+08:00,13.25,123.81,29.0,1.6,004 km N 77° E of Santo Domingo (Albay),2023_Earthquake_Information/June/2023_0625_1519_B1.html
+20230625T2342_10.78_125.97,2023-06-25T23:42:00+08:00,10.78,125.97,60.0,4.4,027 km N 82° E of Homonhon Island (Guiuan) (Eastern Samar),2023_Earthquake_Information/June/2023_0625_1542_B2F.html
+20230626T0000_5.39_127.13,2023-06-26T00:00:00+08:00,5.39,127.13,10.0,4.0,174 km S 70° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0625_1600_B2.html
+20230626T0046_7.23_127.02,2023-06-26T00:46:00+08:00,7.23,127.02,17.0,2.5,051 km S 78° E of Caraga (Davao Oriental),2023_Earthquake_Information/June/2023_0625_1646_B2.html
+20230626T0129_10.22_125.97,2023-06-26T01:29:00+08:00,10.22,125.97,23.0,2.7,023 km N 19° W of Santa Monica (Surigao Del Norte),2023_Earthquake_Information/June/2023_0625_1729_B2.html
+20230626T0132_8.53_123.44,2023-06-26T01:32:00+08:00,8.53,123.44,22.0,2.2,005 km N 18° W of PiÑan (Zamboanga Del Norte),2023_Earthquake_Information/June/2023_0625_1732_B2.html
+20230626T0207_6.36_127.12,2023-06-26T02:07:00+08:00,6.36,127.12,44.0,2.8,107 km S 44° E of Tarragona (Davao Oriental),2023_Earthquake_Information/June/2023_0625_1807_B2.html
+20230626T0239_17.57_122.26,2023-06-26T02:39:00+08:00,17.57,122.26,20.0,2.4,021 km N 06° E of Maconacon (Isabela),2023_Earthquake_Information/June/2023_0625_1839_B2.html
+20230626T0304_7.34_124.82,2023-06-26T03:04:00+08:00,7.34,124.82,8.0,2.5,016 km N 12° E of Carmen (Cotabato),2023_Earthquake_Information/June/2023_0625_1904_B2.html
+20230626T0309_13.81_120.64,2023-06-26T03:09:00+08:00,13.81,120.64,108.0,1.8,002 km S 20° E of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0625_1909_B2F.html
+20230626T0320_17.09_121.46,2023-06-26T03:20:00+08:00,17.09,121.46,19.0,2.8,012 km S 30° E of Paracelis (Mountain Province),2023_Earthquake_Information/June/2023_0625_1920_B2.html
+20230626T0414_8.34_125.89,2023-06-26T04:14:00+08:00,8.34,125.89,4.0,3.3,011 km N 54° E of La Paz (Agusan Del Sur),2023_Earthquake_Information/June/2023_0625_2014_B2.html
+20230626T0441_19.37_121.91,2023-06-26T04:41:00+08:00,19.37,121.91,91.0,3.9,016 km South of Babuyan Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0625_2041_B2.html
+20230626T0457_9.91_126.01,2023-06-26T04:57:00+08:00,9.91,126.01,26.0,2.3,006 km N 48° E of Del Carmen (Surigao Del Norte),2023_Earthquake_Information/June/2023_0625_2057_B2.html
+20230626T0458_13.71_120.21,2023-06-26T04:58:00+08:00,13.71,120.21,14.0,1.7,004 km S 73° W of Looc (Occidental Mindoro),2023_Earthquake_Information/June/2023_0625_2058_B1.html
+20230626T0526_14.2_120.42,2023-06-26T05:26:00+08:00,14.2,120.42,115.0,2.1,027 km N 60° W of Nasugbu (Batangas),2023_Earthquake_Information/June/2023_0625_2126_B2.html
+20230626T0550_13.65_120.63,2023-06-26T05:50:00+08:00,13.65,120.63,104.0,1.8,020 km South of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0625_2150_B2.html
+20230626T0702_5.8_126.55,2023-06-26T07:02:00+08:00,5.8,126.55,26.0,3.4,101 km S 83° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0625_2302_B2.html
+20230626T0818_10.49_125.29,2023-06-26T08:18:00+08:00,10.49,125.29,28.0,2.1,014 km N 43° E of Hinunangan (Southern Leyte),2023_Earthquake_Information/June/2023_0626_0018_B2.html
+20230626T0952_9.87_125.79,2023-06-26T09:52:00+08:00,9.87,125.79,127.0,3.0,014 km S 66° E of Cagdianao (Dinagat Islands),2023_Earthquake_Information/June/2023_0626_0152_B2.html
+20230626T1033_6.45_126.54,2023-06-26T10:33:00+08:00,6.45,126.54,28.0,2.5,057 km S 67° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0626_0233_B2.html
+20230626T1634_9.81_126.17,2023-06-26T16:34:00+08:00,9.81,126.17,31.0,1.3,004 km N 16° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0626_0834_B1.html
+20230626T1655_9.92_125.69,2023-06-26T16:55:00+08:00,9.92,125.69,29.0,1.8,002 km S 74° E of Cagdianao (Dinagat Islands),2023_Earthquake_Information/June/2023_0626_0855_B2.html
+20230626T1735_6.61_126.57,2023-06-26T17:35:00+08:00,6.61,126.57,43.0,2.3,051 km S 15° E of Tarragona (Davao Oriental),2023_Earthquake_Information/June/2023_0626_0935_B1.html
+20230626T1754_13.87_120.55,2023-06-26T17:54:00+08:00,13.87,120.55,90.0,2.1,010 km N 63° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0626_0954_B2F.html
+20230626T1840_7.55_126.0,2023-06-26T18:40:00+08:00,7.55,126.0,14.0,2.3,010 km N 62° E of Mawab (Davao De Oro),2023_Earthquake_Information/June/2023_0626_1040_B2.html
+20230626T1957_6.58_122.75,2023-06-26T19:57:00+08:00,6.58,122.75,33.0,2.9,053 km S 82° E of Hadji Mohammad Ajul (Basilan),2023_Earthquake_Information/June/2023_0626_1157_B2.html
+20230626T2040_17.24_122.5,2023-06-26T20:40:00+08:00,17.24,122.5,13.0,2.4,021 km N 21° E of Palanan (Isabela),2023_Earthquake_Information/June/2023_0626_1240_B2.html
+20230626T2116_7.37_126.5,2023-06-26T21:16:00+08:00,7.37,126.5,21.0,2.4,009 km N 58° W of Caraga (Davao Oriental),2023_Earthquake_Information/June/2023_0626_1316_B2.html
+20230626T2203_11.49_125.68,2023-06-26T22:03:00+08:00,11.49,125.68,39.0,2.8,017 km N 58° E of Llorente (Eastern Samar),2023_Earthquake_Information/June/2023_0626_1403_B2.html
+20230626T2219_16.65_120.85,2023-06-26T22:19:00+08:00,16.65,120.85,31.0,1.9,016 km S 12° E of Buguias (Benguet),2023_Earthquake_Information/June/2023_0626_1419_B2.html
+20230626T2228_5.02_126.04,2023-06-26T22:28:00+08:00,5.02,126.04,20.0,2.6,080 km S 51° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0626_1428_B1.html
+20230626T2311_19.21_120.96,2023-06-26T23:11:00+08:00,19.21,120.96,16.0,2.2,029 km N 66° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0626_1511_B2.html
+20230626T2332_6.41_123.26,2023-06-26T23:32:00+08:00,6.41,123.26,33.0,2.5,089 km S 79° W of Kalamansig (Sultan Kudarat),2023_Earthquake_Information/June/2023_0626_1532_B2.html
+20230627T0033_8.42_125.91,2023-06-27T00:33:00+08:00,8.42,125.91,13.0,3.5,011 km N 66° W of Rosario (Agusan Del Sur),2023_Earthquake_Information/June/2023_0626_1633_B2.html
+20230627T0056_17.95_120.62,2023-06-27T00:56:00+08:00,17.95,120.62,24.0,2.4,006 km N 49° W of Nueva Era (Ilocos Norte),2023_Earthquake_Information/June/2023_0626_1656_B2.html
+20230627T0059_5.64_126.6,2023-06-27T00:59:00+08:00,5.64,126.6,38.0,2.3,110 km S 74° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0626_1659_B1.html
+20230627T0125_7.16_122.04,2023-06-27T01:25:00+08:00,7.16,122.04,21.0,2.7,015 km S 12° W of Sibuco (Zamboanga Del Norte),2023_Earthquake_Information/June/2023_0626_1725_B2.html
+20230627T0208_12.48_123.63,2023-06-27T02:08:00+08:00,12.48,123.63,5.0,2.0,012 km N 02° E of City Of Masbate (Masbate),2023_Earthquake_Information/June/2023_0626_1808_B2.html
+20230627T0234_9.73_122.72,2023-06-27T02:34:00+08:00,9.73,122.72,5.0,1.8,014 km S 38° E of Candoni (Negros Occidental),2023_Earthquake_Information/June/2023_0626_1834_B1.html
+20230627T0244_13.55_123.9,2023-06-27T02:44:00+08:00,13.55,123.9,6.0,2.5,022 km S 78° W of San Andres (Catanduanes),2023_Earthquake_Information/June/2023_0626_1844_B2.html
+20230627T0334_15.81_120.73,2023-06-27T03:34:00+08:00,15.81,120.73,9.0,3.1,008 km N 66° E of Cuyapo (Nueva Ecija),2023_Earthquake_Information/June/2023_0626_1934_B2.html
+20230627T0349_13.88_120.58,2023-06-27T03:49:00+08:00,13.88,120.58,92.0,1.9,008 km N 48° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0626_1949_B2.html
+20230627T0423_18.37_120.96,2023-06-27T04:23:00+08:00,18.37,120.96,25.0,1.6,012 km S 30° E of Adams (Ilocos Norte),2023_Earthquake_Information/June/2023_0626_2023_B2.html
+20230627T0432_10.17_121.97,2023-06-27T04:32:00+08:00,10.17,121.97,10.0,4.5,029 km S 10° E of Anini-y (Antique),2023_Earthquake_Information/June/2023_0626_2032_B4F.html
+20230627T0435_10.1_121.99,2023-06-27T04:35:00+08:00,10.1,121.99,11.0,2.6,037 km S 11° E of Anini-y (Antique),2023_Earthquake_Information/June/2023_0626_2035_B2.html
+20230627T0437_10.14_121.98,2023-06-27T04:37:00+08:00,10.14,121.98,5.0,2.8,033 km S 09° E of Anini-y (Antique),2023_Earthquake_Information/June/2023_0626_2037_B2.html
+20230627T0443_5.69_126.16,2023-06-27T04:43:00+08:00,5.69,126.16,33.0,2.5,062 km S 67° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0626_2043_B1.html
+20230627T0445_12.93_121.2,2023-06-27T04:45:00+08:00,12.93,121.2,1.0,2.0,026 km S 59° W of Socorro (Oriental Mindoro),2023_Earthquake_Information/June/2023_0626_2045_B2.html
+20230627T0510_11.34_121.9,2023-06-27T05:10:00+08:00,11.34,121.9,18.0,2.9,016 km N 70° W of Tibiao (Antique),2023_Earthquake_Information/June/2023_0626_2110_B2.html
+20230627T0637_10.23_125.91,2023-06-27T06:37:00+08:00,10.23,125.91,24.0,2.0,028 km N 31° W of Santa Monica (Surigao Del Norte),2023_Earthquake_Information/June/2023_0626_2237_B2.html
+20230627T0736_16.34_122.16,2023-06-27T07:36:00+08:00,16.34,122.16,12.0,2.0,008 km N 29° E of Casiguran (Aurora),2023_Earthquake_Information/June/2023_0626_2336_B2.html
+20230627T0952_6.71_125.08,2023-06-27T09:52:00+08:00,6.71,125.08,27.0,2.1,009 km S 61° W of Magsaysay (Davao Del Sur),2023_Earthquake_Information/June/2023_0627_0152_B2.html
+20230627T1040_13.43_120.91,2023-06-27T10:40:00+08:00,13.43,120.91,63.0,2.0,010 km S 32° W of Puerto Galera (Oriental Mindoro),2023_Earthquake_Information/June/2023_0627_0240_B1.html
+20230627T1102_10.14_122.04,2023-06-27T11:02:00+08:00,10.14,122.04,9.0,2.6,035 km S 21° E of Anini-y (Antique),2023_Earthquake_Information/June/2023_0627_0302_B2.html
+20230627T1254_13.82_120.45,2023-06-27T12:54:00+08:00,13.82,120.45,66.0,1.6,020 km S 86° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0627_0454_B1F.html
+20230627T1316_19.1_120.56,2023-06-27T13:16:00+08:00,19.1,120.56,2.0,2.6,065 km N 22° W of Pagudpud (Ilocos Norte),2023_Earthquake_Information/June/2023_0627_0516_B1.html
+20230627T1334_18.89_120.58,2023-06-27T13:34:00+08:00,18.89,120.58,5.0,3.1,042 km N 10° W of Burgos (Ilocos Norte),2023_Earthquake_Information/June/2023_0627_0534_B2.html
+20230627T1546_17.55_121.2,2023-06-27T15:46:00+08:00,17.55,121.2,22.0,2.9,005 km N 01° E of Balbalan (Kalinga),2023_Earthquake_Information/June/2023_0627_0746_B2.html
+20230627T1557_6.45_126.49,2023-06-27T15:57:00+08:00,6.45,126.49,31.0,2.1,051 km S 64° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0627_0757_B1.html
+20230627T1806_4.42_124.41,2023-06-27T18:06:00+08:00,4.42,124.41,32.0,3.2,156 km S 46° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0627_1006_B2.html
+20230627T1838_15.51_121.67,2023-06-27T18:38:00+08:00,15.51,121.67,19.0,2.9,028 km S 34° E of San Luis (Aurora),2023_Earthquake_Information/June/2023_0627_1038_B2.html
+20230627T2008_8.16_126.55,2023-06-27T20:08:00+08:00,8.16,126.55,43.0,2.8,040 km S 80° E of City Of Bislig (Surigao Del Sur),2023_Earthquake_Information/June/2023_0627_1208_B2.html
+20230627T2009_11.71_125.71,2023-06-27T20:09:00+08:00,11.71,125.71,8.0,2.9,030 km S 67° E of Sulat (Eastern Samar),2023_Earthquake_Information/June/2023_0627_1209_B2F_Eastern_Samar.html
+20230627T2030_9.62_125.51,2023-06-27T20:30:00+08:00,9.62,125.51,33.0,1.8,005 km S 22° W of Sison (Surigao Del Norte),2023_Earthquake_Information/June/2023_0627_1230_B1.html
+20230627T2049_7.4_127.21,2023-06-27T20:49:00+08:00,7.4,127.21,25.0,2.7,072 km N 83° E of Caraga (Davao Oriental),2023_Earthquake_Information/June/2023_0627_1249_B2.html
+20230627T2138_6.04_125.83,2023-06-27T21:38:00+08:00,6.04,125.83,135.0,2.7,023 km S 40° E of Don Marcelino (Davao Occidental),2023_Earthquake_Information/June/2023_0627_1338_B2.html
+20230627T2209_20.35_121.03,2023-06-27T22:09:00+08:00,20.35,121.03,9.0,2.3,088 km N 89° W of Sabtang (Batanes),2023_Earthquake_Information/June/2023_0627_1409_B1.html
+20230627T2217_9.92_126.1,2023-06-27T22:17:00+08:00,9.92,126.1,13.0,2.7,003 km S 37° E of San Isidro (Surigao Del Norte),2023_Earthquake_Information/June/2023_0627_1417_B2.html
+20230627T2230_18.51_120.82,2023-06-27T22:30:00+08:00,18.51,120.82,46.0,1.9,004 km S 28° E of Dumalneg (Ilocos Norte),2023_Earthquake_Information/June/2023_0627_1430_B2.html
+20230627T2245_15.48_119.95,2023-06-27T22:45:00+08:00,15.48,119.95,33.0,1.6,005 km S 09° W of Masinloc (Zambales),2023_Earthquake_Information/June/2023_0627_1445_B1.html
+20230627T2254_9.63_122.85,2023-06-27T22:54:00+08:00,9.63,122.85,10.0,3.0,028 km N 13° E of City Of Bayawan (Negros Oriental),2023_Earthquake_Information/June/2023_0627_1454_B2.html
+20230627T2257_10.32_126.56,2023-06-27T22:57:00+08:00,10.32,126.56,1.0,3.6,063 km N 58° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0627_1457_B2.html
+20230627T2311_18.38_120.78,2023-06-27T23:11:00+08:00,18.38,120.78,12.0,2.3,016 km S 11° W of Dumalneg (Ilocos Norte),2023_Earthquake_Information/June/2023_0627_1511_B2.html
+20230627T2320_17.69_120.56,2023-06-27T23:20:00+08:00,17.69,120.56,30.0,2.2,011 km S 85° W of Danglas (Abra),2023_Earthquake_Information/June/2023_0627_1520_B2.html
+20230627T2332_8.85_126.34,2023-06-27T23:32:00+08:00,8.85,126.34,27.0,2.2,007 km N 40° E of Marihatag (Surigao Del Sur),2023_Earthquake_Information/June/2023_0627_1532_B1.html
+20230627T2356_4.39_127.03,2023-06-27T23:56:00+08:00,4.39,127.03,15.0,4.4,211 km S 55° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0627_1556_B2.html
+20230628T0009_8.77_125.83,2023-06-28T00:09:00+08:00,8.77,125.83,19.0,2.5,011 km N 52° E of City Of Bayugan (Agusan Del Sur),2023_Earthquake_Information/June/2023_0627_1609_B2.html
+20230628T0019_17.15_120.1,2023-06-28T00:19:00+08:00,17.15,120.1,49.0,1.8,036 km S 88° W of City Of Candon (Ilocos Sur),2023_Earthquake_Information/June/2023_0627_1619_B1_Ilocos_Sur.html
+20230628T0019_9.46_122.32,2023-06-28T00:19:00+08:00,9.46,122.32,25.0,2.0,023 km S 46° W of Hinoba-an (Negros Occidental),2023_Earthquake_Information/June/2023_0627_1619_B1_NegrosOccidental.html
+20230628T0156_19.09_121.01,2023-06-28T01:56:00+08:00,19.09,121.01,2.0,2.6,021 km S 86° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0627_1756_B2.html
+20230628T0200_10.17_122.06,2023-06-28T02:00:00+08:00,10.17,122.06,10.0,2.7,032 km S 26° E of Anini-y (Antique),2023_Earthquake_Information/June/2023_0627_1800_B2.html
+20230628T0245_10.15_121.99,2023-06-28T02:45:00+08:00,10.15,121.99,19.0,2.3,032 km S 13° E of Anini-y (Antique),2023_Earthquake_Information/June/2023_0627_1845_B1.html
+20230628T0337_18.14_122.04,2023-06-28T03:37:00+08:00,18.14,122.04,12.0,2.8,015 km S 16° E of Gonzaga (Cagayan),2023_Earthquake_Information/June/2023_0627_1937_B2.html
+20230628T0511_13.27_121.45,2023-06-28T05:11:00+08:00,13.27,121.45,32.0,2.2,014 km N 03° E of Pola (Oriental Mindoro),2023_Earthquake_Information/June/2023_0627_2111_B1.html
+20230628T0952_5.98_126.25,2023-06-28T09:52:00+08:00,5.98,126.25,161.0,2.6,066 km S 69° E of Don Marcelino (Davao Occidental),2023_Earthquake_Information/June/2023_0628_0152_B2.html
+20230628T1011_13.84_120.01,2023-06-28T10:11:00+08:00,13.84,120.01,13.0,1.7,012 km S 81° W of Lubang (Occidental Mindoro),2023_Earthquake_Information/June/2023_0628_0211_B1.html
+20230628T1126_13.22_121.06,2023-06-28T11:26:00+08:00,13.22,121.06,34.0,1.5,016 km S 15° W of Baco (Oriental Mindoro),2023_Earthquake_Information/June/2023_0628_0326_B2.html
+20230628T1437_18.04_121.32,2023-06-28T14:37:00+08:00,18.04,121.32,15.0,2.5,015 km N 81° E of Kabugao (Apayao),2023_Earthquake_Information/June/2023_0628_0637_B2.html
+20230628T1938_8.33_126.23,2023-06-28T19:38:00+08:00,8.33,126.23,1.0,2.3,012 km S 70° W of Hinatuan (Surigao Del Sur),2023_Earthquake_Information/June/2023_0628_1138_B1.html
+20230628T1946_6.0_126.03,2023-06-28T19:46:00+08:00,6.0,126.03,141.0,2.9,043 km S 60° E of Don Marcelino (Davao Occidental),2023_Earthquake_Information/June/2023_0628_1146_B2.html
+20230628T2120_13.64_123.1,2023-06-28T21:20:00+08:00,13.64,123.1,21.0,1.9,006 km N 58° W of Gainza (Camarines Sur),2023_Earthquake_Information/June/2023_0628_1320_B2.html
+20230628T2121_2.08_126.89,2023-06-28T21:21:00+08:00,2.08,126.89,99.0,4.1,403 km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0628_1321_B2.html
+20230628T2132_8.74_126.23,2023-06-28T21:32:00+08:00,8.74,126.23,29.0,1.9,001 km S 79° E of San Agustin (Surigao Del Sur),2023_Earthquake_Information/June/2023_0628_1332_B1.html
+20230628T2139_3.15_126.56,2023-06-28T21:39:00+08:00,3.15,126.56,53.0,3.7,280 km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0628_1339_B1.html
+20230628T2148_12.79_121.41,2023-06-28T21:48:00+08:00,12.79,121.41,17.0,1.6,010 km S 35° W of Bansud (Oriental Mindoro),2023_Earthquake_Information/June/2023_0628_1348_B1.html
+20230628T2154_13.41_120.67,2023-06-28T21:54:00+08:00,13.41,120.67,1.0,2.0,007 km S 63° W of Abra De Ilog (Occidental Mindoro),2023_Earthquake_Information/June/2023_0628_1354_B1.html
+20230628T2228_8.81_125.77,2023-06-28T22:28:00+08:00,8.81,125.77,12.0,2.3,008 km S 84° E of Sibagat (Agusan Del Sur),2023_Earthquake_Information/June/2023_0628_1428_B2.html
+20230628T2300_12.54_121.16,2023-06-28T23:00:00+08:00,12.54,121.16,4.0,2.3,023 km N 66° E of Rizal (Occidental Mindoro),2023_Earthquake_Information/June/2023_0628_1500_B1_Occidental_Mindoro.html
+20230628T2300_5.72_126.81,2023-06-28T23:00:00+08:00,5.72,126.81,25.0,3.2,130 km S 80° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0628_1500_B2.html
+20230628T2335_21.54_121.61,2023-06-28T23:35:00+08:00,21.54,121.61,124.0,2.8,087 km N 16° W of Itbayat (Batanes),2023_Earthquake_Information/June/2023_0628_1535_B2.html
+20230628T2347_15.97_120.2,2023-06-28T23:47:00+08:00,15.97,120.2,12.0,3.4,003 km N 48° W of Bugallon (Pangasinan),2023_Earthquake_Information/June/2023_0628_1547_B2.html
+20230628T2355_8.85_125.76,2023-06-28T23:55:00+08:00,8.85,125.76,21.0,2.0,008 km N 68° E of Sibagat (Agusan Del Sur),2023_Earthquake_Information/June/2023_0628_1555_B2.html
+20230629T0026_13.16_120.96,2023-06-29T00:26:00+08:00,13.16,120.96,30.0,1.7,027 km N 72° E of Santa Cruz (Occidental Mindoro),2023_Earthquake_Information/June/2023_0628_1626_B2.html
+20230629T0034_17.69_120.3,2023-06-29T00:34:00+08:00,17.69,120.3,36.0,2.9,013 km N 89° W of Magsingal (Ilocos Sur),2023_Earthquake_Information/June/2023_0628_1634_B2.html
+20230629T0103_15.81_119.92,2023-06-29T01:03:00+08:00,15.81,119.92,18.0,3.3,002 km S 37° E of Infanta (Pangasinan),2023_Earthquake_Information/June/2023_0628_1703_B2.html
+20230629T0116_6.79_125.35,2023-06-29T01:16:00+08:00,6.79,125.35,14.0,2.5,005 km N 03° W of City Of Digos (Davao Del Sur),2023_Earthquake_Information/June/2023_0628_1716_B2.html
+20230629T0139_6.61_126.17,2023-06-29T01:39:00+08:00,6.61,126.17,30.0,2.7,012 km S 66° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0628_1739_B2.html
+20230629T0234_17.75_120.32,2023-06-29T02:34:00+08:00,17.75,120.32,32.0,2.2,013 km N 57° W of Magsingal (Ilocos Sur),2023_Earthquake_Information/June/2023_0628_1834_B2.html
+20230629T0409_8.73_126.5,2023-06-29T04:09:00+08:00,8.73,126.5,33.0,2.2,024 km S 70° E of Marihatag (Surigao Del Sur),2023_Earthquake_Information/June/2023_0628_2009_B1.html
+20230629T0423_19.14_121.26,2023-06-29T04:23:00+08:00,19.14,121.26,32.0,1.6,007 km N 56° E of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0628_2023_B1.html
+20230629T0425_17.95_120.67,2023-06-29T04:25:00+08:00,17.95,120.67,61.0,2.0,004 km N 09° E of Nueva Era (Ilocos Norte),2023_Earthquake_Information/June/2023_0628_2025_B2.html
+20230629T0445_13.79_120.82,2023-06-29T04:45:00+08:00,13.79,120.82,27.0,1.6,013 km S 55° W of San Luis (Batangas),2023_Earthquake_Information/June/2023_0628_2045_B2.html
+20230629T0510_9.93_122.03,2023-06-29T05:10:00+08:00,9.93,122.03,10.0,2.2,048 km N 68° W of City Of Sipalay (Negros Occidental),2023_Earthquake_Information/June/2023_0628_2110_B2.html
+20230629T0541_10.38_125.16,2023-06-29T05:41:00+08:00,10.38,125.16,1.0,2.5,004 km S 69° W of Hinunangan (Southern Leyte),2023_Earthquake_Information/June/2023_0628_2141_B2.html
+20230629T0657_15.62_120.1,2023-06-29T06:57:00+08:00,15.62,120.1,34.0,1.6,018 km S 86° E of Candelaria (Zambales),2023_Earthquake_Information/June/2023_0628_2257_B1.html
+20230629T0924_16.21_120.41,2023-06-29T09:24:00+08:00,16.21,120.41,1.0,2.2,008 km S 79° W of Rosario (La Union),2023_Earthquake_Information/June/2023_0629_0124_B2.html
+20230629T0945_14.02_120.48,2023-06-29T09:45:00+08:00,14.02,120.48,119.0,1.4,018 km S 71° W of Nasugbu (Batangas),2023_Earthquake_Information/June/2023_0629_0145_B1_Batangas.html
+20230629T0946_9.91_126.25,2023-06-29T09:46:00+08:00,9.91,126.25,23.0,2.1,017 km N 72° E of Pilar (Surigao Del Norte),2023_Earthquake_Information/June/2023_0629_0146_B2.html
+20230629T0959_9.86_126.12,2023-06-29T09:59:00+08:00,9.86,126.12,28.0,2.2,002 km S 72° E of Pilar (Surigao Del Norte),2023_Earthquake_Information/June/2023_0629_0159_B1.html
+20230629T1002_5.18_126.23,2023-06-29T10:02:00+08:00,5.18,126.23,86.0,2.7,090 km S 69° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0629_0202_B1.html
+20230629T1315_8.24_126.6,2023-06-29T13:15:00+08:00,8.24,126.6,30.0,4.6,030 km N 43° E of Lingig (Surigao Del Sur),2023_Earthquake_Information/June/2023_0629_0515_B3F.html
+20230629T1346_6.26_125.86,2023-06-29T13:46:00+08:00,6.26,125.86,139.0,3.0,020 km N 69° E of Don Marcelino (Davao Occidental),2023_Earthquake_Information/June/2023_0629_0546_B2.html
+20230629T1608_2.12_126.53,2023-06-29T16:08:00+08:00,2.12,126.53,62.0,4.2,384 km S 19° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0629_0808_B2.html
+20230629T1645_18.4_120.87,2023-06-29T16:45:00+08:00,18.4,120.87,3.0,2.3,020 km S 26° E of Pagudpud (Ilocos Norte),2023_Earthquake_Information/June/2023_0629_0845_B2.html
+20230629T1738_7.73_123.81,2023-06-29T17:38:00+08:00,7.73,123.81,7.0,2.3,012 km S 55° E of Sultan Naga Dimaporo (Lanao Del Norte),2023_Earthquake_Information/June/2023_0629_0938_B2.html
+20230629T1816_8.78_126.47,2023-06-29T18:16:00+08:00,8.78,126.47,28.0,2.2,019 km S 85° E of Marihatag (Surigao Del Sur),2023_Earthquake_Information/June/2023_0629_1016_B1.html
+20230629T1921_14.03_120.56,2023-06-29T19:21:00+08:00,14.03,120.56,120.0,2.0,009 km S 58° W of Nasugbu (Batangas),2023_Earthquake_Information/June/2023_0629_1121_B2.html
+20230629T1930_10.34_127.15,2023-06-29T19:30:00+08:00,10.34,127.15,26.0,5.1,123 km N 74° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0629_1130_B3F.html
+20230629T1932_18.48_120.8,2023-06-29T19:32:00+08:00,18.48,120.8,35.0,2.0,005 km S 15° W of Dumalneg (Ilocos Norte),2023_Earthquake_Information/June/2023_0629_1132_B1.html
+20230629T1957_9.37_126.53,2023-06-29T19:57:00+08:00,9.37,126.53,14.0,2.8,039 km N 75° E of Cortes (Surigao Del Sur),2023_Earthquake_Information/June/2023_0629_1157_B2.html
+20230629T2002_9.02_126.45,2023-06-29T20:02:00+08:00,9.02,126.45,3.0,2.1,020 km N 73° E of Bayabas (Surigao Del Sur),2023_Earthquake_Information/June/2023_0629_1202_B2.html
+20230629T2103_10.2_126.44,2023-06-29T21:03:00+08:00,10.2,126.44,14.0,2.2,045 km N 63° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0629_1303_B1.html
+20230629T2105_8.87_127.2,2023-06-29T21:05:00+08:00,8.87,127.2,105.0,2.0,099 km S 87° E of Cagwait (Surigao Del Sur),2023_Earthquake_Information/June/2023_0629_1305_B1.html
+20230629T2135_10.11_124.14,2023-06-29T21:35:00+08:00,10.11,124.14,33.0,2.0,005 km N 42° E of Buenavista (Bohol),2023_Earthquake_Information/June/2023_0629_1335_B1.html
+20230629T2152_5.49_126.13,2023-06-29T21:52:00+08:00,5.49,126.13,95.0,4.8,072 km S 49° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0629_1352_B3F.html
+20230629T2228_17.93_120.61,2023-06-29T22:28:00+08:00,17.93,120.61,1.0,3.4,006 km N 75° W of Nueva Era (Ilocos Norte),2023_Earthquake_Information/June/2023_0629_1428_B2.html
+20230629T2252_10.3_127.02,2023-06-29T22:52:00+08:00,10.3,127.02,30.0,2.3,108 km N 73° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0629_1452_B2F.html
+20230629T2307_10.19_127.06,2023-06-29T23:07:00+08:00,10.19,127.06,34.0,2.8,109 km N 66° E of General Luna (Surigao Del Norte),2023_Earthquake_Information/June/2023_0629_1507_B2.html
+20230629T2332_13.7_122.66,2023-06-29T23:32:00+08:00,13.7,122.66,3.0,1.7,019 km S 48° W of Ragay (Camarines Sur),2023_Earthquake_Information/June/2023_0629_1532_B1.html
+20230630T0028_12.32_121.99,2023-06-30T00:28:00+08:00,12.32,121.99,15.0,2.0,005 km S 72° E of Ferrol (Romblon),2023_Earthquake_Information/June/2023_0629_1628_B1.html
+20230630T0040_15.18_121.46,2023-06-30T00:40:00+08:00,15.18,121.46,13.0,1.9,024 km S 18° E of Dingalan (Aurora),2023_Earthquake_Information/June/2023_0629_1640_B1.html
+20230630T0137_7.89_121.7,2023-06-30T01:37:00+08:00,7.89,121.7,1.0,3.0,052 km N 67° W of Siocon (Zamboanga Del Norte),2023_Earthquake_Information/June/2023_0629_1737_B2.html
+20230630T0147_10.29_122.27,2023-06-30T01:47:00+08:00,10.29,122.27,11.0,2.3,035 km S 23° E of San Joaquin (Iloilo),2023_Earthquake_Information/June/2023_0629_1747_B2.html
+20230630T0301_9.05_126.0,2023-06-30T03:01:00+08:00,9.05,126.0,25.0,1.8,012 km N 23° W of San Miguel (Surigao Del Sur),2023_Earthquake_Information/June/2023_0629_1901_B2.html
+20230630T0342_6.08_124.03,2023-06-30T03:42:00+08:00,6.08,124.03,1.0,2.3,022 km S 51° W of Palimbang (Sultan Kudarat),2023_Earthquake_Information/June/2023_0629_1942_B2.html
+20230630T0352_19.72_121.58,2023-06-30T03:52:00+08:00,19.72,121.58,31.0,1.7,042 km N 57° W of Babuyan Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0629_1952_B1.html
+20230630T0548_8.95_126.21,2023-06-30T05:48:00+08:00,8.95,126.21,22.0,1.9,008 km S 78° W of Bayabas (Surigao Del Sur),2023_Earthquake_Information/June/2023_0629_2148_B1.html
+20230630T0625_8.46_126.49,2023-06-30T06:25:00+08:00,8.46,126.49,17.0,1.8,019 km N 59° E of Hinatuan (Surigao Del Sur),2023_Earthquake_Information/June/2023_0629_2225_B1.html
+20230630T0633_15.88_121.9,2023-06-30T06:33:00+08:00,15.88,121.9,8.0,2.4,030 km S 11° W of Dinalungan (Aurora),2023_Earthquake_Information/June/2023_0629_2233_B2.html
+20230630T0639_16.55_120.23,2023-06-30T06:39:00+08:00,16.55,120.23,68.0,3.1,011 km S 53° W of City Of San Fernando (La Union),2023_Earthquake_Information/June/2023_0629_2239_B2.html
+20230630T0656_17.92_120.67,2023-06-30T06:56:00+08:00,17.92,120.67,1.0,3.2,001 km N 58° E of Nueva Era (Ilocos Norte),2023_Earthquake_Information/June/2023_0629_2256_B2.html
+20230630T0702_7.67_123.84,2023-06-30T07:02:00+08:00,7.67,123.84,19.0,1.8,015 km S 89° W of Picong (Lanao Del Sur),2023_Earthquake_Information/June/2023_0629_2302_B1.html
+20230630T0844_15.72_119.92,2023-06-30T08:44:00+08:00,15.72,119.92,17.0,2.4,010 km N 06° W of Candelaria (Zambales),2023_Earthquake_Information/June/2023_0630_0044_B2.html
+20230630T0954_17.99_121.24,2023-06-30T09:54:00+08:00,17.99,121.24,11.0,2.1,007 km S 59° E of Kabugao (Apayao),2023_Earthquake_Information/June/2023_0630_0154_B2.html
+20230630T1056_7.95_125.77,2023-06-30T10:56:00+08:00,7.95,125.77,23.0,2.3,014 km N 09° W of Laak (Davao De Oro),2023_Earthquake_Information/June/2023_0630_0256_B2.html
+20230630T1142_17.61_122.31,2023-06-30T11:42:00+08:00,17.61,122.31,29.0,2.9,025 km N 18° E of Maconacon (Isabela),2023_Earthquake_Information/June/2023_0630_0342_B2.html
+20230630T1149_8.19_125.98,2023-06-30T11:49:00+08:00,8.19,125.98,10.0,3.1,002 km N 62° W of Bunawan (Agusan Del Sur),2023_Earthquake_Information/June/2023_0630_0349_B2.html
+20230630T1151_5.89_126.27,2023-06-30T11:51:00+08:00,5.89,126.27,22.0,3.5,069 km S 88° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0630_0351_B2.html
+20230630T1218_15.59_121.07,2023-06-30T12:18:00+08:00,15.59,121.07,34.0,2.0,003 km S 52° E of General Mamerto Natividad (Nueva Ecija),2023_Earthquake_Information/June/2023_0630_0418_B1.html
+20230630T1227_18.31_120.85,2023-06-30T12:27:00+08:00,18.31,120.85,3.0,2.1,017 km S 20° W of Adams (Ilocos Norte),2023_Earthquake_Information/June/2023_0630_0427_B2.html
+20230630T1304_8.72_126.24,2023-06-30T13:04:00+08:00,8.72,126.24,3.0,2.2,003 km S 36° E of San Agustin (Surigao Del Sur),2023_Earthquake_Information/June/2023_0630_0504_B2.html
+20230630T1348_13.88_120.54,2023-06-30T13:48:00+08:00,13.88,120.54,77.0,2.2,011 km N 63° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0630_0548_B2F.html
+20230630T1428_13.74_120.6,2023-06-30T14:28:00+08:00,13.74,120.6,111.0,1.9,011 km S 21° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0630_0628_B1F.html
+20230630T1503_5.75_126.44,2023-06-30T15:03:00+08:00,5.75,126.44,45.0,3.1,090 km S 79° E of Jose Abad Santos (Davao Occidental),2023_Earthquake_Information/June/2023_0630_0703_B1.html
+20230630T1639_9.13_126.81,2023-06-30T16:39:00+08:00,9.13,126.81,6.0,3.2,060 km N 73° E of Bayabas (Surigao Del Sur),2023_Earthquake_Information/June/2023_0630_0839_B2.html
+20230630T1752_16.51_120.98,2023-06-30T17:52:00+08:00,16.51,120.98,4.0,2.1,005 km S 65° W of Ambaguio (Nueva Vizcaya),2023_Earthquake_Information/June/2023_0630_0952_B2.html
+20230630T1817_6.72_126.1,2023-06-30T18:17:00+08:00,6.72,126.1,23.0,2.1,008 km N 22° E of Governor Generoso (Davao Oriental),2023_Earthquake_Information/June/2023_0630_1017_B2.html
+20230630T1829_3.12_127.83,2023-06-30T18:29:00+08:00,3.12,127.83,159.0,4.8,368 km S 46° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2023_Earthquake_Information/June/2023_0630_1029_B2.html
+20230630T1909_10.19_126.46,2023-06-30T19:09:00+08:00,10.19,126.46,23.0,2.8,046 km N 66° E of Burgos (Surigao Del Norte),2023_Earthquake_Information/June/2023_0630_1109_B2.html
+20230630T1932_14.74_120.47,2023-06-30T19:32:00+08:00,14.74,120.47,12.0,2.1,007 km N 78° W of Abucay (Bataan),2023_Earthquake_Information/June/2023_0630_1132_B2.html
+20230630T1938_13.68_120.21,2023-06-30T19:38:00+08:00,13.68,120.21,33.0,1.6,006 km S 49° W of Looc (Occidental Mindoro),2023_Earthquake_Information/June/2023_0630_1138_B1.html
+20230630T1949_8.67_126.43,2023-06-30T19:49:00+08:00,8.67,126.43,29.0,3.7,020 km S 47° E of Marihatag (Surigao Del Sur),2023_Earthquake_Information/June/2023_0630_1149_B2.html
+20230630T2004_9.36_122.09,2023-06-30T20:04:00+08:00,9.36,122.09,33.0,3.0,050 km S 57° W of Hinoba-an (Negros Occidental),2023_Earthquake_Information/June/2023_0630_1204_B2.html
+20230630T2018_11.72_124.22,2023-06-30T20:18:00+08:00,11.72,124.22,17.0,2.6,016 km N 75° W of Kawayan (Biliran),2023_Earthquake_Information/June/2023_0630_1218_B2.html
+20230630T2238_9.05_122.46,2023-06-30T22:38:00+08:00,9.05,122.46,29.0,2.0,045 km S 26° W of Basay (Negros Oriental),2023_Earthquake_Information/June/2023_0630_1438_B2.html
+20230630T2256_13.81_120.48,2023-06-30T22:56:00+08:00,13.81,120.48,104.0,2.7,017 km S 81° W of Calatagan (Batangas),2023_Earthquake_Information/June/2023_0630_1456_B2.html
+20230630T2336_9.13_126.36,2023-06-30T23:36:00+08:00,9.13,126.36,19.0,2.2,018 km N 49° E of Tago (Surigao Del Sur),2023_Earthquake_Information/June/2023_0630_1536_B2.html
+20230630T2341_19.28_121.07,2023-06-30T23:41:00+08:00,19.28,121.07,10.0,3.7,024 km N 38° W of Dalupiri Island (Calayan) (Cagayan),2023_Earthquake_Information/June/2023_0630_1541_B2.html
+20230630T2359_5.47_124.84,2023-06-30T23:59:00+08:00,5.47,124.84,6.0,2.3,047 km S 22° W of Maasim (Sarangani),2023_Earthquake_Information/June/2023_0630_1559_B2.html

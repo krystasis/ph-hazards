@@ -1,0 +1,746 @@
+event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
+20211201T0055_13.71_120.79,2021-12-01T00:55:00+08:00,13.71,120.79,13.0,2.5,014 km S 71° W of Nasugbu (Batangas),2021_Earthquake_Information/December/2021_1130_1655_B2.html
+20211201T0135_13.64_120.59,2021-12-01T01:35:00+08:00,13.64,120.59,131.0,4.4,022 km S 13° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1130_1735_B2F.html
+20211201T0157_6.67_126.16,2021-12-01T01:57:00+08:00,6.67,126.16,42.0,2.8,009 km N 80° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1130_1757_B2F.html
+20211201T0226_17.27_120.72,2021-12-01T02:26:00+08:00,17.27,120.72,100.0,2.6,002 km N 34° W of Tubo (Abra),2021_Earthquake_Information/December/2021_1130_1826_B2.html
+20211201T0250_18.67_120.82,2021-12-01T02:50:00+08:00,18.67,120.82,11.0,3.7,013 km N 18° E of Pagudpud (Ilocos Norte),2021_Earthquake_Information/December/2021_1130_1850_B2.html
+20211201T0257_8.29_126.71,2021-12-01T02:57:00+08:00,8.29,126.71,25.0,3.4,042 km S 78° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1130_1857_B2F.html
+20211201T0303_13.72_120.64,2021-12-01T03:03:00+08:00,13.72,120.64,115.0,2.3,013 km S 03° E of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1130_1903_B2F.html
+20211201T0306_12.78_121.32,2021-12-01T03:06:00+08:00,12.78,121.32,2.0,1.8,018 km S 59° W of Bansud (Oriental Mindoro),2021_Earthquake_Information/December/2021_1130_1906_B1.html
+20211201T0425_13.61_120.83,2021-12-01T04:25:00+08:00,13.61,120.83,8.0,2.3,007 km S 42° W of Tingloy (Batangas),2021_Earthquake_Information/December/2021_1130_2025_B2.html
+20211201T0431_16.08_121.47,2021-12-01T04:31:00+08:00,16.08,121.47,35.0,1.6,022 km S 42° W of Nagtipunan (Quirino),2021_Earthquake_Information/December/2021_1130_2031_B2.html
+20211201T0458_14.06_124.57,2021-12-01T04:58:00+08:00,14.06,124.57,19.0,3.2,033 km N 59° E of Panganiban (Catanduanes),2021_Earthquake_Information/December/2021_1130_2058_B2.html
+20211201T0553_10.15_126.34,2021-12-01T05:53:00+08:00,10.15,126.34,2.0,2.9,033 km N 64° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1130_2153_B2.html
+20211201T0708_14.02_121.01,2021-12-01T07:08:00+08:00,14.02,121.01,0.0,2.5,002 km N 60° E of Taal Volcano Island (San Nicolas / Talisay) (Batangas),2021_Earthquake_Information/December/2021_1130_2308_B2.html
+20211201T0747_13.74_120.58,2021-12-01T07:47:00+08:00,13.74,120.58,99.0,2.0,012 km S 26° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1130_2347_B2F.html
+20211201T0809_15.07_119.72,2021-12-01T08:09:00+08:00,15.07,119.72,22.0,3.2,038 km S 74° W of Cabangan (Zambales),2021_Earthquake_Information/December/2021_1201_0009_B2.html
+20211201T0939_13.59_120.8,2021-12-01T09:39:00+08:00,13.59,120.8,15.0,1.6,011 km S 45° W of Tingloy (Batangas),2021_Earthquake_Information/December/2021_1201_0139_B1.html
+20211201T1020_14.18_124.94,2021-12-01T10:20:00+08:00,14.18,124.94,2.0,3.1,073 km N 53° E of Gigmoto (Catanduanes),2021_Earthquake_Information/December/2021_1201_0220_B2.html
+20211201T1029_13.85_120.54,2021-12-01T10:29:00+08:00,13.85,120.54,70.0,1.8,010 km N 80° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1201_0229_B2F.html
+20211201T1728_15.66_121.87,2021-12-01T17:28:00+08:00,15.66,121.87,3.0,1.8,035 km S 71° E of Baler (Aurora),2021_Earthquake_Information/December/2021_1201_0928_B2.html
+20211201T1817_8.75_126.58,2021-12-01T18:17:00+08:00,8.75,126.58,23.0,3.2,032 km S 79° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/December/2021_1201_1017_B2.html
+20211201T2147_12.0_125.14,2021-12-01T21:47:00+08:00,12.0,125.14,35.0,2.1,021 km S 34° W of Maslog (Eastern Samar),2021_Earthquake_Information/December/2021_1201_1347_B2.html
+20211201T2148_6.65_126.12,2021-12-01T21:48:00+08:00,6.65,126.12,33.0,3.1,005 km S 82° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1201_1348_B2.html
+20211201T2322_8.76_126.55,2021-12-01T23:22:00+08:00,8.76,126.55,32.0,2.1,028 km S 80° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/December/2021_1201_1522_B2.html
+20211201T2324_8.7_126.55,2021-12-01T23:24:00+08:00,8.7,126.55,22.0,2.1,030 km S 69° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/December/2021_1201_1524_B2.html
+20211201T2327_8.7_126.62,2021-12-01T23:27:00+08:00,8.7,126.62,17.0,2.1,037 km S 73° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/December/2021_1201_1527_B2.html
+20211202T0054_10.12_126.24,2021-12-02T00:54:00+08:00,10.12,126.24,8.0,2.4,025 km N 63° E of Santa Monica (Surigao Del Norte),2021_Earthquake_Information/December/2021_1201_1654_B2.html
+20211202T0100_12.82_121.02,2021-12-02T01:00:00+08:00,12.82,121.02,39.0,1.8,026 km S 84° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1201_1700_B1.html
+20211202T0112_10.45_125.11,2021-12-02T01:12:00+08:00,10.45,125.11,8.0,3.2,010 km S 32° W of Silago (Southern Leyte),2021_Earthquake_Information/December/2021_1201_1712_B2F.html
+20211202T0251_13.13_124.25,2021-12-02T02:51:00+08:00,13.13,124.25,17.0,2.4,012 km N 32° E of Prieto Diaz (Sorsogon),2021_Earthquake_Information/December/2021_1201_1851_B2.html
+20211202T0312_18.15_120.25,2021-12-02T03:12:00+08:00,18.15,120.25,10.0,2.6,029 km N 59° W of Currimao (Ilocos Norte),2021_Earthquake_Information/December/2021_1201_1912_B2.html
+20211202T0522_9.75_122.6,2021-12-02T05:22:00+08:00,9.75,122.6,32.0,2.7,011 km S 28° W of Candoni (Negros Occidental),2021_Earthquake_Information/December/2021_1201_2122_B2.html
+20211202T0612_15.23_120.5,2021-12-02T06:12:00+08:00,15.23,120.5,127.0,2.4,007 km S 78° W of Mabalacat City (Pampanga),2021_Earthquake_Information/December/2021_1201_2212_B1.html
+20211202T0752_13.71_120.57,2021-12-02T07:52:00+08:00,13.71,120.57,87.0,2.0,015 km S 28° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1201_2352_B2F.html
+20211202T1217_13.89_120.58,2021-12-02T12:17:00+08:00,13.89,120.58,121.0,1.8,009 km N 44° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1202_0417_B1.html
+20211202T1437_5.58_127.01,2021-12-02T14:37:00+08:00,5.58,127.01,71.0,3.2,156 km S 76° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1202_0637_B1.html
+20211202T1704_9.78_122.86,2021-12-02T17:04:00+08:00,9.78,122.86,22.0,1.9,009 km N 55° W of Mabinay (Negros Oriental),2021_Earthquake_Information/December/2021_1202_0904_B1.html
+20211202T1923_12.82_123.52,2021-12-02T19:23:00+08:00,12.82,123.52,9.0,3.6,012 km S 42° W of Donsol (Sorsogon),2021_Earthquake_Information/December/2021_1202_1123_B2F.html
+20211202T1930_8.45_127.1,2021-12-02T19:30:00+08:00,8.45,127.1,1.0,3.1,084 km N 84° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1202_1130_B2.html
+20211202T2006_8.93_122.95,2021-12-02T20:06:00+08:00,8.93,122.95,4.0,2.3,017 km S 34° W of Siaton (Negros Oriental),2021_Earthquake_Information/December/2021_1202_1206_B2.html
+20211202T2131_10.37_126.69,2021-12-02T21:31:00+08:00,10.37,126.69,1.0,2.9,078 km N 60° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1202_1331_B2.html
+20211202T2221_13.58_120.72,2021-12-02T22:21:00+08:00,13.58,120.72,110.0,2.0,029 km S 18° E of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1202_1421_B2.html
+20211202T2328_16.27_120.62,2021-12-02T23:28:00+08:00,16.27,120.62,19.0,2.9,012 km S 30° W of Itogon (Benguet),2021_Earthquake_Information/December/2021_1202_1528_B2.html
+20211203T0011_19.77_121.12,2021-12-03T00:11:00+08:00,19.77,121.12,1.0,2.6,074 km N 07° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/December/2021_1202_1611_B2.html
+20211203T0134_15.63_119.56,2021-12-03T01:34:00+08:00,15.63,119.56,15.0,2.6,040 km S 68° W of Santa Cruz (Zambales),2021_Earthquake_Information/December/2021_1202_1734_B2.html
+20211203T0138_15.57_119.8,2021-12-03T01:38:00+08:00,15.57,119.8,15.0,1.9,016 km S 66° W of Candelaria (Zambales),2021_Earthquake_Information/December/2021_1202_1738_B1.html
+20211203T0221_10.52_126.21,2021-12-03T02:21:00+08:00,10.52,126.21,19.0,2.2,057 km N 15° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1202_1821_B2.html
+20211203T0253_13.88_120.49,2021-12-03T02:53:00+08:00,13.88,120.49,78.0,1.7,016 km N 69° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1202_1853_B2.html
+20211203T0303_14.97_120.02,2021-12-03T03:03:00+08:00,14.97,120.02,21.0,2.4,008 km N 74° W of San Antonio (Zambales),2021_Earthquake_Information/December/2021_1202_1903_B2.html
+20211203T0413_10.0_126.0,2021-12-03T04:13:00+08:00,10.0,126.0,4.0,1.9,004 km S 62° W of Santa Monica (Surigao Del Norte),2021_Earthquake_Information/December/2021_1202_2013_B1.html
+20211203T0449_13.04_121.12,2021-12-03T04:49:00+08:00,13.04,121.12,35.0,1.7,022 km S 49° W of Victoria (Oriental Mindoro),2021_Earthquake_Information/December/2021_1202_2049_B1.html
+20211203T0501_10.01_126.12,2021-12-03T05:01:00+08:00,10.01,126.12,16.0,2.0,005 km S 74° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1202_2101_B1.html
+20211203T0521_18.6_120.36,2021-12-03T05:21:00+08:00,18.6,120.36,21.0,2.2,031 km N 73° W of Burgos (Ilocos Norte),2021_Earthquake_Information/December/2021_1202_2121_B2.html
+20211203T0536_10.16_126.51,2021-12-03T05:36:00+08:00,10.16,126.51,24.0,2.5,051 km N 72° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1202_2136_B2.html
+20211203T0613_13.08_121.28,2021-12-03T06:13:00+08:00,13.08,121.28,36.0,1.8,011 km S 01° E of Victoria (Oriental Mindoro),2021_Earthquake_Information/December/2021_1202_2213_B1.html
+20211203T0826_13.78_120.6,2021-12-03T08:26:00+08:00,13.78,120.6,158.0,2.3,007 km S 32° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1203_0026_B2F.html
+20211203T1021_12.86_120.92,2021-12-03T10:21:00+08:00,12.86,120.92,11.0,2.1,016 km N 83° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1203_0221_B2.html
+20211203T1037_8.06_125.87,2021-12-03T10:37:00+08:00,8.06,125.87,19.0,3.1,010 km S 86° W of Veruela (Agusan Del Sur),2021_Earthquake_Information/December/2021_1203_0237_B2.html
+20211203T1044_13.22_120.35,2021-12-03T10:44:00+08:00,13.22,120.35,7.0,2.6,025 km S 30° W of Paluan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1203_0244_B2.html
+20211203T1136_9.35_126.9,2021-12-03T11:36:00+08:00,9.35,126.9,9.0,3.6,078 km N 84° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/December/2021_1203_0336_B2.html
+20211203T1151_7.21_123.36,2021-12-03T11:51:00+08:00,7.21,123.36,20.0,2.8,029 km S 11° W of Tabina (Zamboanga Del Sur),2021_Earthquake_Information/December/2021_1203_0351_B2.html
+20211203T1157_9.2_126.73,2021-12-03T11:57:00+08:00,9.2,126.73,18.0,2.5,055 km N 63° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/December/2021_1203_0357_B2.html
+20211203T1213_7.38_124.93,2021-12-03T12:13:00+08:00,7.38,124.93,3.0,2.4,025 km S 09° E of Kadingilan (Bukidnon),2021_Earthquake_Information/December/2021_1203_0413_B2.html
+20211203T1452_20.17_121.23,2021-12-03T14:52:00+08:00,20.17,121.23,1.0,4.2,069 km S 75° W of Sabtang (Batanes),2021_Earthquake_Information/December/2021_1203_0652_B2.html
+20211203T1732_18.05_122.37,2021-12-03T17:32:00+08:00,18.05,122.37,30.0,2.9,046 km S 59° E of Gonzaga (Cagayan),2021_Earthquake_Information/December/2021_1203_0932_B2.html
+20211203T1833_8.4_126.88,2021-12-03T18:33:00+08:00,8.4,126.88,6.0,3.0,059 km N 87° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1203_1033_B2.html
+20211203T1952_18.17_120.76,2021-12-03T19:52:00+08:00,18.17,120.76,58.0,2.8,004 km N 84° E of Piddig (Ilocos Norte),2021_Earthquake_Information/December/2021_1203_1152_B1.html
+20211203T2005_9.06_126.33,2021-12-03T20:05:00+08:00,9.06,126.33,31.0,2.1,011 km N 25° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/December/2021_1203_1205_B2.html
+20211203T2318_15.46_121.89,2021-12-03T23:18:00+08:00,15.46,121.89,12.0,2.5,048 km S 47° E of Baler (Aurora),2021_Earthquake_Information/December/2021_1203_1518_B2.html
+20211203T2358_5.42_126.39,2021-12-03T23:58:00+08:00,5.42,126.39,91.0,3.7,099 km S 57° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1203_1558_B2F.html
+20211204T0026_8.91_126.66,2021-12-04T00:26:00+08:00,8.91,126.66,12.0,2.9,042 km S 81° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/December/2021_1203_1626_B2.html
+20211204T0317_10.64_126.32,2021-12-04T03:17:00+08:00,10.64,126.32,22.0,2.9,066 km S 80° E of Homonhon Island (Guiuan) (Eastern Samar),2021_Earthquake_Information/December/2021_1203_1917_B2.html
+20211204T0423_15.7_119.84,2021-12-04T04:23:00+08:00,15.7,119.84,20.0,2.6,012 km N 51° W of Candelaria (Zambales),2021_Earthquake_Information/December/2021_1203_2023_B2.html
+20211204T0530_13.15_124.21,2021-12-04T05:30:00+08:00,13.15,124.21,6.0,3.0,009 km S 64° E of Rapu-rapu (Albay),2021_Earthquake_Information/December/2021_1203_2130_B2F.html
+20211204T1126_8.46_126.84,2021-12-04T11:26:00+08:00,8.46,126.84,9.0,2.5,057 km N 79° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1204_0326_B2.html
+20211204T1142_6.85_125.84,2021-12-04T11:42:00+08:00,6.85,125.84,14.0,2.5,020 km S 76° W of Lupon (Davao Oriental),2021_Earthquake_Information/December/2021_1204_0342_B1.html
+20211204T1257_13.53_120.79,2021-12-04T12:57:00+08:00,13.53,120.79,10.0,2.4,012 km N 36° E of Abra De Ilog (Occidental Mindoro),2021_Earthquake_Information/December/2021_1204_0457_B2.html
+20211204T1423_12.85_121.26,2021-12-04T14:23:00+08:00,12.85,121.26,6.0,2.6,021 km S 87° W of Bansud (Oriental Mindoro),2021_Earthquake_Information/December/2021_1204_0623_B2.html
+20211204T1732_10.37_125.12,2021-12-04T17:32:00+08:00,10.37,125.12,1.0,1.9,009 km S 72° W of Hinunangan (Southern Leyte),2021_Earthquake_Information/December/2021_1204_0932_B2.html
+20211204T1950_9.43_123.98,2021-12-04T19:50:00+08:00,9.43,123.98,32.0,1.7,019 km S 10° W of Loay (Bohol),2021_Earthquake_Information/December/2021_1204_1150_B1.html
+20211204T2021_2.63_127.3,2021-12-04T20:21:00+08:00,2.63,127.3,1.0,4.1,372 km S 34° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1204_1221_B2.html
+20211204T2104_7.13_123.78,2021-12-04T21:04:00+08:00,7.13,123.78,34.0,2.2,028 km N 75° W of Datu Blah T. Sinsuat (Maguindanao),2021_Earthquake_Information/December/2021_1204_1304_B2.html
+20211204T2211_15.39_118.48,2021-12-04T22:11:00+08:00,15.39,118.48,19.0,3.4,154 km S 88° W of Palauig (Zambales),2021_Earthquake_Information/December/2021_1204_1411_B2.html
+20211204T2317_13.95_120.55,2021-12-04T23:17:00+08:00,13.95,120.55,103.0,1.9,016 km N 33° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1204_1517_B2F.html
+20211205T0040_5.89_125.61,2021-12-05T00:40:00+08:00,5.89,125.61,30.0,2.1,005 km S 53° W of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1204_1640_B2.html
+20211205T0047_13.4_120.07,2021-12-05T00:47:00+08:00,13.4,120.07,18.0,2.1,041 km S 29° W of Looc (Occidental Mindoro),2021_Earthquake_Information/December/2021_1204_1647_B2.html
+20211205T0159_5.88_126.0,2021-12-05T01:59:00+08:00,5.88,126.0,148.0,3.2,049 km S 44° E of Don Marcelino (Davao Occidental),2021_Earthquake_Information/December/2021_1204_1759_B2.html
+20211205T0352_5.24_125.8,2021-12-05T03:52:00+08:00,5.24,125.8,127.0,2.9,045 km S 54° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1204_1952_B2.html
+20211205T0403_16.33_120.19,2021-12-05T04:03:00+08:00,16.33,120.19,2.0,2.2,026 km N 80° E of Anda (Pangasinan),2021_Earthquake_Information/December/2021_1204_2003_B2.html
+20211205T0449_6.17_126.4,2021-12-05T04:49:00+08:00,6.17,126.4,98.0,2.7,065 km S 34° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1204_2049_B2.html
+20211205T0523_13.46_120.63,2021-12-05T05:23:00+08:00,13.46,120.63,9.0,1.9,019 km N 74° E of Paluan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1204_2123_B2.html
+20211205T0531_9.63_125.69,2021-12-05T05:31:00+08:00,9.63,125.69,127.0,2.9,004 km N 20° W of Gigaquit (Surigao Del Norte),2021_Earthquake_Information/December/2021_1204_2131_B2.html
+20211205T0545_13.22_120.23,2021-12-05T05:45:00+08:00,13.22,120.23,3.0,2.6,034 km S 49° W of Paluan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1204_2145_B2.html
+20211205T0655_12.61_125.92,2021-12-05T06:55:00+08:00,12.61,125.92,28.0,3.1,066 km N 43° E of San Policarpo (Eastern Samar),2021_Earthquake_Information/December/2021_1204_2255_B2.html
+20211205T0709_16.2_120.92,2021-12-05T07:09:00+08:00,16.2,120.92,34.0,1.8,004 km N 23° W of Santa Fe (Nueva Vizcaya),2021_Earthquake_Information/December/2021_1204_2309_B2.html
+20211205T0735_15.61_121.18,2021-12-05T07:35:00+08:00,15.61,121.18,33.0,1.5,004 km S 60° E of Bongabon (Nueva Ecija),2021_Earthquake_Information/December/2021_1204_2335_B1.html
+20211205T0747_4.06_128.15,2021-12-05T07:47:00+08:00,4.06,128.15,173.0,6.1,336 km S 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1204_2347_B3F.html
+20211205T0827_8.5_126.79,2021-12-05T08:27:00+08:00,8.5,126.79,4.0,3.1,052 km N 74° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1205_0027_B2.html
+20211205T0828_8.42_126.59,2021-12-05T08:28:00+08:00,8.42,126.59,11.0,2.2,029 km N 78° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1205_0028_B2.html
+20211205T1635_5.18_125.93,2021-12-05T16:35:00+08:00,5.18,125.93,164.0,3.5,062 km S 65° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1205_0835_B2.html
+20211205T1828_15.52_119.86,2021-12-05T18:28:00+08:00,15.52,119.86,23.0,3.2,011 km S 81° W of Masinloc (Zambales),2021_Earthquake_Information/December/2021_1205_1028_B2.html
+20211205T1931_10.5_126.07,2021-12-05T19:31:00+08:00,10.5,126.07,3.0,3.0,046 km S 55° E of Homonhon Island (Guiuan) (Eastern Samar),2021_Earthquake_Information/December/2021_1205_1131_B2.html
+20211205T2021_6.7_123.9,2021-12-05T20:21:00+08:00,6.7,123.9,29.0,2.0,019 km N 68° W of Lebak (Sultan Kudarat),2021_Earthquake_Information/December/2021_1205_1221_B2.html
+20211205T2132_17.42_120.28,2021-12-05T21:32:00+08:00,17.42,120.28,22.0,2.3,017 km S 36° W of Caoayan (Ilocos Sur),2021_Earthquake_Information/December/2021_1205_1332_B2.html
+20211205T2247_13.45_120.52,2021-12-05T22:47:00+08:00,13.45,120.52,21.0,2.3,007 km N 57° E of Paluan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1205_1447_B2.html
+20211205T2324_16.32_119.53,2021-12-05T23:24:00+08:00,16.32,119.53,22.0,3.0,037 km N 52° W of Agno (Pangasinan),2021_Earthquake_Information/December/2021_1205_1524_B2.html
+20211205T2341_10.26_125.95,2021-12-05T23:41:00+08:00,10.26,125.95,25.0,2.0,030 km N 27° W of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1205_1541_B2.html
+20211205T2344_13.67_120.68,2021-12-05T23:44:00+08:00,13.67,120.68,85.0,1.8,019 km S 16° E of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1205_1544_B2F.html
+20211206T0036_18.69_121.04,2021-12-06T00:36:00+08:00,18.69,121.04,1.0,2.3,010 km N 24° W of Claveria (Cagayan),2021_Earthquake_Information/December/2021_1205_1636_B2.html
+20211206T0128_6.25_123.51,2021-12-06T01:28:00+08:00,6.25,123.51,37.0,2.1,068 km S 61° W of Kalamansig (Sultan Kudarat),2021_Earthquake_Information/December/2021_1205_1728_B2.html
+20211206T0330_13.91_120.07,2021-12-06T03:30:00+08:00,13.91,120.07,11.0,2.0,008 km N 45° W of Lubang (Occidental Mindoro),2021_Earthquake_Information/December/2021_1205_1930_B2.html
+20211206T0451_13.43_120.11,2021-12-06T04:51:00+08:00,13.43,120.11,16.0,2.4,035 km S 25° W of Looc (Occidental Mindoro),2021_Earthquake_Information/December/2021_1205_2051_B2.html
+20211206T0605_2.99_126.27,2021-12-06T06:05:00+08:00,2.99,126.27,27.0,3.6,284 km S 19° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1205_2205_B2.html
+20211206T0610_18.5_121.28,2021-12-06T06:10:00+08:00,18.5,121.28,5.0,2.1,007 km N 60° W of Pamplona (Cagayan),2021_Earthquake_Information/December/2021_1205_2210_B2.html
+20211206T0750_13.6_120.64,2021-12-06T07:50:00+08:00,13.6,120.64,104.0,1.7,026 km S 01° E of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1205_2350_B1F.html
+20211206T0953_18.38_121.06,2021-12-06T09:53:00+08:00,18.38,121.06,1.0,2.5,018 km S 62° E of Adams (Ilocos Norte),2021_Earthquake_Information/December/2021_1206_0153_B2.html
+20211206T1001_15.16_122.15,2021-12-06T10:01:00+08:00,15.16,122.15,18.0,2.1,040 km N 29° E of Burdeos (Quezon),2021_Earthquake_Information/December/2021_1206_0201_B2.html
+20211206T1047_13.54_121.07,2021-12-06T10:47:00+08:00,13.54,121.07,5.0,3.5,001 km N 08° E of Verde Island (Batangas City) (Batangas),2021_Earthquake_Information/December/2021_1206_0247_B2F.html
+20211206T1136_19.13_120.92,2021-12-06T11:36:00+08:00,19.13,120.92,13.0,3.1,030 km N 86° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/December/2021_1206_0336_B2.html
+20211206T1204_7.12_123.73,2021-12-06T12:04:00+08:00,7.12,123.73,29.0,2.2,032 km N 80° W of Datu Blah T. Sinsuat (Maguindanao),2021_Earthquake_Information/December/2021_1206_0404_B2.html
+20211206T1259_13.58_120.09,2021-12-06T12:59:00+08:00,13.58,120.09,33.0,2.2,023 km S 48° W of Looc (Occidental Mindoro),2021_Earthquake_Information/December/2021_1206_0459_B2.html
+20211206T1303_5.27_127.72,2021-12-06T13:03:00+08:00,5.27,127.72,33.0,3.5,238 km S 50° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1206_0503_B2.html
+20211206T1812_13.75_120.61,2021-12-06T18:12:00+08:00,13.75,120.61,100.0,2.1,010 km S 13° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1206_1012_B2F.html
+20211206T2012_7.0_123.66,2021-12-06T20:12:00+08:00,7.0,123.66,33.0,2.3,040 km S 80° W of Datu Blah T. Sinsuat (Maguindanao),2021_Earthquake_Information/December/2021_1206_1212_B2.html
+20211206T2106_8.44_126.75,2021-12-06T21:06:00+08:00,8.44,126.75,12.0,2.8,046 km N 80° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1206_1306_B2.html
+20211206T2311_12.99_121.5,2021-12-06T23:11:00+08:00,12.99,121.5,23.0,2.4,005 km S 13° E of Pinamalayan (Oriental Mindoro),2021_Earthquake_Information/December/2021_1206_1511_B2.html
+20211207T0054_14.9_122.61,2021-12-07T00:54:00+08:00,14.9,122.61,1.0,2.1,038 km N 53° E of Jomalig (Quezon),2021_Earthquake_Information/December/2021_1206_1654_B2.html
+20211207T0124_12.16_122.51,2021-12-07T01:24:00+08:00,12.16,122.51,9.0,2.4,018 km S 32° W of San Fernando (Romblon),2021_Earthquake_Information/December/2021_1206_1724_B2.html
+20211207T0239_13.69_120.62,2021-12-07T02:39:00+08:00,13.69,120.62,78.0,2.1,015 km S 06° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1206_1839_B2F.html
+20211207T0335_16.97_121.57,2021-12-07T03:35:00+08:00,16.97,121.57,9.0,3.1,007 km S 73° W of Aurora (Isabela),2021_Earthquake_Information/December/2021_1206_1935_B2.html
+20211207T0414_16.46_120.99,2021-12-07T04:14:00+08:00,16.46,120.99,5.0,2.1,010 km S 28° W of Ambaguio (Nueva Vizcaya),2021_Earthquake_Information/December/2021_1206_2014_B2.html
+20211207T0448_10.26_124.82,2021-12-07T04:48:00+08:00,10.26,124.82,1.0,3.6,004 km S 59° E of Matalom (Leyte),2021_Earthquake_Information/December/2021_1206_2048_B2F.html
+20211207T0515_9.88_123.18,2021-12-07T05:15:00+08:00,9.88,123.18,7.0,2.4,005 km N 59° E of Ayungon (Negros Oriental),2021_Earthquake_Information/December/2021_1206_2115_B2.html
+20211207T0609_16.65_122.12,2021-12-07T06:09:00+08:00,16.65,122.12,18.0,2.9,020 km N 48° W of Dinapigue (Isabela),2021_Earthquake_Information/December/2021_1206_2209_B2.html
+20211207T0643_14.51_119.15,2021-12-07T06:43:00+08:00,14.51,119.15,27.0,2.6,112 km S 64° W of San Antonio (Zambales),2021_Earthquake_Information/December/2021_1206_2243_B2.html
+20211207T0710_15.3_119.45,2021-12-07T07:10:00+08:00,15.3,119.45,11.0,2.7,052 km S 74° W of Palauig (Zambales),2021_Earthquake_Information/December/2021_1206_2310_B2.html
+20211207T0803_17.41_120.23,2021-12-07T08:03:00+08:00,17.41,120.23,25.0,3.0,022 km S 48° W of Caoayan (Ilocos Sur),2021_Earthquake_Information/December/2021_1207_0003_B2F.html
+20211207T0831_14.45_119.06,2021-12-07T08:31:00+08:00,14.45,119.06,33.0,3.2,124 km S 64° W of San Antonio (Zambales),2021_Earthquake_Information/December/2021_1207_0031_B2.html
+20211207T0833_4.08_127.7,2021-12-07T08:33:00+08:00,4.08,127.7,9.0,2.7,291 km S 58° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1207_0033_B1.html
+20211207T1353_8.92_126.31,2021-12-07T13:53:00+08:00,8.92,126.31,30.0,2.6,006 km S 29° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/December/2021_1207_0553_B2.html
+20211207T1640_14.9_121.8,2021-12-07T16:40:00+08:00,14.9,121.8,1.0,2.0,005 km S 25° W of Panukulan (Quezon),2021_Earthquake_Information/December/2021_1207_0840_B2.html
+20211207T1848_13.97_120.5,2021-12-07T18:48:00+08:00,13.97,120.5,118.0,2.6,018 km S 52° W of Nasugbu (Batangas),2021_Earthquake_Information/December/2021_1207_1048_B2.html
+20211207T2023_5.74_125.86,2021-12-07T20:23:00+08:00,5.74,125.86,113.0,2.6,031 km S 52° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1207_1223_B2.html
+20211207T2039_8.44_124.31,2021-12-07T20:39:00+08:00,8.44,124.31,10.0,2.2,003 km N 63° E of Naawan (Misamis Oriental),2021_Earthquake_Information/December/2021_1207_1239_B2.html
+20211207T2328_13.72_120.66,2021-12-07T23:28:00+08:00,13.72,120.66,95.0,2.1,013 km S 14° E of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1207_1528_B2F.html
+20211208T0006_7.77_122.08,2021-12-08T00:06:00+08:00,7.77,122.08,9.0,1.5,009 km N 43° W of Siocon (Zamboanga Del Norte),2021_Earthquake_Information/December/2021_1207_1606_B1.html
+20211208T0017_15.75_119.68,2021-12-08T00:17:00+08:00,15.75,119.68,20.0,1.9,025 km S 87° W of Santa Cruz (Zambales),2021_Earthquake_Information/December/2021_1207_1617_B2.html
+20211208T0127_15.09_120.05,2021-12-08T01:27:00+08:00,15.09,120.05,24.0,2.4,004 km N 36° W of San Felipe (Zambales),2021_Earthquake_Information/December/2021_1207_1727_B1.html
+20211208T0144_7.71_122.15,2021-12-08T01:44:00+08:00,7.71,122.15,10.0,1.8,002 km N 66° E of Siocon (Zamboanga Del Norte),2021_Earthquake_Information/December/2021_1207_1744_B1.html
+20211208T0152_5.93_126.33,2021-12-08T01:52:00+08:00,5.93,126.33,42.0,3.0,076 km N 89° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1207_1752_B2F.html
+20211208T0247_12.56_122.22,2021-12-08T02:47:00+08:00,12.56,122.22,6.0,2.9,005 km S 76° W of Romblon (Romblon),2021_Earthquake_Information/December/2021_1207_1847_B2.html
+20211208T0251_11.39_125.56,2021-12-08T02:51:00+08:00,11.39,125.56,28.0,2.3,008 km N 47° W of Hernani (Eastern Samar),2021_Earthquake_Information/December/2021_1207_1851_B2.html
+20211208T0258_5.08_125.97,2021-12-08T02:58:00+08:00,5.08,125.97,111.0,4.0,071 km S 59° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1207_1858_B2.html
+20211208T0552_14.1_120.39,2021-12-08T05:52:00+08:00,14.1,120.39,119.0,3.3,027 km N 84° W of Nasugbu (Batangas),2021_Earthquake_Information/December/2021_1207_2152_B2.html
+20211208T0822_15.13_120.21,2021-12-08T08:22:00+08:00,15.13,120.21,31.0,1.9,017 km N 64° E of San Felipe (Zambales),2021_Earthquake_Information/December/2021_1208_0022_B1.html
+20211208T0930_13.41_120.23,2021-12-08T09:30:00+08:00,13.41,120.23,7.0,2.2,025 km S 89° W of Paluan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1208_0130_B2.html
+20211208T1128_11.15_124.64,2021-12-08T11:28:00+08:00,11.15,124.64,5.0,2.5,010 km S 70° E of Kananga (Leyte),2021_Earthquake_Information/December/2021_1208_0328_B2.html
+20211208T1129_6.65_126.09,2021-12-08T11:29:00+08:00,6.65,126.09,27.0,2.5,002 km S 72° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1208_0329_B2F.html
+20211208T1141_5.85_126.16,2021-12-08T11:41:00+08:00,5.85,126.16,115.0,2.5,058 km S 83° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1208_0341_B2F.html
+20211208T1222_6.34_125.93,2021-12-08T12:22:00+08:00,6.34,125.93,128.0,2.6,030 km N 60° E of Don Marcelino (Davao Occidental),2021_Earthquake_Information/December/2021_1208_0422_B2.html
+20211208T1515_9.49_124.48,2021-12-08T15:15:00+08:00,9.49,124.48,13.0,3.1,024 km S 56° E of Garcia Hernandez (Bohol),2021_Earthquake_Information/December/2021_1208_0715_B2.html
+20211208T1629_14.11_120.45,2021-12-08T16:29:00+08:00,14.11,120.45,91.0,1.9,021 km N 79° W of Nasugbu (Batangas),2021_Earthquake_Information/December/2021_1208_0829_B2.html
+20211208T1646_17.16_120.04,2021-12-08T16:46:00+08:00,17.16,120.04,22.0,2.8,043 km S 90° W of City Of Candon (Ilocos Sur),2021_Earthquake_Information/December/2021_1208_0846_B2.html
+20211208T1720_11.62_124.28,2021-12-08T17:20:00+08:00,11.62,124.28,10.0,2.5,014 km N 65° W of Naval (Biliran),2021_Earthquake_Information/December/2021_1208_0920_B2.html
+20211208T1740_7.67_126.16,2021-12-08T17:40:00+08:00,7.67,126.16,21.0,3.2,022 km N 70° E of Nabunturan (Davao De Oro),2021_Earthquake_Information/December/2021_1208_0940_B2F.html
+20211208T1934_10.09_126.16,2021-12-08T19:34:00+08:00,10.09,126.16,1.0,2.5,012 km N 53° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1208_1134_B2.html
+20211208T2011_5.79_124.65,2021-12-08T20:11:00+08:00,5.79,124.65,22.0,2.5,022 km S 08° E of Kiamba (Sarangani),2021_Earthquake_Information/December/2021_1208_1211_B2.html
+20211208T2058_9.57_126.18,2021-12-08T20:58:00+08:00,9.57,126.18,10.0,3.0,023 km S 07° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/December/2021_1208_1258_B2.html
+20211208T2146_9.61_122.59,2021-12-08T21:46:00+08:00,9.61,122.59,40.0,1.9,014 km N 86° E of Hinoba-an (Negros Occidental),2021_Earthquake_Information/December/2021_1208_1346_B1.html
+20211208T2159_18.86_122.11,2021-12-08T21:59:00+08:00,18.86,122.11,2.0,3.5,026 km S 77° E of Camiguin Island (Calayan) (Cagayan),2021_Earthquake_Information/December/2021_1208_1359_B2.html
+20211208T2201_10.08_126.31,2021-12-08T22:01:00+08:00,10.08,126.31,5.0,3.5,027 km N 75° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1208_1401_B2.html
+20211208T2205_10.13_126.37,2021-12-08T22:05:00+08:00,10.13,126.37,2.0,2.8,035 km N 69° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1208_1405_B2.html
+20211208T2207_10.06_126.3,2021-12-08T22:07:00+08:00,10.06,126.3,9.0,3.1,025 km N 78° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1208_1407_B2.html
+20211208T2213_10.1_126.3,2021-12-08T22:13:00+08:00,10.1,126.3,7.0,3.5,027 km N 70° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1208_1413_B2.html
+20211208T2215_9.66_126.01,2021-12-08T22:15:00+08:00,9.66,126.01,33.0,1.9,005 km S 17° W of Del Carmen (Surigao Del Norte),2021_Earthquake_Information/December/2021_1208_1415_B2.html
+20211208T2244_10.03_126.24,2021-12-08T22:44:00+08:00,10.03,126.24,17.0,2.7,018 km N 87° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1208_1444_B2.html
+20211208T2305_7.5_126.76,2021-12-08T23:05:00+08:00,7.5,126.76,31.0,2.1,023 km S 69° E of Baganga (Davao Oriental),2021_Earthquake_Information/December/2021_1208_1505_B2.html
+20211208T2312_10.12_126.31,2021-12-08T23:12:00+08:00,10.12,126.31,1.0,3.1,028 km N 66° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1208_1512_B2.html
+20211208T2331_10.05_126.12,2021-12-08T23:31:00+08:00,10.05,126.12,2.0,2.6,006 km N 54° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1208_1531_B2.html
+20211208T2345_14.04_124.21,2021-12-08T23:45:00+08:00,14.04,124.21,26.0,1.7,004 km S 87° E of Pandan (Catanduanes),2021_Earthquake_Information/December/2021_1208_1545_B1.html
+20211209T0050_9.95_126.11,2021-12-09T00:50:00+08:00,9.95,126.11,24.0,1.7,008 km S 26° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1208_1650_B1.html
+20211209T0052_9.99_126.27,2021-12-09T00:52:00+08:00,9.99,126.27,17.0,2.4,021 km S 80° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1208_1652_B2.html
+20211209T0129_9.22_122.36,2021-12-09T01:29:00+08:00,9.22,122.36,1.0,2.3,037 km S 55° W of Basay (Negros Oriental),2021_Earthquake_Information/December/2021_1208_1729_B2.html
+20211209T0325_10.02_126.4,2021-12-09T03:25:00+08:00,10.02,126.4,11.0,2.3,035 km 00 °ast of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1208_1925_B2.html
+20211209T0327_5.66_126.51,2021-12-09T03:27:00+08:00,5.66,126.51,69.0,3.6,100 km S 74° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1208_1927_B2.html
+20211209T0419_10.09_126.28,2021-12-09T04:19:00+08:00,10.09,126.28,3.0,3.0,023 km N 70° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1208_2019_B2.html
+20211209T0437_6.73_126.42,2021-12-09T04:37:00+08:00,6.73,126.42,28.0,2.7,033 km S 42° E of City Of Mati (Davao Oriental),2021_Earthquake_Information/December/2021_1208_2037_B2.html
+20211209T0440_17.93_121.06,2021-12-09T04:40:00+08:00,17.93,121.06,22.0,1.9,035 km S 46° E of Carasi (Ilocos Norte),2021_Earthquake_Information/December/2021_1208_2040_B2.html
+20211209T0645_4.79_125.29,2021-12-09T06:45:00+08:00,4.79,125.29,15.0,4.1,070 km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1208_2245_B2.html
+20211209T0818_10.12_126.33,2021-12-09T08:18:00+08:00,10.12,126.33,7.0,4.5,031 km N 69° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_0018_B3F.html
+20211209T0821_10.07_126.32,2021-12-09T08:21:00+08:00,10.07,126.32,2.0,3.2,027 km N 79° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_0021_B2.html
+20211209T0842_12.97_120.91,2021-12-09T08:42:00+08:00,12.97,120.91,10.0,2.2,020 km N 46° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1209_0042_B2.html
+20211209T0913_9.94_126.15,2021-12-09T09:13:00+08:00,9.94,126.15,20.0,2.2,012 km S 44° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_0113_B2.html
+20211209T0915_9.98_126.15,2021-12-09T09:15:00+08:00,9.98,126.15,20.0,1.9,009 km S 66° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_0115_B2.html
+20211209T0955_8.5_126.75,2021-12-09T09:55:00+08:00,8.5,126.75,29.0,2.3,047 km N 72° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1209_0155_B2.html
+20211209T1158_9.9_126.13,2021-12-09T11:58:00+08:00,9.9,126.13,26.0,2.1,014 km S 25° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_0358_B2.html
+20211209T1342_13.71_120.49,2021-12-09T13:42:00+08:00,13.71,120.49,104.0,3.9,020 km S 48° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1209_0542_B3F.html
+20211209T1355_6.9_124.97,2021-12-09T13:55:00+08:00,6.9,124.97,13.0,2.7,015 km S 61° W of Makilala (Cotabato),2021_Earthquake_Information/December/2021_1209_0555_B2.html
+20211209T1602_18.64_120.86,2021-12-09T16:02:00+08:00,18.64,120.86,1.0,2.8,012 km N 39° E of Pagudpud (Ilocos Norte),2021_Earthquake_Information/December/2021_1209_0802_B2.html
+20211209T1717_5.62_126.59,2021-12-09T17:17:00+08:00,5.62,126.59,87.0,3.3,110 km S 73° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1209_0917_B2F.html
+20211209T1721_10.07_126.22,2021-12-09T17:21:00+08:00,10.07,126.22,1.0,3.1,017 km N 70° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_0921_B2F.html
+20211209T1752_6.77_125.98,2021-12-09T17:52:00+08:00,6.77,125.98,30.0,2.5,015 km S 12° W of Lupon (Davao Oriental),2021_Earthquake_Information/December/2021_1209_0952_B2.html
+20211209T1814_19.48_121.77,2021-12-09T18:14:00+08:00,19.48,121.77,18.0,3.3,015 km S 80° W of Babuyan Island (Calayan) (Cagayan),2021_Earthquake_Information/December/2021_1209_1014_B2.html
+20211209T2008_9.91_126.15,2021-12-09T20:08:00+08:00,9.91,126.15,21.0,2.0,007 km N 49° E of Pilar (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_1208_B2.html
+20211209T2025_9.15_126.48,2021-12-09T20:25:00+08:00,9.15,126.48,29.0,2.4,030 km N 48° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/December/2021_1209_1225_B2.html
+20211209T2034_7.63_124.88,2021-12-09T20:34:00+08:00,7.63,124.88,24.0,2.6,004 km N 42° W of Kadingilan (Bukidnon),2021_Earthquake_Information/December/2021_1209_1234_B2.html
+20211209T2044_10.16_126.45,2021-12-09T20:44:00+08:00,10.16,126.45,11.0,4.9,044 km N 69° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_1244_B3F.html
+20211209T2052_10.0_126.37,2021-12-09T20:52:00+08:00,10.0,126.37,12.0,2.4,033 km S 87° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_1252_B2.html
+20211209T2058_10.12_126.28,2021-12-09T20:58:00+08:00,10.12,126.28,2.0,2.5,026 km N 63° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_1258_B2.html
+20211209T2110_10.16_126.36,2021-12-09T21:10:00+08:00,10.16,126.36,2.0,4.3,034 km N 64° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_1310_B2.html
+20211209T2151_9.89_122.41,2021-12-09T21:51:00+08:00,9.89,122.41,7.0,2.0,013 km N 11° W of City Of Sipalay (Negros Occidental),2021_Earthquake_Information/December/2021_1209_1351_B1.html
+20211209T2159_9.99_126.23,2021-12-09T21:59:00+08:00,9.99,126.23,17.0,2.4,018 km S 81° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_1359_B2.html
+20211209T2209_9.73_125.99,2021-12-09T22:09:00+08:00,9.73,125.99,21.0,1.7,013 km N 14° E of Socorro (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_1409_B2.html
+20211209T2226_10.1_126.22,2021-12-09T22:26:00+08:00,10.1,126.22,7.0,2.6,018 km N 59° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_1426_B2.html
+20211209T2255_3.47_126.45,2021-12-09T22:55:00+08:00,3.47,126.45,78.0,4.3,244 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1209_1455_B2.html
+20211209T2305_6.12_126.57,2021-12-09T23:05:00+08:00,6.12,126.57,72.0,2.7,080 km S 43° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1209_1505_B2F.html
+20211209T2359_10.1_126.31,2021-12-09T23:59:00+08:00,10.1,126.31,6.0,3.8,029 km N 67° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_1559_B2.html
+20211210T0014_10.11_126.32,2021-12-10T00:14:00+08:00,10.11,126.32,6.0,2.7,029 km N 69° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_1614_B2.html
+20211210T0229_9.97_122.44,2021-12-10T02:29:00+08:00,9.97,122.44,15.0,2.0,022 km N 02° E of City Of Sipalay (Negros Occidental),2021_Earthquake_Information/December/2021_1209_1829_B1.html
+20211210T0323_13.72_120.63,2021-12-10T03:23:00+08:00,13.72,120.63,79.0,1.8,013 km S 03° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1209_1923_B1F.html
+20211210T0332_10.05_126.25,2021-12-10T03:32:00+08:00,10.05,126.25,12.0,2.6,019 km N 79° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_1932_B2.html
+20211210T0413_9.99_126.19,2021-12-10T04:13:00+08:00,9.99,126.19,14.0,2.6,013 km S 74° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_2013_B2.html
+20211210T0416_19.1_121.68,2021-12-10T04:16:00+08:00,19.1,121.68,2.0,3.5,028 km S 50° E of Calayan (Cagayan),2021_Earthquake_Information/December/2021_1209_2016_B2.html
+20211210T0423_10.06_126.2,2021-12-10T04:23:00+08:00,10.06,126.2,17.0,2.2,015 km N 70° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1209_2023_B2.html
+20211210T0609_13.8_120.55,2021-12-10T06:09:00+08:00,13.8,120.55,62.0,2.1,010 km S 71° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1209_2209_B2.html
+20211210T0820_5.78_125.92,2021-12-10T08:20:00+08:00,5.78,125.92,157.0,2.4,053 km S 28° E of Don Marcelino (Davao Occidental),2021_Earthquake_Information/December/2021_1210_0020_B2.html
+20211210T1100_16.79_119.74,2021-12-10T11:00:00+08:00,16.79,119.74,22.0,2.8,046 km N 19° W of Bolinao (Pangasinan),2021_Earthquake_Information/December/2021_1210_0300_B2.html
+20211210T1114_3.8_126.39,2021-12-10T11:14:00+08:00,3.8,126.39,39.0,4.0,208 km S 31° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1210_0314_B2.html
+20211210T1128_10.07_126.41,2021-12-10T11:28:00+08:00,10.07,126.41,10.0,2.4,037 km N 81° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1210_0328_B2.html
+20211210T1152_6.36_126.19,2021-12-10T11:52:00+08:00,6.36,126.19,118.0,2.2,035 km S 22° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1210_0352_B2.html
+20211210T1320_7.8_122.63,2021-12-10T13:20:00+08:00,7.8,122.63,34.0,1.8,005 km N 76° E of Ipil (Zamboanga Sibugay),2021_Earthquake_Information/December/2021_1210_0520_B2.html
+20211210T1709_13.08_121.26,2021-12-10T17:09:00+08:00,13.08,121.26,1.0,3.1,011 km S 14° W of Victoria (Oriental Mindoro),2021_Earthquake_Information/December/2021_1210_0909_B2.html
+20211210T1807_14.97_123.19,2021-12-10T18:07:00+08:00,14.97,123.19,20.0,2.4,060 km N 25° E of Tinaga Island (Vinzons) (Camarines Norte),2021_Earthquake_Information/December/2021_1210_1007_B2.html
+20211210T1857_16.38_120.33,2021-12-10T18:57:00+08:00,16.38,120.33,17.0,3.8,007 km N 33° W of Agoo (La Union),2021_Earthquake_Information/December/2021_1210_1057_B2.html
+20211210T1924_6.35_127.21,2021-12-10T19:24:00+08:00,6.35,127.21,40.0,3.0,114 km S 47° E of Tarragona (Davao Oriental),2021_Earthquake_Information/December/2021_1210_1124_B2.html
+20211210T2116_9.16_125.77,2021-12-10T21:16:00+08:00,9.16,125.77,33.0,2.0,025 km N 81° E of City Of Cabadbaran (Agusan Del Norte),2021_Earthquake_Information/December/2021_1210_1316_B2.html
+20211210T2148_5.63_126.24,2021-12-10T21:48:00+08:00,5.63,126.24,19.0,3.1,087 km N 78° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1210_1348_B2.html
+20211210T2242_9.89_126.17,2021-12-10T22:42:00+08:00,9.89,126.17,29.0,2.2,018 km S 36° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1210_1442_B2.html
+20211210T2259_7.94_122.36,2021-12-10T22:59:00+08:00,7.94,122.36,31.0,2.1,007 km S 44° W of Gutalac (Zamboanga Del Norte),2021_Earthquake_Information/December/2021_1210_1459_B1.html
+20211210T2307_9.88_122.02,2021-12-10T23:07:00+08:00,9.88,122.02,1.0,2.2,062 km S 09° E of Anini-y (Antique),2021_Earthquake_Information/December/2021_1210_1507_B2.html
+20211210T2312_18.29_119.57,2021-12-10T23:12:00+08:00,18.29,119.57,14.0,2.8,102 km N 73° W of Currimao (Ilocos Norte),2021_Earthquake_Information/December/2021_1210_1512_B2.html
+20211211T0036_13.88_120.42,2021-12-11T00:36:00+08:00,13.88,120.42,68.0,3.6,031 km S 48° W of Nasugbu (Batangas),2021_Earthquake_Information/December/2021_1210_1636_B2F.html
+20211211T0109_5.33_126.78,2021-12-11T01:09:00+08:00,5.33,126.78,128.0,3.3,145 km S 84° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1210_1709_B2.html
+20211211T0117_13.17_124.41,2021-12-11T01:17:00+08:00,13.17,124.41,53.0,3.4,027 km N 59° E of Prieto Diaz (Sorsogon),2021_Earthquake_Information/December/2021_1210_1717_B2.html
+20211211T0220_13.86_120.46,2021-12-11T02:20:00+08:00,13.86,120.46,78.0,3.1,019 km N 82° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1210_1820_B2.html
+20211211T0241_13.2_124.63,2021-12-11T02:41:00+08:00,13.2,124.63,7.0,3.2,051 km N 70° E of Prieto Diaz (Sorsogon),2021_Earthquake_Information/December/2021_1210_1841_B2.html
+20211211T0306_16.57_120.55,2021-12-11T03:06:00+08:00,16.57,120.55,22.0,2.1,006 km S 87° W of Kapangan (Benguet),2021_Earthquake_Information/December/2021_1210_1906_B2.html
+20211211T0404_9.54_126.33,2021-12-11T04:04:00+08:00,9.54,126.33,26.0,1.9,033 km N 26° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/December/2021_1210_2004_B2.html
+20211211T0426_9.63_126.66,2021-12-11T04:26:00+08:00,9.63,126.66,13.0,3.0,058 km S 73° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/December/2021_1210_2026_B2.html
+20211211T0521_9.63_126.69,2021-12-11T05:21:00+08:00,9.63,126.69,10.0,3.1,061 km S 74° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/December/2021_1210_2121_B2.html
+20211211T0628_5.46_125.96,2021-12-11T06:28:00+08:00,5.46,125.96,5.0,3.0,061 km S 35° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1210_2228_B2.html
+20211211T0717_10.55_125.95,2021-12-11T07:17:00+08:00,10.55,125.95,20.0,2.6,033 km S 49° E of Homonhon Island (Guiuan) (Eastern Samar),2021_Earthquake_Information/December/2021_1210_2317_B2.html
+20211211T0851_14.19_120.45,2021-12-11T08:51:00+08:00,14.19,120.45,118.0,2.0,023 km N 58° W of Nasugbu (Batangas),2021_Earthquake_Information/December/2021_1211_0051_B2.html
+20211211T0929_7.23_127.01,2021-12-11T09:29:00+08:00,7.23,127.01,33.0,3.1,052 km N 87° E of Manay (Davao Oriental),2021_Earthquake_Information/December/2021_1211_0129_B2.html
+20211211T1029_15.73_119.89,2021-12-11T10:29:00+08:00,15.73,119.89,19.0,1.6,004 km S 23° W of Santa Cruz (Zambales),2021_Earthquake_Information/December/2021_1211_0229_B1.html
+20211211T1048_11.2_125.55,2021-12-11T10:48:00+08:00,11.2,125.55,24.0,2.8,006 km N 33° E of Quinapondan (Eastern Samar),2021_Earthquake_Information/December/2021_1211_0248_B2.html
+20211211T1107_3.42_126.17,2021-12-11T11:07:00+08:00,3.42,126.17,24.0,3.4,235 km S 21° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1211_0307_B2.html
+20211211T1737_5.2_125.98,2021-12-11T17:37:00+08:00,5.2,125.98,1.0,2.8,063 km S 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1211_0937_B2.html
+20211211T1939_13.87_120.51,2021-12-11T19:39:00+08:00,13.87,120.51,100.0,2.6,014 km N 70° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1211_1139_B2.html
+20211211T2045_11.71_125.1,2021-12-11T20:45:00+08:00,11.71,125.1,4.0,2.2,004 km N 74° E of Hinabangan (Samar),2021_Earthquake_Information/December/2021_1211_1245_B2.html
+20211211T2124_9.94_124.28,2021-12-11T21:24:00+08:00,9.94,124.28,32.0,2.2,005 km N 08° E of Dagohoy (Bohol),2021_Earthquake_Information/December/2021_1211_1324_B2.html
+20211211T2143_9.35_125.67,2021-12-11T21:43:00+08:00,9.35,125.67,20.0,2.1,015 km S 40° E of Kitcharao (Agusan Del Norte),2021_Earthquake_Information/December/2021_1211_1343_B2.html
+20211211T2218_5.73_127.14,2021-12-11T22:18:00+08:00,5.73,127.14,93.0,3.1,165 km S 28° E of Tarragona (Davao Oriental),2021_Earthquake_Information/December/2021_1211_1418_B2.html
+20211211T2316_12.9_120.79,2021-12-11T23:16:00+08:00,12.9,120.79,3.0,2.6,006 km N 11° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1211_1516_B2F.html
+20211211T2328_12.99_124.45,2021-12-11T23:28:00+08:00,12.99,124.45,1.0,3.3,036 km N 15° E of Biri (Northern Samar),2021_Earthquake_Information/December/2021_1211_1528_B2.html
+20211212T0106_20.14_122.06,2021-12-12T01:06:00+08:00,20.14,122.06,1.0,3.3,071 km N 12° E of Babuyan Island (Calayan) (Cagayan),2021_Earthquake_Information/December/2021_1211_1706_B2F.html
+20211212T0135_13.49_120.62,2021-12-12T01:35:00+08:00,13.49,120.62,1.0,2.4,012 km N 64° W of Abra De Ilog (Occidental Mindoro),2021_Earthquake_Information/December/2021_1211_1735_B2.html
+20211212T0230_13.75_120.6,2021-12-12T02:30:00+08:00,13.75,120.6,99.0,2.2,010 km S 22° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1211_1830_B2.html
+20211212T0250_7.75_122.24,2021-12-12T02:50:00+08:00,7.75,122.24,26.0,2.3,013 km N 69° E of Siocon (Zamboanga Del Norte),2021_Earthquake_Information/December/2021_1211_1850_B2.html
+20211212T0345_9.55_122.3,2021-12-12T03:45:00+08:00,9.55,122.3,25.0,2.3,019 km S 73° W of Hinoba-an (Negros Occidental),2021_Earthquake_Information/December/2021_1211_1945_B2.html
+20211212T0426_5.28_126.05,2021-12-12T04:26:00+08:00,5.28,126.05,1.0,3.6,067 km S 72° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1211_2026_B2.html
+20211212T0509_12.91_120.83,2021-12-12T05:09:00+08:00,12.91,120.83,11.0,2.5,009 km N 39° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1211_2109_B2.html
+20211212T0512_5.11_127.33,2021-12-12T05:12:00+08:00,5.11,127.33,50.0,3.5,206 km S 64° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1211_2112_B2.html
+20211212T0513_14.99_120.01,2021-12-12T05:13:00+08:00,14.99,120.01,25.0,2.0,009 km N 63° W of San Antonio (Zambales),2021_Earthquake_Information/December/2021_1211_2113_B2.html
+20211212T0623_8.53_126.9,2021-12-12T06:23:00+08:00,8.53,126.9,1.0,2.3,066 km N 76° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1211_2223_B3.html
+20211212T0921_5.56_123.06,2021-12-12T09:21:00+08:00,5.56,123.06,15.0,2.6,144 km S 60° W of Palimbang (Sultan Kudarat),2021_Earthquake_Information/December/2021_1212_0121_B2.html
+20211212T0935_8.88_126.64,2021-12-12T09:35:00+08:00,8.88,126.64,15.0,3.1,041 km S 76° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/December/2021_1212_0135_B2.html
+20211212T1110_10.75_125.33,2021-12-12T11:10:00+08:00,10.75,125.33,6.0,2.4,035 km N 90° E of Abuyog (Leyte),2021_Earthquake_Information/December/2021_1212_0310_B2.html
+20211212T1426_10.73_121.89,2021-12-12T14:26:00+08:00,10.73,121.89,21.0,3.8,007 km S 72° W of San Jose De Buenavista (Antique),2021_Earthquake_Information/December/2021_1212_0626_B3F.html
+20211212T1520_14.06_121.25,2021-12-12T15:20:00+08:00,14.06,121.25,1.0,3.8,010 km N 84° E of Malvar (Batangas),2021_Earthquake_Information/December/2021_1212_0720_B3F.html
+20211212T1635_8.13_125.86,2021-12-12T16:35:00+08:00,8.13,125.86,18.0,2.5,005 km S 07° E of Loreto (Agusan Del Sur),2021_Earthquake_Information/December/2021_1212_0835_B2.html
+20211212T2040_16.46_120.85,2021-12-12T20:40:00+08:00,16.46,120.85,32.0,1.9,004 km S 24° E of Bokod (Benguet),2021_Earthquake_Information/December/2021_1212_1240_B2.html
+20211212T2206_7.9_126.43,2021-12-12T22:06:00+08:00,7.9,126.43,38.0,1.9,007 km N 58° E of Boston (Davao Oriental),2021_Earthquake_Information/December/2021_1212_1406_B2.html
+20211212T2302_10.22_121.96,2021-12-12T23:02:00+08:00,10.22,121.96,18.0,2.2,023 km S 10° E of Anini-y (Antique),2021_Earthquake_Information/December/2021_1212_1502_B2.html
+20211212T2336_9.45_126.22,2021-12-12T23:36:00+08:00,9.45,126.22,15.0,3.4,019 km N 10° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/December/2021_1212_1536_B2.html
+20211213T0020_5.99_125.53,2021-12-13T00:20:00+08:00,5.99,125.53,44.0,3.3,016 km N 55° W of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1212_1620_B2F.html
+20211213T0056_13.07_124.53,2021-12-13T00:56:00+08:00,13.07,124.53,24.0,2.0,037 km N 85° E of Prieto Diaz (Sorsogon),2021_Earthquake_Information/December/2021_1212_1656_B2.html
+20211213T0107_7.67_125.09,2021-12-13T01:07:00+08:00,7.67,125.09,34.0,2.0,006 km S 23° W of Quezon (Bukidnon),2021_Earthquake_Information/December/2021_1212_1707_B2.html
+20211213T0121_16.01_120.09,2021-12-13T01:21:00+08:00,16.01,120.09,33.0,1.7,007 km S 07° W of Sual (Pangasinan),2021_Earthquake_Information/December/2021_1212_1721_B1.html
+20211213T0127_9.48_125.58,2021-12-13T01:27:00+08:00,9.48,125.58,10.0,3.0,009 km S 43° E of Mainit (Surigao Del Norte),2021_Earthquake_Information/December/2021_1212_1727_B2.html
+20211213T0235_13.47_120.04,2021-12-13T02:35:00+08:00,13.47,120.04,20.0,2.0,036 km S 39° W of Looc (Occidental Mindoro),2021_Earthquake_Information/December/2021_1212_1835_B2.html
+20211213T0240_8.13_121.54,2021-12-13T02:40:00+08:00,8.13,121.54,33.0,4.2,075 km N 59° W of Baliguian (Zamboanga Del Norte),2021_Earthquake_Information/December/2021_1212_1840_B2F.html
+20211213T0332_15.97_119.7,2021-12-13T03:32:00+08:00,15.97,119.7,34.0,1.6,020 km S 33° W of Agno (Pangasinan),2021_Earthquake_Information/December/2021_1212_1932_B1.html
+20211213T0748_14.34_124.24,2021-12-13T07:48:00+08:00,14.34,124.24,30.0,1.5,034 km N 14° E of Pandan (Catanduanes),2021_Earthquake_Information/December/2021_1212_2348_B1.html
+20211213T0816_13.61_120.59,2021-12-13T08:16:00+08:00,13.61,120.59,118.0,2.7,025 km S 10° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1213_0016_B2F.html
+20211213T0954_13.61_120.6,2021-12-13T09:54:00+08:00,13.61,120.6,125.0,2.3,025 km S 09° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1213_0154_B2F.html
+20211213T1031_18.62_120.21,2021-12-13T10:31:00+08:00,18.62,120.21,19.0,3.3,048 km N 75° W of Burgos (Ilocos Norte),2021_Earthquake_Information/December/2021_1213_0231_B2.html
+20211213T1047_6.69_124.17,2021-12-13T10:47:00+08:00,6.69,124.17,1.0,2.1,013 km N 60° E of Lebak (Sultan Kudarat),2021_Earthquake_Information/December/2021_1213_0247_B1.html
+20211213T1235_10.31_126.66,2021-12-13T12:35:00+08:00,10.31,126.66,10.0,3.2,072 km N 63° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1213_0435_B2.html
+20211213T1555_6.1_126.02,2021-12-13T15:55:00+08:00,6.1,126.02,119.0,2.7,046 km N 63° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1213_0755_B2F.html
+20211213T1602_8.51_126.86,2021-12-13T16:02:00+08:00,8.51,126.86,1.0,3.9,060 km N 74° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1213_0802_B2.html
+20211213T1645_10.23_126.67,2021-12-13T16:45:00+08:00,10.23,126.67,20.0,2.5,070 km N 70° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1213_0845_B2.html
+20211213T1712_13.63_120.53,2021-12-13T17:12:00+08:00,13.63,120.53,100.0,5.5,024 km N 17° E of Paluan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1213_0912_B4F.html
+20211213T1722_11.15_123.9,2021-12-13T17:22:00+08:00,11.15,123.9,5.0,2.8,007 km N 72° W of Medellin (Cebu),2021_Earthquake_Information/December/2021_1213_0922_B2F.html
+20211213T1811_6.17_126.61,2021-12-13T18:11:00+08:00,6.17,126.61,122.0,3.1,080 km S 48° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1213_1011_B2.html
+20211213T1915_19.12_121.03,2021-12-13T19:15:00+08:00,19.12,121.03,1.0,3.4,018 km N 84° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/December/2021_1213_1115_B2.html
+20211213T1959_15.57_119.89,2021-12-13T19:59:00+08:00,15.57,119.89,26.0,2.1,008 km S 35° W of Candelaria (Zambales),2021_Earthquake_Information/December/2021_1213_1159_B2.html
+20211213T2039_13.06_121.28,2021-12-13T20:39:00+08:00,13.06,121.28,6.0,3.1,023 km N 64° W of Gloria (Oriental Mindoro),2021_Earthquake_Information/December/2021_1213_1239_B2.html
+20211213T2113_9.4_126.38,2021-12-13T21:13:00+08:00,9.4,126.38,13.0,2.2,025 km N 55° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/December/2021_1213_1313_B2.html
+20211213T2255_14.85_121.81,2021-12-13T22:55:00+08:00,14.85,121.81,2.0,2.1,009 km S 01° W of Panukulan (Quezon),2021_Earthquake_Information/December/2021_1213_1455_B2.html
+20211214T0023_6.57_126.57,2021-12-14T00:23:00+08:00,6.57,126.57,27.0,3.2,056 km S 80° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1213_1623_B2.html
+20211214T0233_10.25_126.58,2021-12-14T02:33:00+08:00,10.25,126.58,21.0,3.3,061 km N 65° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1213_1833_B2.html
+20211214T0244_10.28_126.78,2021-12-14T02:44:00+08:00,10.28,126.78,16.0,3.1,083 km N 70° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1213_1844_B2.html
+20211214T0250_5.69_126.42,2021-12-14T02:50:00+08:00,5.69,126.42,51.0,2.4,089 km S 74° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1213_1850_B2.html
+20211214T0252_10.28_126.72,2021-12-14T02:52:00+08:00,10.28,126.72,4.0,2.6,076 km N 68° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1213_1852_B2.html
+20211214T0337_10.25_126.54,2021-12-14T03:37:00+08:00,10.25,126.54,16.0,2.4,057 km N 64° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1213_1937_B2.html
+20211214T0351_11.11_121.67,2021-12-14T03:51:00+08:00,11.11,121.67,14.0,3.1,041 km S 77° W of Barbaza (Antique),2021_Earthquake_Information/December/2021_1213_1951_B2.html
+20211214T0410_10.24_126.6,2021-12-14T04:10:00+08:00,10.24,126.6,22.0,3.0,063 km N 67° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1213_2010_B2.html
+20211214T0510_7.59_125.91,2021-12-14T05:10:00+08:00,7.59,125.91,2.0,2.7,010 km N 86° E of New Corella (Davao Del Norte),2021_Earthquake_Information/December/2021_1213_2110_B2.html
+20211214T0513_13.78_120.54,2021-12-14T05:13:00+08:00,13.78,120.54,80.0,2.2,012 km S 60° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1213_2113_B2.html
+20211214T0532_9.55_126.29,2021-12-14T05:32:00+08:00,9.55,126.29,20.0,2.6,030 km S 30° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/December/2021_1213_2132_B2.html
+20211214T0539_16.99_121.3,2021-12-14T05:39:00+08:00,16.99,121.3,20.0,2.4,003 km N 71° W of Aguinaldo (Ifugao),2021_Earthquake_Information/December/2021_1213_2139_B1.html
+20211214T0542_9.63_126.24,2021-12-14T05:42:00+08:00,9.63,126.24,12.0,2.6,019 km S 28° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/December/2021_1213_2142_B2.html
+20211214T0706_9.86_125.41,2021-12-14T07:06:00+08:00,9.86,125.41,17.0,2.5,009 km N 06° W of San Francisco (Surigao Del Norte),2021_Earthquake_Information/December/2021_1213_2306_B2.html
+20211214T0914_5.48_127.12,2021-12-14T09:14:00+08:00,5.48,127.12,112.0,3.9,171 km S 74° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1214_0114_B2.html
+20211214T0940_9.72_126.28,2021-12-14T09:40:00+08:00,9.72,126.28,19.0,2.2,015 km S 65° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/December/2021_1214_0140_B2.html
+20211214T1023_5.47_126.67,2021-12-14T10:23:00+08:00,5.47,126.67,47.0,3.8,124 km S 67° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1214_0223_B2F.html
+20211214T1102_13.9_120.22,2021-12-14T11:02:00+08:00,13.9,120.22,48.0,2.2,011 km N 68° E of Lubang (Occidental Mindoro),2021_Earthquake_Information/December/2021_1214_0302_B2.html
+20211214T1427_10.38_126.31,2021-12-14T14:27:00+08:00,10.38,126.31,4.0,2.7,047 km N 32° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1214_0627_B2.html
+20211214T1510_19.41_121.1,2021-12-14T15:10:00+08:00,19.41,121.1,1.0,3.1,035 km N 18° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/December/2021_1214_0710_B2.html
+20211214T1712_10.33_122.4,2021-12-14T17:12:00+08:00,10.33,122.4,3.0,2.6,027 km S 35° W of Nueva Valencia (Guimaras),2021_Earthquake_Information/December/2021_1214_0912_B2.html
+20211214T1846_18.66_120.73,2021-12-14T18:46:00+08:00,18.66,120.73,26.0,1.8,013 km N 27° W of Pagudpud (Ilocos Norte),2021_Earthquake_Information/December/2021_1214_1046_B2.html
+20211214T1951_15.65_119.98,2021-12-14T19:51:00+08:00,15.65,119.98,40.0,1.8,006 km N 61° E of Candelaria (Zambales),2021_Earthquake_Information/December/2021_1214_1151_B1.html
+20211214T2115_12.37_120.79,2021-12-14T21:15:00+08:00,12.37,120.79,5.0,2.1,022 km S 64° W of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1214_1315_B2.html
+20211214T2130_10.29_122.36,2021-12-14T21:30:00+08:00,10.29,122.36,4.0,2.7,033 km S 38° W of Nueva Valencia (Guimaras),2021_Earthquake_Information/December/2021_1214_1330_B2.html
+20211214T2147_9.76_125.92,2021-12-14T21:47:00+08:00,9.76,125.92,36.0,2.0,014 km N 88° W of Dapa (Surigao Del Norte),2021_Earthquake_Information/December/2021_1214_1347_B2.html
+20211214T2214_8.7_126.46,2021-12-14T22:14:00+08:00,8.7,126.46,29.0,2.8,021 km S 58° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/December/2021_1214_1414_B2.html
+20211214T2357_15.92_120.97,2021-12-14T23:57:00+08:00,15.92,120.97,7.0,2.1,011 km S 66° W of Carranglan (Nueva Ecija),2021_Earthquake_Information/December/2021_1214_1557_B2.html
+20211215T0105_14.59_123.14,2021-12-15T01:05:00+08:00,14.59,123.14,1.0,3.1,025 km N 59° E of Tinaga Island (Vinzons) (Camarines Norte),2021_Earthquake_Information/December/2021_1214_1705_B2F.html
+20211215T0113_18.26_120.84,2021-12-15T01:13:00+08:00,18.26,120.84,2.0,3.2,013 km N 07° E of Carasi (Ilocos Norte),2021_Earthquake_Information/December/2021_1214_1713_B2.html
+20211215T0131_5.85_124.73,2021-12-15T01:31:00+08:00,5.85,124.73,22.0,2.4,020 km S 38° E of Kiamba (Sarangani),2021_Earthquake_Information/December/2021_1214_1731_B2.html
+20211215T0239_9.2_126.75,2021-12-15T02:39:00+08:00,9.2,126.75,19.0,2.4,057 km N 64° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/December/2021_1214_1839_B2.html
+20211215T0241_5.67_126.93,2021-12-15T02:41:00+08:00,5.67,126.93,66.0,4.1,144 km S 79° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1214_1841_B2.html
+20211215T0345_5.88_126.24,2021-12-15T03:45:00+08:00,5.88,126.24,137.0,2.4,066 km S 86° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1214_1945_B2F.html
+20211215T0417_10.0_126.03,2021-12-15T04:17:00+08:00,10.0,126.03,17.0,2.9,005 km S 72° W of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1214_2017_B2.html
+20211215T0612_13.3_121.85,2021-12-15T06:12:00+08:00,13.3,121.85,36.0,1.8,002 km S 03° W of Gasan (Marinduque),2021_Earthquake_Information/December/2021_1214_2212_B1.html
+20211215T0812_13.36_120.79,2021-12-15T08:12:00+08:00,13.36,120.79,13.0,2.5,012 km S 36° E of Abra De Ilog (Occidental Mindoro),2021_Earthquake_Information/December/2021_1215_0012_B2F.html
+20211215T1045_17.4_120.18,2021-12-15T10:45:00+08:00,17.4,120.18,26.0,3.2,027 km S 53° W of Caoayan (Ilocos Sur),2021_Earthquake_Information/December/2021_1215_0245_B2.html
+20211215T1051_13.81_120.5,2021-12-15T10:51:00+08:00,13.81,120.5,71.0,2.1,014 km S 78° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1215_0251_B2F.html
+20211215T1148_9.88_123.23,2021-12-15T11:48:00+08:00,9.88,123.23,5.0,3.5,008 km S 53° E of Tayasan (Negros Oriental),2021_Earthquake_Information/December/2021_1215_0348_B3F.html
+20211215T1307_9.08_126.37,2021-12-15T13:07:00+08:00,9.08,126.37,32.0,2.3,016 km N 39° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/December/2021_1215_0507_B2.html
+20211215T1310_14.93_122.81,2021-12-15T13:10:00+08:00,14.93,122.81,27.0,1.8,052 km N 17° W of Tinaga Island (Vinzons) (Camarines Norte),2021_Earthquake_Information/December/2021_1215_0510_B2.html
+20211215T1409_4.82_127.19,2021-12-15T14:09:00+08:00,4.82,127.19,60.0,3.1,204 km S 69° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1215_0609_B2.html
+20211215T1416_9.38_126.23,2021-12-15T14:16:00+08:00,9.38,126.23,24.0,2.5,013 km N 18° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/December/2021_1215_0616_B2.html
+20211215T1540_5.22_125.42,2021-12-15T15:40:00+08:00,5.22,125.42,176.0,2.6,021 km S 01° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1215_0740_B1.html
+20211215T1646_9.62_126.34,2021-12-15T16:46:00+08:00,9.62,126.34,29.0,2.5,027 km S 48° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/December/2021_1215_0846_B2.html
+20211215T1707_18.15_121.23,2021-12-15T17:07:00+08:00,18.15,121.23,23.0,2.0,015 km N 21° E of Kabugao (Apayao),2021_Earthquake_Information/December/2021_1215_0907_B1.html
+20211215T1841_18.55_120.71,2021-12-15T18:41:00+08:00,18.55,120.71,4.0,2.6,006 km N 75° W of Bangui (Ilocos Norte),2021_Earthquake_Information/December/2021_1215_1041_B2.html
+20211215T2038_16.82_120.73,2021-12-15T20:38:00+08:00,16.82,120.73,26.0,1.9,004 km Nort° 00 of Bakun (Benguet),2021_Earthquake_Information/December/2021_1215_1238_B2.html
+20211215T2059_13.11_124.82,2021-12-15T20:59:00+08:00,13.11,124.82,1.0,2.0,062 km N 11° W of Pambujan (Northern Samar),2021_Earthquake_Information/December/2021_1215_1259_B2.html
+20211215T2101_10.25_126.68,2021-12-15T21:01:00+08:00,10.25,126.68,11.0,4.1,071 km N 69° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1215_1301_B2.html
+20211215T2111_10.25_126.53,2021-12-15T21:11:00+08:00,10.25,126.53,17.0,5.1,056 km N 63° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1215_1311_B2F.html
+20211215T2116_10.21_126.6,2021-12-15T21:16:00+08:00,10.21,126.6,14.0,3.8,062 km N 70° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1215_1316_B2.html
+20211215T2152_15.13_119.94,2021-12-15T21:52:00+08:00,15.13,119.94,17.0,2.5,022 km S 10° W of Iba (Zambales),2021_Earthquake_Information/December/2021_1215_1352_B2.html
+20211215T2228_13.77_120.53,2021-12-15T22:28:00+08:00,13.77,120.53,85.0,2.0,013 km S 57° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1215_1428_B2.html
+20211216T0011_9.31_126.4,2021-12-16T00:11:00+08:00,9.31,126.4,14.0,2.4,023 km N 80° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/December/2021_1215_1611_B2.html
+20211216T0047_6.5_125.9,2021-12-16T00:47:00+08:00,6.5,125.9,5.0,2.4,034 km N 73° E of Malita (Davao Occidental),2021_Earthquake_Information/December/2021_1215_1647_B1.html
+20211216T0116_8.41_127.07,2021-12-16T01:16:00+08:00,8.41,127.07,12.0,2.9,081 km N 87° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1215_1716_B2.html
+20211216T0119_5.64_126.31,2021-12-16T01:19:00+08:00,5.64,126.31,60.0,2.6,080 km S 68° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1215_1719_B2.html
+20211216T0120_15.48_118.4,2021-12-16T01:20:00+08:00,15.48,118.4,14.0,3.2,078 km N 62° E of Bajo De Masinloc (Masinloc) (Zambales),2021_Earthquake_Information/December/2021_1215_1720_B2.html
+20211216T0121_17.07_120.8,2021-12-16T01:21:00+08:00,17.07,120.8,35.0,1.7,010 km S 80° W of Sagada (Mountain Province),2021_Earthquake_Information/December/2021_1215_1721_B1.html
+20211216T0122_17.05_120.82,2021-12-16T01:22:00+08:00,17.05,120.82,36.0,1.5,009 km S 65° W of Sagada (Mountain Province),2021_Earthquake_Information/December/2021_1215_1722_B1.html
+20211216T0130_17.1_120.64,2021-12-16T01:30:00+08:00,17.1,120.64,15.0,2.3,006 km S 42° W of Quirino (Ilocos Sur),2021_Earthquake_Information/December/2021_1215_1730_B2.html
+20211216T0158_15.43_118.6,2021-12-16T01:58:00+08:00,15.43,118.6,1.0,2.2,095 km N 71° E of Bajo De Masinloc (Masinloc) (Zambales),2021_Earthquake_Information/December/2021_1215_1758_B2.html
+20211216T0335_14.72_119.48,2021-12-16T03:35:00+08:00,14.72,119.48,18.0,2.8,070 km S 69° W of San Antonio (Zambales),2021_Earthquake_Information/December/2021_1215_1935_B2.html
+20211216T0358_18.28_120.61,2021-12-16T03:58:00+08:00,18.28,120.61,26.0,1.8,003 km N 08° E of Bacarra (Ilocos Norte),2021_Earthquake_Information/December/2021_1215_1958_B2.html
+20211216T0543_19.27_121.16,2021-12-16T05:43:00+08:00,19.27,121.16,1.0,3.2,019 km N 16° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/December/2021_1215_2143_B2.html
+20211216T0554_20.34_121.49,2021-12-16T05:54:00+08:00,20.34,121.49,1.0,3.1,040 km N 90° W of Sabtang (Batanes),2021_Earthquake_Information/December/2021_1215_2154_B1.html
+20211216T0751_15.26_120.46,2021-12-16T07:51:00+08:00,15.26,120.46,128.0,2.2,012 km N 81° W of Mabalacat City (Pampanga),2021_Earthquake_Information/December/2021_1215_2351_B2.html
+20211216T0848_19.66_121.17,2021-12-16T08:48:00+08:00,19.66,121.17,1.0,2.9,055 km N 36° W of Calayan (Cagayan),2021_Earthquake_Information/December/2021_1216_0048_B2.html
+20211216T0929_13.54_120.96,2021-12-16T09:29:00+08:00,13.54,120.96,5.0,2.4,004 km N 02° E of Puerto Galera (Oriental Mindoro),2021_Earthquake_Information/December/2021_1216_0129_B2F.html
+20211216T1127_15.38_118.7,2021-12-16T11:27:00+08:00,15.38,118.7,2.0,2.7,104 km N 76° E of Bajo De Masinloc (Masinloc) (Zambales),2021_Earthquake_Information/December/2021_1216_0327_B2.html
+20211216T1143_16.97_120.78,2021-12-16T11:43:00+08:00,16.97,120.78,11.0,2.6,005 km S 69° E of Cervantes (Ilocos Sur),2021_Earthquake_Information/December/2021_1216_0343_B2.html
+20211216T1220_13.84_120.57,2021-12-16T12:20:00+08:00,13.84,120.57,131.0,2.5,007 km N 81° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1216_0420_B2.html
+20211216T1339_19.5_120.28,2021-12-16T13:39:00+08:00,19.5,120.28,33.0,2.5,107 km N 66° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/December/2021_1216_0539_B2.html
+20211216T1505_5.6_125.42,2021-12-16T15:05:00+08:00,5.6,125.42,176.0,2.6,015 km N 23° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1216_0705_B2.html
+20211216T2206_19.59_120.51,2021-12-16T22:06:00+08:00,19.59,120.51,17.0,2.5,090 km N 54° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/December/2021_1216_1406_B2.html
+20211216T2352_13.65_120.65,2021-12-16T23:52:00+08:00,13.65,120.65,102.0,2.0,020 km S 05° E of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1216_1552_B2F.html
+20211216T2359_13.6_120.7,2021-12-16T23:59:00+08:00,13.6,120.7,100.0,1.5,027 km S 16° E of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1216_1559_B2.html
+20211217T0005_12.46_121.01,2021-12-17T00:05:00+08:00,12.46,121.01,25.0,2.0,005 km N 83° E of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1216_1605_B1.html
+20211217T0050_12.69_121.95,2021-12-17T00:50:00+08:00,12.69,121.95,3.0,1.5,015 km S 47° W of Corcuera (Romblon),2021_Earthquake_Information/December/2021_1216_1650_B1.html
+20211217T0111_13.8_120.51,2021-12-17T01:11:00+08:00,13.8,120.51,73.0,1.9,013 km S 74° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1216_1711_B2F.html
+20211217T0217_13.71_120.45,2021-12-17T02:17:00+08:00,13.71,120.45,103.0,1.8,024 km S 55° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1216_1817_B2F.html
+20211217T0309_6.36_126.91,2021-12-17T03:09:00+08:00,6.36,126.91,79.0,3.0,092 km S 34° E of Tarragona (Davao Oriental),2021_Earthquake_Information/December/2021_1216_1909_B1.html
+20211217T0609_10.56_122.44,2021-12-17T06:09:00+08:00,10.56,122.44,1.0,2.2,011 km N 67° W of Nueva Valencia (Guimaras),2021_Earthquake_Information/December/2021_1216_2209_B2F.html
+20211217T0630_6.51_125.25,2021-12-17T06:30:00+08:00,6.51,125.25,23.0,2.2,015 km N 11° W of Malungon (Sarangani),2021_Earthquake_Information/December/2021_1216_2230_B2.html
+20211217T0651_18.48_120.22,2021-12-17T06:51:00+08:00,18.48,120.22,23.0,2.9,044 km S 85° W of Burgos (Ilocos Norte),2021_Earthquake_Information/December/2021_1216_2251_B2.html
+20211217T0653_18.59_120.21,2021-12-17T06:53:00+08:00,18.59,120.21,23.0,2.4,047 km N 79° W of Burgos (Ilocos Norte),2021_Earthquake_Information/December/2021_1216_2253_B2.html
+20211217T0700_5.57_125.66,2021-12-17T07:00:00+08:00,5.57,125.66,127.0,2.3,024 km N 64° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1216_2300_B2.html
+20211217T0918_7.67_124.81,2021-12-17T09:18:00+08:00,7.67,124.81,1.0,2.2,010 km S 42° E of Kalilangan (Bukidnon),2021_Earthquake_Information/December/2021_1217_0118_B1.html
+20211217T1039_17.27_120.45,2021-12-17T10:39:00+08:00,17.27,120.45,96.0,2.2,003 km S 10° E of Santiago (Ilocos Sur),2021_Earthquake_Information/December/2021_1217_0239_B2.html
+20211217T1233_16.04_120.04,2021-12-17T12:33:00+08:00,16.04,120.04,58.0,1.7,007 km S 67° W of Sual (Pangasinan),2021_Earthquake_Information/December/2021_1217_0433_B2.html
+20211217T1242_9.64_126.31,2021-12-17T12:42:00+08:00,9.64,126.31,35.0,2.4,022 km S 47° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/December/2021_1217_0442_B2.html
+20211217T1809_7.54_125.93,2021-12-17T18:09:00+08:00,7.54,125.93,1.0,2.9,004 km N 12° E of Mawab (Davao De Oro),2021_Earthquake_Information/December/2021_1217_1009_B3.html
+20211217T1910_7.49_123.02,2021-12-17T19:10:00+08:00,7.49,123.02,3.0,2.1,009 km S 78° E of Alicia (Zamboanga Sibugay),2021_Earthquake_Information/December/2021_1217_1110_B2.html
+20211217T1917_13.22_120.41,2021-12-17T19:17:00+08:00,13.22,120.41,33.0,2.0,020 km S 87° W of Mamburao (Occidental Mindoro),2021_Earthquake_Information/December/2021_1217_1117_B2.html
+20211217T2021_9.35_123.07,2021-12-17T20:21:00+08:00,9.35,123.07,1.0,2.3,014 km S 21° W of Pamplona (Negros Oriental),2021_Earthquake_Information/December/2021_1217_1221_B2.html
+20211217T2028_7.14_125.76,2021-12-17T20:28:00+08:00,7.14,125.76,9.0,1.7,008 km N 38° E of Island Garden City Of Samal (Davao Del Norte),2021_Earthquake_Information/December/2021_1217_1228_B1.html
+20211217T2058_13.08_121.2,2021-12-17T20:58:00+08:00,13.08,121.2,1.0,2.5,013 km S 40° W of Victoria (Oriental Mindoro),2021_Earthquake_Information/December/2021_1217_1258_B2.html
+20211217T2112_6.64_126.03,2021-12-17T21:12:00+08:00,6.64,126.03,14.0,2.7,005 km S 70° W of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1217_1312_B2.html
+20211217T2228_12.82_123.64,2021-12-17T22:28:00+08:00,12.82,123.64,24.0,4.8,011 km S 26° E of Donsol (Sorsogon),2021_Earthquake_Information/December/2021_1217_1428_B4F.html
+20211217T2232_12.91_123.58,2021-12-17T22:32:00+08:00,12.91,123.58,15.0,2.5,001 km N 63° W of Donsol (Sorsogon),2021_Earthquake_Information/December/2021_1217_1432_B2.html
+20211217T2233_12.8_123.63,2021-12-17T22:33:00+08:00,12.8,123.63,29.0,2.5,013 km S 19° E of Donsol (Sorsogon),2021_Earthquake_Information/December/2021_1217_1433_B2.html
+20211217T2241_12.81_123.56,2021-12-17T22:41:00+08:00,12.81,123.56,2.0,3.3,011 km S 19° W of Donsol (Sorsogon),2021_Earthquake_Information/December/2021_1217_1441_B2F.html
+20211217T2244_12.88_123.51,2021-12-17T22:44:00+08:00,12.88,123.51,9.0,2.4,010 km S 73° W of Donsol (Sorsogon),2021_Earthquake_Information/December/2021_1217_1444_B2.html
+20211217T2258_12.85_123.54,2021-12-17T22:58:00+08:00,12.85,123.54,28.0,4.1,009 km S 43° W of Donsol (Sorsogon),2021_Earthquake_Information/December/2021_1217_1458_B3F.html
+20211217T2324_21.34_121.04,2021-12-17T23:24:00+08:00,21.34,121.04,32.0,3.9,104 km N 54° W of Itbayat (Batanes),2021_Earthquake_Information/December/2021_1217_1524_B2.html
+20211218T0026_14.12_120.41,2021-12-18T00:26:00+08:00,14.12,120.41,103.0,2.2,024 km N 79° W of Nasugbu (Batangas),2021_Earthquake_Information/December/2021_1217_1626_B2.html
+20211218T0244_9.93_124.15,2021-12-18T02:44:00+08:00,9.93,124.15,1.0,2.0,008 km S 79° W of Danao (Bohol),2021_Earthquake_Information/December/2021_1217_1844_B2.html
+20211218T0345_16.48_120.02,2021-12-18T03:45:00+08:00,16.48,120.02,17.0,2.9,017 km N 54° E of Bolinao (Pangasinan),2021_Earthquake_Information/December/2021_1217_1945_B2.html
+20211218T0424_14.18_120.31,2021-12-18T04:24:00+08:00,14.18,120.31,92.0,3.6,037 km N 71° W of Nasugbu (Batangas),2021_Earthquake_Information/December/2021_1217_2024_B2.html
+20211218T0442_5.44_126.23,2021-12-18T04:42:00+08:00,5.44,126.23,48.0,2.9,084 km S 51° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1217_2042_B2.html
+20211218T0524_10.71_124.93,2021-12-18T05:24:00+08:00,10.71,124.93,1.0,3.2,010 km S 64° W of Abuyog (Leyte),2021_Earthquake_Information/December/2021_1217_2124_B2F.html
+20211218T0533_8.79_126.43,2021-12-18T05:33:00+08:00,8.79,126.43,29.0,3.6,014 km S 84° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/December/2021_1217_2133_B2F.html
+20211218T0537_6.5_125.94,2021-12-18T05:37:00+08:00,6.5,125.94,4.0,2.8,022 km S 41° W of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1217_2137_B2.html
+20211218T0543_8.8_126.39,2021-12-18T05:43:00+08:00,8.8,126.39,31.0,3.2,010 km N 87° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/December/2021_1217_2143_B2.html
+20211218T0719_13.72_120.52,2021-12-18T07:19:00+08:00,13.72,120.52,112.0,2.0,018 km S 46° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1217_2319_B2.html
+20211218T0819_6.36_126.75,2021-12-18T08:19:00+08:00,6.36,126.75,92.0,3.6,082 km S 67° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1218_0019_B2.html
+20211218T0828_10.32_126.71,2021-12-18T08:28:00+08:00,10.32,126.71,1.0,3.9,077 km N 65° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1218_0028_B2.html
+20211218T1011_8.86_126.53,2021-12-18T10:11:00+08:00,8.86,126.53,33.0,2.0,026 km N 74° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/December/2021_1218_0211_B1.html
+20211218T1105_6.67_125.16,2021-12-18T11:05:00+08:00,6.67,125.16,21.0,2.5,008 km S 57° W of Matanao (Davao Del Sur),2021_Earthquake_Information/December/2021_1218_0305_B2.html
+20211218T1217_13.68_120.61,2021-12-18T12:17:00+08:00,13.68,120.61,109.0,2.4,017 km S 09° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1218_0417_B2.html
+20211218T1405_17.07_120.96,2021-12-18T14:05:00+08:00,17.07,120.96,21.0,2.0,002 km S 44° W of Bontoc (Mountain Province),2021_Earthquake_Information/December/2021_1218_0605_B1.html
+20211218T1414_13.54_120.65,2021-12-18T14:14:00+08:00,13.54,120.65,27.0,1.8,013 km N 38° W of Abra De Ilog (Occidental Mindoro),2021_Earthquake_Information/December/2021_1218_0614_B1.html
+20211218T1423_18.38_121.2,2021-12-18T14:23:00+08:00,18.38,121.2,24.0,1.8,017 km N 74° W of Luna (Apayao),2021_Earthquake_Information/December/2021_1218_0623_B1.html
+20211218T1807_10.42_125.33,2021-12-18T18:07:00+08:00,10.42,125.33,25.0,2.4,011 km N 47° E of Hinundayan (Southern Leyte),2021_Earthquake_Information/December/2021_1218_1007_B2.html
+20211218T1857_8.41_126.86,2021-12-18T18:57:00+08:00,8.41,126.86,3.0,2.9,057 km N 85° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1218_1057_B2.html
+20211218T1951_6.6_126.53,2021-12-18T19:51:00+08:00,6.6,126.53,31.0,2.5,050 km S 10° E of Tarragona (Davao Oriental),2021_Earthquake_Information/December/2021_1218_1151_B2.html
+20211218T2023_9.88_124.35,2021-12-18T20:23:00+08:00,9.88,124.35,32.0,1.7,009 km S 83° E of Dagohoy (Bohol),2021_Earthquake_Information/December/2021_1218_1223_B1.html
+20211218T2027_10.31_126.68,2021-12-18T20:27:00+08:00,10.31,126.68,14.0,3.8,074 km N 64° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1218_1227_B2.html
+20211218T2055_13.83_120.56,2021-12-18T20:55:00+08:00,13.83,120.56,137.0,2.5,008 km S 86° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1218_1255_B2.html
+20211219T0157_7.94_127.42,2021-12-19T01:57:00+08:00,7.94,127.42,1.0,3.4,102 km N 67° E of Baganga (Davao Oriental),2021_Earthquake_Information/December/2021_1218_1757_B2.html
+20211219T0429_12.68_123.09,2021-12-19T04:29:00+08:00,12.68,123.09,18.0,2.7,030 km S 36° W of Claveria (Masbate),2021_Earthquake_Information/December/2021_1218_2029_B2.html
+20211219T0619_8.51_126.72,2021-12-19T06:19:00+08:00,8.51,126.72,1.0,2.4,045 km N 69° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1218_2219_B1.html
+20211219T0630_8.91_126.28,2021-12-19T06:30:00+08:00,8.91,126.28,32.0,3.2,006 km S 01° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/December/2021_1218_2230_B2.html
+20211219T0646_8.17_126.91,2021-12-19T06:46:00+08:00,8.17,126.91,1.0,2.1,057 km N 76° E of Lingig (Surigao Del Sur),2021_Earthquake_Information/December/2021_1218_2246_B1.html
+20211219T0939_17.18_120.44,2021-12-19T09:39:00+08:00,17.18,120.44,19.0,1.8,002 km N 03° E of City Of Candon (Ilocos Sur),2021_Earthquake_Information/December/2021_1219_0139_B1.html
+20211219T1059_6.2_126.52,2021-12-19T10:59:00+08:00,6.2,126.52,62.0,3.0,070 km S 45° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1219_0259_B2F.html
+20211219T1148_18.63_122.6,2021-12-19T11:48:00+08:00,18.63,122.6,9.0,2.5,052 km N 69° E of Santa Ana (Cagayan),2021_Earthquake_Information/December/2021_1219_0348_B2.html
+20211219T1205_3.5_125.79,2021-12-19T12:05:00+08:00,3.5,125.79,178.0,2.6,215 km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1219_0405_B1.html
+20211219T1427_15.56_119.91,2021-12-19T14:27:00+08:00,15.56,119.91,27.0,4.7,009 km N 75° W of Masinloc (Zambales),2021_Earthquake_Information/December/2021_1219_0627_B3F.html
+20211219T2023_5.7_126.01,2021-12-19T20:23:00+08:00,5.7,126.01,134.0,2.8,047 km S 60° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1219_1223_B2F.html
+20211219T2048_17.03_122.82,2021-12-19T20:48:00+08:00,17.03,122.82,68.0,2.6,042 km S 85° E of Palanan (Isabela),2021_Earthquake_Information/December/2021_1219_1248_B2.html
+20211219T2113_14.93_124.01,2021-12-19T21:13:00+08:00,14.93,124.01,52.0,2.5,099 km N 10° W of Pandan (Catanduanes),2021_Earthquake_Information/December/2021_1219_1313_B2.html
+20211219T2133_13.7_120.72,2021-12-19T21:33:00+08:00,13.7,120.72,176.0,2.0,018 km S 31° E of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1219_1333_B2F.html
+20211219T2314_16.48_121.02,2021-12-19T23:14:00+08:00,16.48,121.02,35.0,1.5,006 km S 12° W of Ambaguio (Nueva Vizcaya),2021_Earthquake_Information/December/2021_1219_1514_B1.html
+20211219T2352_6.0_127.12,2021-12-19T23:52:00+08:00,6.0,127.12,35.0,2.1,137 km S 58° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1219_1552_B1.html
+20211220T0020_6.83_126.89,2021-12-20T00:20:00+08:00,6.83,126.89,19.0,2.8,055 km S 63° E of Tarragona (Davao Oriental),2021_Earthquake_Information/December/2021_1219_1620_B2.html
+20211220T0040_7.33_123.84,2021-12-20T00:40:00+08:00,7.33,123.84,72.0,2.0,035 km N 34° W of Datu Blah T. Sinsuat (Maguindanao),2021_Earthquake_Information/December/2021_1219_1640_B2.html
+20211220T0055_5.89_125.95,2021-12-20T00:55:00+08:00,5.89,125.95,132.0,2.4,034 km S 86° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1219_1655_B2F.html
+20211220T0127_7.86_122.87,2021-12-20T01:27:00+08:00,7.86,122.87,32.0,2.1,015 km N 62° E of Kabasalan (Zamboanga Sibugay),2021_Earthquake_Information/December/2021_1219_1727_B2.html
+20211220T0145_14.22_123.31,2021-12-20T01:45:00+08:00,14.22,123.31,2.0,1.9,022 km N 15° E of Siruma (Camarines Sur),2021_Earthquake_Information/December/2021_1219_1745_B2.html
+20211220T0226_13.42_120.55,2021-12-20T02:26:00+08:00,13.42,120.55,1.0,1.9,009 km N 89° E of Paluan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1219_1826_B2.html
+20211220T0230_13.54_120.34,2021-12-20T02:30:00+08:00,13.54,120.34,34.0,2.2,023 km S 27° E of Looc (Occidental Mindoro),2021_Earthquake_Information/December/2021_1219_1830_B2F.html
+20211220T0313_18.67_121.87,2021-12-20T03:13:00+08:00,18.67,121.87,7.0,1.9,026 km S 02° E of Camiguin Island (Calayan) (Cagayan),2021_Earthquake_Information/December/2021_1219_1913_B1.html
+20211220T0330_6.42_126.11,2021-12-20T03:30:00+08:00,6.42,126.11,6.0,1.8,026 km S 08° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1219_1930_B1.html
+20211220T0357_13.45_120.53,2021-12-20T03:57:00+08:00,13.45,120.53,2.0,2.5,008 km N 63° E of Paluan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1219_1957_B2.html
+20211220T0400_12.89_124.89,2021-12-20T04:00:00+08:00,12.89,124.89,16.0,2.7,037 km N 07° W of Pambujan (Northern Samar),2021_Earthquake_Information/December/2021_1219_2000_B2.html
+20211220T0410_7.28_121.97,2021-12-20T04:10:00+08:00,7.28,121.97,34.0,2.1,011 km S 81° W of Sibuco (Zamboanga Del Norte),2021_Earthquake_Information/December/2021_1219_2010_B2.html
+20211220T0501_20.03_121.12,2021-12-20T05:01:00+08:00,20.03,121.12,15.0,2.5,086 km S 67° W of Sabtang (Batanes),2021_Earthquake_Information/December/2021_1219_2101_B2.html
+20211220T0507_13.5_120.56,2021-12-20T05:07:00+08:00,13.5,120.56,8.0,2.7,015 km N 53° E of Paluan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1219_2107_B2.html
+20211220T0512_4.97_127.17,2021-12-20T05:12:00+08:00,4.97,127.17,33.0,2.7,196 km S 73° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1219_2112_B1.html
+20211220T0513_13.46_120.55,2021-12-20T05:13:00+08:00,13.46,120.55,9.0,2.2,011 km N 66° E of Paluan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1219_2113_B2F.html
+20211220T0522_5.48_126.93,2021-12-20T05:22:00+08:00,5.48,126.93,8.0,2.8,150 km S 71° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1219_2122_B2.html
+20211220T0636_7.95_127.09,2021-12-20T06:36:00+08:00,7.95,127.09,22.0,3.8,071 km N 54° E of Baganga (Davao Oriental),2021_Earthquake_Information/December/2021_1219_2236_B2.html
+20211220T0652_12.63_122.02,2021-12-20T06:52:00+08:00,12.63,122.02,34.0,2.3,012 km N 07° E of San Andres (Romblon),2021_Earthquake_Information/December/2021_1219_2252_B2.html
+20211220T0924_13.82_120.57,2021-12-20T09:24:00+08:00,13.82,120.57,93.0,1.9,007 km S 77° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1220_0124_B2F.html
+20211220T1224_10.68_124.92,2021-12-20T12:24:00+08:00,10.68,124.92,1.0,2.5,009 km N 31° W of Mahaplag (Leyte),2021_Earthquake_Information/December/2021_1220_0424_B2.html
+20211220T1502_8.53_126.34,2021-12-20T15:02:00+08:00,8.53,126.34,118.0,2.6,018 km N 01° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1220_0702_B2.html
+20211220T1835_5.88_125.93,2021-12-20T18:35:00+08:00,5.88,125.93,132.0,2.7,032 km S 83° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1220_1035_B2.html
+20211220T2001_15.31_119.17,2021-12-20T20:01:00+08:00,15.31,119.17,13.0,2.4,081 km S 80° W of Palauig (Zambales),2021_Earthquake_Information/December/2021_1220_1201_B2.html
+20211220T2158_8.98_126.02,2021-12-20T21:58:00+08:00,8.98,126.02,11.0,2.7,005 km N 29° W of San Miguel (Surigao Del Sur),2021_Earthquake_Information/December/2021_1220_1358_B2.html
+20211220T2307_8.86_126.27,2021-12-20T23:07:00+08:00,8.86,126.27,18.0,2.1,007 km S 25° W of Cagwait (Surigao Del Sur),2021_Earthquake_Information/December/2021_1220_1507_B2.html
+20211221T0049_9.73_125.77,2021-12-21T00:49:00+08:00,9.73,125.77,22.0,2.1,017 km N 27° E of Gigaquit (Surigao Del Norte),2021_Earthquake_Information/December/2021_1220_1649_B2.html
+20211221T0251_6.01_126.87,2021-12-21T02:51:00+08:00,6.01,126.87,138.0,3.4,114 km S 51° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1220_1851_B1.html
+20211221T0346_14.32_120.35,2021-12-21T03:46:00+08:00,14.32,120.35,101.0,2.6,020 km S 51° W of Mariveles (Bataan),2021_Earthquake_Information/December/2021_1220_1946_B2.html
+20211221T0347_18.62_120.11,2021-12-21T03:47:00+08:00,18.62,120.11,12.0,3.6,058 km N 78° W of Burgos (Ilocos Norte),2021_Earthquake_Information/December/2021_1220_1947_B2.html
+20211221T0443_13.82_123.6,2021-12-21T04:43:00+08:00,13.82,123.6,33.0,2.1,012 km N 43° E of Lagonoy (Camarines Sur),2021_Earthquake_Information/December/2021_1220_2043_B2.html
+20211221T0821_17.4_120.38,2021-12-21T08:21:00+08:00,17.4,120.38,71.0,2.4,012 km S 31° W of Santa (Ilocos Sur),2021_Earthquake_Information/December/2021_1221_0021_B2.html
+20211221T0932_13.86_120.56,2021-12-21T09:32:00+08:00,13.86,120.56,171.0,2.3,008 km N 69° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1221_0132_B2.html
+20211221T0943_7.23_123.6,2021-12-21T09:43:00+08:00,7.23,123.6,32.0,2.0,033 km S 40° E of Tabina (Zamboanga Del Sur),2021_Earthquake_Information/December/2021_1221_0143_B1.html
+20211221T1055_5.07_126.26,2021-12-21T10:55:00+08:00,5.07,126.26,71.0,4.1,098 km S 63° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1221_0255_B2.html
+20211221T1202_12.89_120.93,2021-12-21T12:02:00+08:00,12.89,120.93,13.0,2.7,017 km N 71° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1221_0402_B2F.html
+20211221T1208_12.89_120.92,2021-12-21T12:08:00+08:00,12.89,120.92,7.0,5.1,016 km N 72° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1221_0408_B3F.html
+20211221T1259_12.89_121.06,2021-12-21T12:59:00+08:00,12.89,121.06,22.0,1.8,030 km N 80° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1221_0459_B2F.html
+20211221T1306_12.88_121.0,2021-12-21T13:06:00+08:00,12.88,121.0,26.0,1.6,024 km N 79° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1221_0506_B2F.html
+20211221T1336_12.91_120.98,2021-12-21T13:36:00+08:00,12.91,120.98,13.0,2.0,023 km N 70° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1221_0536_B2F.html
+20211221T1351_12.93_120.95,2021-12-21T13:51:00+08:00,12.93,120.95,11.0,1.8,021 km N 62° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1221_0551_B2F.html
+20211221T1510_12.85_123.8,2021-12-21T15:10:00+08:00,12.85,123.8,49.0,1.7,014 km S 01° E of Castilla (Sorsogon),2021_Earthquake_Information/December/2021_1221_0710_B2F.html
+20211221T1805_16.19_119.67,2021-12-21T18:05:00+08:00,16.19,119.67,14.0,3.0,016 km N 61° W of Agno (Pangasinan),2021_Earthquake_Information/December/2021_1221_1005_B2.html
+20211221T1851_9.97_122.59,2021-12-21T18:51:00+08:00,9.97,122.59,22.0,2.4,004 km S 76° W of Cauayan (Negros Occidental),2021_Earthquake_Information/December/2021_1221_1051_B2.html
+20211221T1931_14.33_119.4,2021-12-21T19:31:00+08:00,14.33,119.4,32.0,2.6,094 km N 56° W of Lubang (Occidental Mindoro),2021_Earthquake_Information/December/2021_1221_1131_B2.html
+20211221T2147_14.54_119.23,2021-12-21T21:47:00+08:00,14.54,119.23,1.0,2.8,103 km S 64° W of San Antonio (Zambales),2021_Earthquake_Information/December/2021_1221_1347_B2_Zambales.html
+20211221T2147_18.58_120.8,2021-12-21T21:47:00+08:00,18.58,120.8,14.0,3.0,017 km N 41° W of Adams (Ilocos Norte),2021_Earthquake_Information/December/2021_1221_1347_B2_Ilocos_Norte.html
+20211221T2150_18.1_120.67,2021-12-21T21:50:00+08:00,18.1,120.67,19.0,2.4,007 km S 26° E of Sarrat (Ilocos Norte),2021_Earthquake_Information/December/2021_1221_1350_B2.html
+20211221T2211_12.92_120.9,2021-12-21T22:11:00+08:00,12.92,120.9,11.0,2.1,016 km N 56° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1221_1411_B2_Occidental_Mindoro.html
+20211221T2211_7.98_126.53,2021-12-21T22:11:00+08:00,7.98,126.53,24.0,2.0,023 km N 20° E of Cateel (Davao Oriental),2021_Earthquake_Information/December/2021_1221_1411_B2_Davao_Oriental.html
+20211221T2223_18.48_119.63,2021-12-21T22:23:00+08:00,18.48,119.63,14.0,2.6,104 km N 61° W of Currimao (Ilocos Norte),2021_Earthquake_Information/December/2021_1221_1423_B2.html
+20211221T2230_17.97_120.79,2021-12-21T22:30:00+08:00,17.97,120.79,6.0,2.1,014 km S 56° E of Marcos (Ilocos Norte),2021_Earthquake_Information/December/2021_1221_1430_B2.html
+20211221T2238_16.96_121.43,2021-12-21T22:38:00+08:00,16.96,121.43,25.0,1.9,019 km N 61° W of San Mateo (Isabela),2021_Earthquake_Information/December/2021_1221_1438_B2.html
+20211221T2247_7.69_124.83,2021-12-21T22:47:00+08:00,7.69,124.83,4.0,3.2,011 km S 61° E of Kalilangan (Bukidnon),2021_Earthquake_Information/December/2021_1221_1447_B2F.html
+20211221T2319_13.73_120.89,2021-12-21T23:19:00+08:00,13.73,120.89,11.0,2.5,006 km S 72° W of Mabini (Batangas),2021_Earthquake_Information/December/2021_1221_1519_B2.html
+20211221T2320_10.53_126.4,2021-12-21T23:20:00+08:00,10.53,126.4,5.0,3.4,067 km N 33° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1221_1520_B2.html
+20211221T2340_6.6_125.25,2021-12-21T23:40:00+08:00,6.6,125.25,13.0,3.6,003 km S 10° W of Kiblawan (Davao Del Sur),2021_Earthquake_Information/December/2021_1221_1540_B2.html
+20211221T2356_9.76_125.53,2021-12-21T23:56:00+08:00,9.76,125.53,27.0,2.6,006 km S 49° E of City Of Surigao (Surigao Del Norte),2021_Earthquake_Information/December/2021_1221_1556_B2.html
+20211222T0014_17.97_121.21,2021-12-22T00:14:00+08:00,17.97,121.21,25.0,1.8,007 km S 25° E of Kabugao (Apayao),2021_Earthquake_Information/December/2021_1221_1614_B2.html
+20211222T0025_18.71_120.07,2021-12-22T00:25:00+08:00,18.71,120.07,10.0,3.0,065 km N 71° W of Burgos (Ilocos Norte),2021_Earthquake_Information/December/2021_1221_1625_B2.html
+20211222T0134_9.36_126.18,2021-12-22T01:34:00+08:00,9.36,126.18,24.0,2.3,022 km N 84° E of Cantilan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1221_1734_B2.html
+20211222T0235_18.86_120.88,2021-12-22T02:35:00+08:00,18.86,120.88,16.0,2.9,035 km N 36° W of Claveria (Cagayan),2021_Earthquake_Information/December/2021_1221_1835_B2.html
+20211222T0241_12.92_120.9,2021-12-22T02:41:00+08:00,12.92,120.9,10.0,2.4,016 km N 55° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1221_1841_B2.html
+20211222T0257_17.55_120.0,2021-12-22T02:57:00+08:00,17.55,120.0,21.0,2.7,039 km S 83° W of Santa Catalina (Ilocos Sur),2021_Earthquake_Information/December/2021_1221_1857_B2.html
+20211222T0410_3.59_127.72,2021-12-22T04:10:00+08:00,3.59,127.72,225.0,3.8,325 km S 52° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1221_2010_B2.html
+20211222T0429_9.45_126.23,2021-12-22T04:29:00+08:00,9.45,126.23,14.0,3.4,020 km N 11° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/December/2021_1221_2029_B2.html
+20211222T0441_12.93_121.0,2021-12-22T04:41:00+08:00,12.93,121.0,25.0,2.2,026 km N 69° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1221_2041_B2F.html
+20211222T0538_18.7_120.89,2021-12-22T05:38:00+08:00,18.7,120.89,19.0,3.0,019 km N 35° E of Pagudpud (Ilocos Norte),2021_Earthquake_Information/December/2021_1221_2138_B2.html
+20211222T0628_15.86_121.1,2021-12-22T06:28:00+08:00,15.86,121.1,27.0,2.0,007 km N 39° W of Pantabangan (Nueva Ecija),2021_Earthquake_Information/December/2021_1221_2228_B2.html
+20211222T0703_7.64_126.47,2021-12-22T07:03:00+08:00,7.64,126.47,133.0,2.7,012 km N 56° W of Baganga (Davao Oriental),2021_Earthquake_Information/December/2021_1221_2303_B2.html
+20211222T0919_12.89_121.05,2021-12-22T09:19:00+08:00,12.89,121.05,40.0,1.8,030 km N 80° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1222_0119_B1F.html
+20211222T0929_15.48_121.32,2021-12-22T09:29:00+08:00,15.48,121.32,17.0,2.1,013 km N 36° W of Dingalan (Aurora),2021_Earthquake_Information/December/2021_1222_0129_B2.html
+20211222T1041_10.32_126.78,2021-12-22T10:41:00+08:00,10.32,126.78,6.0,3.7,084 km N 67° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1222_0241_B2.html
+20211222T1344_9.29_122.51,2021-12-22T13:44:00+08:00,9.29,122.51,19.0,2.8,019 km S 45° W of Basay (Negros Oriental),2021_Earthquake_Information/December/2021_1222_0544_B2.html
+20211222T1751_12.78_124.63,2021-12-22T17:51:00+08:00,12.78,124.63,35.0,3.1,031 km N 02° W of Catarman (Northern Samar),2021_Earthquake_Information/December/2021_1222_0951_B2.html
+20211222T1753_8.25_123.4,2021-12-22T17:53:00+08:00,8.25,123.4,26.0,2.0,012 km N 29° E of Dumingag (Zamboanga Del Sur),2021_Earthquake_Information/December/2021_1222_0953_B2.html
+20211222T1844_13.67_119.81,2021-12-22T18:44:00+08:00,13.67,119.81,22.0,2.9,048 km S 83° W of Looc (Occidental Mindoro),2021_Earthquake_Information/December/2021_1222_1044_B2F.html
+20211222T1953_6.78_125.12,2021-12-22T19:53:00+08:00,6.78,125.12,10.0,2.3,005 km N 50° W of Magsaysay (Davao Del Sur),2021_Earthquake_Information/December/2021_1222_1153_B2.html
+20211222T2019_2.2_126.6,2021-12-22T20:19:00+08:00,2.2,126.6,88.0,5.1,378 km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1222_1219_B2.html
+20211222T2026_9.35_123.98,2021-12-22T20:26:00+08:00,9.35,123.98,33.0,2.3,028 km S 06° W of Loay (Bohol),2021_Earthquake_Information/December/2021_1222_1226_B1.html
+20211222T2027_2.13_126.37,2021-12-22T20:27:00+08:00,2.13,126.37,42.0,5.0,378 km S 16° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1222_1227_B2.html
+20211222T2210_15.56_120.01,2021-12-22T22:10:00+08:00,15.56,120.01,22.0,2.0,007 km N 62° E of Masinloc (Zambales),2021_Earthquake_Information/December/2021_1222_1410_B2.html
+20211222T2319_18.63_120.23,2021-12-22T23:19:00+08:00,18.63,120.23,1.0,2.4,046 km N 72° W of Burgos (Ilocos Norte),2021_Earthquake_Information/December/2021_1222_1519_B2.html
+20211223T0013_12.6_119.51,2021-12-23T00:13:00+08:00,12.6,119.51,33.0,2.1,070 km N 42° W of Busuanga (Palawan),2021_Earthquake_Information/December/2021_1222_1613_B2.html
+20211223T0020_9.87_122.34,2021-12-23T00:20:00+08:00,9.87,122.34,22.0,2.6,034 km S 69° W of Cauayan (Negros Occidental),2021_Earthquake_Information/December/2021_1222_1620_B2.html
+20211223T0022_10.0_122.42,2021-12-23T00:22:00+08:00,10.0,122.42,5.0,2.2,023 km N 82° W of Cauayan (Negros Occidental),2021_Earthquake_Information/December/2021_1222_1622_B2.html
+20211223T0038_13.89_120.59,2021-12-23T00:38:00+08:00,13.89,120.59,115.0,2.6,008 km N 34° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1222_1638_B2F.html
+20211223T0134_17.77_122.44,2021-12-23T01:34:00+08:00,17.77,122.44,19.0,2.3,047 km N 27° E of Maconacon (Isabela),2021_Earthquake_Information/December/2021_1222_1734_B2.html
+20211223T0250_14.66_120.59,2021-12-23T02:50:00+08:00,14.66,120.59,107.0,1.9,004 km S 83° E of Pilar (Bataan),2021_Earthquake_Information/December/2021_1222_1850_B1.html
+20211223T0251_6.98_126.74,2021-12-23T02:51:00+08:00,6.98,126.74,142.0,2.1,034 km S 42° E of Manay (Davao Oriental),2021_Earthquake_Information/December/2021_1222_1851_B2.html
+20211223T0304_18.44_120.85,2021-12-23T03:04:00+08:00,18.44,120.85,12.0,2.1,006 km S 64° W of Adams (Ilocos Norte),2021_Earthquake_Information/December/2021_1222_1904_B2.html
+20211223T0354_6.43_126.2,2021-12-23T03:54:00+08:00,6.43,126.2,31.0,2.5,029 km S 30° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1222_1954_B2F.html
+20211223T0357_16.27_121.94,2021-12-23T03:57:00+08:00,16.27,121.94,22.0,1.9,015 km N 05° W of Dinalungan (Aurora),2021_Earthquake_Information/December/2021_1222_1957_B2.html
+20211223T0503_13.71_120.55,2021-12-23T05:03:00+08:00,13.71,120.55,115.0,2.2,017 km S 34° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1222_2103_B2F.html
+20211223T0523_11.44_125.56,2021-12-23T05:23:00+08:00,11.44,125.56,31.0,2.4,012 km N 29° W of Hernani (Eastern Samar),2021_Earthquake_Information/December/2021_1222_2123_B2.html
+20211223T0525_17.43_119.99,2021-12-23T05:25:00+08:00,17.43,119.99,2.0,2.8,043 km S 73° W of Caoayan (Ilocos Sur),2021_Earthquake_Information/December/2021_1222_2125_B2.html
+20211223T0555_17.4_120.0,2021-12-23T05:55:00+08:00,17.4,120.0,1.0,2.6,044 km S 61° W of Santa Catalina (Ilocos Sur),2021_Earthquake_Information/December/2021_1222_2155_B2.html
+20211223T0822_13.56_120.85,2021-12-23T08:22:00+08:00,13.56,120.85,1.0,2.7,013 km N 59° W of Puerto Galera (Oriental Mindoro),2021_Earthquake_Information/December/2021_1223_0022_B2F.html
+20211223T1101_5.7_123.87,2021-12-23T11:01:00+08:00,5.7,123.87,510.0,3.5,067 km S 32° W of Palimbang (Sultan Kudarat),2021_Earthquake_Information/December/2021_1223_0301_B2.html
+20211223T1403_20.11_122.08,2021-12-23T14:03:00+08:00,20.11,122.08,13.0,3.7,033 km S 23° E of Uyugan (Batanes),2021_Earthquake_Information/December/2021_1223_0603_B2.html
+20211223T1643_7.38_126.73,2021-12-23T16:43:00+08:00,7.38,126.73,26.0,2.4,019 km N 72° E of Caraga (Davao Oriental),2021_Earthquake_Information/December/2021_1223_0843_B2.html
+20211223T1742_13.57_120.87,2021-12-23T17:42:00+08:00,13.57,120.87,7.0,2.0,010 km S 02° W of Tingloy (Batangas),2021_Earthquake_Information/December/2021_1223_0942_B2.html
+20211223T1831_9.75_124.29,2021-12-23T18:31:00+08:00,9.75,124.29,31.0,2.6,011 km S 29° W of Pilar (Bohol),2021_Earthquake_Information/December/2021_1223_1031_B2.html
+20211223T2219_14.28_120.43,2021-12-23T22:19:00+08:00,14.28,120.43,112.0,2.8,018 km S 22° W of Mariveles (Bataan),2021_Earthquake_Information/December/2021_1223_1419_B2.html
+20211223T2229_6.57_125.87,2021-12-23T22:29:00+08:00,6.57,125.87,140.0,2.3,024 km S 67° W of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1223_1429_B2.html
+20211223T2319_17.46_120.0,2021-12-23T23:19:00+08:00,17.46,120.0,12.0,3.0,042 km S 77° W of Caoayan (Ilocos Sur),2021_Earthquake_Information/December/2021_1223_1519_B2.html
+20211224T0021_15.87_120.05,2021-12-24T00:21:00+08:00,15.87,120.05,30.0,2.2,016 km N 70° E of Infanta (Pangasinan),2021_Earthquake_Information/December/2021_1223_1621_B2.html
+20211224T0102_14.63_123.62,2021-12-24T01:02:00+08:00,14.63,123.62,24.0,2.7,074 km N 77° E of Tinaga Island (Vinzons) (Camarines Norte),2021_Earthquake_Information/December/2021_1223_1702_B2.html
+20211224T0210_13.7_120.67,2021-12-24T02:10:00+08:00,13.7,120.67,94.0,1.8,016 km S 17° E of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1223_1810_B1F.html
+20211224T0230_11.74_124.28,2021-12-24T02:30:00+08:00,11.74,124.28,3.0,2.6,008 km S 63° W of Maripipi (Biliran),2021_Earthquake_Information/December/2021_1223_1830_B2.html
+20211224T0231_12.85_120.97,2021-12-24T02:31:00+08:00,12.85,120.97,24.0,1.8,021 km N 88° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1223_1831_B2F.html
+20211224T0239_17.23_121.39,2021-12-24T02:39:00+08:00,17.23,121.39,28.0,1.9,005 km N 11° W of Paracelis (Mountain Province),2021_Earthquake_Information/December/2021_1223_1839_B2.html
+20211224T0246_15.07_120.14,2021-12-24T02:46:00+08:00,15.07,120.14,67.0,1.7,008 km N 81° E of San Felipe (Zambales),2021_Earthquake_Information/December/2021_1223_1846_B2.html
+20211224T0248_17.29_121.42,2021-12-24T02:48:00+08:00,17.29,121.42,27.0,2.1,012 km N 11° E of Paracelis (Mountain Province),2021_Earthquake_Information/December/2021_1223_1848_B2.html
+20211224T0300_10.11_126.21,2021-12-24T03:00:00+08:00,10.11,126.21,10.0,2.4,018 km N 56° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1223_1900_B2.html
+20211224T0510_17.37_120.17,2021-12-24T05:10:00+08:00,17.37,120.17,24.0,2.7,029 km N 80° W of San Esteban (Ilocos Sur),2021_Earthquake_Information/December/2021_1223_2110_B2.html
+20211224T0521_17.31_122.09,2021-12-24T05:21:00+08:00,17.31,122.09,23.0,2.8,018 km S 63° W of Maconacon (Isabela),2021_Earthquake_Information/December/2021_1223_2121_B2.html
+20211224T0829_9.89_124.08,2021-12-24T08:29:00+08:00,9.89,124.08,3.0,3.0,003 km S 38° W of Sagbayan (Bohol),2021_Earthquake_Information/December/2021_1224_0029_B2.html
+20211224T0917_7.85_123.21,2021-12-24T09:17:00+08:00,7.85,123.21,10.0,1.5,003 km N 36° W of Tigbao (Zamboanga Del Sur),2021_Earthquake_Information/December/2021_1224_0117_B1.html
+20211224T0945_8.98_125.96,2021-12-24T09:45:00+08:00,8.98,125.96,6.0,2.1,029 km S 14° W of Carmen (Surigao Del Sur),2021_Earthquake_Information/December/2021_1224_0145_B2.html
+20211224T1242_17.44_120.41,2021-12-24T12:42:00+08:00,17.44,120.41,24.0,1.6,006 km S 27° W of Santa (Ilocos Sur),2021_Earthquake_Information/December/2021_1224_0442_B1.html
+20211224T1333_17.27_120.46,2021-12-24T13:33:00+08:00,17.27,120.46,26.0,1.9,001 km N 44° W of San Esteban (Ilocos Sur),2021_Earthquake_Information/December/2021_1224_0533_B1.html
+20211224T1636_7.34_127.27,2021-12-24T16:36:00+08:00,7.34,127.27,15.0,3.4,077 km N 89° E of Caraga (Davao Oriental),2021_Earthquake_Information/December/2021_1224_0836_B2.html
+20211224T1834_13.72_120.61,2021-12-24T18:34:00+08:00,13.72,120.61,87.0,1.7,012 km S 14° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1224_1034_B1.html
+20211224T1855_10.24_125.81,2021-12-24T18:55:00+08:00,10.24,125.81,22.0,3.0,029 km S 63° E of Loreto (Dinagat Islands),2021_Earthquake_Information/December/2021_1224_1055_B2.html
+20211224T1905_8.55_126.27,2021-12-24T19:05:00+08:00,8.55,126.27,32.0,1.8,016 km N 50° E of Tagbina (Surigao Del Sur),2021_Earthquake_Information/December/2021_1224_1105_B1.html
+20211224T1906_15.78_121.27,2021-12-24T19:06:00+08:00,15.78,121.27,29.0,1.6,014 km S 78° E of Pantabangan (Nueva Ecija),2021_Earthquake_Information/December/2021_1224_1106_B1.html
+20211224T2030_14.18_120.35,2021-12-24T20:30:00+08:00,14.18,120.35,123.0,3.1,033 km N 69° W of Nasugbu (Batangas),2021_Earthquake_Information/December/2021_1224_1230_B2.html
+20211224T2049_8.1_125.8,2021-12-24T20:49:00+08:00,8.1,125.8,33.0,1.9,011 km S 38° W of Loreto (Agusan Del Sur),2021_Earthquake_Information/December/2021_1224_1249_B1.html
+20211224T2051_12.22_123.87,2021-12-24T20:51:00+08:00,12.22,123.87,12.0,3.5,010 km N 37° W of Palanas (Masbate),2021_Earthquake_Information/December/2021_1224_1251_B2F.html
+20211224T2347_7.63_124.42,2021-12-24T23:47:00+08:00,7.63,124.42,10.0,2.7,019 km N 17° E of Barira (Maguindanao),2021_Earthquake_Information/December/2021_1224_1547_B2.html
+20211225T0045_8.35_126.04,2021-12-25T00:45:00+08:00,8.35,126.04,24.0,2.2,005 km S 54° E of Rosario (Agusan Del Sur),2021_Earthquake_Information/December/2021_1224_1645_B1.html
+20211225T0051_13.95_119.92,2021-12-25T00:51:00+08:00,13.95,119.92,12.0,2.2,025 km N 65° W of Lubang (Occidental Mindoro),2021_Earthquake_Information/December/2021_1224_1651_B2.html
+20211225T0132_10.21_126.16,2021-12-25T01:32:00+08:00,10.21,126.16,2.0,2.5,023 km N 24° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1224_1732_B2.html
+20211225T0134_12.92_120.87,2021-12-25T01:34:00+08:00,12.92,120.87,6.0,2.3,013 km N 51° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1224_1734_B2.html
+20211225T0149_14.29_122.14,2021-12-25T01:49:00+08:00,14.29,122.14,31.0,1.7,018 km S 38° E of Balesin Island (Polillo) (Quezon),2021_Earthquake_Information/December/2021_1224_1749_B2.html
+20211225T0217_13.68_120.63,2021-12-25T02:17:00+08:00,13.68,120.63,103.0,2.4,016 km Sout° 00 of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1224_1817_B2F.html
+20211225T0220_9.73_122.49,2021-12-25T02:20:00+08:00,9.73,122.49,14.0,1.9,008 km S 60° E of City Of Sipalay (Negros Occidental),2021_Earthquake_Information/December/2021_1224_1820_B1.html
+20211225T0242_18.76_121.29,2021-12-25T02:42:00+08:00,18.76,121.29,19.0,3.8,013 km S 42° W of Fuga Island (Aparri) (Cagayan),2021_Earthquake_Information/December/2021_1224_1842_B2.html
+20211225T0250_14.67_119.51,2021-12-25T02:50:00+08:00,14.67,119.51,2.0,2.3,070 km S 64° W of San Antonio (Zambales),2021_Earthquake_Information/December/2021_1224_1850_B1.html
+20211225T0305_10.34_126.09,2021-12-25T03:05:00+08:00,10.34,126.09,22.0,2.1,035 km N 03° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1224_1905_B2.html
+20211225T0308_13.0_124.66,2021-12-25T03:08:00+08:00,13.0,124.66,14.0,3.1,048 km N 42° E of Biri (Northern Samar),2021_Earthquake_Information/December/2021_1224_1908_B2.html
+20211225T0343_13.53_120.54,2021-12-25T03:43:00+08:00,13.53,120.54,117.0,1.7,035 km S 16° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1224_1943_B2F.html
+20211225T0425_15.52_119.87,2021-12-25T04:25:00+08:00,15.52,119.87,16.0,2.5,009 km S 81° W of Masinloc (Zambales),2021_Earthquake_Information/December/2021_1224_2025_B1.html
+20211225T0429_13.84_120.58,2021-12-25T04:29:00+08:00,13.84,120.58,102.0,1.7,006 km N 78° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1224_2029_B1F.html
+20211225T0637_6.66_126.25,2021-12-25T06:37:00+08:00,6.66,126.25,22.0,2.4,019 km N 88° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1224_2237_B2F.html
+20211225T0715_17.28_120.6,2021-12-25T07:15:00+08:00,17.28,120.6,25.0,2.7,005 km N 27° E of San Emilio (Ilocos Sur),2021_Earthquake_Information/December/2021_1224_2315_B1.html
+20211225T0750_6.36_126.28,2021-12-25T07:50:00+08:00,6.36,126.28,30.0,2.9,040 km S 36° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1224_2350_B1.html
+20211225T0751_12.98_121.43,2021-12-25T07:51:00+08:00,12.98,121.43,26.0,2.0,005 km N 84° W of Gloria (Oriental Mindoro),2021_Earthquake_Information/December/2021_1224_2351_B1.html
+20211225T0843_6.72_123.89,2021-12-25T08:43:00+08:00,6.72,123.89,33.0,2.7,022 km N 65° W of Lebak (Sultan Kudarat),2021_Earthquake_Information/December/2021_1225_0043_B1.html
+20211225T1144_15.11_120.15,2021-12-25T11:44:00+08:00,15.11,120.15,30.0,1.8,010 km N 54° E of San Felipe (Zambales),2021_Earthquake_Information/December/2021_1225_0344_B2.html
+20211225T1420_15.15_120.03,2021-12-25T14:20:00+08:00,15.15,120.03,29.0,2.0,003 km S 74° W of Cabangan (Zambales),2021_Earthquake_Information/December/2021_1225_0620_B2.html
+20211225T1611_13.75_120.55,2021-12-25T16:11:00+08:00,13.75,120.55,103.0,1.8,012 km S 43° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1225_0811_B2.html
+20211225T1646_13.83_120.49,2021-12-25T16:46:00+08:00,13.83,120.49,69.0,2.0,028 km N 65° E of Looc (Occidental Mindoro),2021_Earthquake_Information/December/2021_1225_0846_B2F.html
+20211225T1811_7.76_122.05,2021-12-25T18:11:00+08:00,7.76,122.05,16.0,2.9,011 km N 56° W of Siocon (Zamboanga Del Norte),2021_Earthquake_Information/December/2021_1225_1011_B2.html
+20211225T2054_13.22_120.4,2021-12-25T20:54:00+08:00,13.22,120.4,32.0,2.0,022 km S 88° W of Mamburao (Occidental Mindoro),2021_Earthquake_Information/December/2021_1225_1254_B2.html
+20211225T2116_6.02_126.8,2021-12-25T21:16:00+08:00,6.02,126.8,41.0,2.9,107 km S 49° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1225_1316_B2.html
+20211225T2216_13.37_120.47,2021-12-25T22:16:00+08:00,13.37,120.47,105.0,1.9,005 km S 10° E of Paluan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1225_1416_B1.html
+20211225T2225_6.87_126.68,2021-12-25T22:25:00+08:00,6.87,126.68,25.0,4.2,032 km S 51° E of Tarragona (Davao Oriental),2021_Earthquake_Information/December/2021_1225_1425_B2F.html
+20211225T2351_11.16_123.91,2021-12-25T23:51:00+08:00,11.16,123.91,6.0,2.3,007 km N 60° W of Medellin (Cebu),2021_Earthquake_Information/December/2021_1225_1551_B2.html
+20211226T0122_16.29_122.15,2021-12-26T01:22:00+08:00,16.29,122.15,24.0,2.0,003 km N 69° E of Casiguran (Aurora),2021_Earthquake_Information/December/2021_1225_1722_B1.html
+20211226T0123_16.25_122.25,2021-12-26T01:23:00+08:00,16.25,122.25,34.0,1.4,014 km S 76° E of Casiguran (Aurora),2021_Earthquake_Information/December/2021_1225_1723_B1.html
+20211226T0154_11.75_125.3,2021-12-26T01:54:00+08:00,11.75,125.3,23.0,2.7,017 km 00 °est of San Julian (Eastern Samar),2021_Earthquake_Information/December/2021_1225_1754_B2.html
+20211226T0210_8.37_126.58,2021-12-26T02:10:00+08:00,8.37,126.58,1.0,2.2,027 km N 89° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/December/2021_1225_1810_B2.html
+20211226T0304_18.38_121.22,2021-12-26T03:04:00+08:00,18.38,121.22,4.0,2.1,016 km S 53° W of Pamplona (Cagayan),2021_Earthquake_Information/December/2021_1225_1904_B1.html
+20211226T0403_16.21_119.12,2021-12-26T04:03:00+08:00,16.21,119.12,8.0,3.7,074 km N 82° W of Agno (Pangasinan),2021_Earthquake_Information/December/2021_1225_2003_B1.html
+20211226T0655_10.66_126.14,2021-12-26T06:55:00+08:00,10.66,126.14,19.0,2.3,047 km S 79° E of Homonhon Island (Guiuan) (Eastern Samar),2021_Earthquake_Information/December/2021_1225_2255_B1.html
+20211226T0755_6.78_124.93,2021-12-26T07:55:00+08:00,6.78,124.93,24.0,2.5,008 km N 57° E of Datu Paglas (Maguindanao),2021_Earthquake_Information/December/2021_1225_2355_B1.html
+20211226T0812_16.15_119.27,2021-12-26T08:12:00+08:00,16.15,119.27,12.0,5.0,057 km N 86° W of Agno (Pangasinan),2021_Earthquake_Information/December/2021_1226_0012_B2.html
+20211226T0829_7.92_122.01,2021-12-26T08:29:00+08:00,7.92,122.01,33.0,2.5,028 km N 30° W of Siocon (Zamboanga Del Norte),2021_Earthquake_Information/December/2021_1226_0029_B2.html
+20211226T0839_18.06_121.28,2021-12-26T08:39:00+08:00,18.06,121.28,24.0,2.1,011 km N 68° E of Kabugao (Apayao),2021_Earthquake_Information/December/2021_1226_0039_B2.html
+20211226T1022_2.14_126.32,2021-12-26T10:22:00+08:00,2.14,126.32,16.0,5.3,375 km S 15° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2021_Earthquake_Information/December/2021_1226_0222_B3.html
+20211226T1222_11.5_124.52,2021-12-26T12:22:00+08:00,11.5,124.52,4.0,2.0,006 km N 49° E of Biliran (Biliran),2021_Earthquake_Information/December/2021_1226_0422_B2.html
+20211226T1320_8.72_127.19,2021-12-26T13:20:00+08:00,8.72,127.19,16.0,2.4,098 km S 85° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/December/2021_1226_0520_B2.html
+20211226T1553_10.92_126.36,2021-12-26T15:53:00+08:00,10.92,126.36,1.0,3.7,071 km S 80° E of Guiuan (Eastern Samar),2021_Earthquake_Information/December/2021_1226_0753_B2.html
+20211226T1707_13.72_120.89,2021-12-26T17:07:00+08:00,13.72,120.89,15.0,2.6,006 km S 60° W of Mabini (Batangas),2021_Earthquake_Information/December/2021_1226_0907_B2.html
+20211226T1836_9.45_124.43,2021-12-26T18:36:00+08:00,9.45,124.43,12.0,3.2,023 km S 38° E of Garcia Hernandez (Bohol),2021_Earthquake_Information/December/2021_1226_1036_B2.html
+20211226T1925_6.26_126.42,2021-12-26T19:25:00+08:00,6.26,126.42,36.0,2.7,058 km S 41° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1226_1125_B2.html
+20211226T1957_15.0_119.96,2021-12-26T19:57:00+08:00,15.0,119.96,27.0,2.3,013 km S 81° W of San Narciso (Zambales),2021_Earthquake_Information/December/2021_1226_1157_B2.html
+20211226T2038_11.5_125.79,2021-12-26T20:38:00+08:00,11.5,125.79,22.0,2.0,026 km N 47° E of Hernani (Eastern Samar),2021_Earthquake_Information/December/2021_1226_1238_B2.html
+20211226T2054_17.77_120.21,2021-12-26T20:54:00+08:00,17.77,120.21,34.0,2.0,025 km N 67° W of Magsingal (Ilocos Sur),2021_Earthquake_Information/December/2021_1226_1254_B2_Ilocos_Sur.html
+20211226T2054_8.37_122.32,2021-12-26T20:54:00+08:00,8.37,122.32,30.0,2.0,040 km N 34° W of Labason (Zamboanga Del Norte),2021_Earthquake_Information/December/2021_1226_1254_B2_Zamboanga_Del_Norte.html
+20211226T2155_9.67_126.87,2021-12-26T21:55:00+08:00,9.67,126.87,7.0,2.7,080 km S 81° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/December/2021_1226_1355_B2.html
+20211226T2252_10.16_125.25,2021-12-26T22:52:00+08:00,10.16,125.25,3.0,2.3,012 km S 04° W of Anahawan (Southern Leyte),2021_Earthquake_Information/December/2021_1226_1452_B2.html
+20211226T2317_16.53_120.94,2021-12-26T23:17:00+08:00,16.53,120.94,8.0,2.2,009 km N 89° W of Ambaguio (Nueva Vizcaya),2021_Earthquake_Information/December/2021_1226_1517_B2.html
+20211226T2341_7.05_123.26,2021-12-26T23:41:00+08:00,7.05,123.26,24.0,2.5,045 km S 08° W of Pitogo (Zamboanga Del Sur),2021_Earthquake_Information/December/2021_1226_1541_B2.html
+20211226T2348_10.8_121.71,2021-12-26T23:48:00+08:00,10.8,121.71,31.0,2.8,026 km N 77° W of San Jose De Buenavista (Antique),2021_Earthquake_Information/December/2021_1226_1548_B2.html
+20211227T0003_18.1_120.92,2021-12-27T00:03:00+08:00,18.1,120.92,7.0,2.1,015 km N 88° E of Solsona (Ilocos Norte),2021_Earthquake_Information/December/2021_1226_1603_B2.html
+20211227T0006_12.59_120.49,2021-12-27T00:06:00+08:00,12.59,120.49,8.0,3.7,042 km S 49° W of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1606_B2.html
+20211227T0008_12.48_120.62,2021-12-27T00:08:00+08:00,12.48,120.62,36.0,2.3,044 km S 23° W of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1608_B2.html
+20211227T0011_12.56_120.55,2021-12-27T00:11:00+08:00,12.56,120.55,5.0,2.2,040 km S 39° W of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1611_B2.html
+20211227T0019_12.63_120.49,2021-12-27T00:19:00+08:00,12.63,120.49,4.0,2.1,039 km S 53° W of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1619_B2.html
+20211227T0032_12.43_120.62,2021-12-27T00:32:00+08:00,12.43,120.62,34.0,2.4,037 km S 84° W of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1632_B2.html
+20211227T0036_12.32_120.67,2021-12-27T00:36:00+08:00,12.32,120.67,28.0,1.6,036 km S 64° W of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1636_B1.html
+20211227T0046_6.92_123.21,2021-12-27T00:46:00+08:00,6.92,123.21,5.0,2.3,060 km S 11° W of Pitogo (Zamboanga Del Sur),2021_Earthquake_Information/December/2021_1226_1646_B2.html
+20211227T0054_6.33_126.36,2021-12-27T00:54:00+08:00,6.33,126.36,26.0,3.1,047 km S 41° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1226_1654_B2.html
+20211227T0101_10.24_121.96,2021-12-27T01:01:00+08:00,10.24,121.96,17.0,2.9,021 km S 10° E of Anini-y (Antique),2021_Earthquake_Information/December/2021_1226_1701_B2.html
+20211227T0215_12.02_120.86,2021-12-27T02:15:00+08:00,12.02,120.86,37.0,1.5,050 km S 13° W of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1815_B1.html
+20211227T0229_12.58_120.54,2021-12-27T02:29:00+08:00,12.58,120.54,17.0,2.9,048 km N 74° W of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1829_B2.html
+20211227T0230_12.09_120.81,2021-12-27T02:30:00+08:00,12.09,120.81,37.0,2.0,044 km S 22° W of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1830_B1.html
+20211227T0238_12.32_120.68,2021-12-27T02:38:00+08:00,12.32,120.68,26.0,1.6,034 km S 62° W of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1838_B1.html
+20211227T0250_12.34_120.67,2021-12-27T02:50:00+08:00,12.34,120.67,31.0,1.6,034 km S 68° W of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1850_B1.html
+20211227T0252_12.14_120.91,2021-12-27T02:52:00+08:00,12.14,120.91,34.0,1.4,036 km S 09° W of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1852_B1.html
+20211227T0301_12.84_121.06,2021-12-27T03:01:00+08:00,12.84,121.06,27.0,1.9,030 km S 89° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1901_B1.html
+20211227T0309_12.49_120.56,2021-12-27T03:09:00+08:00,12.49,120.56,32.0,2.7,045 km N 85° W of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1909_B2.html
+20211227T0314_7.71_122.16,2021-12-27T03:14:00+08:00,7.71,122.16,10.0,1.5,003 km N 75° E of Siocon (Zamboanga Del Norte),2021_Earthquake_Information/December/2021_1226_1914_B1.html
+20211227T0315_9.23_125.71,2021-12-27T03:15:00+08:00,9.23,125.71,28.0,2.2,022 km N 56° E of City Of Cabadbaran (Agusan Del Norte),2021_Earthquake_Information/December/2021_1226_1915_B2.html
+20211227T0316_12.59_120.54,2021-12-27T03:16:00+08:00,12.59,120.54,10.0,2.4,048 km N 72° W of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1916_B2.html
+20211227T0326_9.7_122.01,2021-12-27T03:26:00+08:00,9.7,122.01,1.0,2.5,047 km S 81° W of City Of Sipalay (Negros Occidental),2021_Earthquake_Information/December/2021_1226_1926_B2.html
+20211227T0327_12.26_120.72,2021-12-27T03:27:00+08:00,12.26,120.72,30.0,2.0,034 km S 50° W of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_1927_B1.html
+20211227T0408_12.2_120.75,2021-12-27T04:08:00+08:00,12.2,120.75,29.0,1.8,037 km S 40° W of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_2008_B1.html
+20211227T0424_12.27_120.71,2021-12-27T04:24:00+08:00,12.27,120.71,27.0,2.0,035 km S 53° W of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_2024_B1.html
+20211227T0454_4.83_124.65,2021-12-27T04:54:00+08:00,4.83,124.65,398.0,3.4,106 km S 53° W of Sarangani (Davao Occidental),2021_Earthquake_Information/December/2021_1226_2054_B2.html
+20211227T0540_6.1_127.01,2021-12-27T05:40:00+08:00,6.1,127.01,98.0,3.4,120 km S 59° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1226_2140_B2.html
+20211227T0711_12.27_120.71,2021-12-27T07:11:00+08:00,12.27,120.71,28.0,2.2,043 km S 23° W of Rizal (Occidental Mindoro),2021_Earthquake_Information/December/2021_1226_2311_B1.html
+20211227T0731_10.42_125.69,2021-12-27T07:31:00+08:00,10.42,125.69,84.0,2.5,014 km N 60° E of Loreto (Dinagat Islands),2021_Earthquake_Information/December/2021_1226_2331_B2.html
+20211227T0752_9.48_126.23,2021-12-27T07:52:00+08:00,9.48,126.23,15.0,2.5,022 km N 10° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/December/2021_1226_2352_B2.html
+20211227T0858_10.24_126.85,2021-12-27T08:58:00+08:00,10.24,126.85,23.0,2.8,091 km N 57° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/December/2021_1227_0058_B2.html
+20211227T1145_15.56_119.94,2021-12-27T11:45:00+08:00,15.56,119.94,26.0,2.9,004 km N 39° W of Masinloc (Zambales),2021_Earthquake_Information/December/2021_1227_0345_B2.html
+20211227T1158_13.13_120.51,2021-12-27T11:58:00+08:00,13.13,120.51,26.0,2.7,014 km S 41° W of Mamburao (Occidental Mindoro),2021_Earthquake_Information/December/2021_1227_0358_B2.html
+20211227T1247_6.11_126.16,2021-12-27T12:47:00+08:00,6.11,126.16,121.0,2.6,053 km S 79° E of Don Marcelino (Davao Occidental),2021_Earthquake_Information/December/2021_1227_0447_B2.html
+20211227T1319_12.51_120.57,2021-12-27T13:19:00+08:00,12.51,120.57,34.0,1.7,041 km S 80° W of Calintaan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1227_0519_B1.html
+20211227T1519_13.68_120.61,2021-12-27T15:19:00+08:00,13.68,120.61,104.0,1.8,017 km S 07° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1227_0719_B2F.html
+20211227T1548_13.79_120.53,2021-12-27T15:48:00+08:00,13.79,120.53,88.0,2.4,012 km S 65° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1227_0748_B2F.html
+20211227T1959_9.41_125.55,2021-12-27T19:59:00+08:00,9.41,125.55,3.0,3.3,005 km S 33° W of Kitcharao (Agusan Del Norte),2021_Earthquake_Information/December/2021_1227_1159_B2.html
+20211227T2046_13.69_120.66,2021-12-27T20:46:00+08:00,13.69,120.66,97.0,1.5,016 km S 11° E of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1227_1246_B2.html
+20211227T2120_5.78_125.75,2021-12-27T21:20:00+08:00,5.78,125.75,45.0,2.6,046 km S 08° E of Don Marcelino (Davao Occidental),2021_Earthquake_Information/December/2021_1227_1320_B2.html
+20211227T2203_11.7_126.1,2021-12-27T22:03:00+08:00,11.7,126.1,2.0,3.1,066 km N 53° E of Hernani (Eastern Samar),2021_Earthquake_Information/December/2021_1227_1403_B2.html
+20211227T2254_11.6_125.9,2021-12-27T22:54:00+08:00,11.6,125.9,10.0,3.2,041 km N 46° E of Hernani (Eastern Samar),2021_Earthquake_Information/December/2021_1227_1454_B2F.html
+20211228T0122_15.52_119.93,2021-12-28T01:22:00+08:00,15.52,119.93,31.0,1.8,003 km S 68° W of Masinloc (Zambales),2021_Earthquake_Information/December/2021_1227_1722_B1.html
+20211228T0238_18.66_120.75,2021-12-28T02:38:00+08:00,18.66,120.75,32.0,1.9,012 km N 21° W of Pagudpud (Ilocos Norte),2021_Earthquake_Information/December/2021_1227_1838_B2.html
+20211228T0316_6.88_124.97,2021-12-28T03:16:00+08:00,6.88,124.97,26.0,1.8,012 km S 55° E of M'lang (Cotabato),2021_Earthquake_Information/December/2021_1227_1916_B1.html
+20211228T0540_16.11_119.36,2021-12-28T05:40:00+08:00,16.11,119.36,14.0,3.5,047 km S 90° W of Agno (Pangasinan),2021_Earthquake_Information/December/2021_1227_2140_B2.html
+20211228T0600_5.97_125.9,2021-12-28T06:00:00+08:00,5.97,125.9,153.0,2.2,029 km N 76° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1227_2200_B2.html
+20211228T1144_10.28_125.82,2021-12-28T11:44:00+08:00,10.28,125.82,25.0,2.1,028 km S 72° E of Loreto (Dinagat Islands),2021_Earthquake_Information/December/2021_1228_0344_B2.html
+20211228T1304_8.94_122.39,2021-12-28T13:04:00+08:00,8.94,122.39,1.0,2.6,059 km S 28° W of Basay (Negros Oriental),2021_Earthquake_Information/December/2021_1228_0504_B2.html
+20211228T1659_8.93_122.45,2021-12-28T16:59:00+08:00,8.93,122.45,1.0,2.7,057 km S 22° W of Basay (Negros Oriental),2021_Earthquake_Information/December/2021_1228_0859_B2.html
+20211228T1839_7.73_122.17,2021-12-28T18:39:00+08:00,7.73,122.17,14.0,1.5,004 km N 53° E of Siocon (Zamboanga Del Norte),2021_Earthquake_Information/December/2021_1228_1039_B1.html
+20211228T2009_8.97_122.33,2021-12-28T20:09:00+08:00,8.97,122.33,23.0,3.3,059 km S 35° W of Basay (Negros Oriental),2021_Earthquake_Information/December/2021_1228_1209_B2.html
+20211228T2022_14.17_120.41,2021-12-28T20:22:00+08:00,14.17,120.41,62.0,1.5,026 km N 66° W of Nasugbu (Batangas),2021_Earthquake_Information/December/2021_1228_1222_B2.html
+20211228T2324_13.74_120.54,2021-12-28T23:24:00+08:00,13.74,120.54,99.0,1.9,014 km S 42° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1228_1524_B2.html
+20211229T0105_5.4_126.65,2021-12-29T01:05:00+08:00,5.4,126.65,36.0,2.8,125 km S 63° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1228_1705_B2.html
+20211229T0206_6.94_125.09,2021-12-29T02:06:00+08:00,6.94,125.09,10.0,2.8,008 km S 02° W of City Of Kidapawan (Cotabato),2021_Earthquake_Information/December/2021_1228_1806_B3F.html
+20211229T0320_8.07_126.49,2021-12-29T03:20:00+08:00,8.07,126.49,45.0,2.2,009 km N 64° E of Lingig (Surigao Del Sur),2021_Earthquake_Information/December/2021_1228_1920_B2.html
+20211229T0328_15.42_121.37,2021-12-29T03:28:00+08:00,15.42,121.37,9.0,1.7,004 km N 27° W of Dingalan (Aurora),2021_Earthquake_Information/December/2021_1228_1928_B2.html
+20211229T0429_10.17_126.86,2021-12-29T04:29:00+08:00,10.17,126.86,20.0,3.2,089 km N 61° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/December/2021_1228_2029_B2.html
+20211229T0459_13.11_120.51,2021-12-29T04:59:00+08:00,13.11,120.51,30.0,3.9,016 km S 35° W of Mamburao (Occidental Mindoro),2021_Earthquake_Information/December/2021_1228_2059_B2F.html
+20211229T0647_7.64_124.4,2021-12-29T06:47:00+08:00,7.64,124.4,5.0,2.7,014 km N 13° E of Buldon (Maguindanao),2021_Earthquake_Information/December/2021_1228_2247_B2.html
+20211229T0914_6.23_126.77,2021-12-29T09:14:00+08:00,6.23,126.77,61.0,2.7,090 km S 58° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1229_0114_B1.html
+20211229T1303_13.96_120.57,2021-12-29T13:03:00+08:00,13.96,120.57,109.0,2.0,012 km S 48° W of Lian (Batangas),2021_Earthquake_Information/December/2021_1229_0503_B2.html
+20211229T1528_13.71_120.61,2021-12-29T15:28:00+08:00,13.71,120.61,102.0,2.8,014 km S 09° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1229_0728_B2F.html
+20211229T1559_13.55_120.88,2021-12-29T15:59:00+08:00,13.55,120.88,155.0,2.1,010 km N 60° W of Puerto Galera (Oriental Mindoro),2021_Earthquake_Information/December/2021_1229_0759_B2.html
+20211229T1606_5.8_126.32,2021-12-29T16:06:00+08:00,5.8,126.32,45.0,4.1,076 km S 81° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/December/2021_1229_0806_B2.html
+20211229T1711_6.03_126.07,2021-12-29T17:11:00+08:00,6.03,126.07,143.0,2.5,046 km S 66° E of Don Marcelino (Davao Occidental),2021_Earthquake_Information/December/2021_1229_0911_B2F.html
+20211229T1738_18.47_121.04,2021-12-29T17:38:00+08:00,18.47,121.04,85.0,4.0,015 km S 19° W of Claveria (Cagayan),2021_Earthquake_Information/December/2021_1229_0938_B2F.html
+20211229T1744_7.7_126.08,2021-12-29T17:44:00+08:00,7.7,126.08,5.0,3.0,004 km N 02° W of Compostela (Davao De Oro),2021_Earthquake_Information/December/2021_1229_0944_B2.html
+20211229T2315_7.4_127.35,2021-12-29T23:15:00+08:00,7.4,127.35,1.0,3.2,092 km N 77° E of Manay (Davao Oriental),2021_Earthquake_Information/December/2021_1229_1515_B2.html
+20211230T0002_7.32_127.44,2021-12-30T00:02:00+08:00,7.32,127.44,25.0,2.8,097 km S 89° E of Caraga (Davao Oriental),2021_Earthquake_Information/December/2021_1229_1602_B2.html
+20211230T0353_19.0_121.24,2021-12-30T03:53:00+08:00,19.0,121.24,2.0,2.5,012 km S 15° E of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/December/2021_1229_1953_B2.html
+20211230T0439_10.45_126.57,2021-12-30T04:39:00+08:00,10.45,126.57,11.0,3.2,073 km N 48° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/December/2021_1229_2039_B2.html
+20211230T0721_13.7_120.52,2021-12-30T07:21:00+08:00,13.7,120.52,144.0,2.6,018 km S 40° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1229_2321_B2F.html
+20211230T1324_9.6_126.72,2021-12-30T13:24:00+08:00,9.6,126.72,23.0,3.0,065 km S 71° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/December/2021_1230_0524_B2.html
+20211230T1419_6.01_126.0,2021-12-30T14:19:00+08:00,6.01,126.0,20.0,2.6,039 km S 59° E of Don Marcelino (Davao Occidental),2021_Earthquake_Information/December/2021_1230_0619_B1.html
+20211230T1455_9.39_125.67,2021-12-30T14:55:00+08:00,9.39,125.67,26.0,2.0,012 km S 56° E of Kitcharao (Agusan Del Norte),2021_Earthquake_Information/December/2021_1230_0655_B2.html
+20211230T1630_12.95_120.44,2021-12-30T16:30:00+08:00,12.95,120.44,22.0,2.7,039 km N 72° W of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1230_0830_B2.html
+20211230T1758_16.99_120.2,2021-12-30T17:58:00+08:00,16.99,120.2,31.0,2.1,024 km N 53° W of Luna (La Union),2021_Earthquake_Information/December/2021_1230_0958_B2.html
+20211230T2216_9.81_126.06,2021-12-30T22:16:00+08:00,9.81,126.06,20.0,2.1,006 km N 05° E of Dapa (Surigao Del Norte),2021_Earthquake_Information/December/2021_1230_1416_B2.html
+20211230T2336_12.93_120.89,2021-12-30T23:36:00+08:00,12.93,120.89,6.0,3.1,015 km N 50° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1230_1536_B2.html
+20211231T0205_18.27_122.07,2021-12-31T02:05:00+08:00,18.27,122.07,30.0,2.1,008 km N 85° E of Gonzaga (Cagayan),2021_Earthquake_Information/December/2021_1230_1805_B2.html
+20211231T0210_12.93_120.9,2021-12-31T02:10:00+08:00,12.93,120.9,8.0,2.7,016 km N 52° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1230_1810_B2.html
+20211231T0212_15.8_119.69,2021-12-31T02:12:00+08:00,15.8,119.69,36.0,1.8,023 km S 84° W of Infanta (Pangasinan),2021_Earthquake_Information/December/2021_1230_1812_B2.html
+20211231T0503_18.53_120.72,2021-12-31T05:03:00+08:00,18.53,120.72,34.0,2.0,005 km S 83° W of Bangui (Ilocos Norte),2021_Earthquake_Information/December/2021_1230_2103_B2.html
+20211231T0602_19.19_121.74,2021-12-31T06:02:00+08:00,19.19,121.74,10.0,2.2,028 km S 74° E of Calayan (Cagayan),2021_Earthquake_Information/December/2021_1230_2202_B2.html
+20211231T0603_17.4_120.12,2021-12-31T06:03:00+08:00,17.4,120.12,12.0,3.3,032 km S 59° W of Caoayan (Ilocos Sur),2021_Earthquake_Information/December/2021_1230_2203_B2.html
+20211231T0707_10.46_125.33,2021-12-31T07:07:00+08:00,10.46,125.33,2.0,3.1,016 km N 61° E of Hinunangan (Southern Leyte),2021_Earthquake_Information/December/2021_1230_2307_B2.html
+20211231T0920_13.38_120.07,2021-12-31T09:20:00+08:00,13.38,120.07,19.0,3.3,043 km S 84° W of Paluan (Occidental Mindoro),2021_Earthquake_Information/December/2021_1231_0120_B3.html
+20211231T1325_9.1_126.01,2021-12-31T13:25:00+08:00,9.1,126.01,138.0,1.8,014 km S 05° W of Carmen (Surigao Del Sur),2021_Earthquake_Information/December/2021_1231_0525_B1.html
+20211231T1414_19.45_121.59,2021-12-31T14:14:00+08:00,19.45,121.59,46.0,2.7,024 km N 31° E of Calayan (Cagayan),2021_Earthquake_Information/December/2021_1231_0614_B2.html
+20211231T1509_13.42_120.04,2021-12-31T15:09:00+08:00,13.42,120.04,24.0,3.2,040 km S 34° W of Looc (Occidental Mindoro),2021_Earthquake_Information/December/2021_1231_0709_B2F.html
+20211231T1518_13.46_120.14,2021-12-31T15:18:00+08:00,13.46,120.14,11.0,3.3,031 km S 22° W of Looc (Occidental Mindoro),2021_Earthquake_Information/December/2021_1231_0718_B2F.html
+20211231T1655_8.79_123.41,2021-12-31T16:55:00+08:00,8.79,123.41,18.0,2.2,017 km N 01° W of City Of Dapitan (Zamboanga Del Norte),2021_Earthquake_Information/December/2021_1231_0855_B2.html
+20211231T1719_18.06_120.81,2021-12-31T17:19:00+08:00,18.06,120.81,11.0,3.0,009 km S 08° W of Carasi (Ilocos Norte),2021_Earthquake_Information/December/2021_1231_0919_B2.html
+20211231T1757_13.91_120.43,2021-12-31T17:57:00+08:00,13.91,120.43,11.0,1.7,023 km N 69° W of Calatagan (Batangas),2021_Earthquake_Information/December/2021_1231_0957_B2.html
+20211231T2010_13.78_124.04,2021-12-31T20:10:00+08:00,13.78,124.04,11.0,3.0,019 km N 88° E of Caramoan (Camarines Sur),2021_Earthquake_Information/December/2021_1231_1210_B2.html
+20211231T2049_15.48_118.6,2021-12-31T20:49:00+08:00,15.48,118.6,1.0,2.8,097 km N 68° E of Bajo De Masinloc (Masinloc) (Zambales),2021_Earthquake_Information/December/2021_1231_1249_B1.html
+20211231T2116_8.4_125.73,2021-12-31T21:16:00+08:00,8.4,125.73,32.0,2.0,008 km S 44° W of Talacogon (Agusan Del Sur),2021_Earthquake_Information/December/2021_1231_1316_B2.html
+20211231T2158_9.01_126.12,2021-12-31T21:58:00+08:00,9.01,126.12,46.0,3.0,009 km S 37° W of City Of Tandag (Surigao Del Sur),2021_Earthquake_Information/December/2021_1231_1358_B2.html
+20211231T2202_6.19_126.59,2021-12-31T22:02:00+08:00,6.19,126.59,73.0,2.4,077 km S 49° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/December/2021_1231_1402_B2.html
+20211231T2203_16.88_120.44,2021-12-31T22:03:00+08:00,16.88,120.44,88.0,2.3,003 km S 39° E of Bangar (La Union),2021_Earthquake_Information/December/2021_1231_1403_B2.html

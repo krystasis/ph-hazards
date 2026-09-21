@@ -1,0 +1,850 @@
+event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
+20190701T0041_8.34_125.85,2019-07-01T00:41:00+08:00,8.34,125.85,28.0,2.4,0 05 km N 50° E of La Paz (Agusan Del Sur),2019_Earthquake_Information/June/2019_0630_1641_B2.html
+20190701T0246_5.86_126.29,2019-07-01T02:46:00+08:00,5.86,126.29,110.0,2.6,0 74 km S 88° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/June/2019_0630_1846_B2.html
+20190701T0328_5.3_126.43,2019-07-01T03:28:00+08:00,5.3,126.43,100.0,2.1,107 km S 82° E of Sarangani (Davao Occidental),2019_Earthquake_Information/June/2019_0630_1928_B2.html
+20190701T0335_9.78_126.37,2019-07-01T03:35:00+08:00,9.78,126.37,16.0,3.2,023 km S 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/June/2019_0630_1935_B2.html
+20190701T0452_15.19_122.71,2019-07-01T04:52:00+08:00,15.19,122.71,1.0,2.6,0 64 km N 35° E of Jomalig (Quezon),2019_Earthquake_Information/June/2019_0630_2052_B2.html
+20190701T0636_11.74_125.82,2019-07-01T06:36:00+08:00,11.74,125.82,10.0,2.9,0 39 km S 88° E of San Julian (Eastern Samar),2019_Earthquake_Information/June/2019_0630_2236_B2.html
+20190701T0748_15.49_121.69,2019-07-01T07:48:00+08:00,15.49,121.69,1.0,2.0,034 km N 73° E of Dingalan (Aurora),2019_Earthquake_Information/June/2019_0630_2348_B2.html
+20190701T0830_18.98_120.84,2019-07-01T08:30:00+08:00,18.98,120.84,4.0,2.9,044 km N 07° E of Pagudpud (Ilocos Norte),2019_Earthquake_Information/July/2019_0701_0030_B2.html
+20190701T0840_15.19_119.85,2019-07-01T08:40:00+08:00,15.19,119.85,47.0,1.6,023 km N 81° W of Cabangan (Zambales),2019_Earthquake_Information/July/2019_0701_0040_B2.html
+20190701T0900_4.45_126.69,2019-07-01T09:00:00+08:00,4.45,126.69,8.0,3.6,173 km S 51° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0701_0100_B2.html
+20190701T0953_9.93_125.55,2019-07-01T09:53:00+08:00,9.93,125.55,32.0,2.2,005 km S 47° W of Dinagat (Dinagat),2019_Earthquake_Information/July/2019_0701_0153_B2.html
+20190701T1155_13.98_120.51,2019-07-01T11:55:00+08:00,13.98,120.51,87.0,2.0,017 km S 48° W of Nasugbu (Batangas),2019_Earthquake_Information/July/2019_0701_0355_B2.html
+20190701T1413_5.97_126.36,2019-07-01T14:13:00+08:00,5.97,126.36,119.0,2.3,078 km S 71° E of Don Marcelino (Davao Occidental),2019_Earthquake_Information/July/2019_0701_0613_B2.html
+20190701T1427_6.94_126.06,2019-07-01T14:27:00+08:00,6.94,126.06,32.0,2.6,006 km S 58° E of Banaybanay (Davao Oriental),2019_Earthquake_Information/July/2019_0701_0627_B2.html
+20190701T1649_19.77_120.4,2019-07-01T16:49:00+08:00,19.77,120.4,1.0,2.3,124 km N 64° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0701_0849_B2.html
+20190701T1739_12.48_124.84,2019-07-01T17:39:00+08:00,12.48,124.84,22.0,3.3,011 km S 66° E of Mondragon (Northern Samar),2019_Earthquake_Information/July/2019_0701_0939_B2.html
+20190701T1756_12.74_125.23,2019-07-01T17:56:00+08:00,12.74,125.23,10.0,2.6,025 km N 31° E of Palapag (Northern Samar),2019_Earthquake_Information/July/2019_0701_0956_B2.html
+20190701T2132_5.36_127.24,2019-07-01T21:32:00+08:00,5.36,127.24,114.0,2.7,189 km S 72° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0701_1332_B2.html
+20190701T2343_5.2_125.4,2019-07-01T23:43:00+08:00,5.2,125.4,165.0,4.1,027 km S 17° W of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0701_1543_B2.html
+20190702T0057_7.98_126.41,2019-07-02T00:57:00+08:00,7.98,126.41,21.0,2.4,022 km N 11° W of Cateel (Davao Oriental),2019_Earthquake_Information/July/2019_0701_1657_B2.html
+20190702T0059_9.19_124.32,2019-07-02T00:59:00+08:00,9.19,124.32,554.0,5.9,051 km S 29° E of Lila (Bohol),2019_Earthquake_Information/July/2019_0701_1659_B3F.html
+20190702T0119_15.09_120.35,2019-07-02T01:19:00+08:00,15.09,120.35,24.0,1.9,024 km N 43° E of Castillejos (Zambales),2019_Earthquake_Information/July/2019_0701_1719_B2.html
+20190702T0234_7.48_126.08,2019-07-02T02:34:00+08:00,7.48,126.08,10.0,2.1,021 km S 02° W of Compostela (Compostela Valley),2019_Earthquake_Information/July/2019_0701_1834_B2.html
+20190702T0319_16.63_120.12,2019-07-02T03:19:00+08:00,16.63,120.12,57.0,2.5,024 km S 79° W of San Juan (La Union),2019_Earthquake_Information/July/2019_0701_1919_B2.html
+20190702T0346_9.6_126.1,2019-07-02T03:46:00+08:00,9.6,126.1,23.0,2.1,022 km S 16° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0701_1946_B2.html
+20190702T0350_8.18_125.93,2019-07-02T03:50:00+08:00,8.18,125.93,23.0,2.1,008 km N 89° E of Loreto (Agusan Del Sur),2019_Earthquake_Information/July/2019_0701_1950_B2.html
+20190702T0608_5.49_126.7,2019-07-02T06:08:00+08:00,5.49,126.7,2.0,2.8,146 km S 28° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0701_2208_B2.html
+20190702T0626_6.19_126.65,2019-07-02T06:26:00+08:00,6.19,126.65,74.0,2.6,082 km S 52° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0701_2226_B2.html
+20190702T0707_8.64_125.68,2019-07-02T07:07:00+08:00,8.64,125.68,48.0,2.1,012 km S 40° W of Bayugan City (Agusan Del Sur),2019_Earthquake_Information/July/2019_0701_2307_B2.html
+20190702T0901_17.43_120.14,2019-07-02T09:01:00+08:00,17.43,120.14,18.0,2.1,028 km S 53° W of Santa Catalina (Ilocos Sur),2019_Earthquake_Information/July/2019_0702_0101_B2.html
+20190702T0931_18.55_120.75,2019-07-02T09:31:00+08:00,18.55,120.75,29.0,2.1,007 km N 53° W of Dumalneg (Ilocos Norte),2019_Earthquake_Information/July/2019_0702_0131_B2.html
+20190702T1108_7.55_125.93,2019-07-02T11:08:00+08:00,7.55,125.93,20.0,3.1,004 km N 20° E of Mawab (Compostela Valley),2019_Earthquake_Information/July/2019_0702_0308_B2.html
+20190702T1151_13.73_120.91,2019-07-02T11:51:00+08:00,13.73,120.91,6.0,2.1,009 km N 26° E of Tingloy (Batangas),2019_Earthquake_Information/July/2019_0702_0351_B2.html
+20190702T1414_9.89_126.39,2019-07-02T14:14:00+08:00,9.89,126.39,13.0,2.5,029 km N 65° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0702_0614_B2.html
+20190702T1457_19.21_120.95,2019-07-02T14:57:00+08:00,19.21,120.95,19.0,2.8,055 km S 81° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0702_0657_B2.html
+20190702T1605_10.21_125.71,2019-07-02T16:05:00+08:00,10.21,125.71,17.0,2.3,022 km S 42° E of Loreto (Dinagat),2019_Earthquake_Information/July/2019_0702_0805_B2.html
+20190702T1716_9.63_125.91,2019-07-02T17:16:00+08:00,9.63,125.91,2.0,2.6,007 km N 83° W of Socorro (Surigao Del Norte),2019_Earthquake_Information/July/2019_0702_0916_B2.html
+20190702T1837_10.07_126.64,2019-07-02T18:37:00+08:00,10.07,126.64,14.0,3.4,062 km N 85° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0702_1037_B2.html
+20190702T1855_8.4_125.86,2019-07-02T18:55:00+08:00,8.4,125.86,6.0,4.2,011 km N 29° E of La Paz (Agusan Del Sur),2019_Earthquake_Information/July/2019_0702_1055_B2F.html
+20190702T1912_8.39_125.88,2019-07-02T19:12:00+08:00,8.39,125.88,8.0,2.1,013 km N 57° E of La Paz (Agusan Del Sur),2019_Earthquake_Information/July/2019_0702_1112_B2.html
+20190702T1913_19.0_121.14,2019-07-02T19:13:00+08:00,19.0,121.14,31.0,2.0,044 km N 08° E of Claveria (Cagayan),2019_Earthquake_Information/July/2019_0702_1113_B2.html
+20190702T1937_20.08_121.54,2019-07-02T19:37:00+08:00,20.08,121.54,18.0,2.1,045 km S 51° W of Sabtang (Batanes),2019_Earthquake_Information/July/2019_0702_1137_B2.html
+20190702T1943_8.39_125.87,2019-07-02T19:43:00+08:00,8.39,125.87,6.0,3.9,011 km N 36° E of La Paz (Agusan Del Sur),2019_Earthquake_Information/July/2019_0702_1143_B3.html
+20190702T1959_8.4_125.86,2019-07-02T19:59:00+08:00,8.4,125.86,9.0,2.4,011 km N 29° E of La Paz (Agusan Del Sur),2019_Earthquake_Information/July/2019_0702_1159_B2.html
+20190702T2010_10.14_126.29,2019-07-02T20:10:00+08:00,10.14,126.29,17.0,2.7,027 km N 60° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0702_1210_B2.html
+20190702T2057_8.41_125.78,2019-07-02T20:57:00+08:00,8.41,125.78,23.0,1.8,004 km S 13° W of Talacogon (Agusan Del Sur),2019_Earthquake_Information/July/2019_0702_1257_B2.html
+20190702T2218_10.27_125.2,2019-07-02T22:18:00+08:00,10.27,125.2,1.0,2.4,003 km N 86° E of Cabalian (San Juan) (Southern Leyte),2019_Earthquake_Information/July/2019_0702_1418_B2.html
+20190702T2221_10.17_125.1,2019-07-02T22:21:00+08:00,10.17,125.1,2.0,3.1,002 km N 63° W of Liloan (Southern Leyte),2019_Earthquake_Information/July/2019_0702_1421_B2.html
+20190702T2258_9.04_125.96,2019-07-02T22:58:00+08:00,9.04,125.96,107.0,2.9,013 km N 39° W of San Miguel (Surigao Del Sur),2019_Earthquake_Information/July/2019_0702_1458_B2.html
+20190702T2310_8.24_125.93,2019-07-02T23:10:00+08:00,8.24,125.93,24.0,2.0,010 km N 37° W of Bunawan (Agusan Del Sur),2019_Earthquake_Information/July/2019_0702_1510_B2.html
+20190702T2337_10.89_123.86,2019-07-02T23:37:00+08:00,10.89,123.86,31.0,2.0,008 km N 13° W of Tabuelan (Cebu),2019_Earthquake_Information/July/2019_0702_1537_B2.html
+20190702T2355_5.58_126.27,2019-07-02T23:55:00+08:00,5.58,126.27,71.0,3.8,080 km S 62° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0702_1555_B2.html
+20190703T0006_19.23_121.16,2019-07-03T00:06:00+08:00,19.23,121.16,28.0,2.0,033 km S 79° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0702_1606_B2.html
+20190703T0046_7.47_126.84,2019-07-03T00:46:00+08:00,7.47,126.84,115.0,2.6,033 km S 69° E of Baganga (Davao Oriental),2019_Earthquake_Information/July/2019_0702_1646_B2.html
+20190703T0052_10.27_125.11,2019-07-03T00:52:00+08:00,10.27,125.11,10.0,2.8,007 km S 86° W of Cabalian (San Juan) (Southern Leyte),2019_Earthquake_Information/July/2019_0702_1652_B2.html
+20190703T0233_7.63_126.57,2019-07-03T02:33:00+08:00,7.63,126.57,27.0,2.7,006 km N 11° E of Baganga (Davao Oriental),2019_Earthquake_Information/July/2019_0702_1833_B2.html
+20190703T0556_8.44_125.78,2019-07-03T05:56:00+08:00,8.44,125.78,19.0,2.7,002 km S 24° W of Talacogon (Agusan Del Sur),2019_Earthquake_Information/July/2019_0702_2156_B2.html
+20190703T0608_8.44_126.14,2019-07-03T06:08:00+08:00,8.44,126.14,85.0,2.0,003 km S 43° W of Tagbina (Surigao Del Sur),2019_Earthquake_Information/July/2019_0702_2208_B2.html
+20190703T0618_8.9_122.46,2019-07-03T06:18:00+08:00,8.9,122.46,33.0,2.4,061 km S 19° W of Basay (Negros Oriental),2019_Earthquake_Information/July/2019_0702_2218_B2.html
+20190703T0654_9.57_126.07,2019-07-03T06:54:00+08:00,9.57,126.07,48.0,2.6,013 km S 63° E of Socorro (Surigao Del Norte),2019_Earthquake_Information/July/2019_0702_2254_B2.html
+20190703T0702_10.39_125.19,2019-07-03T07:02:00+08:00,10.39,125.19,1.0,2.9,001 km S 45° W of Hinunangan (Southern Leyte),2019_Earthquake_Information/July/2019_0702_2302_B2.html
+20190703T0732_13.5_125.63,2019-07-03T07:32:00+08:00,13.5,125.63,40.0,3.3,119 km N 28° E of Palapag (Northern Samar),2019_Earthquake_Information/July/2019_0702_2332_B2.html
+20190703T0952_15.05_120.32,2019-07-03T09:52:00+08:00,15.05,120.32,25.0,2.5,018 km N 44° E of Castillejos (Zambales),2019_Earthquake_Information/July/2019_0703_0152_B2.html
+20190703T1008_15.05_120.24,2019-07-03T10:08:00+08:00,15.05,120.24,33.0,1.9,013 km N 17° E of Castillejos (Zambales),2019_Earthquake_Information/July/2019_0703_0208_B2.html
+20190703T1141_15.05_120.25,2019-07-03T11:41:00+08:00,15.05,120.25,33.0,2.0,014 km N 25° E of Castillejos (Zambales),2019_Earthquake_Information/July/2019_0703_0341_B2.html
+20190703T1301_8.5_126.56,2019-07-03T13:01:00+08:00,8.5,126.56,37.0,2.8,028 km N 59° E of Hinatuan (Surigao Del Sur),2019_Earthquake_Information/July/2019_0703_0501_B2.html
+20190703T1800_6.87_126.3,2019-07-03T18:00:00+08:00,6.87,126.3,29.0,3.0,013 km S 46° E of Mati (Davao Oriental),2019_Earthquake_Information/July/2019_0703_1000_B2.html
+20190703T2035_5.26_125.94,2019-07-03T20:35:00+08:00,5.26,125.94,47.0,2.9,056 km S 69° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0703_1235_B2.html
+20190703T2142_8.3_125.85,2019-07-03T21:42:00+08:00,8.3,125.85,32.0,1.7,004 km S 69° E of La Paz (Agusan Del Sur),2019_Earthquake_Information/July/2019_0703_1342_B2.html
+20190703T2147_6.21_126.65,2019-07-03T21:47:00+08:00,6.21,126.65,28.0,2.7,080 km S 53° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0703_1347_B2.html
+20190703T2257_6.62_124.18,2019-07-03T22:57:00+08:00,6.62,124.18,4.0,3.0,014 km S 75° E of Lebak (Sultan Kudarat),2019_Earthquake_Information/July/2019_0703_1457_B2.html
+20190703T2321_18.65_120.82,2019-07-03T23:21:00+08:00,18.65,120.82,14.0,3.2,008 km N 18° E of Pagudpud (Ilocos Norte),2019_Earthquake_Information/July/2019_0703_1521_B2F.html
+20190703T2336_6.41_126.43,2019-07-03T23:36:00+08:00,6.41,126.43,42.0,2.3,048 km S 57° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0703_1536_B2.html
+20190703T2341_14.96_119.25,2019-07-03T23:41:00+08:00,14.96,119.25,1.0,2.0,088 km S 62° W of Iba (Zambales),2019_Earthquake_Information/July/2019_0703_1541_B2.html
+20190704T0139_17.55_122.27,2019-07-04T01:39:00+08:00,17.55,122.27,29.0,3.0,018 km N 08° E of Maconacon (Isabela),2019_Earthquake_Information/July/2019_0703_1739_B2.html
+20190704T0215_11.0_123.16,2019-07-04T02:15:00+08:00,11.0,123.16,18.0,2.0,017 km N 76° W of Cadiz City (Negros Occidental),2019_Earthquake_Information/July/2019_0703_1815_B2.html
+20190704T0258_15.49_121.48,2019-07-04T02:58:00+08:00,15.49,121.48,4.0,3.0,014 km N 48° E of Dingalan (Aurora),2019_Earthquake_Information/July/2019_0703_1858_B2.html
+20190704T0618_7.56_122.1,2019-07-04T06:18:00+08:00,7.56,122.1,14.0,1.9,006 km S 63° W of Sirawai (Zamboanga Del Norte),2019_Earthquake_Information/July/2019_0703_2218_B2.html
+20190704T0925_5.59_126.15,2019-07-04T09:25:00+08:00,5.59,126.15,113.0,3.2,068 km S 61° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0704_0125_B2.html
+20190704T0959_9.72_122.56,2019-07-04T09:59:00+08:00,9.72,122.56,26.0,1.9,010 km S 22° W of Candoni (Negros Occidental),2019_Earthquake_Information/July/2019_0704_0159_B2.html
+20190704T1037_8.09_127.52,2019-07-04T10:37:00+08:00,8.09,127.52,31.0,3.3,120 km N 62° E of Baganga (Davao Oriental),2019_Earthquake_Information/July/2019_0704_0237_B1.html
+20190704T1101_13.79_120.48,2019-07-04T11:01:00+08:00,13.79,120.48,126.0,2.7,018 km S 73° W of Calatagan (Batangas),2019_Earthquake_Information/July/2019_0704_0301_B2.html
+20190704T1325_5.03_125.39,2019-07-04T13:25:00+08:00,5.03,125.39,108.0,3.2,045 km S 11° W of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0704_0525_B2.html
+20190704T1412_13.68_120.23,2019-07-04T14:12:00+08:00,13.68,120.23,9.0,2.2,005 km S 28° W of Looc (Occidental Mindoro),2019_Earthquake_Information/July/2019_0704_0612_B2.html
+20190704T1412_9.93_124.3,2019-07-04T14:12:00+08:00,9.93,124.3,31.0,1.9,005 km N 33° E of Dagohoy (Bohol),2019_Earthquake_Information/July/2019_0704_0612_B2_Bohol.html
+20190704T1454_11.28_125.65,2019-07-04T14:54:00+08:00,11.28,125.65,32.0,2.9,006 km S 30° E of Hernani (Eastern Samar),2019_Earthquake_Information/July/2019_0704_0654_B2F.html
+20190704T1501_2.49_126.77,2019-07-04T15:01:00+08:00,2.49,126.77,33.0,3.8,356 km S 24° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0704_0701_B2.html
+20190704T1621_5.22_127.66,2019-07-04T16:21:00+08:00,5.22,127.66,30.0,3.0,239 km S 72° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0704_0821_B2.html
+20190704T1645_13.7_120.29,2019-07-04T16:45:00+08:00,13.7,120.29,3.0,2.7,005 km S 57° E of Looc (Occidental Mindoro),2019_Earthquake_Information/July/2019_0704_0845_B2.html
+20190704T1817_14.91_120.29,2019-07-04T18:17:00+08:00,14.91,120.29,32.0,1.9,010 km S 77° E of Castillejos (Zambales),2019_Earthquake_Information/July/2019_0704_1017_B1.html
+20190704T1852_11.74_125.34,2019-07-04T18:52:00+08:00,11.74,125.34,20.0,2.9,012 km S 84° W of San Julian (Eastern Samar),2019_Earthquake_Information/July/2019_0704_1052_B2F.html
+20190704T1942_5.62_127.19,2019-07-04T19:42:00+08:00,5.62,127.19,65.0,2.3,168 km S 47° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0704_1142_B2.html
+20190704T2021_13.93_120.59,2019-07-04T20:21:00+08:00,13.93,120.59,182.0,2.6,012 km N 21° W of Calatagan (Batangas),2019_Earthquake_Information/July/2019_0704_1221_B2.html
+20190704T2037_19.11_121.84,2019-07-04T20:37:00+08:00,19.11,121.84,30.0,3.3,043 km S 65° E of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0704_1237_B2.html
+20190704T2039_13.64_121.69,2019-07-04T20:39:00+08:00,13.64,121.69,1.0,3.0,026 km N 37° W of Boac (Marinduque),2019_Earthquake_Information/July/2019_0704_1239_B2.html
+20190704T2109_17.76_120.22,2019-07-04T21:09:00+08:00,17.76,120.22,39.0,1.8,024 km N 40° W of San Vicente (Ilocos Sur),2019_Earthquake_Information/July/2019_0704_1309_B2.html
+20190704T2202_12.19_120.76,2019-07-04T22:02:00+08:00,12.19,120.76,33.0,3.2,037 km S 38° W of Rizal (Occidental Mindoro),2019_Earthquake_Information/July/2019_0704_1402_B2F.html
+20190704T2228_11.22_124.4,2019-07-04T22:28:00+08:00,11.22,124.4,6.0,2.4,002 km N 40° E of Villaba (Leyte),2019_Earthquake_Information/July/2019_0704_1428_B2.html
+20190705T0021_5.54_127.33,2019-07-05T00:21:00+08:00,5.54,127.33,92.0,3.4,185 km S 48° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0704_1621_B2.html
+20190705T0026_11.19_124.63,2019-07-05T00:26:00+08:00,11.19,124.63,7.0,1.9,007 km N 83° E of Kananga (Leyte),2019_Earthquake_Information/July/2019_0704_1626_B2.html
+20190705T0148_9.35_121.49,2019-07-05T01:48:00+08:00,9.35,121.49,25.0,3.1,111 km S 66° W of Sipalay (Negros Occidental),2019_Earthquake_Information/July/2019_0704_1748_B2.html
+20190705T0230_9.88_126.29,2019-07-05T02:30:00+08:00,9.88,126.29,13.0,2.7,018 km N 54° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0704_1830_B2.html
+20190705T0305_13.7_120.5,2019-07-05T03:05:00+08:00,13.7,120.5,97.0,3.5,020 km S 45° W of Calatagan (Batangas),2019_Earthquake_Information/July/2019_0704_1905_B2.html
+20190705T0328_16.15_122.47,2019-07-05T03:28:00+08:00,16.15,122.47,1.0,2.2,039 km S 45° E of Dilasag (Aurora),2019_Earthquake_Information/July/2019_0704_1928_B2.html
+20190705T0329_5.38_126.85,2019-07-05T03:29:00+08:00,5.38,126.85,41.0,3.3,148 km S 68° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0704_1929_B2.html
+20190705T0349_9.09_126.78,2019-07-05T03:49:00+08:00,9.09,126.78,9.0,3.6,056 km N 70° E of Cagwait (Surigao Del Sur),2019_Earthquake_Information/July/2019_0704_1949_B2.html
+20190705T0634_9.0_126.58,2019-07-05T06:34:00+08:00,9.0,126.58,17.0,2.8,032 km N 74° E of Cagwait (Surigao Del Sur),2019_Earthquake_Information/July/2019_0704_2234_B2.html
+20190705T0701_18.7_120.72,2019-07-05T07:01:00+08:00,18.7,120.72,26.0,1.9,015 km N 29° W of Pagudpud (Ilocos Norte),2019_Earthquake_Information/July/2019_0704_2301_B2.html
+20190705T1208_20.81_121.01,2019-07-05T12:08:00+08:00,20.81,121.01,102.0,2.3,087 km N 89° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0705_0408_B2.html
+20190705T1954_9.89_126.73,2019-07-05T19:54:00+08:00,9.89,126.73,4.0,2.2,064 km N 79° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0705_1154_B2.html
+20190705T2034_9.12_126.89,2019-07-05T20:34:00+08:00,9.12,126.89,4.0,2.4,069 km N 72° E of Cagwait (Surigao Del Sur),2019_Earthquake_Information/July/2019_0705_1234_B2.html
+20190705T2112_9.67_122.3,2019-07-05T21:12:00+08:00,9.67,122.3,13.0,2.8,015 km S 51° W of Sipalay (Negros Occidental),2019_Earthquake_Information/July/2019_0705_1312_B2.html
+20190705T2245_6.82_125.34,2019-07-05T22:45:00+08:00,6.82,125.34,12.0,2.5,015 km N 76° E of Bansalan (Davao Del Sur),2019_Earthquake_Information/July/2019_0705_1445_B2.html
+20190705T2335_10.5_125.4,2019-07-05T23:35:00+08:00,10.5,125.4,30.0,2.6,022 km N 45° E of Hinundayan (Southern Leyte),2019_Earthquake_Information/July/2019_0705_1535_B2.html
+20190706T0006_11.03_121.81,2019-07-06T00:06:00+08:00,11.03,121.81,7.0,2.3,024 km N 57° W of Patnongon (Antique),2019_Earthquake_Information/July/2019_0705_1606_B2.html
+20190706T0103_9.09_126.79,2019-07-06T01:03:00+08:00,9.09,126.79,18.0,2.6,057 km N 76° E of Bayabas (Surigao Del Sur),2019_Earthquake_Information/July/2019_0705_1703_B2.html
+20190706T0112_11.57_126.03,2019-07-06T01:12:00+08:00,11.57,126.03,91.0,2.4,068 km N 29° E of Guiuan (Eastern Samar),2019_Earthquake_Information/July/2019_0705_1712_B2.html
+20190706T0142_10.13_125.08,2019-07-06T01:42:00+08:00,10.13,125.08,22.0,1.7,019 km S 09° E of Libagon (Southern Leyte),2019_Earthquake_Information/July/2019_0705_1742_B2.html
+20190706T0147_8.89_125.7,2019-07-06T01:47:00+08:00,8.89,125.7,10.0,2.5,008 km N 07° W of Sibagat (Agusan Del Sur),2019_Earthquake_Information/July/2019_0705_1747_B2.html
+20190706T0800_13.89_119.96,2019-07-06T08:00:00+08:00,13.89,119.96,33.0,2.1,018 km N 79° W of Lubang (Occidental Mindoro),2019_Earthquake_Information/July/2019_0706_0000_B1.html
+20190706T1342_10.25_121.51,2019-07-06T13:42:00+08:00,10.25,121.51,2.0,2.7,050 km S 67° W of Anini-y (Antique),2019_Earthquake_Information/July/2019_0706_0542_B2.html
+20190706T1445_13.25_121.5,2019-07-06T14:45:00+08:00,13.25,121.5,30.0,1.9,013 km N 30° E of Pola (Oriental Mindoro),2019_Earthquake_Information/July/2019_0706_0645_B2.html
+20190706T1519_8.54_126.88,2019-07-06T15:19:00+08:00,8.54,126.88,34.0,1.9,063 km N 73° E of Hinatuan (Surigao Del Sur),2019_Earthquake_Information/July/2019_0706_0719_B2.html
+20190706T1657_8.85_125.67,2019-07-06T16:57:00+08:00,8.85,125.67,3.0,2.7,010 km N 45° E of Las Nieves (Agusan Del Norte),2019_Earthquake_Information/July/2019_0706_0857_B2.html
+20190706T1847_10.47_125.09,2019-07-06T18:47:00+08:00,10.47,125.09,1.0,3.4,014 km N 56° W of Hinunangan (Southern Leyte),2019_Earthquake_Information/July/2019_0706_1047_B2.html
+20190706T2057_6.67_126.74,2019-07-06T20:57:00+08:00,6.67,126.74,119.0,2.5,053 km S 38° E of Tarragona (Davao Oriental),2019_Earthquake_Information/July/2019_0706_1257_B2.html
+20190706T2305_13.16_124.77,2019-07-06T23:05:00+08:00,13.16,124.77,22.0,2.1,064 km N 80° E of Prieto Diaz (Sorsogon),2019_Earthquake_Information/July/2019_0706_1505_B2.html
+20190706T2339_12.61_121.21,2019-07-06T23:39:00+08:00,12.61,121.21,19.0,2.4,031 km N 57° E of Rizal (Occidental Mindoro),2019_Earthquake_Information/July/2019_0706_1539_B2.html
+20190706T2340_6.25_126.53,2019-07-06T23:40:00+08:00,6.25,126.53,96.0,2.1,067 km S 49° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0706_1540_B2.html
+20190707T0001_8.94_127.23,2019-07-07T00:01:00+08:00,8.94,127.23,1.0,3.4,102 km N 89° E of Cagwait (Surigao Del Sur),2019_Earthquake_Information/July/2019_0706_1601_B2.html
+20190707T0041_8.91_124.05,2019-07-07T00:41:00+08:00,8.91,124.05,11.0,2.3,049 km N 49° E of Plaridel (Misamis Occidental),2019_Earthquake_Information/July/2019_0706_1641_B2.html
+20190707T0128_8.52_126.87,2019-07-07T01:28:00+08:00,8.52,126.87,33.0,2.4,061 km N 75° E of Hinatuan (Surigao Del Sur),2019_Earthquake_Information/July/2019_0706_1728_B2.html
+20190707T0135_12.86_123.61,2019-07-07T01:35:00+08:00,12.86,123.61,14.0,3.1,011 km S 46° W of Pilar (Sorsogon),2019_Earthquake_Information/July/2019_0706_1735_B2.html
+20190707T0158_9.53_124.96,2019-07-07T01:58:00+08:00,9.53,124.96,4.0,2.4,044 km S 16° W of Limasawa (Southern Leyte),2019_Earthquake_Information/July/2019_0706_1758_B2.html
+20190707T0202_18.86_120.64,2019-07-07T02:02:00+08:00,18.86,120.64,6.0,3.3,035 km N 27° W of Pagudpud (Ilocos Norte),2019_Earthquake_Information/July/2019_0706_1802_B2.html
+20190707T0334_5.3_124.83,2019-07-07T03:34:00+08:00,5.3,124.83,29.0,2.6,065 km S 18° W of Maasim (Sarangani),2019_Earthquake_Information/July/2019_0706_1934_B2.html
+20190707T0335_9.65_126.24,2019-07-07T03:35:00+08:00,9.65,126.24,31.0,1.9,017 km S 33° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0706_1935_B2.html
+20190707T0359_10.09_126.4,2019-07-07T03:59:00+08:00,10.09,126.4,14.0,2.2,037 km N 78° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0706_1959_B2.html
+20190707T0406_10.47_125.21,2019-07-07T04:06:00+08:00,10.47,125.21,7.0,2.5,008 km S 38° E of Silago (Southern Leyte),2019_Earthquake_Information/July/2019_0706_2006_B2.html
+20190707T0451_15.65_121.06,2019-07-07T04:51:00+08:00,15.65,121.06,24.0,2.1,005 km S 73° E of Llanera (Nueva Ecija),2019_Earthquake_Information/July/2019_0706_2051_B2.html
+20190707T0747_6.49_126.88,2019-07-07T07:47:00+08:00,6.49,126.88,23.0,2.6,079 km S 38° E of Tarragona (Davao Oriental),2019_Earthquake_Information/July/2019_0706_2347_B2.html
+20190707T1032_9.13_126.9,2019-07-07T10:32:00+08:00,9.13,126.9,3.0,3.2,069 km N 71° E of Cagwait (Surigao Del Sur),2019_Earthquake_Information/July/2019_0707_0232_B1.html
+20190707T1119_5.77_126.47,2019-07-07T11:19:00+08:00,5.77,126.47,92.0,2.0,096 km S 82° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0707_0319_B1.html
+20190707T1147_14.16_120.31,2019-07-07T11:47:00+08:00,14.16,120.31,2.0,1.6,035 km N 76° W of Nasugbu (Batangas),2019_Earthquake_Information/July/2019_0707_0347_B1.html
+20190707T1724_6.02_126.05,2019-07-07T17:24:00+08:00,6.02,126.05,153.0,2.9,043 km S 64° E of Don Marcelino (Davao Occidental),2019_Earthquake_Information/July/2019_0707_0924_B2.html
+20190707T1737_9.62_126.73,2019-07-07T17:37:00+08:00,9.62,126.73,10.0,1.9,066 km S 74° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0707_0937_B2.html
+20190707T1802_7.87_126.45,2019-07-07T18:02:00+08:00,7.87,126.45,9.0,2.1,008 km S 88° E of Boston (Davao Oriental),2019_Earthquake_Information/July/2019_0707_1002_B2.html
+20190707T1823_7.82_124.67,2019-07-07T18:23:00+08:00,7.82,124.67,5.0,3.0,021 km N 25° W of Wao (Lanao Del Sur),2019_Earthquake_Information/July/2019_0707_1023_B2.html
+20190707T1958_19.1_121.65,2019-07-07T19:58:00+08:00,19.1,121.65,30.0,2.2,028 km S 44° E of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0707_1158_B2.html
+20190707T2027_7.88_124.65,2019-07-07T20:27:00+08:00,7.88,124.65,2.0,3.5,009 km N 02° W of Bumbaran (Lanao Del Sur),2019_Earthquake_Information/July/2019_0707_1227_B1.html
+20190707T2055_11.16_124.72,2019-07-07T20:55:00+08:00,11.16,124.72,5.0,2.4,007 km S 67° W of Jaro (Leyte),2019_Earthquake_Information/July/2019_0707_1255_B1.html
+20190707T2122_8.33_122.18,2019-07-07T21:22:00+08:00,8.33,122.18,33.0,2.5,045 km N 08° W of Gutalac (Zamboanga Del Norte),2019_Earthquake_Information/July/2019_0707_1322_B1.html
+20190707T2242_12.21_124.49,2019-07-07T22:42:00+08:00,12.21,124.49,29.0,2.0,019 km N 35° W of Calbayog City (Western Samar),2019_Earthquake_Information/July/2019_0707_1442_B1.html
+20190707T2303_12.48_124.05,2019-07-07T23:03:00+08:00,12.48,124.05,32.0,1.8,013 km S 16° W of Matnog (Sorsogon),2019_Earthquake_Information/July/2019_0707_1503_B1.html
+20190707T2348_15.01_120.32,2019-07-07T23:48:00+08:00,15.01,120.32,32.0,2.7,015 km N 57° E of Castillejos (Zambales),2019_Earthquake_Information/July/2019_0707_1548_B1.html
+20190708T0319_10.01_126.21,2019-07-08T03:19:00+08:00,10.01,126.21,19.0,2.9,016 km S 86° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0707_1919_B2.html
+20190708T0326_10.43_124.79,2019-07-08T03:26:00+08:00,10.43,124.79,2.0,2.5,009 km S 38° E of Inopacan (Leyte),2019_Earthquake_Information/July/2019_0707_1926_B2.html
+20190708T0351_9.65_124.96,2019-07-08T03:51:00+08:00,9.65,124.96,11.0,2.6,048 km N 85° W of Malimono (Surigao Del Norte),2019_Earthquake_Information/July/2019_0707_1951_B2.html
+20190708T0401_10.04_126.24,2019-07-08T04:01:00+08:00,10.04,126.24,20.0,2.1,018 km N 82° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0707_2001_B2.html
+20190708T0511_8.33_123.31,2019-07-08T05:11:00+08:00,8.33,123.31,5.0,2.3,029 km S 06° W of Dipolog City,2019_Earthquake_Information/July/2019_0707_2111_B2.html
+20190708T0521_9.03_123.59,2019-07-08T05:21:00+08:00,9.03,123.59,6.0,1.9,013 km S 23° W of Lazi (Siquijor),2019_Earthquake_Information/July/2019_0707_2121_B2.html
+20190708T0541_9.66_126.24,2019-07-08T05:41:00+08:00,9.66,126.24,22.0,2.8,016 km S 35° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0707_2141_B2.html
+20190708T0831_18.64_120.7,2019-07-08T08:31:00+08:00,18.64,120.7,19.0,2.2,012 km N 53° W of Pagudpud (Ilocos Norte),2019_Earthquake_Information/July/2019_0708_0031_B2.html
+20190708T0859_9.42_126.27,2019-07-08T08:59:00+08:00,9.42,126.27,29.0,4.9,018 km N 26° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/July/2019_0708_0059_B3F.html
+20190708T0916_18.76_121.01,2019-07-08T09:16:00+08:00,18.76,121.01,45.0,2.0,018 km N 23° W of Claveria (Cagayan),2019_Earthquake_Information/July/2019_0708_0116_B2.html
+20190708T1004_17.07_119.79,2019-07-08T10:04:00+08:00,17.07,119.79,14.0,3.0,067 km N 69° W of Luna (La Union),2019_Earthquake_Information/July/2019_0708_0204_B2.html
+20190708T1014_8.83_126.43,2019-07-08T10:14:00+08:00,8.83,126.43,27.0,3.1,015 km N 76° E of Marihatag (Surigao Del Sur),2019_Earthquake_Information/July/2019_0708_0214_B2.html
+20190708T1033_9.48_126.17,2019-07-08T10:33:00+08:00,9.48,126.17,24.0,2.6,022 km N 06° W of Cortes (Surigao Del Sur),2019_Earthquake_Information/July/2019_0708_0233_B2.html
+20190708T1115_16.98_119.94,2019-07-08T11:15:00+08:00,16.98,119.94,20.0,2.1,048 km N 74° W of Luna (La Union),2019_Earthquake_Information/July/2019_0708_0315_B2.html
+20190708T1300_9.86_122.0,2019-07-08T13:00:00+08:00,9.86,122.0,9.0,3.1,046 km N 76° W of Sipalay (Negros Occidental),2019_Earthquake_Information/July/2019_0708_0500_B2.html
+20190708T1331_6.79_125.57,2019-07-08T13:31:00+08:00,6.79,125.57,26.0,2.9,022 km N 83° E of Digos City (Davao Del Sur),2019_Earthquake_Information/July/2019_0708_0531_B2.html
+20190708T1345_9.84_121.97,2019-07-08T13:45:00+08:00,9.84,121.97,3.0,3.0,048 km N 80° W of Sipalay (Negros Occidental),2019_Earthquake_Information/July/2019_0708_0545_B2.html
+20190708T1507_10.11_123.28,2019-07-08T15:07:00+08:00,10.11,123.28,33.0,2.0,001 km S 17° E of Guihulngan (Negros Oriental),2019_Earthquake_Information/July/2019_0708_0707_B2.html
+20190708T1631_8.55_123.49,2019-07-08T16:31:00+08:00,8.55,123.49,19.0,3.6,011 km N 26° E of La Libertad (Zamboanga Del Norte),2019_Earthquake_Information/July/2019_0708_0831_B3F.html
+20190708T1746_13.66_120.58,2019-07-08T17:46:00+08:00,13.66,120.58,109.0,3.2,020 km S 19° W of Calatagan (Batangas),2019_Earthquake_Information/July/2019_0708_0946_B2.html
+20190708T1806_7.15_125.77,2019-07-08T18:06:00+08:00,7.15,125.77,23.0,2.4,012 km N 62° W of Pantukan (Compostela Valley),2019_Earthquake_Information/July/2019_0708_1006_B2.html
+20190708T1905_5.78_124.64,2019-07-08T19:05:00+08:00,5.78,124.64,23.0,2.9,024 km S 05° E of Kiamba (Sarangani),2019_Earthquake_Information/July/2019_0708_1105_B2.html
+20190708T2028_9.48_126.35,2019-07-08T20:28:00+08:00,9.48,126.35,20.0,2.5,029 km N 37° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/July/2019_0708_1228_B2.html
+20190708T2141_10.71_124.93,2019-07-08T21:41:00+08:00,10.71,124.93,1.0,1.6,010 km S 63° W of Abuyog (Leyte),2019_Earthquake_Information/July/2019_0708_1341_B2.html
+20190708T2148_7.63_126.25,2019-07-08T21:48:00+08:00,7.63,126.25,5.0,2.1,017 km N 86° E of New Bataan (Compostela Valley),2019_Earthquake_Information/July/2019_0708_1348_B2.html
+20190708T2153_12.02_121.38,2019-07-08T21:53:00+08:00,12.02,121.38,35.0,2.2,021 km N 60° W of Caluya (Antique),2019_Earthquake_Information/July/2019_0708_1353_B2.html
+20190708T2235_17.26_121.89,2019-07-08T22:35:00+08:00,17.26,121.89,24.0,2.1,013 km N 03° E of Ilagan (Isabela),2019_Earthquake_Information/July/2019_0708_1435_B2.html
+20190709T0130_15.52_119.09,2019-07-09T01:30:00+08:00,15.52,119.09,14.0,2.2,088 km N 84° W of Palauig (Zambales),2019_Earthquake_Information/July/2019_0708_1730_B2.html
+20190709T0346_6.91_123.77,2019-07-09T03:46:00+08:00,6.91,123.77,11.0,2.5,043 km N 49° W of Lebak (Sultan Kudarat),2019_Earthquake_Information/July/2019_0708_1946_B2.html
+20190709T0407_10.5_125.32,2019-07-09T04:07:00+08:00,10.5,125.32,29.0,2.3,018 km N 51° E of Hinunangan (Southern Leyte),2019_Earthquake_Information/July/2019_0708_2007_B2.html
+20190709T0513_11.25_124.6,2019-07-09T05:13:00+08:00,11.25,124.6,9.0,2.2,021 km N 71° W of Jaro (Leyte),2019_Earthquake_Information/July/2019_0708_2113_B2.html
+20190709T0614_14.83_119.81,2019-07-09T06:14:00+08:00,14.83,119.81,15.0,2.2,031 km S 67° W of San Antonio (Zambales),2019_Earthquake_Information/July/2019_0708_2214_B2.html
+20190709T0752_9.93_124.21,2019-07-09T07:52:00+08:00,9.93,124.21,35.0,1.8,013 km N 84° E of Sagbayan (Bohol),2019_Earthquake_Information/July/2019_0708_2352_B2.html
+20190709T0802_14.96_120.01,2019-07-09T08:02:00+08:00,14.96,120.01,73.0,1.7,010 km S 46° W of San Narciso (Zambales),2019_Earthquake_Information/July/2019_0709_0002_B2.html
+20190709T0813_12.97_124.21,2019-07-09T08:13:00+08:00,12.97,124.21,31.0,2.1,010 km S 10° E of Prieto Diaz (Sorsogon),2019_Earthquake_Information/July/2019_0709_0013_B2.html
+20190709T0820_7.72_126.62,2019-07-09T08:20:00+08:00,7.72,126.62,31.0,2.1,020 km S 65° E of Cateel (Davao Oriental),2019_Earthquake_Information/July/2019_0709_0020_B2.html
+20190709T1011_13.12_124.07,2019-07-09T10:11:00+08:00,13.12,124.07,1.0,2.2,009 km N 16° E of Bacon (Sorsogon),2019_Earthquake_Information/July/2019_0709_0211_B2.html
+20190709T1036_6.58_126.36,2019-07-09T10:36:00+08:00,6.58,126.36,131.0,2.7,033 km S 76° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0709_0236_B2.html
+20190709T1135_9.72_123.5,2019-07-09T11:35:00+08:00,9.72,123.5,1.0,1.8,002 km N 23° W of Alcoy (Cebu),2019_Earthquake_Information/July/2019_0709_0335_B2.html
+20190709T1508_3.89_125.9,2019-07-09T15:08:00+08:00,3.89,125.9,40.0,2.7,177 km S 15° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0709_0708_B2.html
+20190709T1516_5.45_125.8,2019-07-09T15:16:00+08:00,5.45,125.8,156.0,2.8,036 km N 86° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0709_0716_B2.html
+20190709T1839_9.17_126.37,2019-07-09T18:39:00+08:00,9.17,126.37,21.0,2.1,021 km N 61° E of Tandag (Surigao Del Sur),2019_Earthquake_Information/July/2019_0709_1039_B2.html
+20190709T1917_9.28_126.5,2019-07-09T19:17:00+08:00,9.28,126.5,10.0,3.2,034 km N 89° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/July/2019_0709_1117_B2.html
+20190709T1920_8.27_125.76,2019-07-09T19:20:00+08:00,8.27,125.76,36.0,2.4,007 km S 54° W of La Paz (Agusan Del Sur),2019_Earthquake_Information/July/2019_0709_1120_B2.html
+20190709T2036_6.83_125.02,2019-07-09T20:36:00+08:00,6.83,125.02,10.0,5.6,016 km S 30° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1236_B4F.html
+20190709T2041_6.92_124.99,2019-07-09T20:41:00+08:00,6.92,124.99,1.0,3.2,011 km S 68° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1241_B3F.html
+20190709T2051_12.78_124.6,2019-07-09T20:51:00+08:00,12.78,124.6,19.0,3.4,028 km N 68° E of Biri (Northern Samar),2019_Earthquake_Information/July/2019_0709_1251_B2.html
+20190709T2053_19.23_121.04,2019-07-09T20:53:00+08:00,19.23,121.04,33.0,2.1,044 km S 83° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0709_1253_B2.html
+20190709T2108_6.88_125.01,2019-07-09T21:08:00+08:00,6.88,125.01,9.0,2.7,012 km S 47° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1308_B2F.html
+20190709T2110_6.87_124.88,2019-07-09T21:10:00+08:00,6.87,124.88,20.0,2.2,026 km S 66° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1310_B2F.html
+20190709T2111_6.96_124.87,2019-07-09T21:11:00+08:00,6.96,124.87,29.0,2.4,005 km N 54° W of M'lang (North Cotabato),2019_Earthquake_Information/July/2019_0709_1311_B2.html
+20190709T2113_6.83_125.05,2019-07-09T21:13:00+08:00,6.83,125.05,4.0,3.2,015 km S 16° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1313_B3F.html
+20190709T2119_6.42_126.37,2019-07-09T21:19:00+08:00,6.42,126.37,27.0,2.9,041 km S 52° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0709_1319_B2.html
+20190709T2131_6.93_124.76,2019-07-09T21:31:00+08:00,6.93,124.76,25.0,2.4,011 km N 43° W of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0709_1331_B2F.html
+20190709T2132_6.91_124.82,2019-07-09T21:32:00+08:00,6.91,124.82,23.0,2.8,006 km N 06° W of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0709_1332_B2.html
+20190709T2137_6.94_124.62,2019-07-09T21:37:00+08:00,6.94,124.62,42.0,2.9,013 km N 56° W of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0709_1337_B2.html
+20190709T2141_6.81_125.09,2019-07-09T21:41:00+08:00,6.81,125.09,1.0,3.9,016 km S 01° E of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1341_B3F.html
+20190709T2149_6.7_124.71,2019-07-09T21:49:00+08:00,6.7,124.71,36.0,2.7,001 km 00 °ast of President Quirino (Sultan Kudarat),2019_Earthquake_Information/July/2019_0709_1349_B2.html
+20190709T2205_6.91_124.8,2019-07-09T22:05:00+08:00,6.91,124.8,25.0,2.1,007 km N 21° W of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0709_1405_B2.html
+20190709T2212_6.82_124.99,2019-07-09T22:12:00+08:00,6.82,124.99,13.0,4.9,019 km S 35° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1412_B4F.html
+20190709T2231_6.77_124.77,2019-07-09T22:31:00+08:00,6.77,124.77,34.0,2.1,011 km S 37° W of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0709_1431_B2.html
+20190709T2232_6.79_124.95,2019-07-09T22:32:00+08:00,6.79,124.95,13.0,2.2,015 km S 65° E of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0709_1432_B2.html
+20190709T2237_9.41_126.3,2019-07-09T22:37:00+08:00,9.41,126.3,32.0,2.9,019 km N 40° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/July/2019_0709_1437_B2.html
+20190709T2248_6.84_125.0,2019-07-09T22:48:00+08:00,6.84,125.0,11.0,2.9,016 km S 38° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1448_B3F.html
+20190709T2251_6.84_124.88,2019-07-09T22:51:00+08:00,6.84,124.88,22.0,1.8,005 km S 77° E of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0709_1451_B2_NorthCotabato.html
+20190709T2251_6.9_124.67,2019-07-09T22:51:00+08:00,6.9,124.67,41.0,2.3,018 km N 73° W of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0709_1451_B2.html
+20190709T2259_6.79_124.96,2019-07-09T22:59:00+08:00,6.79,124.96,10.0,2.1,003 km S 48° E of Columbio (Sultan Kudarat),2019_Earthquake_Information/July/2019_0709_1459_B2.html
+20190709T2300_6.99_125.09,2019-07-09T23:00:00+08:00,6.99,125.09,33.0,2.0,004 km N 07° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1500_B2F.html
+20190709T2307_6.83_125.06,2019-07-09T23:07:00+08:00,6.83,125.06,2.0,3.6,015 km S 13° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1507_B3F.html
+20190709T2316_6.87_125.03,2019-07-09T23:16:00+08:00,6.87,125.03,17.0,2.4,011 km S 32° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1516_B2F.html
+20190709T2319_6.91_125.0,2019-07-09T23:19:00+08:00,6.91,125.0,5.0,1.8,011 km S 59° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1519_B2F.html
+20190709T2322_7.02_125.72,2019-07-09T23:22:00+08:00,7.02,125.72,33.0,2.7,007 km S 04° E of Samal (Island Garden City Of Samal) (Davao Del Norte),2019_Earthquake_Information/July/2019_0709_1522_B2.html
+20190709T2326_6.9_125.01,2019-07-09T23:26:00+08:00,6.9,125.01,4.0,2.4,011 km S 52° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1526_B2f.html
+20190709T2331_6.8_125.03,2019-07-09T23:31:00+08:00,6.8,125.03,14.0,4.8,018 km S 21° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1531_B3F.html
+20190709T2340_6.86_124.97,2019-07-09T23:40:00+08:00,6.86,124.97,8.0,2.6,017 km S 50° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1540_B2F.html
+20190709T2344_6.87_125.02,2019-07-09T23:44:00+08:00,6.87,125.02,5.0,2.7,012 km S 35° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1544_B2.html
+20190709T2358_6.83_125.03,2019-07-09T23:58:00+08:00,6.83,125.03,5.0,2.5,016 km S 25° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1558_B2F.html
+20190709T2359_6.79_125.02,2019-07-09T23:59:00+08:00,6.79,125.02,4.0,2.3,020 km S 21° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1559_B2F.html
+20190710T0012_6.68_124.72,2019-07-10T00:12:00+08:00,6.68,124.72,30.0,2.1,005 km S 87° E of Tacurong City (Sultan Kudarat),2019_Earthquake_Information/July/2019_0709_1612_B2.html
+20190710T0012_8.71_126.79,2019-07-10T00:12:00+08:00,8.71,126.79,31.0,2.2,055 km S 80° E of Marihatag (Surigao Del Sur),2019_Earthquake_Information/July/2019_0709_1612_B2_SurigaoDelSur.html
+20190710T0018_17.62_122.52,2019-07-10T00:18:00+08:00,17.62,122.52,31.0,2.9,039 km N 35° E of Divilacan (Isabela),2019_Earthquake_Information/July/2019_0709_1618_B2_Isabela.html
+20190710T0018_6.8_125.03,2019-07-10T00:18:00+08:00,6.8,125.03,1.0,2.0,019 km S 22° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1618_B2.html
+20190710T0025_6.87_125.11,2019-07-10T00:25:00+08:00,6.87,125.11,26.0,1.9,010 km S 12° E of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1625_B2F.html
+20190710T0031_6.83_125.0,2019-07-10T00:31:00+08:00,6.83,125.0,2.0,2.2,017 km S 37° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1631_B2F.html
+20190710T0032_10.07_123.28,2019-07-10T00:32:00+08:00,10.07,123.28,30.0,2.3,006 km S 14° E of Guihulngan (Negros Oriental),2019_Earthquake_Information/July/2019_0709_1632_B1.html
+20190710T0039_6.87_125.05,2019-07-10T00:39:00+08:00,6.87,125.05,17.0,2.2,011 km S 26° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1639_B2F.html
+20190710T0045_6.89_125.03,2019-07-10T00:45:00+08:00,6.89,125.03,7.0,3.0,011 km S 40° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1645_B2F.html
+20190710T0111_6.84_125.04,2019-07-10T01:11:00+08:00,6.84,125.04,16.0,2.6,014 km S 21° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1711_B2f.html
+20190710T0133_6.79_125.01,2019-07-10T01:33:00+08:00,6.79,125.01,9.0,2.1,020 km S 25° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1733_B2F.html
+20190710T0134_6.87_125.04,2019-07-10T01:34:00+08:00,6.87,125.04,10.0,2.2,011 km S 29° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1734_B2F.html
+20190710T0202_6.84_125.02,2019-07-10T02:02:00+08:00,6.84,125.02,14.0,2.7,015 km S 29° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1802_B2F.html
+20190710T0216_13.98_120.47,2019-07-10T02:16:00+08:00,13.98,120.47,71.0,1.9,020 km S 55° W of Nasugbu (Batangas),2019_Earthquake_Information/July/2019_0709_1816_B2.html
+20190710T0225_6.82_124.98,2019-07-10T02:25:00+08:00,6.82,124.98,11.0,2.6,019 km S 37° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1825_B2.html
+20190710T0232_6.82_124.84,2019-07-10T02:32:00+08:00,6.82,124.84,29.0,2.1,025 km S 57° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1832_B2.html
+20190710T0306_9.94_124.38,2019-07-10T03:06:00+08:00,9.94,124.38,31.0,1.5,008 km N 57° W of Alicia (Bohol),2019_Earthquake_Information/July/2019_0709_1906_B2.html
+20190710T0330_6.84_125.03,2019-07-10T03:30:00+08:00,6.84,125.03,11.0,2.9,015 km S 28° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1930_B2.html
+20190710T0338_12.84_123.54,2019-07-10T03:38:00+08:00,12.84,123.54,5.0,3.1,017 km S 56° W of Pilar (Sorsogon),2019_Earthquake_Information/July/2019_0709_1938_B2.html
+20190710T0339_6.84_124.99,2019-07-10T03:39:00+08:00,6.84,124.99,11.0,3.2,018 km S 39° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1939_B2.html
+20190710T0349_6.87_125.02,2019-07-10T03:49:00+08:00,6.87,125.02,6.0,3.3,012 km S 35° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1949_B3F.html
+20190710T0352_6.81_124.98,2019-07-10T03:52:00+08:00,6.81,124.98,10.0,2.7,021 km S 37° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1952_B2.html
+20190710T0355_6.77_125.06,2019-07-10T03:55:00+08:00,6.77,125.06,1.0,2.5,021 km S 09° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1955_B2.html
+20190710T0357_6.82_124.99,2019-07-10T03:57:00+08:00,6.82,124.99,7.0,2.0,018 km S 35° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_1957_B2.html
+20190710T0408_6.79_124.94,2019-07-10T04:08:00+08:00,6.79,124.94,3.0,1.9,025 km S 41° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_2008_B2.html
+20190710T0411_6.76_124.98,2019-07-10T04:11:00+08:00,6.76,124.98,9.0,3.0,025 km S 30° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_2011_B3F.html
+20190710T0425_7.07_125.06,2019-07-10T04:25:00+08:00,7.07,125.06,33.0,2.3,012 km N 18° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_2025_B2.html
+20190710T0434_6.83_124.97,2019-07-10T04:34:00+08:00,6.83,124.97,12.0,3.3,019 km S 41° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_2034_B3F.html
+20190710T0437_8.88_122.55,2019-07-10T04:37:00+08:00,8.88,122.55,7.0,2.4,071 km N 48° W of Jose Dalman (Ponot) (Zamboanga Del Norte),2019_Earthquake_Information/July/2019_0709_2037_B2.html
+20190710T0516_11.08_121.8,2019-07-10T05:16:00+08:00,11.08,121.8,1.0,2.6,028 km N 50° W of Patnongon (Antique),2019_Earthquake_Information/July/2019_0709_2116_B2.html
+20190710T0522_6.96_125.06,2019-07-10T05:22:00+08:00,6.96,125.06,32.0,2.1,004 km S 88° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_2122_B2.html
+20190710T0603_7.0_125.06,2019-07-10T06:03:00+08:00,7.0,125.06,33.0,2.5,006 km N 32° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_2203_B2.html
+20190710T0631_6.99_125.06,2019-07-10T06:31:00+08:00,6.99,125.06,34.0,1.9,005 km N 49° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0709_2231_B2.html
+20190710T0746_18.69_120.81,2019-07-10T07:46:00+08:00,18.69,120.81,32.0,2.6,012 km N 09° E of Pagudpud (Ilocos Norte),2019_Earthquake_Information/July/2019_0709_2346_B2.html
+20190710T0802_5.72_126.74,2019-07-10T08:02:00+08:00,5.72,126.74,33.0,2.5,126 km S 36° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0710_0002_B2.html
+20190710T0832_6.81_125.03,2019-07-10T08:32:00+08:00,6.81,125.03,3.0,3.8,018 km S 21° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0710_0032_B2F.html
+20190710T0846_6.8_125.02,2019-07-10T08:46:00+08:00,6.8,125.02,5.0,3.1,019 km S 22° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0710_0046_B2F.html
+20190710T0856_6.84_125.0,2019-07-10T08:56:00+08:00,6.84,125.0,9.0,4.9,016 km S 37° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0710_0056_B3F.html
+20190710T0915_6.91_124.77,2019-07-10T09:15:00+08:00,6.91,124.77,27.0,3.0,009 km N 45° W of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0710_0115_B2F.html
+20190710T0943_17.91_120.89,2019-07-10T09:43:00+08:00,17.91,120.89,22.0,1.7,025 km S 32° E of Solsona (Ilocos Norte),2019_Earthquake_Information/July/2019_0710_0143_B2.html
+20190710T0949_5.55_127.18,2019-07-10T09:49:00+08:00,5.55,127.18,107.0,3.0,173 km S 45° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0710_0149_B2.html
+20190710T1000_11.84_125.56,2019-07-10T10:00:00+08:00,11.84,125.56,13.0,2.5,012 km N 78° E of Sulat (Eastern Samar),2019_Earthquake_Information/July/2019_0710_0200_B2.html
+20190710T1105_9.86_122.43,2019-07-10T11:05:00+08:00,9.86,122.43,18.0,2.3,012 km N 09° E of Sipalay (Negros Occidental),2019_Earthquake_Information/July/2019_0710_0305_B2.html
+20190710T1111_6.77_124.9,2019-07-10T11:11:00+08:00,6.77,124.9,22.0,2.5,012 km S 41° E of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0710_0311_B2.html
+20190710T1158_9.91_126.18,2019-07-10T11:58:00+08:00,9.91,126.18,9.0,2.5,010 km N 61° E of Pilar (Surigao Del Norte),2019_Earthquake_Information/July/2019_0710_0358_B1.html
+20190710T1257_6.35_123.9,2019-07-10T12:57:00+08:00,6.35,123.9,28.0,3.8,030 km S 34° W of Kalamansig (Sultan Kudarat),2019_Earthquake_Information/July/2019_0710_0457_B2.html
+20190710T1307_6.72_124.91,2019-07-10T13:07:00+08:00,6.72,124.91,31.0,3.0,018 km S 32° E of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0710_0507_B2F.html
+20190710T1313_10.28_126.21,2019-07-10T13:13:00+08:00,10.28,126.21,8.0,3.2,033 km N 28° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0710_0513_B2.html
+20190710T1322_17.56_120.12,2019-07-10T13:22:00+08:00,17.56,120.12,25.0,2.9,025 km S 83° W of Santa Catalina (Ilocos Sur),2019_Earthquake_Information/July/2019_0710_0522_B2F.html
+20190710T1849_5.6_126.82,2019-07-10T18:49:00+08:00,5.6,126.82,33.0,3.7,137 km S 77° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0710_1049_B2.html
+20190710T1931_8.64_122.57,2019-07-10T19:31:00+08:00,8.64,122.57,21.0,3.1,053 km N 68° W of Jose Dalman (Ponot) (Zamboanga Del Norte),2019_Earthquake_Information/July/2019_0710_1131_B2.html
+20190710T2048_13.94_123.43,2019-07-10T20:48:00+08:00,13.94,123.43,18.0,2.0,017 km N 40° E of Tinambac (Camarines Sur),2019_Earthquake_Information/July/2019_0710_1248_B2F.html
+20190710T2222_14.74_122.74,2019-07-10T22:22:00+08:00,14.74,122.74,9.0,2.6,039 km N 86° E of Jomalig (Quezon),2019_Earthquake_Information/July/2019_0710_1422_B2.html
+20190710T2237_11.92_124.1,2019-07-10T22:37:00+08:00,11.92,124.1,1.0,2.1,008 km N 78° E of Pio V. Corpuz (Limbuhan) (Masbate),2019_Earthquake_Information/July/2019_0710_1437_B2.html
+20190710T2342_6.84_125.02,2019-07-10T23:42:00+08:00,6.84,125.02,7.0,2.9,015 km S 29° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0710_1542_B2.html
+20190710T2345_8.35_125.14,2019-07-10T23:45:00+08:00,8.35,125.14,2.0,2.6,022 km N 74° E of Sumilao (Bukidnon),2019_Earthquake_Information/July/2019_0710_1545_B2.html
+20190711T0004_14.99_120.31,2019-07-11T00:04:00+08:00,14.99,120.31,32.0,2.5,014 km N 61° E of Castillejos (Zambales),2019_Earthquake_Information/July/2019_0710_1604_B1.html
+20190711T0041_8.17_122.72,2019-07-11T00:41:00+08:00,8.17,122.72,54.0,2.4,008 km N 44° E of Liloy (Zamboanga Del Norte),2019_Earthquake_Information/July/2019_0710_1641_B2.html
+20190711T0049_9.74_126.16,2019-07-11T00:49:00+08:00,9.74,126.16,29.0,2.3,005 km S 02° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0710_1649_B2.html
+20190711T0058_11.86_124.13,2019-07-11T00:58:00+08:00,11.86,124.13,9.0,3.2,012 km S 67° E of Pio V. Corpuz (Limbuhan) (Masbate),2019_Earthquake_Information/July/2019_0710_1658_B2.html
+20190711T0137_7.22_124.16,2019-07-11T01:37:00+08:00,7.22,124.16,1.0,2.7,008 km N 75° W of Cotabato City (Maguindanao),2019_Earthquake_Information/July/2019_0710_1737_B2.html
+20190711T0146_11.9_124.11,2019-07-11T01:46:00+08:00,11.9,124.11,21.0,2.2,009 km S 88° E of Pio V. Corpuz (Limbuhan) (Masbate),2019_Earthquake_Information/July/2019_0710_1746_B2.html
+20190711T0228_13.81_120.63,2019-07-11T02:28:00+08:00,13.81,120.63,190.0,2.9,003 km South° 00 of Calatagan (Batangas),2019_Earthquake_Information/July/2019_0710_1828_B2.html
+20190711T0533_9.89_124.01,2019-07-11T05:33:00+08:00,9.89,124.01,4.0,3.4,004 km N 11° E of Catigbian (Bohol),2019_Earthquake_Information/July/2019_0710_2133_B3F.html
+20190711T0536_15.18_122.7,2019-07-11T05:36:00+08:00,15.18,122.7,135.0,2.5,063 km N 35° E of Jomalig (Quezon),2019_Earthquake_Information/July/2019_0710_2136_B2.html
+20190711T0609_18.29_122.01,2019-07-11T06:09:00+08:00,18.29,122.01,3.0,3.0,003 km N 34° E of Gonzaga (Cagayan),2019_Earthquake_Information/July/2019_0710_2209_B2.html
+20190711T0628_10.03_123.4,2019-07-11T06:28:00+08:00,10.03,123.4,33.0,1.6,004 km N 29° W of Ronda (Cebu),2019_Earthquake_Information/July/2019_0710_2228_B2.html
+20190711T0722_5.37_125.32,2019-07-11T07:22:00+08:00,5.37,125.32,18.0,3.4,019 km S 66° W of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0710_2322_B2.html
+20190711T0731_19.21_120.99,2019-07-11T07:31:00+08:00,19.21,120.99,32.0,2.2,050 km S 81° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0710_2331_B2.html
+20190711T0858_18.09_120.85,2019-07-11T08:58:00+08:00,18.09,120.85,22.0,2.1,012 km S 10° W of Carasi (Ilocos Norte),2019_Earthquake_Information/July/2019_0711_0058_B2.html
+20190711T1019_10.23_122.25,2019-07-11T10:19:00+08:00,10.23,122.25,2.0,3.1,046 km S 44° W of Nueva Valencia (Guimaras),2019_Earthquake_Information/July/2019_0711_0219_B2.html
+20190711T1335_14.57_119.67,2019-07-11T13:35:00+08:00,14.57,119.67,4.0,3.5,061 km S 47° W of San Antonio (Zambales),2019_Earthquake_Information/July/2019_0711_0535_B3.html
+20190711T1339_14.58_119.52,2019-07-11T13:39:00+08:00,14.58,119.52,27.0,3.0,074 km S 56° W of San Antonio (Zambales),2019_Earthquake_Information/July/2019_0711_0539_B2.html
+20190711T1428_6.78_125.02,2019-07-11T14:28:00+08:00,6.78,125.02,17.0,3.5,021 km S 21° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0711_0628_B1F.html
+20190711T1526_5.64_125.55,2019-07-11T15:26:00+08:00,5.64,125.55,24.0,2.7,024 km N 21° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0711_0726_B2.html
+20190711T1635_6.79_125.01,2019-07-11T16:35:00+08:00,6.79,125.01,6.0,2.5,021 km S 24° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0711_0835_B2F.html
+20190711T1706_3.31_125.85,2019-07-11T17:06:00+08:00,3.31,125.85,9.0,3.4,238 km S 10° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0711_0906_B2.html
+20190711T1831_8.58_126.55,2019-07-11T18:31:00+08:00,8.58,126.55,24.0,2.5,033 km N 46° E of Hinatuan (Surigao Del Sur),2019_Earthquake_Information/July/2019_0711_1031_B2.html
+20190711T2056_5.33_127.0,2019-07-11T20:56:00+08:00,5.33,127.0,34.0,3.1,165 km S 68° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0711_1256_B2.html
+20190711T2108_15.07_119.92,2019-07-11T21:08:00+08:00,15.07,119.92,30.0,2.0,016 km N 85° W of San Felipe (Zambales),2019_Earthquake_Information/July/2019_0711_1308_B2.html
+20190711T2123_3.41_126.67,2019-07-11T21:23:00+08:00,3.41,126.67,19.0,3.5,261 km S 31° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0711_1323_B2.html
+20190711T2135_8.84_127.01,2019-07-11T21:35:00+08:00,8.84,127.01,17.0,2.9,078 km S 83° E of Cagwait (Surigao Del Sur),2019_Earthquake_Information/July/2019_0711_1335_B2.html
+20190711T2217_6.97_124.98,2019-07-11T22:17:00+08:00,6.97,124.98,29.0,2.3,012 km N 83° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0711_1417_B2F.html
+20190711T2218_10.03_122.44,2019-07-11T22:18:00+08:00,10.03,122.44,15.0,3.1,021 km N 72° W of Cauayan (Negros Occidental),2019_Earthquake_Information/July/2019_0711_1418_B2.html
+20190711T2223_7.76_126.71,2019-07-11T22:23:00+08:00,7.76,126.71,103.0,2.7,029 km S 82° E of Cateel (Davao Oriental),2019_Earthquake_Information/July/2019_0711_1423_B2.html
+20190711T2323_8.84_126.52,2019-07-11T23:23:00+08:00,8.84,126.52,34.0,2.7,025 km N 80° E of Marihatag (Surigao Del Sur),2019_Earthquake_Information/July/2019_0711_1523_B2.html
+20190712T0042_10.03_122.37,2019-07-12T00:42:00+08:00,10.03,122.37,25.0,2.6,029 km N 77° W of Cauayan (Negros Occidental),2019_Earthquake_Information/July/2019_0711_1642_B2.html
+20190712T0043_9.76_122.27,2019-07-12T00:43:00+08:00,9.76,122.27,37.0,1.5,016 km N 89° W of Sipalay (Negros Occidental),2019_Earthquake_Information/July/2019_0711_1643_B2.html
+20190712T0055_14.53_119.67,2019-07-12T00:55:00+08:00,14.53,119.67,9.0,2.3,065 km S 45° W of San Antonio (Zambales),2019_Earthquake_Information/July/2019_0711_1655_B2.html
+20190712T0132_5.38_126.82,2019-07-12T01:32:00+08:00,5.38,126.82,32.0,3.3,145 km S 67° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0711_1732_B2.html
+20190712T0149_13.62_120.72,2019-07-12T01:49:00+08:00,13.62,120.72,103.0,2.3,019 km N 04° W of Abra De Ilog (Occidental Mindoro),2019_Earthquake_Information/July/2019_0711_1749_B2.html
+20190712T0209_13.38_120.67,2019-07-12T02:09:00+08:00,13.38,120.67,46.0,2.4,009 km S 41° W of Abra De Ilog (Occidental Mindoro),2019_Earthquake_Information/July/2019_0711_1809_B2.html
+20190712T0228_6.82_125.02,2019-07-12T02:28:00+08:00,6.82,125.02,11.0,3.2,017 km S 25° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0711_1828_B2F.html
+20190712T0239_6.77_124.85,2019-07-12T02:39:00+08:00,6.77,124.85,33.0,2.3,009 km S 17° E of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0711_1839_B2.html
+20190712T0247_6.76_124.88,2019-07-12T02:47:00+08:00,6.76,124.88,30.0,2.4,012 km S 30° E of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0711_1847_B2.html
+20190712T0300_14.73_119.41,2019-07-12T03:00:00+08:00,14.73,119.41,15.0,2.5,076 km S 72° W of San Antonio (Zambales),2019_Earthquake_Information/July/2019_0711_1900_B2.html
+20190712T0315_6.87_124.99,2019-07-12T03:15:00+08:00,6.87,124.99,13.0,2.1,014 km S 48° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0711_1915_B2.html
+20190712T0412_14.53_119.77,2019-07-12T04:12:00+08:00,14.53,119.77,11.0,2.0,057 km S 72° W of Morong (Bataan),2019_Earthquake_Information/July/2019_0711_2012_B2.html
+20190712T0427_9.72_126.9,2019-07-12T04:27:00+08:00,9.72,126.9,3.0,3.1,082 km S 85° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0711_2027_B2.html
+20190712T0648_6.84_125.01,2019-07-12T06:48:00+08:00,6.84,125.01,10.0,3.3,016 km S 34° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0711_2248_B2F.html
+20190712T0722_6.73_125.76,2019-07-12T07:22:00+08:00,6.73,125.76,22.0,2.6,033 km S 55° W of Lupon (Davao Oriental),2019_Earthquake_Information/July/2019_0711_2322_B2.html
+20190712T0918_6.85_126.08,2019-07-12T09:18:00+08:00,6.85,126.08,34.0,2.2,001 km S 54° E of San Isidro (Davao Oriental),2019_Earthquake_Information/July/2019_0712_0118_B2.html
+20190712T0921_3.91_128.16,2019-07-12T09:21:00+08:00,3.91,128.16,2.0,3.5,342 km S 60° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0712_0121_B2.html
+20190712T1109_5.9_126.08,2019-07-12T11:09:00+08:00,5.9,126.08,106.0,3.2,051 km N 88° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0712_0309_B2.html
+20190712T1126_8.56_126.59,2019-07-12T11:26:00+08:00,8.56,126.59,24.0,2.7,034 km N 53° E of Hinatuan (Surigao Del Sur),2019_Earthquake_Information/July/2019_0712_0326_B2.html
+20190712T1145_8.98_126.02,2019-07-12T11:45:00+08:00,8.98,126.02,29.0,2.7,024 km S 78° W of Tago (Surigao Del Sur),2019_Earthquake_Information/July/2019_0712_0345_B2.html
+20190712T1208_6.12_125.98,2019-07-12T12:08:00+08:00,6.12,125.98,115.0,2.5,033 km S 74° E of Don Marcelino (Davao Occidental),2019_Earthquake_Information/July/2019_0712_0408_B2.html
+20190712T1216_6.84_125.05,2019-07-12T12:16:00+08:00,6.84,125.05,10.0,3.7,014 km S 20° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0712_0416_B2F.html
+20190712T1222_9.76_122.53,2019-07-12T12:22:00+08:00,9.76,122.53,46.0,2.2,013 km S 87° E of Sipalay (Negros Occidental),2019_Earthquake_Information/July/2019_0712_0422_B2.html
+20190712T1430_5.62_125.67,2019-07-12T14:30:00+08:00,5.62,125.67,122.0,3.2,030 km N 47° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0712_0630_B2.html
+20190712T1445_11.34_126.1,2019-07-12T14:45:00+08:00,11.34,126.1,1.0,2.5,053 km N 88° E of Hernani (Eastern Samar),2019_Earthquake_Information/July/2019_0712_0645_B2.html
+20190712T1648_14.82_119.52,2019-07-12T16:48:00+08:00,14.82,119.52,1.0,3.2,063 km S 77° W of San Antonio (Zambales),2019_Earthquake_Information/July/2019_0712_0848_B2.html
+20190712T1706_14.72_119.44,2019-07-12T17:06:00+08:00,14.72,119.44,4.0,3.6,074 km S 70° W of San Antonio (Zambales),2019_Earthquake_Information/July/2019_0712_0906_B2.html
+20190712T1818_6.65_124.66,2019-07-12T18:18:00+08:00,6.65,124.66,45.0,2.5,005 km S 21° W of Tacurong City (Sultan Kudarat),2019_Earthquake_Information/July/2019_0712_1018_B2.html
+20190712T1820_3.73_126.58,2019-07-12T18:20:00+08:00,3.73,126.58,29.0,3.3,225 km S 33° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0712_1020_B2.html
+20190712T1904_5.7_126.45,2019-07-12T19:04:00+08:00,5.7,126.45,148.0,3.8,095 km S 78° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0712_1104_B2.html
+20190712T1924_6.79_125.04,2019-07-12T19:24:00+08:00,6.79,125.04,9.0,2.7,019 km S 15° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0712_1124_B2.html
+20190712T2105_4.9_124.29,2019-07-12T21:05:00+08:00,4.9,124.29,33.0,3.1,126 km S 17° W of Kiamba (Sarangani),2019_Earthquake_Information/July/2019_0712_1305_B2.html
+20190712T2126_12.92_124.34,2019-07-12T21:26:00+08:00,12.92,124.34,29.0,1.8,022 km N 71° E of Barcelona (Sorsogon),2019_Earthquake_Information/July/2019_0712_1326_B2.html
+20190712T2205_14.68_119.39,2019-07-12T22:05:00+08:00,14.68,119.39,19.0,2.9,081 km S 69° W of San Antonio (Zambales),2019_Earthquake_Information/July/2019_0712_1405_B2.html
+20190712T2311_9.51_126.27,2019-07-12T23:11:00+08:00,9.51,126.27,30.0,1.8,027 km N 19° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/July/2019_0712_1511_B2.html
+20190712T2312_8.29_126.9,2019-07-12T23:12:00+08:00,8.29,126.9,41.0,2.0,061 km N 63° E of Lingig (Surigao Del Sur),2019_Earthquake_Information/July/2019_0712_1512_B2.html
+20190713T0001_8.92_125.71,2019-07-13T00:01:00+08:00,8.92,125.71,14.0,3.0,011 km N 01° E of Sibagat (Agusan Del Sur),2019_Earthquake_Information/July/2019_0712_1601_B3.html
+20190713T0044_14.23_121.53,2019-07-13T00:44:00+08:00,14.23,121.53,6.0,2.8,014 km S 65° E of Santa Cruz (Laguna),2019_Earthquake_Information/July/2019_0712_1644_B2.html
+20190713T0124_6.33_126.39,2019-07-13T01:24:00+08:00,6.33,126.39,118.0,2.2,049 km S 45° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0712_1724_B2.html
+20190713T0201_5.45_125.06,2019-07-13T02:01:00+08:00,5.45,125.06,20.0,2.3,044 km S 19° W of Glan (Sarangani),2019_Earthquake_Information/July/2019_0712_1801_B2.html
+20190713T0238_8.17_123.35,2019-07-13T02:38:00+08:00,8.17,123.35,33.0,2.1,002 km N 42° E of Dumingag (Zamboanga Del Sur),2019_Earthquake_Information/July/2019_0712_1838_B2.html
+20190713T0403_7.12_126.68,2019-07-13T04:03:00+08:00,7.12,126.68,141.0,2.7,018 km S 56° E of Manay (Davao Oriental),2019_Earthquake_Information/July/2019_0712_2003_B2.html
+20190713T0409_13.34_120.56,2019-07-13T04:09:00+08:00,13.34,120.56,1.0,2.7,013 km N 14° W of Mamburao (Occidental Mindoro),2019_Earthquake_Information/July/2019_0712_2009_B2.html
+20190713T0442_9.32_125.99,2019-07-13T04:42:00+08:00,9.32,125.99,4.0,5.5,007 km S 37° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0712_2042_B3F.html
+20190713T0515_9.3_125.94,2019-07-13T05:15:00+08:00,9.3,125.94,7.0,4.0,008 km S 08° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0712_2115_B3.html
+20190713T0559_13.53_122.91,2019-07-13T05:59:00+08:00,13.53,122.91,6.0,2.1,016 km N 83° W of Pasacao (Camarines Sur),2019_Earthquake_Information/July/2019_0712_2159_B2.html
+20190713T0620_6.74_124.75,2019-07-13T06:20:00+08:00,6.74,124.75,30.0,2.3,015 km S 36° W of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0712_2220_B2.html
+20190713T0859_11.67_125.64,2019-07-13T08:59:00+08:00,11.67,125.64,11.0,3.1,023 km N 72° E of Borongan (Eastern Samar),2019_Earthquake_Information/July/2019_0713_0059_B2F.html
+20190713T0941_18.76_121.9,2019-07-13T09:41:00+08:00,18.76,121.9,10.0,2.9,042 km N 36° W of Santa Ana (Cagayan),2019_Earthquake_Information/July/2019_0713_0141_B2.html
+20190713T1043_6.67_124.77,2019-07-13T10:43:00+08:00,6.67,124.77,32.0,2.3,021 km S 19° W of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0713_0243_B2F.html
+20190713T1209_9.63_122.6,2019-07-13T12:09:00+08:00,9.63,122.6,15.0,3.9,013 km N 55° E of Hinoba-an (Negros Occidental),2019_Earthquake_Information/July/2019_0713_0409_B3F.html
+20190713T1307_9.3_125.97,2019-07-13T13:07:00+08:00,9.3,125.97,13.0,2.5,008 km S 17° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0713_0507_B2.html
+20190713T1346_17.12_120.08,2019-07-13T13:46:00+08:00,17.12,120.08,25.0,2.5,041 km S 78° W of Candon City (Ilocos Sur),2019_Earthquake_Information/July/2019_0713_0546_B2.html
+20190713T1439_9.29_126.61,2019-07-13T14:39:00+08:00,9.29,126.61,10.0,2.8,046 km N 88° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/July/2019_0713_0639_B2.html
+20190713T1524_5.16_126.9,2019-07-13T15:24:00+08:00,5.16,126.9,21.0,2.8,161 km S 79° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0713_0724_B2.html
+20190713T1657_10.3_125.91,2019-07-13T16:57:00+08:00,10.3,125.91,24.0,4.2,036 km N 31° W of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0713_0857_B3.html
+20190713T1706_13.58_120.13,2019-07-13T17:06:00+08:00,13.58,120.13,36.0,2.1,031 km S 02° E of Lubang (Occidental Mindoro),2019_Earthquake_Information/July/2019_0713_0906_B2.html
+20190713T2014_9.34_125.89,2019-07-13T20:14:00+08:00,9.34,125.89,3.0,3.0,007 km S 62° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0713_1214_B2.html
+20190713T2109_6.88_124.89,2019-07-13T21:09:00+08:00,6.88,124.89,18.0,2.9,007 km N 63° E of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0713_1309_B2F.html
+20190713T2253_9.33_125.89,2019-07-13T22:53:00+08:00,9.33,125.89,5.0,3.4,007 km S 53° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0713_1453_B2.html
+20190713T2318_9.31_125.97,2019-07-13T23:18:00+08:00,9.31,125.97,5.0,4.2,008 km S 19° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0713_1518_B2.html
+20190714T0032_10.01_124.21,2019-07-14T00:32:00+08:00,10.01,124.21,8.0,3.2,007 km N 07° W of Danao (Bohol),2019_Earthquake_Information/July/2019_0713_1632_B2.html
+20190714T0136_18.69_119.59,2019-07-14T01:36:00+08:00,18.69,119.59,31.0,4.0,113 km N 80° W of Burgos (Ilocos Norte),2019_Earthquake_Information/July/2019_0713_1736_B2.html
+20190714T0307_19.07_120.97,2019-07-14T03:07:00+08:00,19.07,120.97,1.0,3.6,057 km S 66° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0713_1907_B2.html
+20190714T0318_9.04_126.22,2019-07-14T03:18:00+08:00,9.04,126.22,7.0,3.4,022 km N 64° E of San Miguel (Surigao Del Sur),2019_Earthquake_Information/July/2019_0713_1918_B2.html
+20190714T0341_9.83_124.13,2019-07-14T03:41:00+08:00,9.83,124.13,23.0,2.4,006 km N 23° W of Batuan (Bohol),2019_Earthquake_Information/July/2019_0713_1941_B2.html
+20190714T0418_9.31_125.87,2019-07-14T04:18:00+08:00,9.31,125.87,3.0,3.0,011 km S 52° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0713_2018_B2F.html
+20190714T0816_10.21_125.88,2019-07-14T08:16:00+08:00,10.21,125.88,25.0,4.5,030 km N 45° W of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0714_0016_B3F.html
+20190714T0958_16.08_120.55,2019-07-14T09:58:00+08:00,16.08,120.55,26.0,2.3,002 km N 29° E of Laoac (Pangasinan),2019_Earthquake_Information/July/2019_0714_0158_B2.html
+20190714T1024_15.07_120.09,2019-07-14T10:24:00+08:00,15.07,120.09,30.0,2.1,002 km N 52° E of San Felipe (Zambales),2019_Earthquake_Information/July/2019_0714_0224_B2.html
+20190714T1121_19.68_122.58,2019-07-14T11:21:00+08:00,19.68,122.58,1.0,2.6,100 km S 42° E of Uyugan (Batanes),2019_Earthquake_Information/July/2019_0714_0321_B2.html
+20190714T1127_9.68_124.44,2019-07-14T11:27:00+08:00,9.68,124.44,9.0,2.3,004 km S 49° E of Duero (Bohol),2019_Earthquake_Information/July/2019_0714_0327_B2.html
+20190714T1326_10.25_126.26,2019-07-14T13:26:00+08:00,10.25,126.26,17.0,2.9,033 km N 39° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0714_0526_B2.html
+20190714T1413_19.06_121.06,2019-07-14T14:13:00+08:00,19.06,121.06,12.0,3.5,049 km S 59° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0714_0613_B2F.html
+20190714T1533_9.29_125.84,2019-07-14T15:33:00+08:00,9.29,125.84,1.0,2.7,015 km S 54° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0714_0733_B2F.html
+20190714T1613_4.34_126.11,2019-07-14T16:13:00+08:00,4.34,126.11,97.0,3.7,139 km S 30° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0714_0813_B2.html
+20190714T1657_7.67_124.72,2019-07-14T16:57:00+08:00,7.67,124.72,1.0,2.8,005 km N 56° W of Wao (Lanao Del Sur),2019_Earthquake_Information/July/2019_0714_0857_B2.html
+20190714T2002_13.85_119.75,2019-07-14T20:02:00+08:00,13.85,119.75,24.0,1.9,040 km S 89° W of Lubang (Occidental Mindoro),2019_Earthquake_Information/July/2019_0714_1202_B2.html
+20190714T2039_13.19_120.21,2019-07-14T20:39:00+08:00,13.19,120.21,3.0,2.7,037 km S 49° W of Paluan (Occidental Mindoro),2019_Earthquake_Information/July/2019_0714_1239_B2.html
+20190715T0002_12.96_123.9,2019-07-15T00:02:00+08:00,12.96,123.9,31.0,2.4,017 km N 25° E of Magallanes (Sorsogon),2019_Earthquake_Information/July/2019_0714_1602_B2.html
+20190715T0009_9.82_122.28,2019-07-15T00:09:00+08:00,9.82,122.28,21.0,3.2,016 km N 67° W of Sipalay (Negros Occidental),2019_Earthquake_Information/July/2019_0714_1609_B2.html
+20190715T0043_9.79_122.25,2019-07-15T00:43:00+08:00,9.79,122.25,20.0,2.9,018 km N 81° W of Sipalay (Negros Occidental),2019_Earthquake_Information/July/2019_0714_1643_B2.html
+20190715T0152_9.27_126.01,2019-07-15T01:52:00+08:00,9.27,126.01,9.0,3.0,013 km S 30° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0714_1752_B2F.html
+20190715T0440_6.66_125.78,2019-07-15T04:40:00+08:00,6.66,125.78,163.0,3.3,032 km N 88° W of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0714_2040_B2.html
+20190715T0505_17.08_122.4,2019-07-15T05:05:00+08:00,17.08,122.4,20.0,2.0,004 km N 67° W of Palanan (Isabela),2019_Earthquake_Information/July/2019_0714_2105_B2.html
+20190715T0510_11.38_125.84,2019-07-15T05:10:00+08:00,11.38,125.84,1.0,3.5,025 km N 75° E of Hernani (Eastern Samar),2019_Earthquake_Information/July/2019_0714_2110_B2F.html
+20190715T0702_6.86_125.04,2019-07-15T07:02:00+08:00,6.86,125.04,10.0,2.8,012 km S 26° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0714_2302_B2F.html
+20190715T0713_8.33_126.63,2019-07-15T07:13:00+08:00,8.33,126.63,28.0,2.8,033 km S 83° E of Hinatuan (Surigao Del Sur),2019_Earthquake_Information/July/2019_0714_2313_B2.html
+20190715T0724_10.36_125.29,2019-07-15T07:24:00+08:00,10.36,125.29,1.0,2.6,004 km N 76° E of Hinundayan (Southern Leyte),2019_Earthquake_Information/July/2019_0714_2324_B2.html
+20190715T0814_6.56_126.23,2019-07-15T08:14:00+08:00,6.56,126.23,24.0,3.5,019 km S 59° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0715_0014_B2.html
+20190715T0924_9.35_125.81,2019-07-15T09:24:00+08:00,9.35,125.81,2.0,2.6,016 km S 83° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0715_0124_B2.html
+20190715T0931_15.06_120.24,2019-07-15T09:31:00+08:00,15.06,120.24,33.0,1.8,015 km N 18° E of Castillejos (Zambales),2019_Earthquake_Information/July/2019_0715_0131_B1F.html
+20190715T0946_7.71_126.52,2019-07-15T09:46:00+08:00,7.71,126.52,29.0,2.0,012 km S 39° E of Cateel (Davao Oriental),2019_Earthquake_Information/July/2019_0715_0146_B2.html
+20190715T1053_5.93_126.48,2019-07-15T10:53:00+08:00,5.93,126.48,75.0,2.8,092 km S 29° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0715_0253_B2.html
+20190715T1226_6.76_125.04,2019-07-15T12:26:00+08:00,6.76,125.04,9.0,4.1,023 km S 14° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0715_0426_B4F.html
+20190715T1309_10.33_125.87,2019-07-15T13:09:00+08:00,10.33,125.87,29.0,2.8,041 km N 32° W of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0715_0509_B2.html
+20190715T1517_9.4_122.53,2019-07-15T15:17:00+08:00,9.4,122.53,15.0,2.2,013 km S 86° W of Basay (Negros Oriental),2019_Earthquake_Information/July/2019_0715_0717_B2.html
+20190715T1652_13.17_124.32,2019-07-15T16:52:00+08:00,13.17,124.32,20.0,2.3,019 km N 48° E of Prieto Diaz (Sorsogon),2019_Earthquake_Information/July/2019_0715_0852_B2.html
+20190715T2107_6.83_125.01,2019-07-15T21:07:00+08:00,6.83,125.01,9.0,2.5,017 km S 30° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0715_1307_B2F.html
+20190715T2234_19.24_121.22,2019-07-15T22:34:00+08:00,19.24,121.22,29.0,2.4,026 km S 80° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0715_1434_B2.html
+20190715T2300_14.07_120.27,2019-07-15T23:00:00+08:00,14.07,120.27,82.0,1.8,029 km N 34° E of Lubang (Occidental Mindoro),2019_Earthquake_Information/July/2019_0715_1500_B2.html
+20190715T2323_18.16_121.15,2019-07-15T23:23:00+08:00,18.16,121.15,18.0,2.1,015 km N 12° W of Kabugao (Apayao),2019_Earthquake_Information/July/2019_0715_1523_B2.html
+20190716T0029_11.22_123.55,2019-07-16T00:29:00+08:00,11.22,123.55,24.0,2.0,019 km N 73° W of Bantayan (Cebu),2019_Earthquake_Information/July/2019_0715_1629_B2.html
+20190716T0035_16.81_120.57,2019-07-16T00:35:00+08:00,16.81,120.57,113.0,2.1,007 km S 59° E of Sugpon (Ilocos Sur),2019_Earthquake_Information/July/2019_0715_1635_B2.html
+20190716T0044_13.43_123.66,2019-07-16T00:44:00+08:00,13.43,123.66,83.0,2.2,004 km S 25° W of Tiwi (Albay),2019_Earthquake_Information/July/2019_0715_1644_B2.html
+20190716T0054_6.83_124.98,2019-07-16T00:54:00+08:00,6.83,124.98,11.0,3.2,019 km S 41° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0715_1654_B2F.html
+20190716T0110_15.13_119.82,2019-07-16T01:10:00+08:00,15.13,119.82,19.0,2.0,025 km S 83° W of Cabangan (Zambales),2019_Earthquake_Information/July/2019_0715_1710_B2.html
+20190716T0222_6.33_125.89,2019-07-16T02:22:00+08:00,6.33,125.89,119.0,3.3,026 km N 57° E of Don Marcelino (Davao Occidental),2019_Earthquake_Information/July/2019_0715_1822_B2.html
+20190716T0342_11.78_124.2,2019-07-16T03:42:00+08:00,11.78,124.2,7.0,2.8,017 km N 89° W of Maripipi (Biliran),2019_Earthquake_Information/July/2019_0715_1942_B2.html
+20190716T0351_12.84_120.97,2019-07-16T03:51:00+08:00,12.84,120.97,2.0,2.5,022 km N 88° E of Sablayan (Occidental Mindoro),2019_Earthquake_Information/July/2019_0715_1951_B2.html
+20190716T0414_13.26_122.28,2019-07-16T04:14:00+08:00,13.26,122.28,1.0,2.4,028 km S 70° W of San Francisco (Aurora) (Quezon),2019_Earthquake_Information/July/2019_0715_2014_B2.html
+20190716T0417_13.67_120.59,2019-07-16T04:17:00+08:00,13.67,120.59,121.0,2.1,018 km S 14° W of Calatagan (Batangas),2019_Earthquake_Information/July/2019_0715_2017_B2.html
+20190716T0510_14.84_121.99,2019-07-16T05:10:00+08:00,14.84,121.99,1.0,1.9,002 km S 76° E of Burdeos (Quezon),2019_Earthquake_Information/July/2019_0715_2110_B2.html
+20190716T0610_6.71_126.3,2019-07-16T06:10:00+08:00,6.71,126.3,44.0,2.5,028 km S 19° E of Mati (Davao Oriental),2019_Earthquake_Information/July/2019_0715_2210_B2.html
+20190716T1047_6.42_123.91,2019-07-16T10:47:00+08:00,6.42,123.91,24.0,2.1,039 km N 56° W of Palimbang (Sultan Kudarat),2019_Earthquake_Information/July/2019_0716_0247_B2.html
+20190716T1321_14.76_121.43,2019-07-16T13:21:00+08:00,14.76,121.43,21.0,2.2,020 km N 89° W of General Nakar (Quezon),2019_Earthquake_Information/July/2019_0716_0521_B2.html
+20190716T1322_14.85_121.52,2019-07-16T13:22:00+08:00,14.85,121.52,17.0,2.8,015 km N 47° W of General Nakar (Quezon),2019_Earthquake_Information/July/2019_0716_0522_B2.html
+20190716T2020_10.32_123.03,2019-07-16T20:20:00+08:00,10.32,123.03,9.0,2.5,001 km S 58° E of La Castellana (Negros Occidental),2019_Earthquake_Information/July/2019_0716_1220_B2F.html
+20190716T2209_10.38_123.02,2019-07-16T22:09:00+08:00,10.38,123.02,11.0,2.2,006 km N 03° E of La Castellana (Negros Occidental),2019_Earthquake_Information/July/2019_0716_1409_B2.html
+20190716T2215_10.36_123.02,2019-07-16T22:15:00+08:00,10.36,123.02,9.0,2.2,004 km N 02° W of La Castellana (Negros Occidental),2019_Earthquake_Information/July/2019_0716_1415_B2.html
+20190716T2314_9.33_125.89,2019-07-16T23:14:00+08:00,9.33,125.89,7.0,3.4,008 km S 54° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0716_1514_B2.html
+20190717T0203_9.33_125.9,2019-07-17T02:03:00+08:00,9.33,125.9,8.0,2.6,008 km S 51° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0716_1803_B2.html
+20190717T0251_16.16_120.13,2019-07-17T02:51:00+08:00,16.16,120.13,19.0,2.7,024 km S 54° E of Anda (Pangasinan),2019_Earthquake_Information/July/2019_0716_1851_B3F.html
+20190717T0407_12.01_125.18,2019-07-17T04:07:00+08:00,12.01,125.18,5.0,2.8,030 km N 89° W of Can-avid (Eastern Samar),2019_Earthquake_Information/July/2019_0716_2007_B2.html
+20190717T0511_13.66_123.88,2019-07-17T05:11:00+08:00,13.66,123.88,15.0,3.0,016 km S 70° E of Presentacion (Parubcan) (Camarines Sur),2019_Earthquake_Information/July/2019_0716_2111_B2.html
+20190717T0758_18.39_121.21,2019-07-17T07:58:00+08:00,18.39,121.21,18.0,2.0,025 km N 54° E of Calanasan (Apayao),2019_Earthquake_Information/July/2019_0716_2358_B2.html
+20190717T0836_10.37_125.23,2019-07-17T08:36:00+08:00,10.37,125.23,3.0,3.5,002 km N 56° W of Hinundayan (Southern Leyte),2019_Earthquake_Information/July/2019_0717_0036_B3F.html
+20190717T0856_10.37_125.28,2019-07-17T08:56:00+08:00,10.37,125.28,1.0,2.2,009 km S 71° E of Hinunangan (Southern Leyte),2019_Earthquake_Information/July/2019_0717_0056_B3F.html
+20190717T1043_6.46_126.16,2019-07-17T10:43:00+08:00,6.46,126.16,29.0,2.8,023 km S 24° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0717_0243_B2.html
+20190717T1453_9.34_125.91,2019-07-17T14:53:00+08:00,9.34,125.91,7.0,2.7,006 km S 53° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0717_0653_B2.html
+20190717T1719_6.81_124.99,2019-07-17T17:19:00+08:00,6.81,124.99,11.0,2.2,020 km S 33° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0717_0919_B2.html
+20190717T1824_9.83_126.28,2019-07-17T18:24:00+08:00,9.83,126.28,31.0,2.1,015 km N 70° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0717_1024_B2.html
+20190717T1934_6.81_125.01,2019-07-17T19:34:00+08:00,6.81,125.01,3.0,1.6,019 km S 28° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0717_1134_B2.html
+20190717T2020_15.12_119.91,2019-07-17T20:20:00+08:00,15.12,119.91,30.0,1.6,019 km N 69° W of San Felipe (Zambales),2019_Earthquake_Information/July/2019_0717_1220_B2.html
+20190717T2230_10.34_123.14,2019-07-17T22:30:00+08:00,10.34,123.14,7.0,1.8,011 km N 49° E of Moises Padilla (Magallon) (Negros Occidental),2019_Earthquake_Information/July/2019_0717_1430_B2.html
+20190718T0158_16.44_119.58,2019-07-18T01:58:00+08:00,16.44,119.58,41.0,3.0,034 km N 80° W of Bolinao (Pangasinan),2019_Earthquake_Information/July/2019_0717_1758_B2.html
+20190718T0213_9.44_126.17,2019-07-18T02:13:00+08:00,9.44,126.17,15.0,1.8,019 km N 09° W of Cortes (Surigao Del Sur),2019_Earthquake_Information/July/2019_0717_1813_B2.html
+20190718T0220_5.78_126.43,2019-07-18T02:20:00+08:00,5.78,126.43,110.0,2.9,091 km S 83° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0717_1820_B2.html
+20190718T0252_9.25_125.94,2019-07-18T02:52:00+08:00,9.25,125.94,4.0,3.4,013 km S 02° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0717_1852_B2.html
+20190718T0807_15.17_119.83,2019-07-18T08:07:00+08:00,15.17,119.83,36.0,2.0,030 km S 16° W of Palauig (Zambales),2019_Earthquake_Information/July/2019_0718_0007_B2.html
+20190718T1101_9.06_126.34,2019-07-18T11:01:00+08:00,9.06,126.34,29.0,2.0,013 km N 72° E of Tago (Surigao Del Sur),2019_Earthquake_Information/July/2019_0718_0301_B2.html
+20190718T1227_9.34_125.97,2019-07-18T12:27:00+08:00,9.34,125.97,13.0,3.7,004 km S 31° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0718_0427_B3F.html
+20190718T1714_13.75_120.57,2019-07-18T17:14:00+08:00,13.75,120.57,137.0,3.1,012 km S 37° W of Calatagan (Batangas),2019_Earthquake_Information/July/2019_0718_0914_B2.html
+20190718T1952_5.51_126.59,2019-07-18T19:52:00+08:00,5.51,126.59,25.0,3.5,116 km S 69° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0718_1152_B2.html
+20190718T2003_6.05_126.35,2019-07-18T20:03:00+08:00,6.05,126.35,76.0,2.7,073 km S 24° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0718_1203_B2.html
+20190718T2005_14.71_119.92,2019-07-18T20:05:00+08:00,14.71,119.92,34.0,1.8,033 km S 35° W of San Antonio (Zambales),2019_Earthquake_Information/July/2019_0718_1205_B2.html
+20190718T2034_8.78_126.38,2019-07-18T20:34:00+08:00,8.78,126.38,24.0,2.9,009 km S 72° E of Marihatag (Surigao Del Sur),2019_Earthquake_Information/July/2019_0718_1234_B2.html
+20190718T2147_8.91_126.77,2019-07-18T21:47:00+08:00,8.91,126.77,10.0,2.6,051 km S 89° E of Cagwait (Surigao Del Sur),2019_Earthquake_Information/July/2019_0718_1347_B2.html
+20190718T2150_9.31_125.87,2019-07-18T21:50:00+08:00,9.31,125.87,2.0,2.6,011 km S 51° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0718_1350_B1F.html
+20190718T2304_9.85_122.36,2019-07-18T23:04:00+08:00,9.85,122.36,20.0,1.9,011 km N 29° W of Sipalay (Negros Occidental),2019_Earthquake_Information/July/2019_0718_1504_B2.html
+20190719T0002_9.36_125.89,2019-07-19T00:02:00+08:00,9.36,125.89,10.0,3.5,006 km S 75° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0718_1602_B3F.html
+20190719T0046_6.94_124.99,2019-07-19T00:46:00+08:00,6.94,124.99,8.0,2.6,011 km S 81° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0718_1646_B2.html
+20190719T0056_9.33_125.9,2019-07-19T00:56:00+08:00,9.33,125.9,6.0,3.4,007 km S 50° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0718_1656_B2.html
+20190719T0119_14.99_119.92,2019-07-19T01:19:00+08:00,14.99,119.92,33.0,2.3,018 km S 65° W of San Felipe (Zambales),2019_Earthquake_Information/July/2019_0718_1719_B2.html
+20190719T0139_9.34_125.92,2019-07-19T01:39:00+08:00,9.34,125.92,9.0,3.8,005 km S 49° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0718_1739_B3F.html
+20190719T0140_9.31_125.9,2019-07-19T01:40:00+08:00,9.31,125.9,4.0,3.6,008 km S 37° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0718_1740_B3F.html
+20190719T0158_9.39_126.19,2019-07-19T01:58:00+08:00,9.39,126.19,20.0,2.3,027 km N 86° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0718_1758_B1.html
+20190719T0231_9.31_125.89,2019-07-19T02:31:00+08:00,9.31,125.89,6.0,2.4,009 km S 48° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0718_1831_B2F.html
+20190719T0232_9.31_125.93,2019-07-19T02:32:00+08:00,9.31,125.93,13.0,1.8,007 km S 19° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0718_1832_B2F.html
+20190719T0250_11.8_125.13,2019-07-19T02:50:00+08:00,11.8,125.13,1.0,2.4,034 km S 70° W of Taft (Eastern Samar),2019_Earthquake_Information/July/2019_0718_1850_B2.html
+20190719T0251_10.07_123.21,2019-07-19T02:51:00+08:00,10.07,123.21,15.0,2.3,009 km S 49° W of Guihulngan (Negros Oriental),2019_Earthquake_Information/July/2019_0718_1851_B2.html
+20190719T0256_7.89_126.28,2019-07-19T02:56:00+08:00,7.89,126.28,110.0,2.6,022 km N 62° W of Cateel (Davao Oriental),2019_Earthquake_Information/July/2019_0718_1856_B2.html
+20190719T0339_9.89_125.99,2019-07-19T03:39:00+08:00,9.89,125.99,28.0,1.7,012 km S 65° W of San Isidro (Surigao Del Norte),2019_Earthquake_Information/July/2019_0718_1939_B2.html
+20190719T0340_9.29_125.96,2019-07-19T03:40:00+08:00,9.29,125.96,35.0,2.1,010 km S 09° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0718_1940_B2F.html
+20190719T0535_9.6_122.44,2019-07-19T05:35:00+08:00,9.6,122.44,16.0,2.3,008 km N 57° W of Hinoba-an (Negros Occidental),2019_Earthquake_Information/July/2019_0718_2135_B2.html
+20190719T0543_9.4_126.23,2019-07-19T05:43:00+08:00,9.4,126.23,31.0,2.8,031 km N 84° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0718_2143_B2F.html
+20190719T0615_19.36_121.15,2019-07-19T06:15:00+08:00,19.36,121.15,29.0,3.5,034 km N 76° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0718_2215_B2.html
+20190719T0706_9.9_124.08,2019-07-19T07:06:00+08:00,9.9,124.08,6.0,2.8,002 km S 28° W of Sagbayan (Bohol),2019_Earthquake_Information/July/2019_0718_2306_B2.html
+20190719T0847_9.31_126.21,2019-07-19T08:47:00+08:00,9.31,126.21,33.0,2.2,029 km S 77° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0719_0047_B2F.html
+20190719T0917_9.35_125.87,2019-07-19T09:17:00+08:00,9.35,125.87,8.0,2.1,009 km S 74° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0719_0117_B2.html
+20190719T1002_9.85_124.31,2019-07-19T10:02:00+08:00,9.85,124.31,19.0,1.8,003 km N 54° W of Pilar (Bohol),2019_Earthquake_Information/July/2019_0719_0202_B2.html
+20190719T1007_6.42_126.68,2019-07-19T10:07:00+08:00,6.42,126.68,40.0,2.5,071 km S 69° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0719_0207_B2.html
+20190719T1056_5.4_125.26,2019-07-19T10:56:00+08:00,5.4,125.26,34.0,2.8,047 km S 10° E of Glan (Sarangani),2019_Earthquake_Information/July/2019_0719_0257_B2.html
+20190719T1056_9.32_125.88,2019-07-19T10:56:00+08:00,9.32,125.88,5.0,2.6,009 km S 51° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0719_0256_B2.html
+20190719T1137_6.34_127.03,2019-07-19T11:37:00+08:00,6.34,127.03,32.0,2.5,102 km S 39° E of Tarragona (Davao Oriental),2019_Earthquake_Information/July/2019_0719_0337_B2.html
+20190719T1152_9.9_125.48,2019-07-19T11:52:00+08:00,9.9,125.48,17.0,1.6,014 km S 59° W of Dinagat (Dinagat),2019_Earthquake_Information/July/2019_0719_0352_B2.html
+20190719T1157_9.2_126.02,2019-07-19T11:57:00+08:00,9.2,126.02,31.0,2.4,021 km S 23° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0719_0357_B2F.html
+20190719T1339_5.2_124.92,2019-07-19T13:39:00+08:00,5.2,124.92,392.0,4.2,066 km S 67° W of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0719_0539_B2.html
+20190719T1351_9.95_126.8,2019-07-19T13:51:00+08:00,9.95,126.8,9.0,2.9,073 km N 76° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0719_0551_B2.html
+20190719T1430_15.11_119.82,2019-07-19T14:30:00+08:00,15.11,119.82,11.0,3.9,027 km N 78° W of San Felipe (Zambales),2019_Earthquake_Information/July/2019_0719_0630_B3.html
+20190719T1454_15.29_119.41,2019-07-19T14:54:00+08:00,15.29,119.41,32.0,3.7,056 km S 73° W of Palauig (Zambales),2019_Earthquake_Information/July/2019_0719_0654_B2.html
+20190719T1724_19.26_121.23,2019-07-19T17:24:00+08:00,19.26,121.23,28.0,2.2,025 km S 84° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0719_0924_B2.html
+20190719T1745_9.7_126.09,2019-07-19T17:45:00+08:00,9.7,126.09,9.0,2.5,012 km S 41° W of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0719_0945_B2.html
+20190719T1845_6.73_124.99,2019-07-19T18:45:00+08:00,6.73,124.99,9.0,2.3,022 km S 53° E of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0719_1045_B2.html
+20190719T1849_6.44_126.71,2019-07-19T18:49:00+08:00,6.44,126.71,46.0,2.5,073 km S 23° E of Tarragona (Davao Oriental),2019_Earthquake_Information/July/2019_0719_1049_B2.html
+20190719T1853_5.95_126.6,2019-07-19T18:53:00+08:00,5.95,126.6,148.0,2.7,097 km S 37° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0719_1053_B2.html
+20190719T2048_2.91_125.88,2019-07-19T20:48:00+08:00,2.91,125.88,10.0,3.9,283 km S 09° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0719_1248_B2.html
+20190719T2116_8.7_126.42,2019-07-19T21:16:00+08:00,8.7,126.42,8.0,3.1,017 km S 51° E of Marihatag (Surigao Del Sur),2019_Earthquake_Information/July/2019_0719_1316_B2.html
+20190719T2244_9.34_125.88,2019-07-19T22:44:00+08:00,9.34,125.88,8.0,2.9,008 km S 65° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0719_1444_B2F.html
+20190719T2254_9.33_125.93,2019-07-19T22:54:00+08:00,9.33,125.93,17.0,2.3,005 km S 26° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0719_1454_B2F.html
+20190719T2323_3.88_126.33,2019-07-19T23:23:00+08:00,3.88,126.33,50.0,4.0,196 km S 29° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0719_1523_B2.html
+20190720T0219_5.54_125.77,2019-07-20T02:19:00+08:00,5.54,125.77,197.0,2.8,035 km N 71° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0719_1819_B2.html
+20190720T0223_2.91_125.91,2019-07-20T02:23:00+08:00,2.91,125.91,153.0,4.0,283 km S 10° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0719_1823_B2.html
+20190720T0242_9.33_126.31,2019-07-20T02:42:00+08:00,9.33,126.31,19.0,1.9,039 km S 83° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0719_1842_B2F.html
+20190720T0243_10.1_126.17,2019-07-20T02:43:00+08:00,10.1,126.17,9.0,2.3,013 km N 51° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0719_1843_B2.html
+20190720T0257_9.0_123.81,2019-07-20T02:57:00+08:00,9.0,123.81,9.0,1.9,025 km S 53° E of Lazi (Siquijor),2019_Earthquake_Information/July/2019_0719_1857_B2.html
+20190720T0308_10.12_124.04,2019-07-20T03:08:00+08:00,10.12,124.04,5.0,2.8,009 km N 60° W of Buenavista (Bohol),2019_Earthquake_Information/July/2019_0719_1908_B2.html
+20190720T0319_9.51_126.64,2019-07-20T03:19:00+08:00,9.51,126.64,8.0,3.1,055 km N 62° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/July/2019_0719_1919_B2.html
+20190720T0330_9.79_126.27,2019-07-20T03:30:00+08:00,9.79,126.27,1.0,2.8,013 km N 88° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0719_1930_B2.html
+20190720T0357_16.66_122.18,2019-07-20T03:57:00+08:00,16.66,122.18,1.0,2.8,017 km N 28° W of Dinapigue (Isabela),2019_Earthquake_Information/July/2019_0719_1957_B2.html
+20190720T0452_6.81_125.1,2019-07-20T04:52:00+08:00,6.81,125.1,1.0,2.8,017 km S 05° E of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0719_2052_B2F.html
+20190720T0455_6.91_124.93,2019-07-20T04:55:00+08:00,6.91,124.93,2.0,2.1,013 km N 59° E of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0719_2055_B2F.html
+20190720T0507_18.26_120.79,2019-07-20T05:07:00+08:00,18.26,120.79,31.0,2.8,011 km N 52° W of Carasi (Ilocos Norte),2019_Earthquake_Information/July/2019_0719_2107_B2.html
+20190720T0520_12.38_124.37,2019-07-20T05:20:00+08:00,12.38,124.37,89.0,2.3,003 km S 88° E of San Isidro (Northern Samar),2019_Earthquake_Information/July/2019_0719_2120_B2.html
+20190720T0526_19.26_121.18,2019-07-20T05:26:00+08:00,19.26,121.18,33.0,2.1,030 km S 84° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0719_2126_B2.html
+20190720T0531_15.3_122.1,2019-07-20T05:31:00+08:00,15.3,122.1,27.0,2.2,051 km N 38° E of Panukulan (Quezon),2019_Earthquake_Information/July/2019_0719_2131_B2.html
+20190720T0543_9.72_125.48,2019-07-20T05:43:00+08:00,9.72,125.48,15.0,4.1,008 km S 12° W of Surigao City (Surigao Del Norte),2019_Earthquake_Information/July/2019_0719_2143_B2F.html
+20190720T0907_8.98_126.5,2019-07-20T09:07:00+08:00,8.98,126.5,25.0,2.3,024 km N 89° E of Bayabas (Surigao Del Sur),2019_Earthquake_Information/July/2019_0720_0107_B2.html
+20190720T1229_4.01_126.47,2019-07-20T12:29:00+08:00,4.01,126.47,90.0,3.6,193 km S 35° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0720_0429_B2.html
+20190720T1240_13.65_120.59,2019-07-20T12:40:00+08:00,13.65,120.59,88.0,2.3,020 km S 12° W of Calatagan (Batangas),2019_Earthquake_Information/July/2019_0720_0440_B2.html
+20190720T1445_18.29_120.83,2019-07-20T14:45:00+08:00,18.29,120.83,30.0,2.6,012 km N 24° W of Carasi (Ilocos Norte),2019_Earthquake_Information/July/2019_0720_0645_B3F.html
+20190720T1635_7.35_126.54,2019-07-20T16:35:00+08:00,7.35,126.54,151.0,3.1,012 km S 21° W of Baculin (Davao Oriental),2019_Earthquake_Information/July/2019_0720_0835_B2.html
+20190720T1833_11.65_124.44,2019-07-20T18:33:00+08:00,11.65,124.44,2.0,2.2,010 km S 66° E of Kawayan (Biliran),2019_Earthquake_Information/July/2019_0720_1033_B2.html
+20190720T1851_16.01_120.46,2019-07-20T18:51:00+08:00,16.01,120.46,11.0,2.1,024 km S 87° E of Lingayen (Pangasinan),2019_Earthquake_Information/July/2019_0720_1051_B2.html
+20190720T1855_6.91_125.1,2019-07-20T18:55:00+08:00,6.91,125.1,1.0,2.3,006 km S 11° E of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0720_1055_B2F.html
+20190720T2032_6.6_127.09,2019-07-20T20:32:00+08:00,6.6,127.09,32.0,3.1,087 km S 55° E of Tarragona (Davao Oriental),2019_Earthquake_Information/July/2019_0720_1232_B2.html
+20190720T2239_6.1_125.35,2019-07-20T22:39:00+08:00,6.1,125.35,29.0,2.4,008 km N 85° E of Alabel (Sarangani),2019_Earthquake_Information/July/2019_0720_1439_B2.html
+20190720T2306_14.28_120.44,2019-07-20T23:06:00+08:00,14.28,120.44,107.0,2.0,018 km S 13° W of Mariveles (Bataan),2019_Earthquake_Information/July/2019_0720_1506_B2.html
+20190720T2334_8.94_126.38,2019-07-20T23:34:00+08:00,8.94,126.38,33.0,2.1,009 km N 73° E of Cagwait (Surigao Del Sur),2019_Earthquake_Information/July/2019_0720_1534_B2.html
+20190721T0012_9.04_125.62,2019-07-21T00:12:00+08:00,9.04,125.62,33.0,2.2,003 km S 71° E of Remedios Romualdez (Agusan Del Norte),2019_Earthquake_Information/July/2019_0720_1612_B2.html
+20190721T0013_11.66_124.33,2019-07-21T00:13:00+08:00,11.66,124.33,10.0,2.1,007 km N 56° W of Almeria (Biliran),2019_Earthquake_Information/July/2019_0720_1613_B2.html
+20190721T0014_11.68_124.29,2019-07-21T00:14:00+08:00,11.68,124.29,6.0,1.8,011 km N 59° W of Almeria (Biliran),2019_Earthquake_Information/July/2019_0720_1614_B2.html
+20190721T0034_9.31_125.87,2019-07-21T00:34:00+08:00,9.31,125.87,2.0,2.7,011 km S 51° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0720_1634_B2.html
+20190721T0043_9.27_125.86,2019-07-21T00:43:00+08:00,9.27,125.86,3.0,3.1,015 km S 40° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0720_1643_B2.html
+20190721T0104_13.67_120.61,2019-07-21T01:04:00+08:00,13.67,120.61,97.0,3.3,018 km S 07° W of Calatagan (Batangas),2019_Earthquake_Information/July/2019_0720_1704_B2.html
+20190721T0113_12.73_123.84,2019-07-21T01:13:00+08:00,12.73,123.84,32.0,1.9,007 km N 25° W of Bulan (Sorsogon),2019_Earthquake_Information/July/2019_0720_1713_B2.html
+20190721T0147_7.13_125.09,2019-07-21T01:47:00+08:00,7.13,125.09,33.0,2.0,019 km N 01° E of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0720_1747_B2.html
+20190721T0203_6.27_126.42,2019-07-21T02:03:00+08:00,6.27,126.42,112.0,2.4,056 km S 42° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0720_1803_B2.html
+20190721T0209_19.15_121.32,2019-07-21T02:09:00+08:00,19.15,121.32,21.0,1.8,022 km S 46° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0720_1809_B2.html
+20190721T0216_9.68_122.52,2019-07-21T02:16:00+08:00,9.68,122.52,32.0,2.1,017 km S 30° W of Candoni (Negros Occidental),2019_Earthquake_Information/July/2019_0720_1816_B2.html
+20190721T0222_6.49_126.14,2019-07-21T02:22:00+08:00,6.49,126.14,56.0,2.0,019 km S 21° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0720_1822_B2.html
+20190721T0230_7.8_126.66,2019-07-21T02:30:00+08:00,7.8,126.66,31.0,4.2,023 km N 87° E of Cateel (Davao Oriental),2019_Earthquake_Information/July/2019_0720_1830_B4F.html
+20190721T0254_18.04_121.53,2019-07-21T02:54:00+08:00,18.04,121.53,35.0,1.6,007 km S 68° W of Lasam (Cagayan),2019_Earthquake_Information/July/2019_0720_1854_B2.html
+20190721T0302_9.36_125.91,2019-07-21T03:02:00+08:00,9.36,125.91,3.0,2.3,004 km S 71° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0720_1902_B2.html
+20190721T0332_19.63_121.16,2019-07-21T03:32:00+08:00,19.63,121.16,10.0,2.9,050 km N 40° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0720_1932_B2.html
+20190721T0417_10.09_122.14,2019-07-21T04:17:00+08:00,10.09,122.14,3.0,2.6,045 km S 33° E of Anini-y (Antique),2019_Earthquake_Information/July/2019_0720_2017_B2.html
+20190721T0421_19.09_120.91,2019-07-21T04:21:00+08:00,19.09,120.91,32.0,2.0,057 km N 19° W of Claveria (Cagayan),2019_Earthquake_Information/July/2019_0720_2021_B2.html
+20190721T0428_8.99_125.66,2019-07-21T04:28:00+08:00,8.99,125.66,30.0,1.6,019 km N 15° W of Sibagat (Agusan Del Sur),2019_Earthquake_Information/July/2019_0720_2028_B2.html
+20190721T0429_7.37_126.34,2019-07-21T04:29:00+08:00,7.37,126.34,1.0,2.5,025 km N 79° W of Caraga (Davao Oriental),2019_Earthquake_Information/July/2019_0720_2029_B2.html
+20190721T0517_4.88_126.07,2019-07-21T05:17:00+08:00,4.88,126.07,67.0,2.7,090 km S 47° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0720_2117_B2.html
+20190721T0523_10.15_122.19,2019-07-21T05:23:00+08:00,10.15,122.19,6.0,2.5,042 km S 42° E of Anini-y (Antique),2019_Earthquake_Information/July/2019_0720_2123_B2.html
+20190721T0541_8.94_126.37,2019-07-21T05:41:00+08:00,8.94,126.37,31.0,1.9,008 km N 74° E of Cagwait (Surigao Del Sur),2019_Earthquake_Information/July/2019_0720_2141_B2.html
+20190721T0600_19.19_121.08,2019-07-21T06:00:00+08:00,19.19,121.08,22.0,2.5,042 km S 77° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0720_2200_B2.html
+20190721T0607_9.32_125.88,2019-07-21T06:07:00+08:00,9.32,125.88,11.0,3.1,010 km S 51° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0720_2207_B2.html
+20190721T0610_9.21_125.93,2019-07-21T06:10:00+08:00,9.21,125.93,27.0,2.3,007 km S 30° W of Madrid (Surigao Del Sur),2019_Earthquake_Information/July/2019_0720_2210_B2.html
+20190721T0703_9.1_126.23,2019-07-21T07:03:00+08:00,9.1,126.23,27.0,1.8,004 km N 58° E of Tandag (Surigao Del Sur),2019_Earthquake_Information/July/2019_0720_2303_B2.html
+20190721T0714_13.16_124.02,2019-07-21T07:14:00+08:00,13.16,124.02,31.0,2.9,012 km S 77° W of Rapu-rapu (Albay),2019_Earthquake_Information/July/2019_0720_2314_B2.html
+20190721T0935_13.47_123.62,2019-07-21T09:35:00+08:00,13.47,123.62,7.0,2.8,007 km N 78° W of Tiwi (Albay),2019_Earthquake_Information/July/2019_0721_0135_B2.html
+20190721T1038_9.34_125.99,2019-07-21T10:38:00+08:00,9.34,125.99,7.0,3.7,006 km S 58° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0721_0238_B3F.html
+20190721T1043_10.56_122.92,2019-07-21T10:43:00+08:00,10.56,122.92,16.0,2.1,014 km S 66° W of Murcia (Negros Occidental),2019_Earthquake_Information/July/2019_0721_0243_B2.html
+20190721T1111_10.05_125.62,2019-07-21T11:11:00+08:00,10.05,125.62,20.0,2.5,006 km N 59° E of San Jose (Dinagat),2019_Earthquake_Information/July/2019_0721_0311_B1.html
+20190721T1240_9.3_125.91,2019-07-21T12:40:00+08:00,9.3,125.91,40.0,2.4,007 km N 56° W of Madrid (Surigao Del Sur),2019_Earthquake_Information/July/2019_0721_0440_B2.html
+20190721T1336_10.39_124.08,2019-07-21T13:36:00+08:00,10.39,124.08,17.0,2.7,009 km S 82° E of Liloan (Cebu),2019_Earthquake_Information/July/2019_0721_0536_B2F.html
+20190721T1424_6.85_124.98,2019-07-21T14:24:00+08:00,6.85,124.98,10.0,2.2,017 km N 89° E of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0721_0624_B2.html
+20190721T1522_15.27_120.11,2019-07-21T15:22:00+08:00,15.27,120.11,33.0,1.9,009 km S 77° E of Botolan (Zambales),2019_Earthquake_Information/July/2019_0721_0722_B2.html
+20190721T1813_13.13_124.07,2019-07-21T18:13:00+08:00,13.13,124.07,31.0,1.8,009 km S 46° W of Rapu-rapu (Albay),2019_Earthquake_Information/July/2019_0721_1013_B2.html
+20190721T1835_11.67_124.15,2019-07-21T18:35:00+08:00,11.67,124.15,3.0,2.3,026 km N 78° W of Almeria (Biliran),2019_Earthquake_Information/July/2019_0721_1035_B2.html
+20190721T1856_9.81_124.14,2019-07-21T18:56:00+08:00,9.81,124.14,33.0,1.9,012 km S 22° E of Sagbayan (Bohol),2019_Earthquake_Information/July/2019_0721_1056_B2.html
+20190721T2017_12.42_124.19,2019-07-21T20:17:00+08:00,12.42,124.19,36.0,1.4,002 km S 19° E of Capul (Northern Samar),2019_Earthquake_Information/July/2019_0721_1217_B2.html
+20190721T2108_9.33_126.26,2019-07-21T21:08:00+08:00,9.33,126.26,33.0,2.1,010 km N 54° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/July/2019_0721_1308_B2.html
+20190721T2128_12.43_124.21,2019-07-21T21:28:00+08:00,12.43,124.21,42.0,1.3,003 km N 77° E of Capul (Northern Samar),2019_Earthquake_Information/July/2019_0721_1328_B2.html
+20190721T2132_10.2_125.83,2019-07-21T21:32:00+08:00,10.2,125.83,16.0,1.4,030 km N 49° W of Santa Monica (Sapao) (Surigao Del Norte),2019_Earthquake_Information/July/2019_0721_1332_B2.html
+20190721T2208_15.03_119.69,2019-07-21T22:08:00+08:00,15.03,119.69,8.0,2.9,042 km S 71° W of Cabangan (Zambales),2019_Earthquake_Information/July/2019_0721_1408_B2.html
+20190721T2219_11.8_125.31,2019-07-21T22:19:00+08:00,11.8,125.31,27.0,2.4,017 km N 72° W of San Julian (Eastern Samar),2019_Earthquake_Information/July/2019_0721_1419_B2.html
+20190721T2227_11.76_125.27,2019-07-21T22:27:00+08:00,11.76,125.27,41.0,2.5,021 km N 87° W of San Julian (Eastern Samar),2019_Earthquake_Information/July/2019_0721_1427_B2.html
+20190721T2234_6.09_126.43,2019-07-21T22:34:00+08:00,6.09,126.43,32.0,2.4,073 km S 32° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0721_1434_B2.html
+20190721T2247_10.05_125.3,2019-07-21T22:47:00+08:00,10.05,125.3,8.0,2.0,015 km S 87° E of San Francisco (Southern Leyte),2019_Earthquake_Information/July/2019_0721_1447_B2.html
+20190721T2303_13.39_123.49,2019-07-21T23:03:00+08:00,13.39,123.49,19.0,1.7,004 km S 22° W of Buhi (Camarines Sur),2019_Earthquake_Information/July/2019_0721_1503_B2.html
+20190722T0013_10.37_125.33,2019-07-22T00:13:00+08:00,10.37,125.33,46.0,2.2,009 km N 75° E of Hinundayan (Southern Leyte),2019_Earthquake_Information/July/2019_0721_1613_B2.html
+20190722T0014_16.44_122.09,2019-07-22T00:14:00+08:00,16.44,122.09,18.0,2.3,018 km N 10° W of Casiguran (Aurora),2019_Earthquake_Information/July/2019_0721_1614_B2.html
+20190722T0046_9.33_125.86,2019-07-22T00:46:00+08:00,9.33,125.86,6.0,2.5,011 km S 68° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0721_1646_B2.html
+20190722T0055_10.32_126.85,2019-07-22T00:55:00+08:00,10.32,126.85,4.0,3.2,091 km N 69° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0721_1655_B2.html
+20190722T0115_15.27_119.8,2019-07-22T01:15:00+08:00,15.27,119.8,31.0,1.8,021 km S 32° W of Palauig (Zambales),2019_Earthquake_Information/July/2019_0721_1715_B2.html
+20190722T0244_11.09_121.97,2019-07-22T02:44:00+08:00,11.09,121.97,14.0,3.0,020 km N 08° W of Patnongon (Antique),2019_Earthquake_Information/July/2019_0721_1844_B2.html
+20190722T0250_13.7_120.39,2019-07-22T02:50:00+08:00,13.7,120.39,20.0,1.8,015 km S 80° E of Looc (Occidental Mindoro),2019_Earthquake_Information/July/2019_0721_1850_B2.html
+20190722T0309_11.01_121.8,2019-07-22T03:09:00+08:00,11.01,121.8,8.0,3.0,024 km N 64° W of Patnongon (Antique),2019_Earthquake_Information/July/2019_0721_1909_B2.html
+20190722T0315_9.32_125.89,2019-07-22T03:15:00+08:00,9.32,125.89,6.0,2.7,009 km S 46° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0721_1915_B2.html
+20190722T0427_9.8_125.5,2019-07-22T04:27:00+08:00,9.8,125.5,34.0,2.2,001 km N 42° E of Surigao City (Surigao Del Norte),2019_Earthquake_Information/July/2019_0721_2027_B2.html
+20190722T0435_15.2_120.09,2019-07-22T04:35:00+08:00,15.2,120.09,75.0,2.0,006 km N 40° E of Cabangan (Zambales),2019_Earthquake_Information/July/2019_0721_2035_B2.html
+20190722T0556_11.75_126.22,2019-07-22T05:56:00+08:00,11.75,126.22,40.0,2.8,080 km N 54° E of Hernani (Eastern Samar),2019_Earthquake_Information/July/2019_0721_2156_B2.html
+20190722T0605_9.26_122.47,2019-07-22T06:05:00+08:00,9.26,122.47,18.0,2.4,025 km S 49° W of Basay (Negros Oriental),2019_Earthquake_Information/July/2019_0721_2205_B2.html
+20190722T0615_9.33_125.87,2019-07-22T06:15:00+08:00,9.33,125.87,7.0,2.0,010 km S 63° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0721_2215_B2.html
+20190722T0625_9.27_126.06,2019-07-22T06:25:00+08:00,9.27,126.06,30.0,2.0,017 km S 47° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0721_2225_B2.html
+20190722T0715_10.34_125.05,2019-07-22T07:15:00+08:00,10.34,125.05,23.0,1.4,004 km N 05° W of Libagon (Southern Leyte),2019_Earthquake_Information/July/2019_0721_2315_B2.html
+20190722T0715_9.3_125.95,2019-07-22T07:15:00+08:00,9.3,125.95,5.0,3.3,008 km S 02° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0721_2315_B2_Carrascal.html
+20190722T0740_9.35_125.88,2019-07-22T07:40:00+08:00,9.35,125.88,3.0,2.8,008 km S 70° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0721_2340_B2.html
+20190722T0747_9.33_125.86,2019-07-22T07:47:00+08:00,9.33,125.86,7.0,2.6,010 km S 64° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0721_2347_B2.html
+20190722T0929_15.01_122.63,2019-07-22T09:29:00+08:00,15.01,122.63,50.0,2.4,043 km N 40° E of Jomalig (Quezon),2019_Earthquake_Information/July/2019_0722_0129_B2.html
+20190722T0944_13.55_121.44,2019-07-22T09:44:00+08:00,13.55,121.44,12.0,2.6,027 km S 67° E of Lobo (Batangas),2019_Earthquake_Information/July/2019_0722_0144_B2.html
+20190722T1023_9.82_126.05,2019-07-22T10:23:00+08:00,9.82,126.05,26.0,2.8,007 km S 49° W of Pilar (Surigao Del Norte),2019_Earthquake_Information/July/2019_0722_0223_B2.html
+20190722T1026_6.0_125.64,2019-07-22T10:26:00+08:00,6.0,125.64,134.0,1.8,013 km N 13° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0722_0226_B2.html
+20190722T1101_6.48_126.45,2019-07-22T11:01:00+08:00,6.48,126.45,45.0,2.6,046 km S 65° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0722_0301_B2.html
+20190722T1206_20.98_120.85,2019-07-22T12:06:00+08:00,20.98,120.85,66.0,4.3,106 km N 79° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0722_0406_B2.html
+20190722T1244_20.75_120.85,2019-07-22T12:44:00+08:00,20.75,120.85,27.0,3.0,121 km S 77° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0722_0444_B2.html
+20190722T1255_14.36_125.24,2019-07-22T12:55:00+08:00,14.36,125.24,93.0,2.5,112 km N 55° E of Gigmoto (Catanduanes),2019_Earthquake_Information/July/2019_0722_0455_B2.html
+20190722T1345_15.34_119.81,2019-07-22T13:45:00+08:00,15.34,119.81,30.0,1.9,018 km N 87° W of Iba (Zambales),2019_Earthquake_Information/July/2019_0722_0545_B2.html
+20190722T1717_8.97_125.98,2019-07-22T17:17:00+08:00,8.97,125.98,27.0,1.7,007 km N 73° W of San Miguel (Surigao Del Sur),2019_Earthquake_Information/July/2019_0722_0917_B2.html
+20190722T2052_10.63_122.42,2019-07-22T20:52:00+08:00,10.63,122.42,17.0,2.1,017 km S 58° W of Iloilo City (Iloilo),2019_Earthquake_Information/July/2019_0722_1252_B2.html
+20190722T2121_9.35_125.9,2019-07-22T21:21:00+08:00,9.35,125.9,9.0,2.3,005 km S 65° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0722_1321_B2F.html
+20190722T2201_13.89_120.53,2019-07-22T22:01:00+08:00,13.89,120.53,90.0,1.9,012 km N 62° W of Calatagan (Batangas),2019_Earthquake_Information/July/2019_0722_1401_B2.html
+20190722T2317_11.56_121.12,2019-07-22T23:17:00+08:00,11.56,121.12,20.0,2.0,062 km S 49° W of Caluya (Antique),2019_Earthquake_Information/July/2019_0722_1517_B2.html
+20190722T2351_9.95_124.21,2019-07-22T23:51:00+08:00,9.95,124.21,24.0,2.0,002 km S 84° W of Danao (Bohol),2019_Earthquake_Information/July/2019_0722_1551_B2.html
+20190722T2355_9.78_124.7,2019-07-22T23:55:00+08:00,9.78,124.7,20.0,2.4,014 km N 73° E of Anda (Bohol),2019_Earthquake_Information/July/2019_0722_1555_B2.html
+20190722T2359_8.72_126.48,2019-07-22T23:59:00+08:00,8.72,126.48,22.0,2.5,022 km S 66° E of Marihatag (Surigao Del Sur),2019_Earthquake_Information/July/2019_0722_1559_B2.html
+20190723T0045_10.41_125.19,2019-07-23T00:45:00+08:00,10.41,125.19,6.0,2.3,001 km N 17° W of Hinunangan (Southern Leyte),2019_Earthquake_Information/July/2019_0722_1645_B2.html
+20190723T0216_8.12_125.96,2019-07-23T02:16:00+08:00,8.12,125.96,9.0,2.8,012 km N 18° W of Santa Josefa (Agusan Del Sur),2019_Earthquake_Information/July/2019_0722_1816_B2.html
+20190723T0233_8.7_126.54,2019-07-23T02:33:00+08:00,8.7,126.54,27.0,2.7,029 km S 67° E of Marihatag (Surigao Del Sur),2019_Earthquake_Information/July/2019_0722_1833_B2.html
+20190723T0420_10.26_125.44,2019-07-23T04:20:00+08:00,10.26,125.44,4.0,2.6,018 km S 54° W of Loreto (Dinagat),2019_Earthquake_Information/July/2019_0722_2020_B2.html
+20190723T1015_6.03_126.28,2019-07-23T10:15:00+08:00,6.03,126.28,89.0,2.4,068 km S 74° E of Don Marcelino (Davao Occidental),2019_Earthquake_Information/July/2019_0723_0215_B2.html
+20190723T1151_13.22_124.59,2019-07-23T11:51:00+08:00,13.22,124.59,25.0,2.6,047 km N 67° E of Prieto Diaz (Sorsogon),2019_Earthquake_Information/July/2019_0723_0351_B2.html
+20190723T1440_15.72_121.37,2019-07-23T14:40:00+08:00,15.72,121.37,4.0,1.7,021 km S 79° W of Baler (Aurora),2019_Earthquake_Information/July/2019_0723_0640_B2.html
+20190723T1523_6.52_125.98,2019-07-23T15:23:00+08:00,6.52,125.98,41.0,2.3,018 km S 38° W of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0723_0723_B2.html
+20190723T1640_11.06_124.55,2019-07-23T16:40:00+08:00,11.06,124.55,20.0,2.0,009 km N 47° W of Ormoc City (Leyte),2019_Earthquake_Information/July/2019_0723_0840_B2.html
+20190723T1738_9.36_126.02,2019-07-23T17:38:00+08:00,9.36,126.02,11.0,4.8,041 km N 83° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0723_0938_B3F.html
+20190723T1855_9.34_126.26,2019-07-23T18:55:00+08:00,9.34,126.26,37.0,2.9,011 km N 46° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/July/2019_0723_1055_B2.html
+20190723T1927_13.52_121.54,2019-07-23T19:27:00+08:00,13.52,121.54,6.0,2.6,037 km S 25° E of San Juan (Batangas),2019_Earthquake_Information/July/2019_0723_1127_B2.html
+20190723T1931_10.01_122.69,2019-07-23T19:31:00+08:00,10.01,122.69,20.0,2.1,008 km N 62° E of Cauayan (Negros Occidental),2019_Earthquake_Information/July/2019_0723_1131_B2.html
+20190723T2007_5.67_126.52,2019-07-23T20:07:00+08:00,5.67,126.52,67.0,2.8,103 km S 76° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0723_1207_B2.html
+20190723T2026_13.53_119.97,2019-07-23T20:26:00+08:00,13.53,119.97,10.0,3.2,038 km S 55° W of Looc (Occidental Mindoro),2019_Earthquake_Information/July/2019_0723_1226_B2.html
+20190723T2035_9.77_126.85,2019-07-23T20:35:00+08:00,9.77,126.85,22.0,3.0,077 km S 89° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0723_1235_B2.html
+20190723T2045_13.69_120.57,2019-07-23T20:45:00+08:00,13.69,120.57,90.0,2.2,017 km S 23° W of Calatagan (Batangas),2019_Earthquake_Information/July/2019_0723_1245_B2.html
+20190723T2048_6.19_126.75,2019-07-23T20:48:00+08:00,6.19,126.75,74.0,2.6,090 km S 55° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0723_1248_B2.html
+20190723T2110_20.24_122.78,2019-07-23T21:10:00+08:00,20.24,122.78,23.0,4.8,088 km S 74° E of Basco (Batanes),2019_Earthquake_Information/July/2019_0723_1310_B2.html
+20190723T2154_12.07_121.99,2019-07-23T21:54:00+08:00,12.07,121.99,9.0,3.5,006 km S 82° E of San Jose (Romblon),2019_Earthquake_Information/July/2019_0723_1354_B1F.html
+20190724T0006_5.31_127.07,2019-07-24T00:06:00+08:00,5.31,127.07,33.0,3.4,173 km S 68° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0723_1606_B2.html
+20190724T0154_10.14_126.11,2019-07-24T01:54:00+08:00,10.14,126.11,21.0,3.2,014 km N 15° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0723_1754_B2.html
+20190724T0159_9.99_126.12,2019-07-24T01:59:00+08:00,9.99,126.12,33.0,1.7,006 km S 60° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0723_1759_B2.html
+20190724T0355_9.44_125.81,2019-07-24T03:55:00+08:00,9.44,125.81,1.0,2.4,017 km N 67° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0723_1955_B2.html
+20190724T0403_16.49_120.38,2019-07-24T04:03:00+08:00,16.49,120.38,102.0,3.5,007 km S 48° E of Bauang (La Union),2019_Earthquake_Information/July/2019_0723_2003_B2.html
+20190724T0407_6.33_126.91,2019-07-24T04:07:00+08:00,6.33,126.91,72.0,2.9,095 km S 33° E of Tarragona (Davao Oriental),2019_Earthquake_Information/July/2019_0723_2007_B2.html
+20190724T0424_9.33_125.89,2019-07-24T04:24:00+08:00,9.33,125.89,5.0,2.6,008 km S 54° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0723_2024_B2.html
+20190724T0429_9.32_125.89,2019-07-24T04:29:00+08:00,9.32,125.89,7.0,3.2,008 km S 46° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0723_2029_B2F.html
+20190724T0500_17.48_122.22,2019-07-24T05:00:00+08:00,17.48,122.22,25.0,2.9,019 km N 31° W of Divilacan (Isabela),2019_Earthquake_Information/July/2019_0723_2100_B1.html
+20190724T0705_6.85_125.6,2019-07-24T07:05:00+08:00,6.85,125.6,22.0,2.8,024 km S 03° W of Davao City (Davao Del Sur),2019_Earthquake_Information/July/2019_0723_2305_B2.html
+20190724T0857_6.89_125.04,2019-07-24T08:57:00+08:00,6.89,125.04,6.0,3.4,010 km S 34° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0724_0057_B2F.html
+20190724T1313_6.85_125.0,2019-07-24T13:13:00+08:00,6.85,125.0,8.0,2.9,016 km S 38° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0724_0513_B2F.html
+20190724T1356_6.85_125.03,2019-07-24T13:56:00+08:00,6.85,125.03,11.0,2.6,014 km S 29° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0724_0556_B2.html
+20190724T1443_9.38_126.26,2019-07-24T14:43:00+08:00,9.38,126.26,28.0,1.9,014 km N 34° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/July/2019_0724_0643_B2.html
+20190724T1449_19.33_121.16,2019-07-24T14:49:00+08:00,19.33,121.16,33.0,2.2,033 km N 80° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0724_0649_B2.html
+20190724T1611_6.87_125.0,2019-07-24T16:11:00+08:00,6.87,125.0,8.0,2.5,014 km S 44° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0724_0811_B2.html
+20190724T1830_12.04_125.54,2019-07-24T18:30:00+08:00,12.04,125.54,33.0,3.0,006 km N 83° E of Dolores (Eastern Samar),2019_Earthquake_Information/July/2019_0724_1030_B2F.html
+20190724T2236_20.67_120.02,2019-07-24T22:36:00+08:00,20.67,120.02,9.0,3.9,190 km S 85° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0724_1436_B2.html
+20190724T2323_14.8_119.51,2019-07-24T23:23:00+08:00,14.8,119.51,22.0,1.5,064 km S 75° W of San Antonio (Zambales),2019_Earthquake_Information/July/2019_0724_1523_B2.html
+20190725T0029_7.1_126.01,2019-07-25T00:29:00+08:00,7.1,126.01,23.0,2.5,014 km S 64° E of Pantukan (Compostela Valley),2019_Earthquake_Information/July/2019_0724_1629_B2.html
+20190725T0044_13.55_121.31,2019-07-25T00:44:00+08:00,13.55,121.31,1.0,3.2,015 km S 47° E of Lobo (Batangas),2019_Earthquake_Information/July/2019_0724_1644_B2F.html
+20190725T0052_13.83_121.21,2019-07-25T00:52:00+08:00,13.83,121.21,21.0,2.0,003 km S 27° E of Rosario (Batangas),2019_Earthquake_Information/July/2019_0724_1652_B2.html
+20190725T0128_15.04_119.49,2019-07-25T01:28:00+08:00,15.04,119.49,33.0,1.9,062 km S 87° W of San Felipe (Zambales),2019_Earthquake_Information/July/2019_0724_1728_B2.html
+20190725T0131_6.35_126.78,2019-07-25T01:31:00+08:00,6.35,126.78,33.0,2.4,085 km S 67° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0724_1731_B2.html
+20190725T0147_13.65_120.51,2019-07-25T01:47:00+08:00,13.65,120.51,110.0,3.7,025 km S 34° W of Calatagan (Batangas),2019_Earthquake_Information/July/2019_0724_1747_B2.html
+20190725T0220_9.43_126.2,2019-07-25T02:20:00+08:00,9.43,126.2,32.0,2.0,017 km N 03° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/July/2019_0724_1820_B2.html
+20190725T0253_18.76_120.7,2019-07-25T02:53:00+08:00,18.76,120.7,24.0,2.0,022 km N 26° W of Pagudpud (Ilocos Norte),2019_Earthquake_Information/July/2019_0724_1853_B2.html
+20190725T0404_10.57_125.78,2019-07-25T04:04:00+08:00,10.57,125.78,59.0,3.0,032 km N 45° E of Loreto (Dinagat),2019_Earthquake_Information/July/2019_0724_2004_B2.html
+20190725T0606_14.96_122.46,2019-07-25T06:06:00+08:00,14.96,122.46,14.0,2.7,028 km N 18° E of Jomalig (Quezon),2019_Earthquake_Information/July/2019_0724_2206_B2.html
+20190725T0800_10.5_126.61,2019-07-25T08:00:00+08:00,10.5,126.61,9.0,3.5,080 km N 48° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0725_0000_B2.html
+20190725T0900_10.4_126.59,2019-07-25T09:00:00+08:00,10.4,126.59,21.0,3.0,071 km N 54° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0725_0100_B2.html
+20190725T0910_6.95_123.71,2019-07-25T09:10:00+08:00,6.95,123.71,33.0,2.2,046 km N 71° W of South Upi (Maguindanao),2019_Earthquake_Information/July/2019_0725_0110_B1.html
+20190725T1128_6.19_126.53,2019-07-25T11:28:00+08:00,6.19,126.53,57.0,2.6,072 km S 44° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0725_0328_B2.html
+20190725T1328_9.88_122.32,2019-07-25T13:28:00+08:00,9.88,122.32,33.0,2.3,016 km N 36° W of Sipalay (Negros Occidental),2019_Earthquake_Information/July/2019_0725_0528_B2.html
+20190725T1431_18.52_120.94,2019-07-25T14:31:00+08:00,18.52,120.94,25.0,2.3,004 km S 07° W of Santa Praxedes (Cagayan),2019_Earthquake_Information/July/2019_0725_0631_B2.html
+20190725T1833_9.27_126.24,2019-07-25T18:33:00+08:00,9.27,126.24,33.0,2.3,034 km S 71° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0725_1033_B2.html
+20190725T1849_17.02_119.65,2019-07-25T18:49:00+08:00,17.02,119.65,32.0,2.0,074 km N 20° W of Bolinao (Pangasinan),2019_Earthquake_Information/July/2019_0725_1049_B2.html
+20190725T2218_9.03_126.5,2019-07-25T22:18:00+08:00,9.03,126.5,22.0,2.3,025 km N 62° E of Cagwait (Surigao Del Sur),2019_Earthquake_Information/July/2019_0725_1418_B2.html
+20190725T2237_10.39_125.1,2019-07-25T22:37:00+08:00,10.39,125.1,25.0,2.2,011 km S 84° W of Hinunangan (Southern Leyte),2019_Earthquake_Information/July/2019_0725_1437_B2.html
+20190725T2253_19.23_121.14,2019-07-25T22:53:00+08:00,19.23,121.14,33.0,1.9,034 km S 81° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0725_1453_B2.html
+20190725T2332_9.33_125.96,2019-07-25T23:32:00+08:00,9.33,125.96,13.0,3.1,005 km S 10° E of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0725_1532_B2F.html
+20190725T2337_14.59_122.05,2019-07-25T23:37:00+08:00,14.59,122.05,17.0,1.7,018 km S 41° E of Polillo (Quezon),2019_Earthquake_Information/July/2019_0725_1537_B2.html
+20190725T2341_8.17_123.31,2019-07-25T23:41:00+08:00,8.17,123.31,28.0,2.1,003 km N 50° W of Dumingag (Zamboanga Del Sur),2019_Earthquake_Information/July/2019_0725_1541_B2.html
+20190725T2342_5.31_125.85,2019-07-25T23:42:00+08:00,5.31,125.85,121.0,3.1,044 km S 71° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0725_1542_B2.html
+20190726T0031_17.02_119.75,2019-07-26T00:31:00+08:00,17.02,119.75,20.0,2.7,070 km N 75° W of Luna (La Union),2019_Earthquake_Information/July/2019_0725_1631_B2.html
+20190726T0133_8.96_125.4,2019-07-26T01:33:00+08:00,8.96,125.4,78.0,2.3,002 km S 20° W of Buenavista (Agusan Del Norte),2019_Earthquake_Information/July/2019_0725_1733_B2.html
+20190726T0149_6.92_124.91,2019-07-26T01:49:00+08:00,6.92,124.91,18.0,3.1,012 km N 51° E of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0725_1749_B2F.html
+20190726T0150_6.76_124.8,2019-07-26T01:50:00+08:00,6.76,124.8,32.0,2.4,010 km S 18° W of Tulunan (North Cotabato),2019_Earthquake_Information/July/2019_0725_1750_B1.html
+20190726T0218_9.86_122.3,2019-07-26T02:18:00+08:00,9.86,122.3,21.0,1.6,016 km N 47° W of Sipalay (Negros Occidental),2019_Earthquake_Information/July/2019_0725_1818_B2.html
+20190726T0219_6.82_125.01,2019-07-26T02:19:00+08:00,6.82,125.01,7.0,3.2,018 km S 30° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0725_1819_B2F.html
+20190726T0256_9.3_125.85,2019-07-26T02:56:00+08:00,9.3,125.85,1.0,3.1,013 km S 53° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0725_1856_B2F.html
+20190726T0713_18.56_119.89,2019-07-26T07:13:00+08:00,18.56,119.89,21.0,2.2,080 km N 86° W of Burgos (Ilocos Norte),2019_Earthquake_Information/July/2019_0725_2313_B2.html
+20190726T1307_13.29_120.33,2019-07-26T13:07:00+08:00,13.29,120.33,21.0,2.3,029 km N 77° W of Mamburao (Occidental Mindoro),2019_Earthquake_Information/July/2019_0726_0507_B2.html
+20190726T1613_20.92_121.91,2019-07-26T16:13:00+08:00,20.92,121.91,8.0,4.2,015 km N 28° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0726_0813_B3F.html
+20190726T1721_6.83_124.9,2019-07-26T17:21:00+08:00,6.83,124.9,29.0,2.0,006 km N 65° W of Columbio (Sultan Kudarat),2019_Earthquake_Information/July/2019_0726_0921_B2.html
+20190726T1832_5.8_126.27,2019-07-26T18:32:00+08:00,5.8,126.27,109.0,2.4,074 km S 82° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0726_1032_B2.html
+20190726T1911_13.51_121.35,2019-07-26T19:11:00+08:00,13.51,121.35,8.0,2.3,021 km N 14° E of Naujan (Oriental Mindoro),2019_Earthquake_Information/July/2019_0726_1111_B2.html
+20190726T1917_20.61_121.78,2019-07-26T19:17:00+08:00,20.61,121.78,13.0,2.8,032 km N 30° W of Uyugan (Batanes),2019_Earthquake_Information/July/2019_0726_1117_B2.html
+20190726T2005_6.98_126.34,2019-07-26T20:05:00+08:00,6.98,126.34,15.0,2.9,013 km S 58° W of Tarragona (Davao Oriental),2019_Earthquake_Information/July/2019_0726_1205_B2.html
+20190726T2100_9.28_122.71,2019-07-26T21:00:00+08:00,9.28,122.71,39.0,1.7,016 km S 26° E of Basay (Negros Oriental),2019_Earthquake_Information/July/2019_0726_1300_B2.html
+20190726T2147_7.77_126.64,2019-07-26T21:47:00+08:00,7.77,126.64,25.0,3.2,023 km N 23° E of Baganga (Davao Oriental),2019_Earthquake_Information/July/2019_0726_1347_B2.html
+20190726T2213_20.73_121.9,2019-07-26T22:13:00+08:00,20.73,121.9,15.0,2.4,010 km S 39° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0726_1413_B2.html
+20190726T2234_5.5_126.17,2019-07-26T22:34:00+08:00,5.5,126.17,7.0,2.8,075 km S 55° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0726_1434_B2.html
+20190726T2242_17.62_120.89,2019-07-26T22:42:00+08:00,17.62,120.89,26.0,1.9,017 km S 16° W of Tineg (Abra),2019_Earthquake_Information/July/2019_0726_1442_B2.html
+20190727T0051_6.5_124.68,2019-07-27T00:51:00+08:00,6.5,124.68,36.0,2.5,018 km S 89° W of Koronadal (South Cotabato),2019_Earthquake_Information/July/2019_0726_1651_B2.html
+20190727T0119_9.96_126.35,2019-07-27T01:19:00+08:00,9.96,126.35,14.0,3.4,029 km N 47° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0726_1719_B2.html
+20190727T0131_12.3_120.8,2019-07-27T01:31:00+08:00,12.3,120.8,33.0,2.8,026 km S 46° W of Rizal (Occidental Mindoro),2019_Earthquake_Information/July/2019_0726_1731_B2.html
+20190727T0304_9.35_125.9,2019-07-27T03:04:00+08:00,9.35,125.9,6.0,2.2,006 km S 66° W of Carrascal (Surigao Del Sur),2019_Earthquake_Information/July/2019_0726_1904_B2.html
+20190727T0325_10.08_126.2,2019-07-27T03:25:00+08:00,10.08,126.2,20.0,2.5,015 km N 62° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0726_1925_B2.html
+20190727T0339_13.63_120.57,2019-07-27T03:39:00+08:00,13.63,120.57,129.0,3.3,024 km S 17° W of Calatagan (Batangas),2019_Earthquake_Information/July/2019_0726_1939_B2.html
+20190727T0416_20.98_122.21,2019-07-27T04:16:00+08:00,20.98,122.21,15.0,5.4,043 km N 62° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0726_2016_B4F.html
+20190727T0516_20.84_121.67,2019-07-27T05:16:00+08:00,20.84,121.67,4.0,3.5,019 km N 77° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0726_2116_B2.html
+20190727T0632_7.17_126.39,2019-07-27T06:32:00+08:00,7.17,126.39,1.0,2.9,027 km S 47° W of Caraga (Davao Oriental),2019_Earthquake_Information/July/2019_0726_2232_B2.html
+20190727T0737_21.07_121.96,2019-07-27T07:37:00+08:00,21.07,121.96,8.0,5.9,033 km N 22° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0726_2337_B4F.html
+20190727T0758_20.75_121.92,2019-07-27T07:58:00+08:00,20.75,121.92,19.0,4.2,009 km S 54° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0726_2358_B2F.html
+20190727T0810_20.69_122.07,2019-07-27T08:10:00+08:00,20.69,122.07,11.0,3.4,025 km S 61° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0010_B2F.html
+20190727T0815_20.78_122.0,2019-07-27T08:15:00+08:00,20.78,122.0,14.0,3.3,016 km S 83° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0015_B2F.html
+20190727T0819_20.69_121.89,2019-07-27T08:19:00+08:00,20.69,121.89,15.0,3.5,013 km S 24° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0019_B2.html
+20190727T0842_20.7_121.75,2019-07-27T08:42:00+08:00,20.7,121.75,13.0,3.2,014 km S 44° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0042_B2.html
+20190727T0913_10.19_126.22,2019-07-27T09:13:00+08:00,10.19,126.22,7.0,2.0,027 km N 46° E of Santa Monica (Sapao) (Surigao Del Norte),2019_Earthquake_Information/July/2019_0727_0113_B2.html
+20190727T0914_10.26_125.98,2019-07-27T09:14:00+08:00,10.26,125.98,22.0,1.9,027 km N 14° W of Santa Monica (Sapao) (Surigao Del Norte),2019_Earthquake_Information/July/2019_0727_0114_B2_SurigaoDelNorte.html
+20190727T0924_20.89_121.84,2019-07-27T09:24:00+08:00,20.89,121.84,13.0,5.8,011 km N 02° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0124_B3F.html
+20190727T0927_20.77_121.95,2019-07-27T09:27:00+08:00,20.77,121.95,19.0,2.9,012 km S 73° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0127_B2F.html
+20190727T0939_20.65_122.03,2019-07-27T09:39:00+08:00,20.65,122.03,19.0,2.4,026 km S 50° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0139_B1.html
+20190727T0943_20.49_121.95,2019-07-27T09:43:00+08:00,20.49,121.95,21.0,2.7,036 km S 18° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0143_B1.html
+20190727T1004_20.61_121.9,2019-07-27T10:04:00+08:00,20.61,121.9,20.0,2.1,0 21 km S 16° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0204_B1.html
+20190727T1024_20.62_121.99,2019-07-27T10:24:00+08:00,20.62,121.99,17.0,2.3,025 km S 37° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0224_B1.html
+20190727T1029_15.87_119.78,2019-07-27T10:29:00+08:00,15.87,119.78,34.0,2.0,014 km N 72° W of Infanta (Pangasinan),2019_Earthquake_Information/July/2019_0727_0229_B2.html
+20190727T1058_20.42_121.95,2019-07-27T10:58:00+08:00,20.42,121.95,23.0,1.9,043 km S 15° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0258_B1.html
+20190727T1108_20.82_122.01,2019-07-27T11:08:00+08:00,20.82,122.01,19.0,3.6,017 km N 80° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0308_B2F.html
+20190727T1119_20.68_122.01,2019-07-27T11:19:00+08:00,20.68,122.01,15.0,4.0,021 km S 54° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0319_B3F.html
+20190727T1128_5.43_126.23,2019-07-27T11:28:00+08:00,5.43,126.23,86.0,2.8,084 km S 90° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0727_0328_B2.html
+20190727T1254_20.72_121.74,2019-07-27T12:54:00+08:00,20.72,121.74,7.0,3.2,014 km S 52° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0454_B2.html
+20190727T1301_20.65_122.05,2019-07-27T13:01:00+08:00,20.65,122.05,15.0,3.4,027 km S 53° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0501_B3F.html
+20190727T1340_20.68_122.02,2019-07-27T13:40:00+08:00,20.68,122.02,17.0,2.7,022 km S 56° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0540_B2.html
+20190727T1352_20.75_122.05,2019-07-27T13:52:00+08:00,20.75,122.05,20.0,3.4,022 km S 76° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0552_B2F.html
+20190727T1428_20.07_122.44,2019-07-27T14:28:00+08:00,20.07,122.44,33.0,2.2,061 km S 58° E of Uyugan (Batanes),2019_Earthquake_Information/July/2019_0727_0628_B2.html
+20190727T1509_16.81_120.36,2019-07-27T15:09:00+08:00,16.81,120.36,81.0,2.2,005 km S 16° W of Luna (La Union),2019_Earthquake_Information/July/2019_0727_0709_B2.html
+20190727T1514_13.86_123.95,2019-07-27T15:14:00+08:00,13.86,123.95,20.0,2.3,012 km N 05° E of Caramoan (Camarines Sur),2019_Earthquake_Information/July/2019_0727_0714_B2.html
+20190727T1638_13.78_120.58,2019-07-27T16:38:00+08:00,13.78,120.58,143.0,2.8,008 km S 44° W of Calatagan (Batangas),2019_Earthquake_Information/July/2019_0727_0838_B2.html
+20190727T1646_10.31_126.3,2019-07-27T16:46:00+08:00,10.31,126.3,1.0,2.8,043 km N 42° E of Santa Monica (Sapao) (Surigao Del Norte),2019_Earthquake_Information/July/2019_0727_0846_B2.html
+20190727T1650_20.53_121.72,2019-07-27T16:50:00+08:00,20.53,121.72,1.0,3.3,032 km S 24° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0850_B2F.html
+20190727T1710_20.77_121.95,2019-07-27T17:10:00+08:00,20.77,121.95,13.0,3.5,011 km S 74° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_0910_B3F.html
+20190727T1811_20.78_122.07,2019-07-27T18:11:00+08:00,20.78,122.07,15.0,5.3,023 km S 86° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_1011_B3F.html
+20190727T1827_20.72_121.91,2019-07-27T18:27:00+08:00,20.72,121.91,17.0,2.8,011 km S 38° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_1027_B3F.html
+20190727T1928_16.37_119.72,2019-07-27T19:28:00+08:00,16.37,119.72,15.0,3.6,018 km S 84° W of Bolinao (Pangasinan),2019_Earthquake_Information/July/2019_0727_1128_B2.html
+20190728T0006_6.31_126.58,2019-07-28T00:06:00+08:00,6.31,126.58,42.0,2.4,067 km S 56° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0727_1606_B2.html
+20190728T0043_10.01_126.0,2019-07-28T00:43:00+08:00,10.01,126.0,1.0,2.5,009 km S 77° W of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0727_1643_B2.html
+20190728T0057_6.89_125.05,2019-07-28T00:57:00+08:00,6.89,125.05,11.0,2.3,009 km S 29° W of Makilala (North Cotabato),2019_Earthquake_Information/July/2019_0727_1657_B2.html
+20190728T0142_20.62_121.94,2019-07-28T01:42:00+08:00,20.62,121.94,16.0,2.4,018 km N 11° W of Basco (Batanes),2019_Earthquake_Information/July/2019_0727_1742_B2.html
+20190728T0307_20.71_121.98,2019-07-28T03:07:00+08:00,20.71,121.98,23.0,3.4,017 km S 56° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_1907_B2.html
+20190728T0333_6.75_124.43,2019-07-28T03:33:00+08:00,6.75,124.43,33.0,2.4,011 km S 40° W of Ampatuan (Maguindanao),2019_Earthquake_Information/July/2019_0727_1933_B2.html
+20190728T0414_20.7_122.1,2019-07-28T04:14:00+08:00,20.7,122.1,16.0,3.8,028 km S 69° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_2014_B3F.html
+20190728T0502_8.75_125.43,2019-07-28T05:02:00+08:00,8.75,125.43,12.0,2.3,020 km S 80° W of Las Nieves (Agusan Del Norte),2019_Earthquake_Information/July/2019_0727_2102_B2.html
+20190728T0558_20.66_122.02,2019-07-28T05:58:00+08:00,20.66,122.02,19.0,2.8,0 24 km S 50° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_2158_B3.html
+20190728T0602_9.17_125.66,2019-07-28T06:02:00+08:00,9.17,125.66,1.0,2.0,014 km N 66° E of Cabadbaran (Agusan Del Norte),2019_Earthquake_Information/July/2019_0727_2202_B2.html
+20190728T0615_8.51_126.91,2019-07-28T06:15:00+08:00,8.51,126.91,24.0,3.1,065 km N 76° E of Hinatuan (Surigao Del Sur),2019_Earthquake_Information/July/2019_0727_2215_B2.html
+20190728T0653_20.78_121.58,2019-07-28T06:53:00+08:00,20.78,121.58,1.0,3.3,027 km S 86° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0727_2253_B2F.html
+20190728T0711_7.72_125.17,2019-07-28T07:11:00+08:00,7.72,125.17,15.0,3.1,008 km S 74° E of Quezon (Bukidnon),2019_Earthquake_Information/July/2019_0727_2311_B2.html
+20190728T0742_13.54_121.3,2019-07-28T07:42:00+08:00,13.54,121.3,4.0,3.0,022 km N 34° E of Calapan City (Oriental Mindoro),2019_Earthquake_Information/July/2019_0727_2342_B2F.html
+20190728T0755_7.72_125.21,2019-07-28T07:55:00+08:00,7.72,125.21,10.0,2.7,012 km S 81° E of Quezon (Bukidnon),2019_Earthquake_Information/July/2019_0727_2355_B2.html
+20190728T0831_21.0_122.25,2019-07-28T08:31:00+08:00,21.0,122.25,7.0,3.3,048 km N 61° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0728_0031_B2.html
+20190728T0959_7.79_125.11,2019-07-28T09:59:00+08:00,7.79,125.11,28.0,2.3,013 km S 03° E of Valencia City (Bukidnon),2019_Earthquake_Information/July/2019_0728_0159_B2F.html
+20190728T1018_11.04_121.81,2019-07-28T10:18:00+08:00,11.04,121.81,1.0,3.2,025 km N 55° W of Patnongon (Antique),2019_Earthquake_Information/July/2019_0728_0218_B2.html
+20190728T1203_20.78_121.71,2019-07-28T12:03:00+08:00,20.78,121.71,9.0,3.9,014 km S 82° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0728_0403_B3F.html
+20190728T1252_14.99_120.33,2019-07-28T12:52:00+08:00,14.99,120.33,26.0,2.2,015 km N 65° E of Castillejos (Zambales),2019_Earthquake_Information/July/2019_0728_0452_B2.html
+20190728T1440_20.87_121.87,2019-07-28T14:40:00+08:00,20.87,121.87,18.0,3.5,009 km N 18° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0728_0640_B3F.html
+20190728T1449_21.02_121.9,2019-07-28T14:49:00+08:00,21.02,121.9,12.0,3.6,026 km N 13° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0728_0649_B3.html
+20190728T1523_20.68_121.78,2019-07-28T15:23:00+08:00,20.68,121.78,8.0,2.3,017 km S 39° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0728_0723_B1.html
+20190728T1526_9.32_126.34,2019-07-28T15:26:00+08:00,9.32,126.34,16.0,2.6,017 km N 71° E of Cortes (Surigao Del Sur),2019_Earthquake_Information/July/2019_0728_0726_B2.html
+20190728T1546_13.69_121.46,2019-07-28T15:46:00+08:00,13.69,121.46,1.0,2.3,017 km S 24° E of San Juan (Batangas),2019_Earthquake_Information/July/2019_0728_0746_B2.html
+20190728T1720_8.53_125.74,2019-07-28T17:20:00+08:00,8.53,125.74,30.0,2.0,005 km N 08° W of San Luis (Agusan Del Sur),2019_Earthquake_Information/July/2019_0728_0920_B2.html
+20190728T1852_15.02_119.99,2019-07-28T18:52:00+08:00,15.02,119.99,30.0,2.2,010 km N 87° W of San Narciso (Zambales),2019_Earthquake_Information/July/2019_0728_1052_B2.html
+20190728T1857_10.38_125.15,2019-07-28T18:57:00+08:00,10.38,125.15,30.0,2.4,005 km S 72° W of Hinunangan (Southern Leyte),2019_Earthquake_Information/July/2019_0728_1057_B2.html
+20190728T2031_7.82_125.2,2019-07-28T20:31:00+08:00,7.82,125.2,5.0,2.0,006 km S 32° W of San Fernando (Bukidnon),2019_Earthquake_Information/July/2019_0728_1231_B2.html
+20190728T2033_6.6_126.72,2019-07-28T20:33:00+08:00,6.6,126.72,97.0,3.4,058 km S 32° E of Tarragona (Davao Oriental),2019_Earthquake_Information/July/2019_0728_1233_B2.html
+20190728T2223_4.16_125.63,2019-07-28T22:23:00+08:00,4.16,125.63,105.0,3.6,142 km S 07° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0728_1423_B2.html
+20190728T2228_6.49_123.85,2019-07-28T22:28:00+08:00,6.49,123.85,1.0,3.6,025 km S 67° W of Kalamansig (Sultan Kudarat),2019_Earthquake_Information/July/2019_0728_1428_B2.html
+20190728T2255_20.66_122.07,2019-07-28T22:55:00+08:00,20.66,122.07,20.0,2.5,028 km S 57° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0728_1455_B2F.html
+20190728T2300_3.58_125.99,2019-07-28T23:00:00+08:00,3.58,125.99,33.0,3.4,213 km S 16° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0728_1500_B2.html
+20190728T2346_20.69_122.15,2019-07-28T23:46:00+08:00,20.69,122.15,16.0,3.2,034 km S 70° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0728_1546_B2F.html
+20190728T2351_7.63_125.27,2019-07-28T23:51:00+08:00,7.63,125.27,6.0,2.3,022 km S 57° E of Quezon (Bukidnon),2019_Earthquake_Information/July/2019_0728_1551_B2.html
+20190729T0026_20.66_121.72,2019-07-29T00:26:00+08:00,20.66,121.72,11.0,2.9,020 km S 42° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0728_1626_B2.html
+20190729T0053_6.11_126.27,2019-07-29T00:53:00+08:00,6.11,126.27,122.0,2.9,065 km S 81° E of Don Marcelino (Davao Occidental),2019_Earthquake_Information/July/2019_0728_1653_B2.html
+20190729T0102_18.72_120.73,2019-07-29T01:02:00+08:00,18.72,120.73,10.0,2.4,039 km N 71° W of Claveria (Cagayan),2019_Earthquake_Information/July/2019_0728_1702_B2.html
+20190729T0110_13.63_121.29,2019-07-29T01:10:00+08:00,13.63,121.29,26.0,2.2,008 km S 80° E of Lobo (Batangas),2019_Earthquake_Information/July/2019_0728_1710_B2.html
+20190729T0134_19.59_121.24,2019-07-29T01:34:00+08:00,19.59,121.24,15.0,2.1,041 km N 34° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0728_1734_B2.html
+20190729T0219_20.62_121.9,2019-07-29T02:19:00+08:00,20.62,121.9,16.0,3.1,020 km S 15° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0728_1819_B2F.html
+20190729T0535_12.36_120.84,2019-07-29T05:35:00+08:00,12.36,120.84,7.0,3.5,018 km S 55° W of Rizal (Occidental Mindoro),2019_Earthquake_Information/July/2019_0728_2135_B2F.html
+20190729T0649_5.8_127.42,2019-07-29T06:49:00+08:00,5.8,127.42,13.0,4.3,175 km S 38° E of Tarragona (Davao Oriental),2019_Earthquake_Information/July/2019_0728_2249_B2.html
+20190729T0704_14.91_121.47,2019-07-29T07:04:00+08:00,14.91,121.47,11.0,2.7,023 km N 44° W of General Nakar (Quezon),2019_Earthquake_Information/July/2019_0728_2304_B2.html
+20190729T0820_4.7_127.31,2019-07-29T08:20:00+08:00,4.7,127.31,73.0,3.1,219 km S 68° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0729_0020_B2.html
+20190729T1150_5.48_127.4,2019-07-29T11:50:00+08:00,5.48,127.4,98.0,3.4,195 km S 48° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0729_0350_B2.html
+20190729T1227_15.58_118.98,2019-07-29T12:27:00+08:00,15.58,118.98,43.0,3.1,100 km N 81° W of Palauig (Zambales),2019_Earthquake_Information/July/2019_0729_0427_B2.html
+20190729T1403_20.65_121.91,2019-07-29T14:03:00+08:00,20.65,121.91,1.0,2.9,017 km S 25° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0729_0603_B3F.html
+20190729T1728_10.09_126.3,2019-07-29T17:28:00+08:00,10.09,126.3,18.0,3.0,026 km N 73° E of Burgos (Surigao Del Norte),2019_Earthquake_Information/July/2019_0729_0928_B2.html
+20190729T1729_10.14_126.03,2019-07-29T17:29:00+08:00,10.14,126.03,26.0,1.5,013 km N 04° W of Santa Monica (Sapao) (Surigao Del Norte),2019_Earthquake_Information/July/2019_0729_0929_B1.html
+20190729T1907_12.15_124.03,2019-07-29T19:07:00+08:00,12.15,124.03,7.0,3.2,012 km N 87° E of Palanas (Masbate),2019_Earthquake_Information/July/2019_0729_1107_B3.html
+20190729T1940_20.65_121.74,2019-07-29T19:40:00+08:00,20.65,121.74,9.0,3.5,019 km S 36° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0729_1140_B3F.html
+20190729T1943_16.57_120.6,2019-07-29T19:43:00+08:00,16.57,120.6,29.0,2.7,018 km S 77° E of Bagulin (La Union),2019_Earthquake_Information/July/2019_0729_1143_B2.html
+20190729T2134_9.78_124.58,2019-07-29T21:34:00+08:00,9.78,124.58,15.0,2.2,004 km N 13° E of Anda (Bohol),2019_Earthquake_Information/July/2019_0729_1334_B2.html
+20190729T2216_20.68_121.65,2019-07-29T22:16:00+08:00,20.68,121.65,3.0,2.8,024 km S 56° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0729_1416_B2F.html
+20190729T2224_6.11_126.65,2019-07-29T22:24:00+08:00,6.11,126.65,61.0,2.3,087 km S 46° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0729_1424_B2.html
+20190730T0003_5.98_126.88,2019-07-30T00:03:00+08:00,5.98,126.88,32.0,2.7,116 km S 50° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0729_1603_B2.html
+20190730T0029_8.07_126.63,2019-07-30T00:29:00+08:00,8.07,126.63,30.0,2.7,024 km N 82° E of Lingig (Surigao Del Sur),2019_Earthquake_Information/July/2019_0729_1629_B2.html
+20190730T0038_19.17_121.07,2019-07-30T00:38:00+08:00,19.17,121.07,18.0,2.3,043 km S 74° W of Calayan (Cagayan),2019_Earthquake_Information/July/2019_0729_1638_B2.html
+20190730T0112_20.57_121.53,2019-07-30T01:12:00+08:00,20.57,121.53,6.0,2.7,041 km S 53° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0729_1712_B2F.html
+20190730T0225_12.84_120.98,2019-07-30T02:25:00+08:00,12.84,120.98,1.0,3.9,023 km N 87° E of Sablayan (Occidental Mindoro),2019_Earthquake_Information/July/2019_0729_1825_B2.html
+20190730T0227_12.87_120.97,2019-07-30T02:27:00+08:00,12.87,120.97,8.0,2.5,022 km N 79° E of Sablayan (Occidental Mindoro),2019_Earthquake_Information/July/2019_0729_1827_B2.html
+20190730T0338_15.57_121.16,2019-07-30T03:38:00+08:00,15.57,121.16,16.0,2.3,017 km S 20° E of Rizal (Nueva Ecija),2019_Earthquake_Information/July/2019_0729_1938_B2.html
+20190730T0529_20.65_122.01,2019-07-30T05:29:00+08:00,20.65,122.01,1.0,2.9,024 km S 45° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0729_2129_B2F.html
+20190730T0539_5.99_126.62,2019-07-30T05:39:00+08:00,5.99,126.62,14.0,2.8,112 km N 84° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0729_2139_B2.html
+20190730T0623_6.91_126.08,2019-07-30T06:23:00+08:00,6.91,126.08,33.0,2.4,006 km N 07° E of San Isidro (Davao Oriental),2019_Earthquake_Information/July/2019_0729_2223_B2.html
+20190730T0627_12.87_120.97,2019-07-30T06:27:00+08:00,12.87,120.97,11.0,2.6,023 km N 79° E of Sablayan (Occidental Mindoro),2019_Earthquake_Information/July/2019_0729_2227_B2.html
+20190730T0705_11.99_124.78,2019-07-30T07:05:00+08:00,11.99,124.78,107.0,2.4,009 km N 66° E of Pagsanghan (Western Samar),2019_Earthquake_Information/July/2019_0729_2305_B2.html
+20190730T0820_4.71_126.81,2019-07-30T08:20:00+08:00,4.71,126.81,1.0,3.4,169 km S 62° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0730_0020_B2.html
+20190730T0843_12.82_120.91,2019-07-30T08:43:00+08:00,12.82,120.91,7.0,2.8,015 km S 86° E of Sablayan (Occidental Mindoro),2019_Earthquake_Information/July/2019_0730_0043_B2.html
+20190730T0942_12.82_120.95,2019-07-30T09:42:00+08:00,12.82,120.95,11.0,3.4,026 km N 02° E of Calintaan (Occidental Mindoro),2019_Earthquake_Information/July/2019_0730_0142_B2F.html
+20190730T1003_8.73_126.24,2019-07-30T10:03:00+08:00,8.73,126.24,28.0,2.3,010 km S 39° W of Marihatag (Surigao Del Sur),2019_Earthquake_Information/July/2019_0730_0203_B2.html
+20190730T1203_20.75_121.75,2019-07-30T12:03:00+08:00,20.75,121.75,9.0,2.4,011 km S 63° W of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0730_0403_B2F.html
+20190730T1955_5.54_126.66,2019-07-30T19:55:00+08:00,5.54,126.66,49.0,2.5,122 km S 72° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0730_1155_B2.html
+20190730T2040_20.68_122.0,2019-07-30T20:40:00+08:00,20.68,122.0,21.0,2.2,021 km S 51° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0730_1240_B1F.html
+20190730T2102_5.36_125.68,2019-07-30T21:02:00+08:00,5.36,125.68,195.0,3.5,024 km S 71° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0730_1302_B2.html
+20190730T2311_7.86_124.69,2019-07-30T23:11:00+08:00,7.86,124.69,2.0,3.5,016 km N 30° W of Kalilangan (Bukidnon),2019_Earthquake_Information/July/2019_0730_1511_B3F.html
+20190730T2355_9.84_126.53,2019-07-30T23:55:00+08:00,9.84,126.53,8.0,2.5,042 km N 81° E of General Luna (Surigao Del Norte),2019_Earthquake_Information/July/2019_0730_1555_B2.html
+20190731T0018_20.72_121.89,2019-07-31T00:18:00+08:00,20.72,121.89,19.0,2.7,009 km S 30° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0730_1618_B1F.html
+20190731T0104_13.1_124.2,2019-07-31T01:04:00+08:00,13.1,124.2,10.0,2.8,005 km N 03° E of Prieto Diaz (Sorsogon),2019_Earthquake_Information/July/2019_0730_1704_B2.html
+20190731T0113_20.55_121.94,2019-07-31T01:13:00+08:00,20.55,121.94,18.0,2.7,0 28 km S 19° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0730_1713_B1F.html
+20190731T0148_18.5_120.89,2019-07-31T01:48:00+08:00,18.5,120.89,22.0,2.0,005 km N 37° W of Adams (Ilocos Norte),2019_Earthquake_Information/July/2019_0730_1748_B2.html
+20190731T0151_6.5_125.97,2019-07-31T01:51:00+08:00,6.5,125.97,140.0,2.8,021 km S 34° W of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0730_1751_B2.html
+20190731T0156_8.92_126.35,2019-07-31T01:56:00+08:00,8.92,126.35,20.0,2.2,005 km S 89° E of Cagwait (Surigao Del Sur),2019_Earthquake_Information/July/2019_0730_1756_B2.html
+20190731T0244_3.5_126.47,2019-07-31T02:44:00+08:00,3.5,126.47,20.0,3.6,241 km S 27° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0730_1844_B2.html
+20190731T0253_3.63_126.52,2019-07-31T02:53:00+08:00,3.63,126.52,24.0,3.0,231 km S 30° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0730_1853_B2.html
+20190731T0318_20.62_121.86,2019-07-31T03:18:00+08:00,20.62,121.86,11.0,3.5,020 km S 05° E of Itbayat (Batanes),2019_Earthquake_Information/July/2019_0730_1918_B3F.html
+20190731T0340_3.73_125.52,2019-07-31T03:40:00+08:00,3.73,125.52,21.0,3.6,188 km S 02° E of Sarangani (Davao Occidental),2019_Earthquake_Information/July/2019_0730_1940_B2.html
+20190731T0358_5.42_127.28,2019-07-31T03:58:00+08:00,5.42,127.28,117.0,3.5,192 km S 45° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0730_1958_B2.html
+20190731T0428_5.78_126.98,2019-07-31T04:28:00+08:00,5.78,126.98,114.0,2.6,140 km S 46° E of Governor Generoso (Davao Oriental),2019_Earthquake_Information/July/2019_0730_2028_B2.html
+20190731T0447_5.58_126.58,2019-07-31T04:47:00+08:00,5.58,126.58,33.0,2.8,112 km S 73° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0730_2047_B2.html
+20190731T0720_10.25_125.28,2019-07-31T07:20:00+08:00,10.25,125.28,31.0,2.2,004 km S 42° E of Anahawan (Southern Leyte),2019_Earthquake_Information/July/2019_0730_2320_B2.html
+20190731T0749_18.17_120.66,2019-07-31T07:49:00+08:00,18.17,120.66,33.0,2.1,008 km S 70° E of Laoag City (Ilocos Norte),2019_Earthquake_Information/July/2019_0730_2349_B2.html
+20190731T0759_6.46_126.75,2019-07-31T07:59:00+08:00,6.46,126.75,59.0,2.6,073 km S 27° E of Tarragona (Davao Oriental),2019_Earthquake_Information/July/2019_0730_2359_B2.html
+20190731T0843_18.52_120.69,2019-07-31T08:43:00+08:00,18.52,120.69,33.0,2.2,005 km N 80° E of Burgos (Ilocos Norte),2019_Earthquake_Information/July/2019_0731_0043_B2.html
+20190731T0918_8.95_125.71,2019-07-31T09:18:00+08:00,8.95,125.71,15.0,3.2,014 km N 01° E of Sibagat (Agusan Del Sur),2019_Earthquake_Information/July/2019_0731_0118_B2.html
+20190731T1400_14.76_120.06,2019-07-31T14:00:00+08:00,14.76,120.06,32.0,1.6,021 km S 09° W of San Antonio (Zambales),2019_Earthquake_Information/July/2019_0731_0600_B2.html
+20190731T2011_5.67_125.93,2019-07-31T20:11:00+08:00,5.67,125.93,173.0,2.5,0 43 km S 56° E of Jose Abad Santos (Davao Occidental),2019_Earthquake_Information/July/2019_0731_1211_B2.html
+20190731T2131_12.96_124.71,2019-07-31T21:31:00+08:00,12.96,124.71,8.0,3.6,0 49 km N 51° E of Biri (Northern Samar),2019_Earthquake_Information/July/2019_0731_1331_B2.html

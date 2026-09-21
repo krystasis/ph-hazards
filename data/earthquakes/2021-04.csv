@@ -1,0 +1,835 @@
+event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
+20210401T0032_18.31_121.47,2021-04-01T00:32:00+08:00,18.31,121.47,103.0,2.6,005 km N 51° E of Santa Marcela (Apayao),2021_Earthquake_Information/April/2021_0331_1632_B2.html
+20210401T0051_5.89_125.82,2021-04-01T00:51:00+08:00,5.89,125.82,155.0,3.3,037 km S 22° E of Don Marcelino (Davao Occidental),2021_Earthquake_Information/April/2021_0331_1651_B2.html
+20210401T0653_17.77_120.97,2021-04-01T06:53:00+08:00,17.77,120.97,27.0,1.8,017 km N 73° E of Tineg (Abra),2021_Earthquake_Information/April/2021_0331_2253_B2.html
+20210401T0654_13.41_120.86,2021-04-01T06:54:00+08:00,13.41,120.86,2.0,3.3,015 km S 77° E of Abra De Ilog (Occidental Mindoro),2021_Earthquake_Information/April/2021_0331_2254_B2F.html
+20210401T0728_17.07_120.71,2021-04-01T07:28:00+08:00,17.07,120.71,26.0,2.1,009 km S 26° E of Quirino (Ilocos Sur),2021_Earthquake_Information/April/2021_0331_2328_B2.html
+20210401T0806_10.14_126.08,2021-04-01T08:06:00+08:00,10.14,126.08,19.0,2.3,014 km N 01° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0401_0006_B2.html
+20210401T0929_10.52_125.09,2021-04-01T09:29:00+08:00,10.52,125.09,2.0,2.2,008 km S 88° W of Silago (Southern Leyte),2021_Earthquake_Information/April/2021_0401_0129_B2.html
+20210401T1104_7.26_126.02,2021-04-01T11:04:00+08:00,7.26,126.02,40.0,2.1,019 km S 75° E of Mabini ( Davao De Oro),2021_Earthquake_Information/April/2021_0401_0304_B2.html
+20210401T1156_13.45_120.89,2021-04-01T11:56:00+08:00,13.45,120.89,1.0,3.3,017 km N 88° E of Abra De Ilog (Occidental Mindoro),2021_Earthquake_Information/April/2021_0401_0356_B2F.html
+20210401T1309_8.71_125.82,2021-04-01T13:09:00+08:00,8.71,125.82,12.0,2.8,016 km N 40° W of Prosperidad (Agusan Del Sur),2021_Earthquake_Information/April/2021_0401_0509_B2.html
+20210401T1323_9.08_126.5,2021-04-01T13:23:00+08:00,9.08,126.5,25.0,1.9,026 km N 63° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/April/2021_0401_0523_B2.html
+20210401T1443_8.49_126.79,2021-04-01T14:43:00+08:00,8.49,126.79,13.0,2.5,052 km N 75° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/April/2021_0401_0643_B2.html
+20210401T1459_8.52_126.94,2021-04-01T14:59:00+08:00,8.52,126.94,17.0,2.7,069 km N 76° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/April/2021_0401_0659_B2.html
+20210401T1510_8.47_126.97,2021-04-01T15:10:00+08:00,8.47,126.97,24.0,2.4,070 km N 81° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/April/2021_0401_0710_B2.html
+20210401T1519_18.54_120.82,2021-04-01T15:19:00+08:00,18.54,120.82,26.0,3.6,006 km N 85° E of Bangui (Ilocos Norte),2021_Earthquake_Information/April/2021_0401_0719_B2F.html
+20210401T1520_13.81_120.59,2021-04-01T15:20:00+08:00,13.81,120.59,96.0,2.3,005 km S 56° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0401_0720_B2.html
+20210401T1532_17.71_120.62,2021-04-01T15:32:00+08:00,17.71,120.62,3.0,2.2,005 km N 71° W of Danglas (Abra),2021_Earthquake_Information/April/2021_0401_0732_B2.html
+20210401T1538_18.63_120.69,2021-04-01T15:38:00+08:00,18.63,120.69,17.0,3.2,013 km N 40° W of Bangui (Ilocos Norte),2021_Earthquake_Information/April/2021_0401_0738_B2F.html
+20210401T1540_13.44_120.79,2021-04-01T15:40:00+08:00,13.44,120.79,32.0,2.6,007 km S 82° E of Abra De Ilog (Occidental Mindoro),2021_Earthquake_Information/April/2021_0401_0740_B2F.html
+20210401T1558_8.42_126.86,2021-04-01T15:58:00+08:00,8.42,126.86,18.0,2.0,058 km N 84° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/April/2021_0401_0758_B2.html
+20210401T1642_12.88_121.01,2021-04-01T16:42:00+08:00,12.88,121.01,40.0,2.3,025 km N 81° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/April/2021_0401_0842_B2.html
+20210401T1812_3.41_126.58,2021-04-01T18:12:00+08:00,3.41,126.58,27.0,5.2,241 km S 31° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0401_1012_B3.html
+20210401T2018_8.48_125.94,2021-04-01T20:18:00+08:00,8.48,125.94,2.0,2.2,005 km S 57° W of San Francisco (Agusan Del Sur),2021_Earthquake_Information/April/2021_0401_1218_B2.html
+20210401T2032_9.66_126.23,2021-04-01T20:32:00+08:00,9.66,126.23,29.0,1.8,016 km S 31° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0401_1232_B2.html
+20210401T2044_3.45_126.83,2021-04-01T20:44:00+08:00,3.45,126.83,26.0,3.8,268 km S 36° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0401_1244_B2.html
+20210401T2107_8.39_126.81,2021-04-01T21:07:00+08:00,8.39,126.81,24.0,2.8,052 km N 87° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/April/2021_0401_1307_B2.html
+20210401T2153_18.03_120.52,2021-04-01T21:53:00+08:00,18.03,120.52,17.0,1.9,004 km N 70° E of Currimao (Ilocos Norte),2021_Earthquake_Information/April/2021_0401_1353_B2.html
+20210401T2155_2.36_127.15,2021-04-01T21:55:00+08:00,2.36,127.15,6.0,4.1,388 km S 30° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0401_1355_B2.html
+20210401T2222_9.89_126.13,2021-04-01T22:22:00+08:00,9.89,126.13,21.0,2.1,013 km N 11° W of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0401_1422_B2.html
+20210401T2253_8.7_126.56,2021-04-01T22:53:00+08:00,8.7,126.56,24.0,1.8,031 km S 69° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/April/2021_0401_1453_B2.html
+20210401T2257_10.08_122.0,2021-04-01T22:57:00+08:00,10.08,122.0,26.0,2.1,057 km N 52° W of City Of Sipalay (Negros Occidental),2021_Earthquake_Information/April/2021_0401_1457_B2.html
+20210401T2339_9.91_123.78,2021-04-01T23:39:00+08:00,9.91,123.78,9.0,1.6,011 km N 77° W of Calape (Bohol),2021_Earthquake_Information/April/2021_0401_1539_B2_Bohol2.html
+20210401T2339_9.92_123.77,2021-04-01T23:39:00+08:00,9.92,123.77,35.0,1.9,011 km N 71° W of Calape (Bohol),2021_Earthquake_Information/April/2021_0401_1539_B2_Bohol1.html
+20210402T0017_13.55_120.54,2021-04-02T00:17:00+08:00,13.55,120.54,108.0,1.8,033 km S 18° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0401_1617_B2.html
+20210402T0033_8.47_125.92,2021-04-02T00:33:00+08:00,8.47,125.92,34.0,1.9,013 km N 44° W of Rosario (Agusan Del Sur),2021_Earthquake_Information/April/2021_0401_1633_B2.html
+20210402T0039_17.95_120.06,2021-04-02T00:39:00+08:00,17.95,120.06,27.0,2.2,043 km N 77° W of Sinait (Ilocos Sur),2021_Earthquake_Information/April/2021_0401_1639_B2.html
+20210402T0043_7.26_123.61,2021-04-02T00:43:00+08:00,7.26,123.61,44.0,1.5,031 km S 46° E of Tabina (Zamboanga Del Sur),2021_Earthquake_Information/April/2021_0401_1643_B2.html
+20210402T0104_16.1_121.96,2021-04-02T01:04:00+08:00,16.1,121.96,31.0,2.1,004 km S 07° E of Dinalungan (Aurora),2021_Earthquake_Information/April/2021_0401_1704_B2.html
+20210402T0141_13.84_120.85,2021-04-02T01:41:00+08:00,13.84,120.85,7.0,2.3,008 km S 76° W of San Luis (Batangas),2021_Earthquake_Information/April/2021_0401_1741_B2.html
+20210402T0154_8.89_126.69,2021-04-02T01:54:00+08:00,8.89,126.69,23.0,2.2,043 km S 86° E of Cagwait (Surigao Del Sur),2021_Earthquake_Information/April/2021_0401_1754_B2.html
+20210402T0204_13.51_120.57,2021-04-02T02:04:00+08:00,13.51,120.57,6.0,2.8,015 km N 47° E of Paluan (Occidental Mindoro),2021_Earthquake_Information/April/2021_0401_1804_B2.html
+20210402T0205_7.27_125.84,2021-04-02T02:05:00+08:00,7.27,125.84,7.0,2.8,004 km S 21° W of Mabini ( Davao De Oro),2021_Earthquake_Information/April/2021_0401_1805_B2.html
+20210402T0219_8.96_126.75,2021-04-02T02:19:00+08:00,8.96,126.75,5.0,2.0,051 km S 89° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/April/2021_0401_1819_B1.html
+20210402T0247_8.65_126.54,2021-04-02T02:47:00+08:00,8.65,126.54,27.0,3.3,032 km S 58° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/April/2021_0401_1847_B2.html
+20210402T0338_7.84_126.0,2021-04-02T03:38:00+08:00,7.84,126.0,32.0,2.1,006 km N 71° W of Monkayo (Davao De Oro),2021_Earthquake_Information/April/2021_0401_1938_B2.html
+20210402T0406_19.43_120.36,2021-04-02T04:06:00+08:00,19.43,120.36,16.0,2.5,096 km N 68° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0401_2006_B2.html
+20210402T0423_6.23_126.71,2021-04-02T04:23:00+08:00,6.23,126.71,50.0,3.3,085 km S 56° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0401_2023_B2.html
+20210402T0434_7.57_126.65,2021-04-02T04:34:00+08:00,7.57,126.65,35.0,1.8,010 km S 84° E of Baganga (Davao Oriental),2021_Earthquake_Information/April/2021_0401_2034_B2.html
+20210402T0506_14.72_121.66,2021-04-02T05:06:00+08:00,14.72,121.66,32.0,1.7,004 km S 25° E of Infanta (Quezon),2021_Earthquake_Information/April/2021_0401_2106_B2.html
+20210402T0525_17.12_120.85,2021-04-02T05:25:00+08:00,17.12,120.85,10.0,2.7,007 km N 51° W of Sagada (Mountain Province),2021_Earthquake_Information/April/2021_0401_2125_B2.html
+20210402T0529_10.18_122.2,2021-04-02T05:29:00+08:00,10.18,122.2,1.0,2.5,040 km S 48° E of Anini-y (Antique),2021_Earthquake_Information/April/2021_0401_2129_B2.html
+20210402T0544_16.27_122.28,2021-04-02T05:44:00+08:00,16.27,122.28,31.0,2.2,015 km S 28° E of Dilasag (Aurora),2021_Earthquake_Information/April/2021_0401_2144_B2.html
+20210402T0600_13.36_120.23,2021-04-02T06:00:00+08:00,13.36,120.23,10.0,2.8,026 km S 76° W of Paluan (Occidental Mindoro),2021_Earthquake_Information/April/2021_0401_2200_B2.html
+20210402T0602_13.52_121.03,2021-04-02T06:02:00+08:00,13.52,121.03,31.0,1.8,009 km N 76° E of Puerto Galera (Oriental Mindoro),2021_Earthquake_Information/April/2021_0401_2202_B2.html
+20210402T0610_8.53_126.79,2021-04-02T06:10:00+08:00,8.53,126.79,14.0,3.4,053 km N 70° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/April/2021_0401_2210_B2.html
+20210402T0638_10.5_125.33,2021-04-02T06:38:00+08:00,10.5,125.33,19.0,2.6,018 km N 27° E of Hinundayan (Southern Leyte),2021_Earthquake_Information/April/2021_0401_2238_B2.html
+20210402T0650_5.73_126.41,2021-04-02T06:50:00+08:00,5.73,126.41,57.0,3.3,087 km S 76° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0401_2250_B2.html
+20210402T0745_8.45_126.01,2021-04-02T07:45:00+08:00,8.45,126.01,8.0,4.0,007 km S 33° E of San Francisco (Agusan Del Sur),2021_Earthquake_Information/April/2021_0401_2345_B2F.html
+20210402T0747_8.44_126.06,2021-04-02T07:47:00+08:00,8.44,126.06,1.0,2.2,012 km S 52° E of San Francisco (Agusan Del Sur),2021_Earthquake_Information/April/2021_0401_2347_B2.html
+20210402T0829_19.28_121.26,2021-04-02T08:29:00+08:00,19.28,121.26,73.0,2.4,022 km N 86° W of Calayan (Cagayan),2021_Earthquake_Information/April/2021_0402_0029_B2.html
+20210402T0936_8.4_125.87,2021-04-02T09:36:00+08:00,8.4,125.87,22.0,2.5,011 km S 60° E of Talacogon (Agusan Del Sur),2021_Earthquake_Information/April/2021_0402_0136_B2.html
+20210402T1013_17.72_122.51,2021-04-02T10:13:00+08:00,17.72,122.51,28.0,3.4,049 km N 28° E of Divilacan (Isabela),2021_Earthquake_Information/April/2021_0402_0213_B2.html
+20210402T1022_13.48_121.71,2021-04-02T10:22:00+08:00,13.48,121.71,7.0,2.1,014 km N 74° W of Boac (Marinduque),2021_Earthquake_Information/April/2021_0402_0222_B2.html
+20210402T1040_8.44_126.05,2021-04-02T10:40:00+08:00,8.44,126.05,8.0,2.1,008 km N 38° E of Rosario (Agusan Del Sur),2021_Earthquake_Information/April/2021_0402_0240_B2.html
+20210402T1052_8.58_125.66,2021-04-02T10:52:00+08:00,8.58,125.66,35.0,2.4,013 km N 45° W of San Luis (Agusan Del Sur),2021_Earthquake_Information/April/2021_0402_0252_B2.html
+20210402T1105_13.8_120.83,2021-04-02T11:05:00+08:00,13.8,120.83,7.0,2.6,011 km S 54° W of San Luis (Batangas),2021_Earthquake_Information/April/2021_0402_0305_B2.html
+20210402T1232_18.14_122.61,2021-04-02T12:32:00+08:00,18.14,122.61,24.0,2.0,061 km S 54° E of Santa Ana (Cagayan),2021_Earthquake_Information/April/2021_0402_0432_B2.html
+20210402T1353_15.17_119.99,2021-04-02T13:53:00+08:00,15.17,119.99,58.0,2.3,013 km S 15° W of Botolan (Zambales),2021_Earthquake_Information/April/2021_0402_0553_B2.html
+20210402T1453_8.39_125.49,2021-04-02T14:53:00+08:00,8.39,125.49,46.0,2.5,030 km S 67° W of San Luis (Agusan Del Sur),2021_Earthquake_Information/April/2021_0402_0653_B2.html
+20210402T1459_8.71_125.8,2021-04-02T14:59:00+08:00,8.71,125.8,7.0,2.8,005 km S 82° E of City Of Bayugan (Agusan Del Sur),2021_Earthquake_Information/April/2021_0402_0659_B2.html
+20210402T1707_9.02_126.16,2021-04-02T17:07:00+08:00,9.02,126.16,54.0,2.6,015 km N 66° W of Bayabas (Surigao Del Sur),2021_Earthquake_Information/April/2021_0402_0907_B2.html
+20210402T1721_10.1_126.19,2021-04-02T17:21:00+08:00,10.1,126.19,33.0,2.3,019 km N 61° E of Santa Monica (Surigao Del Norte),2021_Earthquake_Information/April/2021_0402_0921_B2.html
+20210402T1851_3.01_127.3,2021-04-02T18:51:00+08:00,3.01,127.3,84.0,4.2,337 km S 38° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0402_1051_B2.html
+20210402T1855_8.42_125.86,2021-04-02T18:55:00+08:00,8.42,125.86,28.0,2.1,016 km S 54° W of San Francisco (Agusan Del Sur),2021_Earthquake_Information/April/2021_0402_1055_B2.html
+20210402T2019_6.69_126.25,2021-04-02T20:19:00+08:00,6.69,126.25,33.0,2.4,020 km N 78° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0402_1219_B2.html
+20210402T2218_19.13_121.5,2021-04-02T22:18:00+08:00,19.13,121.5,24.0,2.3,015 km S 10° E of Calayan (Cagayan),2021_Earthquake_Information/April/2021_0402_1418_B2.html
+20210402T2225_9.22_126.72,2021-04-02T22:25:00+08:00,9.22,126.72,9.0,2.5,055 km N 60° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/April/2021_0402_1425_B2.html
+20210402T2234_8.71_125.86,2021-04-02T22:34:00+08:00,8.71,125.86,12.0,1.9,025 km N 29° W of San Francisco (Agusan Del Sur),2021_Earthquake_Information/April/2021_0402_1434_B2.html
+20210402T2250_16.69_120.39,2021-04-02T22:50:00+08:00,16.69,120.39,33.0,2.4,011 km N 29° W of Bagulin (La Union),2021_Earthquake_Information/April/2021_0402_1450_B2.html
+20210402T2257_8.02_126.69,2021-04-02T22:57:00+08:00,8.02,126.69,39.0,2.3,031 km S 87° E of Lingig (Surigao Del Sur),2021_Earthquake_Information/April/2021_0402_1457_B2.html
+20210402T2303_9.96_125.49,2021-04-02T23:03:00+08:00,9.96,125.49,179.0,2.6,012 km N 88° W of Dinagat (Dinagat Islands),2021_Earthquake_Information/April/2021_0402_1503_B2.html
+20210403T0051_9.94_124.3,2021-04-03T00:51:00+08:00,9.94,124.3,4.0,3.0,006 km N 31° E of Dagohoy (Bohol),2021_Earthquake_Information/April/2021_0402_1651_B2.html
+20210403T0055_13.24_123.81,2021-04-03T00:55:00+08:00,13.24,123.81,11.0,3.0,004 km N 77° E of Santo Domingo (Albay),2021_Earthquake_Information/April/2021_0402_1655_B1F.html
+20210403T0153_18.55_119.84,2021-04-03T01:53:00+08:00,18.55,119.84,9.0,2.5,086 km N 88° W of Burgos (Ilocos Norte),2021_Earthquake_Information/April/2021_0402_1753_B2.html
+20210403T0155_9.98_124.36,2021-04-03T01:55:00+08:00,9.98,124.36,16.0,2.3,013 km N 44° E of Dagohoy (Bohol),2021_Earthquake_Information/April/2021_0402_1755_B2.html
+20210403T0217_9.91_122.32,2021-04-03T02:17:00+08:00,9.91,122.32,12.0,2.2,020 km N 37° W of City Of Sipalay (Negros Occidental),2021_Earthquake_Information/April/2021_0402_1817_B2.html
+20210403T0236_7.2_125.49,2021-04-03T02:36:00+08:00,7.2,125.49,28.0,2.4,022 km S 66° W of City Of Panabo (Davao Del Norte),2021_Earthquake_Information/April/2021_0402_1836_B2.html
+20210403T0329_8.84_122.65,2021-04-03T03:29:00+08:00,8.84,122.65,28.0,2.2,049 km S 59° W of Siaton (Negros Oriental),2021_Earthquake_Information/April/2021_0402_1929_B2.html
+20210403T0332_13.72_120.61,2021-04-03T03:32:00+08:00,13.72,120.61,87.0,2.3,013 km S 13° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0402_1932_B2.html
+20210403T0340_19.76_121.61,2021-04-03T03:40:00+08:00,19.76,121.61,14.0,2.0,042 km N 49° W of Babuyan Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0402_1940_B2.html
+20210403T0350_13.42_120.88,2021-04-03T03:50:00+08:00,13.42,120.88,1.0,2.5,017 km S 82° E of Abra De Ilog (Occidental Mindoro),2021_Earthquake_Information/April/2021_0402_1950_B2.html
+20210403T0411_16.48_120.87,2021-04-03T04:11:00+08:00,16.48,120.87,39.0,2.1,018 km S 73° W of Ambaguio (Nueva Vizcaya),2021_Earthquake_Information/April/2021_0402_2011_B2.html
+20210403T0425_19.83_121.78,2021-04-03T04:25:00+08:00,19.83,121.78,18.0,2.6,038 km N 21° W of Babuyan Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0402_2025_B2.html
+20210403T0442_5.6_126.56,2021-04-03T04:42:00+08:00,5.6,126.56,47.0,2.5,106 km S 71° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0402_2042_B2.html
+20210403T0550_6.53_126.31,2021-04-03T05:50:00+08:00,6.53,126.31,12.0,2.8,030 km S 63° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0402_2150_B2.html
+20210403T0615_5.3_126.19,2021-04-03T06:15:00+08:00,5.3,126.19,15.0,3.0,086 km S 82° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0402_2215_B2.html
+20210403T0621_8.54_126.72,2021-04-03T06:21:00+08:00,8.54,126.72,21.0,3.0,046 km N 66° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/April/2021_0402_2221_B2.html
+20210403T0627_16.34_121.98,2021-04-03T06:27:00+08:00,16.34,121.98,49.0,2.0,017 km N 67° W of Casiguran (Aurora),2021_Earthquake_Information/April/2021_0402_2227_B2.html
+20210403T0655_13.33_120.19,2021-04-03T06:55:00+08:00,13.33,120.19,53.0,2.1,031 km S 72° W of Paluan (Occidental Mindoro),2021_Earthquake_Information/April/2021_0402_2255_B2.html
+20210403T0852_19.2_121.15,2021-04-03T08:52:00+08:00,19.2,121.15,11.0,3.3,012 km N 31° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0403_0052_B2.html
+20210403T1001_12.26_123.84,2021-04-03T10:01:00+08:00,12.26,123.84,10.0,3.6,007 km N 16° W of Dimasalang (Masbate),2021_Earthquake_Information/April/2021_0403_0201_B2F.html
+20210403T1013_12.2_123.9,2021-04-03T10:13:00+08:00,12.2,123.9,1.0,3.0,005 km N 80° E of Dimasalang (Masbate),2021_Earthquake_Information/April/2021_0403_0213_B2.html
+20210403T1021_8.82_126.31,2021-04-03T10:21:00+08:00,8.82,126.31,36.0,2.0,011 km S 06° E of Cagwait (Surigao Del Sur),2021_Earthquake_Information/April/2021_0403_0221_B2.html
+20210403T1115_9.98_124.18,2021-04-03T11:15:00+08:00,9.98,124.18,1.0,2.8,012 km N 51° E of Sagbayan (Bohol),2021_Earthquake_Information/April/2021_0403_0315_B2.html
+20210403T1133_12.94_121.0,2021-04-03T11:33:00+08:00,12.94,121.0,20.0,2.3,025 km N 66° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/April/2021_0403_0333_B2.html
+20210403T1202_7.68_125.1,2021-04-03T12:02:00+08:00,7.68,125.1,30.0,2.2,004 km S 21° W of Quezon (Bukidnon),2021_Earthquake_Information/April/2021_0403_0402_B2.html
+20210403T1230_9.58_126.35,2021-04-03T12:30:00+08:00,9.58,126.35,35.0,1.7,031 km S 44° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0403_0430_B2.html
+20210403T1559_12.93_120.89,2021-04-03T15:59:00+08:00,12.93,120.89,25.0,2.0,015 km N 49° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/April/2021_0403_0759_B2.html
+20210403T1638_10.34_126.0,2021-04-03T16:38:00+08:00,10.34,126.0,18.0,2.8,036 km N 13° W of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0403_0838_B2.html
+20210403T1721_6.84_124.87,2021-04-03T17:21:00+08:00,6.84,124.87,29.0,2.2,001 km N 32° W of Tulunan (Cotabato),2021_Earthquake_Information/April/2021_0403_0921_B2.html
+20210403T1852_17.12_119.78,2021-04-03T18:52:00+08:00,17.12,119.78,32.0,2.5,070 km N 65° W of Luna (La Union),2021_Earthquake_Information/April/2021_0403_1052_B2.html
+20210403T2004_9.16_126.46,2021-04-03T20:04:00+08:00,9.16,126.46,16.0,2.3,029 km N 41° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/April/2021_0403_1204_B2.html
+20210403T2131_7.87_126.63,2021-04-03T21:31:00+08:00,7.87,126.63,15.0,1.9,021 km N 66° E of Cateel (Davao Oriental),2021_Earthquake_Information/April/2021_0403_1331_B2.html
+20210403T2139_8.73_126.66,2021-04-03T21:39:00+08:00,8.73,126.66,15.0,2.6,040 km S 80° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/April/2021_0403_1339_B2.html
+20210403T2324_17.24_121.16,2021-04-03T23:24:00+08:00,17.24,121.16,32.0,1.4,006 km S 36° E of Tinglayan (Kalinga),2021_Earthquake_Information/April/2021_0403_1524_B2.html
+20210403T2343_10.44_125.75,2021-04-03T23:43:00+08:00,10.44,125.75,72.0,1.9,021 km N 66° E of Loreto (Dinagat Islands),2021_Earthquake_Information/April/2021_0403_1543_B2.html
+20210403T2344_9.79_126.35,2021-04-03T23:44:00+08:00,9.79,126.35,27.0,1.8,021 km N 87° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0403_1544_B2.html
+20210404T0025_16.37_122.0,2021-04-04T00:25:00+08:00,16.37,122.0,17.0,2.2,017 km N 50° W of Casiguran (Aurora),2021_Earthquake_Information/April/2021_0403_1625_B2.html
+20210404T0026_19.49_120.92,2021-04-04T00:26:00+08:00,19.49,120.92,20.0,2.4,052 km N 35° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0403_1626_B2.html
+20210404T0058_6.14_126.87,2021-04-04T00:58:00+08:00,6.14,126.87,66.0,2.8,105 km S 57° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0403_1658_B2.html
+20210404T0105_9.86_126.33,2021-04-04T01:05:00+08:00,9.86,126.33,17.0,2.6,021 km N 67° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0403_1705_B2.html
+20210404T0130_9.78_125.47,2021-04-04T01:30:00+08:00,9.78,125.47,29.0,2.1,003 km S 62° W of City Of Surigao (Surigao Del Norte),2021_Earthquake_Information/April/2021_0403_1730_B2.html
+20210404T0137_18.89_121.07,2021-04-04T01:37:00+08:00,18.89,121.07,10.0,2.4,028 km S 31° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0403_1737_B2.html
+20210404T0332_8.82_126.51,2021-04-04T03:32:00+08:00,8.82,126.51,11.0,3.5,023 km N 85° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/April/2021_0403_1932_B2.html
+20210404T0340_6.01_125.27,2021-04-04T03:40:00+08:00,6.01,125.27,91.0,3.0,005 km N 18° W of Malapatan (Sarangani),2021_Earthquake_Information/April/2021_0403_1940_B2.html
+20210404T0403_9.79_123.58,2021-04-04T04:03:00+08:00,9.79,123.58,31.0,2.6,006 km N 56° E of Dalaguete (Cebu),2021_Earthquake_Information/April/2021_0403_2003_B2.html
+20210404T0437_13.7_123.12,2021-04-04T04:37:00+08:00,13.7,123.12,24.0,1.7,007 km N 84° E of Libmanan (Camarines Sur),2021_Earthquake_Information/April/2021_0403_2037_B2.html
+20210404T0441_18.05_121.53,2021-04-04T04:41:00+08:00,18.05,121.53,23.0,2.2,008 km S 77° W of Lasam (Cagayan),2021_Earthquake_Information/April/2021_0403_2041_B2.html
+20210404T0519_8.48_125.91,2021-04-04T05:19:00+08:00,8.48,125.91,12.0,2.7,013 km S 03° W of Prosperidad (Agusan Del Sur),2021_Earthquake_Information/April/2021_0403_2119_B2.html
+20210404T0543_16.62_119.74,2021-04-04T05:43:00+08:00,16.62,119.74,20.0,2.0,030 km N 32° W of Bolinao (Pangasinan),2021_Earthquake_Information/April/2021_0403_2143_B2.html
+20210404T0550_14.55_123.08,2021-04-04T05:50:00+08:00,14.55,123.08,1.0,2.9,016 km N 60° E of Tinaga Island (Vinzons) (Camarines Norte),2021_Earthquake_Information/April/2021_0403_2150_B2.html
+20210404T0633_18.99_121.75,2021-04-04T06:33:00+08:00,18.99,121.75,10.0,2.3,015 km N 55° W of Camiguin Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0403_2233_B2.html
+20210404T0640_16.44_120.66,2021-04-04T06:40:00+08:00,16.44,120.66,2.0,4.0,007 km S 78° E of La Trinidad (Benguet),2021_Earthquake_Information/April/2021_0403_2240_B3F.html
+20210404T0647_12.98_122.86,2021-04-04T06:47:00+08:00,12.98,122.86,21.0,2.4,021 km S 38° W of San Pascual (Masbate),2021_Earthquake_Information/April/2021_0403_2247_B2.html
+20210404T0649_9.82_125.98,2021-04-04T06:49:00+08:00,9.82,125.98,33.0,1.9,006 km S 13° E of Del Carmen (Surigao Del Norte),2021_Earthquake_Information/April/2021_0403_2249_B2.html
+20210404T0800_7.49_125.92,2021-04-04T08:00:00+08:00,7.49,125.92,14.0,3.5,011 km N 63° E of City Of Tagum (Davao Del Norte),2021_Earthquake_Information/April/2021_0404_0000_B2.html
+20210404T0905_8.51_125.81,2021-04-04T09:05:00+08:00,8.51,125.81,27.0,1.8,007 km N 23° E of Talacogon (Agusan Del Sur),2021_Earthquake_Information/April/2021_0404_0105_B2.html
+20210404T0939_7.0_124.73,2021-04-04T09:39:00+08:00,7.0,124.73,31.0,2.0,009 km S 39° E of Pikit (Cotabato),2021_Earthquake_Information/April/2021_0404_0139_B2.html
+20210404T1008_8.4_125.7,2021-04-04T10:08:00+08:00,8.4,125.7,54.0,3.0,011 km S 61° W of Talacogon (Agusan Del Sur),2021_Earthquake_Information/April/2021_0404_0208_B2.html
+20210404T1304_6.39_126.67,2021-04-04T13:04:00+08:00,6.39,126.67,34.0,1.8,073 km S 66° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0404_0504_B2.html
+20210404T1309_10.41_125.26,2021-04-04T13:09:00+08:00,10.41,125.26,13.0,2.4,007 km N 80° E of Hinunangan (Southern Leyte),2021_Earthquake_Information/April/2021_0404_0509_B2.html
+20210404T1340_16.62_122.41,2021-04-04T13:40:00+08:00,16.62,122.41,11.0,2.7,019 km N 55° E of Dinapigue (Isabela),2021_Earthquake_Information/April/2021_0404_0540_B2.html
+20210404T1354_16.06_119.68,2021-04-04T13:54:00+08:00,16.06,119.68,34.0,2.1,014 km S 62° W of Agno (Pangasinan),2021_Earthquake_Information/April/2021_0404_0554_B2.html
+20210404T1430_8.38_126.71,2021-04-04T14:30:00+08:00,8.38,126.71,27.0,1.6,041 km N 89° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/April/2021_0404_0630_B1.html
+20210404T1550_16.66_120.46,2021-04-04T15:50:00+08:00,16.66,120.46,22.0,3.2,007 km N 23° E of Bagulin (La Union),2021_Earthquake_Information/April/2021_0404_0750_B1.html
+20210404T1552_8.97_122.72,2021-04-04T15:52:00+08:00,8.97,122.72,13.0,2.1,035 km S 73° W of Siaton (Negros Oriental),2021_Earthquake_Information/April/2021_0404_0752_B1.html
+20210404T1601_7.92_126.37,2021-04-04T16:01:00+08:00,7.92,126.37,22.0,1.8,006 km N 02° W of Boston (Davao Oriental),2021_Earthquake_Information/April/2021_0404_0801_B2.html
+20210404T1631_13.81_120.23,2021-04-04T16:31:00+08:00,13.81,120.23,30.0,2.0,010 km N 15° W of Looc (Occidental Mindoro),2021_Earthquake_Information/April/2021_0404_0831_B2.html
+20210404T1659_8.95_125.64,2021-04-04T16:59:00+08:00,8.95,125.64,26.0,2.5,012 km S 89° E of City Of Butuan (Agusan Del Norte),2021_Earthquake_Information/April/2021_0404_0859_B2.html
+20210404T1720_8.08_126.86,2021-04-04T17:20:00+08:00,8.08,126.86,15.0,2.4,049 km N 85° E of Lingig (Surigao Del Sur),2021_Earthquake_Information/April/2021_0404_0920_B2.html
+20210404T1743_7.91_126.38,2021-04-04T17:43:00+08:00,7.91,126.38,22.0,2.1,014 km S 13° W of Lingig (Surigao Del Sur),2021_Earthquake_Information/April/2021_0404_0943_B2.html
+20210404T1745_13.6_119.86,2021-04-04T17:45:00+08:00,13.6,119.86,33.0,3.0,040 km S 45° W of Lubang (Occidental Mindoro),2021_Earthquake_Information/April/2021_0404_0945_B2.html
+20210404T1834_11.93_122.34,2021-04-04T18:34:00+08:00,11.93,122.34,15.0,3.1,025 km N 06° W of Kalibo (Aklan),2021_Earthquake_Information/April/2021_0404_1034_B2.html
+20210404T1853_8.47_125.75,2021-04-04T18:53:00+08:00,8.47,125.75,29.0,2.1,005 km N 56° W of Talacogon (Agusan Del Sur),2021_Earthquake_Information/April/2021_0404_1053_B2.html
+20210404T1902_15.23_119.55,2021-04-04T19:02:00+08:00,15.23,119.55,40.0,1.6,047 km S 77° W of Iba (Zambales),2021_Earthquake_Information/April/2021_0404_1102_B2.html
+20210404T2049_6.89_126.85,2021-04-04T20:49:00+08:00,6.89,126.85,28.0,4.1,048 km S 69° E of Tarragona (Davao Oriental),2021_Earthquake_Information/April/2021_0404_1249_B2.html
+20210404T2104_16.82_120.11,2021-04-04T21:04:00+08:00,16.82,120.11,33.0,1.7,028 km N 67° W of Bacnotan (La Union),2021_Earthquake_Information/April/2021_0404_1304_B2.html
+20210404T2108_14.14_123.63,2021-04-04T21:08:00+08:00,14.14,123.63,60.0,1.9,048 km N 32° W of Caramoan (Camarines Sur),2021_Earthquake_Information/April/2021_0404_1308_B2.html
+20210404T2129_9.01_126.13,2021-04-04T21:29:00+08:00,9.01,126.13,52.0,2.2,008 km S 29° W of City Of Tandag (Surigao Del Sur),2021_Earthquake_Information/April/2021_0404_1329_B2.html
+20210404T2153_10.03_123.43,2021-04-04T21:53:00+08:00,10.03,123.43,32.0,1.8,013 km S 44° W of Barili (Cebu),2021_Earthquake_Information/April/2021_0404_1353_B2.html
+20210404T2217_13.36_120.73,2021-04-04T22:17:00+08:00,13.36,120.73,34.0,1.9,009 km Sout° 00 of Abra De Ilog (Occidental Mindoro),2021_Earthquake_Information/April/2021_0404_1417_B2.html
+20210404T2329_7.31_126.71,2021-04-04T23:29:00+08:00,7.31,126.71,42.0,3.8,016 km S 84° E of Caraga (Davao Oriental),2021_Earthquake_Information/April/2021_0404_1529_B2.html
+20210405T0020_10.31_125.38,2021-04-05T00:20:00+08:00,10.31,125.38,97.0,2.4,017 km N 71° E of Anahawan (Southern Leyte),2021_Earthquake_Information/April/2021_0404_1620_B2.html
+20210405T0030_15.79_120.03,2021-04-05T00:30:00+08:00,15.79,120.03,71.0,1.9,029 km N 89° W of Mangatarem (Pangasinan),2021_Earthquake_Information/April/2021_0404_1630_B2.html
+20210405T0041_9.77_124.66,2021-04-05T00:41:00+08:00,9.77,124.66,27.0,1.9,010 km N 75° E of Anda (Bohol),2021_Earthquake_Information/April/2021_0404_1641_B2.html
+20210405T0051_8.03_126.76,2021-04-05T00:51:00+08:00,8.03,126.76,18.0,2.3,039 km S 89° E of Lingig (Surigao Del Sur),2021_Earthquake_Information/April/2021_0404_1651_B2.html
+20210405T0052_5.99_124.66,2021-04-05T00:52:00+08:00,5.99,124.66,17.0,2.4,030 km S 36° W of T'boli (South Cotabato),2021_Earthquake_Information/April/2021_0404_1652_B2.html
+20210405T0101_12.9_122.94,2021-04-05T01:01:00+08:00,12.9,122.94,17.0,4.0,033 km S 89° W of Claveria (Masbate),2021_Earthquake_Information/April/2021_0404_1701_B2F.html
+20210405T0135_17.79_121.01,2021-04-05T01:35:00+08:00,17.79,121.01,19.0,1.9,021 km N 69° E of Tineg (Abra),2021_Earthquake_Information/April/2021_0404_1735_B2.html
+20210405T0143_19.72_121.58,2021-04-05T01:43:00+08:00,19.72,121.58,20.0,2.3,042 km N 57° W of Babuyan Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0404_1743_B2.html
+20210405T0147_6.05_125.47,2021-04-05T01:47:00+08:00,6.05,125.47,33.0,2.0,020 km S 74° E of Alabel (Sarangani),2021_Earthquake_Information/April/2021_0404_1747_B2.html
+20210405T0202_14.17_123.5,2021-04-05T02:02:00+08:00,14.17,123.5,3.0,1.8,031 km N 59° E of Siruma (Camarines Sur),2021_Earthquake_Information/April/2021_0404_1802_B2.html
+20210405T0342_5.67_126.16,2021-04-05T03:42:00+08:00,5.67,126.16,72.0,2.6,063 km S 64° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0404_1942_B2.html
+20210405T0350_17.47_122.88,2021-04-05T03:50:00+08:00,17.47,122.88,15.0,2.7,066 km N 46° E of Palanan (Isabela),2021_Earthquake_Information/April/2021_0404_1950_B2.html
+20210405T0405_6.34_126.99,2021-04-05T04:05:00+08:00,6.34,126.99,35.0,2.4,099 km S 38° E of Tarragona (Davao Oriental),2021_Earthquake_Information/April/2021_0404_2005_B2.html
+20210405T0501_8.34_125.81,2021-04-05T05:01:00+08:00,8.34,125.81,26.0,2.1,007 km N 01° W of La Paz (Agusan Del Sur),2021_Earthquake_Information/April/2021_0404_2101_B2.html
+20210405T0509_11.55_124.24,2021-04-05T05:09:00+08:00,11.55,124.24,3.0,2.1,017 km S 61° W of Almeria (Biliran),2021_Earthquake_Information/April/2021_0404_2109_B2.html
+20210405T0518_17.23_120.17,2021-04-05T05:18:00+08:00,17.23,120.17,23.0,2.2,030 km S 75° W of Santiago (Ilocos Sur),2021_Earthquake_Information/April/2021_0404_2118_B2.html
+20210405T0520_9.9_124.49,2021-04-05T05:20:00+08:00,9.9,124.49,33.0,1.7,005 km S 89° E of Alicia (Bohol),2021_Earthquake_Information/April/2021_0404_2120_B2.html
+20210405T0526_10.12_126.07,2021-04-05T05:26:00+08:00,10.12,126.07,26.0,2.0,012 km N 01° W of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0404_2126_B2.html
+20210405T0711_12.53_123.62,2021-04-05T07:11:00+08:00,12.53,123.62,3.0,2.9,013 km S 69° W of San Jacinto (Masbate),2021_Earthquake_Information/April/2021_0404_2311_B2.html
+20210405T1026_9.34_126.14,2021-04-05T10:26:00+08:00,9.34,126.14,24.0,2.1,009 km N 37° W of Cortes (Surigao Del Sur),2021_Earthquake_Information/April/2021_0405_0226_B2.html
+20210405T1027_10.07_125.1,2021-04-05T10:27:00+08:00,10.07,125.1,23.0,2.9,006 km N 78° W of San Francisco (Southern Leyte),2021_Earthquake_Information/April/2021_0405_0227_B2F.html
+20210405T1051_7.92_127.03,2021-04-05T10:51:00+08:00,7.92,127.03,31.0,2.1,069 km S 79° E of Lingig (Surigao Del Sur),2021_Earthquake_Information/April/2021_0405_0251_B2.html
+20210405T1208_8.05_126.9,2021-04-05T12:08:00+08:00,8.05,126.9,17.0,2.2,054 km N 88° E of Lingig (Surigao Del Sur),2021_Earthquake_Information/April/2021_0405_0408_B2.html
+20210405T1240_5.34_126.97,2021-04-05T12:40:00+08:00,5.34,126.97,14.0,3.4,160 km S 67° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0405_0440_B2.html
+20210405T1314_8.0_126.6,2021-04-05T13:14:00+08:00,8.0,126.6,23.0,2.3,021 km S 77° E of Lingig (Surigao Del Sur),2021_Earthquake_Information/April/2021_0405_0514_B2.html
+20210405T1340_3.43_126.4,2021-04-05T13:40:00+08:00,3.43,126.4,27.0,4.0,245 km S 26° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0405_0540_B2.html
+20210405T1357_13.32_120.46,2021-04-05T13:57:00+08:00,13.32,120.46,35.0,2.6,010 km S 01° W of Paluan (Occidental Mindoro),2021_Earthquake_Information/April/2021_0405_0557_B2.html
+20210405T1636_14.9_123.59,2021-04-05T16:36:00+08:00,14.9,123.59,33.0,3.8,083 km N 56° E of Tinaga Island (Vinzons) (Camarines Norte),2021_Earthquake_Information/April/2021_0405_0836_B2.html
+20210405T2049_6.48_126.86,2021-04-05T20:49:00+08:00,6.48,126.86,45.0,2.8,078 km S 36° E of Tarragona (Davao Oriental),2021_Earthquake_Information/April/2021_0405_1249_B2.html
+20210405T2139_8.01_127.0,2021-04-05T21:39:00+08:00,8.01,127.0,32.0,2.5,064 km N 68° E of Cateel (Davao Oriental),2021_Earthquake_Information/April/2021_0405_1339_B2.html
+20210405T2216_7.17_126.89,2021-04-05T22:16:00+08:00,7.17,126.89,25.0,3.1,039 km S 84° E of Manay (Davao Oriental),2021_Earthquake_Information/April/2021_0405_1416_B2.html
+20210405T2317_6.56_125.97,2021-04-05T23:17:00+08:00,6.56,125.97,24.0,2.1,015 km S 50° W of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0405_1517_B2.html
+20210406T0253_17.11_121.58,2021-04-06T02:53:00+08:00,17.11,121.58,6.0,3.3,004 km S 73° W of Roxas (Isabela),2021_Earthquake_Information/April/2021_0405_1853_B2.html
+20210406T0308_8.63_126.05,2021-04-06T03:08:00+08:00,8.63,126.05,8.0,2.3,005 km N 87° W of Lianga (Surigao Del Sur),2021_Earthquake_Information/April/2021_0405_1908_B2.html
+20210406T0625_8.95_125.87,2021-04-06T06:25:00+08:00,8.95,125.87,9.0,2.1,019 km N 88° W of San Miguel (Surigao Del Sur),2021_Earthquake_Information/April/2021_0405_2225_B2.html
+20210406T0644_5.09_125.39,2021-04-06T06:44:00+08:00,5.09,125.39,21.0,2.9,036 km S 06° W of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0405_2244_B2.html
+20210406T0731_6.05_126.11,2021-04-06T07:31:00+08:00,6.05,126.11,114.0,3.2,049 km S 70° E of Don Marcelino (Davao Occidental),2021_Earthquake_Information/April/2021_0405_2331_B2.html
+20210406T0739_15.79_119.76,2021-04-06T07:39:00+08:00,15.79,119.76,25.0,2.8,017 km N 79° W of Santa Cruz (Zambales),2021_Earthquake_Information/April/2021_0405_2339_B2.html
+20210406T1030_16.29_120.58,2021-04-06T10:30:00+08:00,16.29,120.58,26.0,1.8,012 km S 10° E of Tuba (Benguet),2021_Earthquake_Information/April/2021_0406_0230_B2.html
+20210406T1053_19.05_120.8,2021-04-06T10:53:00+08:00,19.05,120.8,49.0,1.9,043 km S 82° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0406_0253_B2.html
+20210406T1121_10.49_126.77,2021-04-06T11:21:00+08:00,10.49,126.77,5.0,3.2,093 km N 56° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0406_0321_B2.html
+20210406T1538_5.09_125.54,2021-04-06T15:38:00+08:00,5.09,125.54,35.0,2.8,038 km S 20° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0406_0738_B2.html
+20210406T1752_16.51_121.3,2021-04-06T17:52:00+08:00,16.51,121.3,34.0,2.1,004 km N 62° E of Quezon (Nueva Vizcaya),2021_Earthquake_Information/April/2021_0406_0952_B2.html
+20210406T1900_18.06_120.87,2021-04-06T19:00:00+08:00,18.06,120.87,24.0,2.2,010 km S 31° E of Carasi (Ilocos Norte),2021_Earthquake_Information/April/2021_0406_1100_B2.html
+20210406T1928_13.62_120.08,2021-04-06T19:28:00+08:00,13.62,120.08,33.0,2.4,022 km S 60° W of Looc (Occidental Mindoro),2021_Earthquake_Information/April/2021_0406_1128_B2.html
+20210406T1935_10.45_126.68,2021-04-06T19:35:00+08:00,10.45,126.68,26.0,2.8,082 km N 54° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0406_1135_B2.html
+20210406T2011_16.87_119.53,2021-04-06T20:11:00+08:00,16.87,119.53,9.0,3.3,066 km N 36° W of Bolinao (Pangasinan),2021_Earthquake_Information/April/2021_0406_1211_B2.html
+20210406T2021_17.32_120.87,2021-04-06T20:21:00+08:00,17.32,120.87,18.0,2.1,009 km S 39° E of Boliney (Abra),2021_Earthquake_Information/April/2021_0406_1221_B2.html
+20210406T2148_5.02_125.3,2021-04-06T21:48:00+08:00,5.02,125.3,31.0,2.8,045 km S 17° W of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0406_1348_B2.html
+20210406T2227_14.06_120.47,2021-04-06T22:27:00+08:00,14.06,120.47,139.0,2.2,017 km S 83° W of Nasugbu (Batangas),2021_Earthquake_Information/April/2021_0406_1427_B2.html
+20210406T2243_9.62_126.18,2021-04-06T22:43:00+08:00,9.62,126.18,31.0,1.9,018 km S 07° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0406_1443_B2.html
+20210407T0010_15.29_122.75,2021-04-07T00:10:00+08:00,15.29,122.75,25.0,2.4,093 km N 13° W of Tinaga Island (Vinzons) (Camarines Norte),2021_Earthquake_Information/April/2021_0406_1610_B2.html
+20210407T0045_10.01_123.21,2021-04-07T00:45:00+08:00,10.01,123.21,13.0,2.6,003 km N 22° E of Jimalalud (Negros Oriental),2021_Earthquake_Information/April/2021_0406_1645_B2.html
+20210407T0131_10.33_126.13,2021-04-07T01:31:00+08:00,10.33,126.13,7.0,3.5,035 km N 09° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0406_1731_B2.html
+20210407T0321_7.62_124.93,2021-04-07T03:21:00+08:00,7.62,124.93,7.0,2.4,003 km N 33° E of Kadingilan (Bukidnon),2021_Earthquake_Information/April/2021_0406_1921_B2.html
+20210407T0408_5.74_126.68,2021-04-07T04:08:00+08:00,5.74,126.68,98.0,5.1,116 km S 81° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0406_2008_B3F.html
+20210407T0435_9.93_124.3,2021-04-07T04:35:00+08:00,9.93,124.3,16.0,2.0,008 km S 30° W of San Miguel (Bohol),2021_Earthquake_Information/April/2021_0406_2035_B2.html
+20210407T0436_10.3_126.1,2021-04-07T04:36:00+08:00,10.3,126.1,6.0,3.2,031 km N 06° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0406_2036_B2.html
+20210407T0456_9.5_126.08,2021-04-07T04:56:00+08:00,9.5,126.08,30.0,2.1,018 km S 44° E of Socorro (Surigao Del Norte),2021_Earthquake_Information/April/2021_0406_2056_B2.html
+20210407T0458_19.13_121.04,2021-04-07T04:58:00+08:00,19.13,121.04,1.0,3.2,048 km S 72° W of Calayan (Cagayan),2021_Earthquake_Information/April/2021_0406_2058_B2.html
+20210407T0502_10.21_122.35,2021-04-07T05:02:00+08:00,10.21,122.35,1.0,2.1,040 km S 31° W of Nueva Valencia (Guimaras),2021_Earthquake_Information/April/2021_0406_2102_B2.html
+20210407T0505_7.66_126.62,2021-04-07T05:05:00+08:00,7.66,126.62,31.0,3.1,011 km N 34° E of Baganga (Davao Oriental),2021_Earthquake_Information/April/2021_0406_2105_B2.html
+20210407T0615_14.23_120.02,2021-04-07T06:15:00+08:00,14.23,120.02,38.0,2.0,042 km N 15° W of Lubang (Occidental Mindoro),2021_Earthquake_Information/April/2021_0406_2215_B2.html
+20210407T0628_8.43_125.82,2021-04-07T06:28:00+08:00,8.43,125.82,24.0,2.1,020 km N 76° W of Rosario (Agusan Del Sur),2021_Earthquake_Information/April/2021_0406_2228_B2.html
+20210407T0631_9.75_125.76,2021-04-07T06:31:00+08:00,9.75,125.76,32.0,2.0,020 km N 61° E of Placer (Surigao Del Norte),2021_Earthquake_Information/April/2021_0406_2231_B2.html
+20210407T0706_9.98_123.14,2021-04-07T07:06:00+08:00,9.98,123.14,18.0,2.0,007 km S 89° W of Jimalalud (Negros Oriental),2021_Earthquake_Information/April/2021_0406_2306_B2.html
+20210407T0912_13.97_120.19,2021-04-07T09:12:00+08:00,13.97,120.19,27.0,2.2,015 km N 31° E of Lubang (Occidental Mindoro),2021_Earthquake_Information/April/2021_0407_0112_B2.html
+20210407T0915_18.89_122.46,2021-04-07T09:15:00+08:00,18.89,122.46,34.0,2.0,059 km N 35° E of Santa Ana (Cagayan),2021_Earthquake_Information/April/2021_0407_0115_B2.html
+20210407T1402_7.29_125.55,2021-04-07T14:02:00+08:00,7.29,125.55,12.0,2.9,013 km N 89° W of City Of Panabo (Davao Del Norte),2021_Earthquake_Information/April/2021_0407_0602_B2.html
+20210407T1521_7.5_123.93,2021-04-07T15:21:00+08:00,7.5,123.93,27.0,2.6,018 km S 56° W of Malabang (Lanao Del Sur),2021_Earthquake_Information/April/2021_0407_0721_B2.html
+20210407T1551_9.61_126.29,2021-04-07T15:51:00+08:00,9.61,126.29,5.0,3.0,024 km S 38° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0407_0751_B2.html
+20210407T1826_8.27_126.36,2021-04-07T18:26:00+08:00,8.27,126.36,135.0,2.5,008 km N 39° E of City Of Bislig (Surigao Del Sur),2021_Earthquake_Information/April/2021_0407_1026_B2.html
+20210407T2005_15.43_121.9,2021-04-07T20:05:00+08:00,15.43,121.9,1.0,2.0,051 km S 45° E of Baler (Aurora),2021_Earthquake_Information/April/2021_0407_1205_B2.html
+20210407T2328_9.69_126.04,2021-04-07T23:28:00+08:00,9.69,126.04,16.0,2.7,008 km S 08° W of Dapa (Surigao Del Norte),2021_Earthquake_Information/April/2021_0407_1528_B2.html
+20210408T0032_9.97_124.3,2021-04-08T00:32:00+08:00,9.97,124.3,33.0,1.7,009 km N 77° E of Danao (Bohol),2021_Earthquake_Information/April/2021_0407_1632_B2.html
+20210408T0043_5.72_126.17,2021-04-08T00:43:00+08:00,5.72,126.17,89.0,3.3,062 km S 70° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0407_1643_B2.html
+20210408T0103_9.91_126.45,2021-04-08T01:03:00+08:00,9.91,126.45,1.0,3.6,035 km N 67° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0407_1703_B2.html
+20210408T0149_19.26_120.99,2021-04-08T01:49:00+08:00,19.26,120.99,8.0,3.0,028 km N 53° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0407_1749_B2.html
+20210408T0226_13.49_119.98,2021-04-08T02:26:00+08:00,13.49,119.98,4.0,2.4,044 km S 21° W of Lubang (Occidental Mindoro),2021_Earthquake_Information/April/2021_0407_1826_B2.html
+20210408T0238_18.57_120.78,2021-04-08T02:38:00+08:00,18.57,120.78,14.0,3.6,001 km N 47° W of Pagudpud (Ilocos Norte),2021_Earthquake_Information/April/2021_0407_1838_B2F.html
+20210408T0348_14.98_119.63,2021-04-08T03:48:00+08:00,14.98,119.63,8.0,3.1,053 km S 79° W of San Felipe (Zambales),2021_Earthquake_Information/April/2021_0407_1948_B2.html
+20210408T0349_9.32_125.61,2021-04-08T03:49:00+08:00,9.32,125.61,4.0,3.5,008 km N 42° E of Santiago (Agusan Del Norte),2021_Earthquake_Information/April/2021_0407_1949_B2.html
+20210408T0406_8.99_126.27,2021-04-08T04:06:00+08:00,8.99,126.27,30.0,2.0,003 km N 21° W of Bayabas (Surigao Del Sur),2021_Earthquake_Information/April/2021_0407_2006_B2.html
+20210408T0422_18.27_120.35,2021-04-08T04:22:00+08:00,18.27,120.35,29.0,3.1,027 km N 73° W of City Of Laoag (Ilocos Norte),2021_Earthquake_Information/April/2021_0407_2022_B2.html
+20210408T0526_9.27_126.27,2021-04-08T05:26:00+08:00,9.27,126.27,19.0,2.7,008 km S 84° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/April/2021_0407_2126_B2.html
+20210408T0730_9.25_126.42,2021-04-08T07:30:00+08:00,9.25,126.42,20.0,2.2,025 km S 85° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/April/2021_0407_2330_B2.html
+20210408T0745_4.97_126.34,2021-04-08T07:45:00+08:00,4.97,126.34,24.0,2.9,113 km S 64° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0407_2345_B2.html
+20210408T1026_3.21_126.28,2021-04-08T10:26:00+08:00,3.21,126.28,33.0,3.9,262 km S 21° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0408_0226_B2.html
+20210408T1344_7.46_125.89,2021-04-08T13:44:00+08:00,7.46,125.89,14.0,2.7,008 km N 74° E of City Of Tagum (Davao Del Norte),2021_Earthquake_Information/April/2021_0408_0544_B2.html
+20210408T1725_16.16_121.19,2021-04-08T17:25:00+08:00,16.16,121.19,32.0,1.7,018 km S 39° E of Dupax Del Sur (Nueva Vizcaya),2021_Earthquake_Information/April/2021_0408_0925_B2.html
+20210408T1904_16.99_121.01,2021-04-08T19:04:00+08:00,16.99,121.01,3.0,3.0,011 km N 31° W of Banaue (Ifugao),2021_Earthquake_Information/April/2021_0408_1104_B2.html
+20210408T2139_13.57_121.02,2021-04-08T21:39:00+08:00,13.57,121.02,1.0,3.0,010 km N 46° E of Puerto Galera (Oriental Mindoro),2021_Earthquake_Information/April/2021_0408_1339_B2.html
+20210409T0020_5.39_126.64,2021-04-09T00:20:00+08:00,5.39,126.64,3.0,3.7,125 km S 62° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0408_1620_B2.html
+20210409T0136_9.24_126.11,2021-04-09T01:36:00+08:00,9.24,126.11,23.0,2.5,010 km S 64° W of Cortes (Surigao Del Sur),2021_Earthquake_Information/April/2021_0408_1736_B2.html
+20210409T0312_12.92_120.58,2021-04-09T03:12:00+08:00,12.92,120.58,78.0,2.5,023 km N 68° W of Sablayan (Occidental Mindoro),2021_Earthquake_Information/April/2021_0408_1912_B2.html
+20210409T0404_6.74_124.92,2021-04-09T04:04:00+08:00,6.74,124.92,11.0,2.0,008 km N 36° W of Columbio (Sultan Kudarat),2021_Earthquake_Information/April/2021_0408_2004_B2.html
+20210409T0509_9.1_126.42,2021-04-09T05:09:00+08:00,9.1,126.42,22.0,2.4,021 km N 46° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/April/2021_0408_2109_B2.html
+20210409T0511_9.08_126.38,2021-04-09T05:11:00+08:00,9.08,126.38,20.0,3.5,016 km N 43° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/April/2021_0408_2111_B2.html
+20210409T0521_17.12_121.96,2021-04-09T05:21:00+08:00,17.12,121.96,30.0,2.2,008 km S 75° E of City Of Ilagan (Isabela),2021_Earthquake_Information/April/2021_0408_2121_B2.html
+20210409T0545_7.92_126.6,2021-04-09T05:45:00+08:00,7.92,126.6,28.0,2.1,022 km N 48° E of Cateel (Davao Oriental),2021_Earthquake_Information/April/2021_0408_2145_B2.html
+20210409T0730_4.42_127.17,2021-04-09T07:30:00+08:00,4.42,127.17,96.0,2.8,223 km S 60° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0408_2330_B2.html
+20210409T0741_8.65_124.78,2021-04-09T07:41:00+08:00,8.65,124.78,1.0,2.6,007 km N 03° E of Villanueva (Misamis Oriental),2021_Earthquake_Information/April/2021_0408_2341_B2.html
+20210409T0848_6.52_125.25,2021-04-09T08:48:00+08:00,6.52,125.25,7.0,2.7,016 km N 10° W of Malungon (Sarangani),2021_Earthquake_Information/April/2021_0409_0048_B2.html
+20210409T0849_9.94_126.26,2021-04-09T08:49:00+08:00,9.94,126.26,6.0,2.5,020 km N 65° E of Pilar (Surigao Del Norte),2021_Earthquake_Information/April/2021_0409_0049_B2.html
+20210409T0939_8.38_124.56,2021-04-09T09:39:00+08:00,8.38,124.56,30.0,1.8,020 km S 10° E of City Of El Salvador (Misamis Oriental),2021_Earthquake_Information/April/2021_0409_0139_B2.html
+20210409T1258_5.33_126.33,2021-04-09T12:58:00+08:00,5.33,126.33,111.0,3.7,099 km S 50° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0409_0458_B2.html
+20210409T1721_6.55_125.33,2021-04-09T17:21:00+08:00,6.55,125.33,34.0,2.7,011 km S 47° E of Kiblawan (Davao Del Sur),2021_Earthquake_Information/April/2021_0409_0921_B2.html
+20210409T2139_6.26_126.05,2021-04-09T21:39:00+08:00,6.26,126.05,104.0,3.7,040 km N 81° E of Don Marcelino (Davao Occidental),2021_Earthquake_Information/April/2021_0409_1339_B2.html
+20210409T2153_17.63_120.01,2021-04-09T21:53:00+08:00,17.63,120.01,35.0,2.9,038 km N 83° W of Santa Catalina (Ilocos Sur),2021_Earthquake_Information/April/2021_0409_1353_B2.html
+20210409T2217_9.75_124.81,2021-04-09T22:17:00+08:00,9.75,124.81,6.0,2.0,025 km N 88° E of Anda (Bohol),2021_Earthquake_Information/April/2021_0409_1417_B2.html
+20210409T2254_17.21_119.9,2021-04-09T22:54:00+08:00,17.21,119.9,20.0,2.6,058 km N 85° W of City Of Candon (Ilocos Sur),2021_Earthquake_Information/April/2021_0409_1454_B2.html
+20210409T2343_13.25_123.81,2021-04-09T23:43:00+08:00,13.25,123.81,10.0,2.9,004 km N 69° E of Santo Domingo (Albay),2021_Earthquake_Information/April/2021_0409_1543_B1.html
+20210409T2359_12.87_120.85,2021-04-09T23:59:00+08:00,12.87,120.85,24.0,2.9,008 km N 67° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/April/2021_0409_1559_B2.html
+20210410T0046_8.21_125.98,2021-04-10T00:46:00+08:00,8.21,125.98,17.0,2.5,004 km N 22° W of Bunawan (Agusan Del Sur),2021_Earthquake_Information/April/2021_0409_1646_B2.html
+20210410T0448_19.29_123.15,2021-04-10T04:48:00+08:00,19.29,123.15,33.0,2.9,132 km S 79° E of Babuyan Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0409_2048_B2.html
+20210410T0700_14.6_123.21,2021-04-10T07:00:00+08:00,14.6,123.21,2.0,3.4,031 km N 63° E of Tinaga Island (Vinzons) (Camarines Norte),2021_Earthquake_Information/April/2021_0409_2300_B2.html
+20210410T0937_6.39_125.27,2021-04-10T09:37:00+08:00,6.39,125.27,27.0,1.8,025 km S 19° W of Sulop (Davao Del Sur),2021_Earthquake_Information/April/2021_0410_0137_B2.html
+20210410T1019_9.37_125.63,2021-04-10T10:19:00+08:00,9.37,125.63,15.0,3.2,010 km S 30° E of Kitcharao (Agusan Del Norte),2021_Earthquake_Information/April/2021_0410_0219_B3F.html
+20210410T1122_8.2_125.8,2021-04-10T11:22:00+08:00,8.2,125.8,38.0,1.6,009 km S 01° W of La Paz (Agusan Del Sur),2021_Earthquake_Information/April/2021_0410_0322_B2.html
+20210410T1150_16.42_120.03,2021-04-10T11:50:00+08:00,16.42,120.03,38.0,1.6,015 km N 78° E of Bolinao (Pangasinan),2021_Earthquake_Information/April/2021_0410_0350_B2.html
+20210410T1239_7.31_126.11,2021-04-10T12:39:00+08:00,7.31,126.11,11.0,2.8,001 km S 75° W of Maragusan (Davao De Oro),2021_Earthquake_Information/April/2021_0410_0439_B2.html
+20210410T1532_10.71_125.17,2021-04-10T15:32:00+08:00,10.71,125.17,19.0,2.3,018 km S 76° E of Abuyog (Leyte),2021_Earthquake_Information/April/2021_0410_0732_B2.html
+20210410T1612_5.19_126.51,2021-04-10T16:12:00+08:00,5.19,126.51,57.0,3.3,123 km S 79° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0410_0812_B2.html
+20210410T1730_3.98_124.88,2021-04-10T17:30:00+08:00,3.98,124.88,326.0,6.1,170 km S 21° W of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0410_0930_B3F.html
+20210410T1833_10.61_125.32,2021-04-10T18:33:00+08:00,10.61,125.32,50.0,2.1,020 km N 61° E of Silago (Southern Leyte),2021_Earthquake_Information/April/2021_0410_1033_B2.html
+20210410T2037_14.22_120.39,2021-04-10T20:37:00+08:00,14.22,120.39,115.0,1.6,026 km S 25° W of Mariveles (Bataan),2021_Earthquake_Information/April/2021_0410_1237_B1.html
+20210410T2308_8.47_125.9,2021-04-10T23:08:00+08:00,8.47,125.9,21.0,2.5,010 km S 63° W of San Francisco (Agusan Del Sur),2021_Earthquake_Information/April/2021_0410_1508_B2.html
+20210410T2314_19.76_120.41,2021-04-10T23:14:00+08:00,19.76,120.41,71.0,2.5,110 km N 49° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0410_1514_B2.html
+20210410T2349_9.77_125.57,2021-04-10T23:49:00+08:00,9.77,125.57,32.0,2.1,013 km N 18° W of Placer (Surigao Del Norte),2021_Earthquake_Information/April/2021_0410_1549_B2.html
+20210410T2358_6.11_126.48,2021-04-10T23:58:00+08:00,6.11,126.48,36.0,3.1,075 km S 36° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0410_1558_B2.html
+20210411T0134_7.71_124.42,2021-04-11T01:34:00+08:00,7.71,124.42,20.0,2.4,013 km S 73° E of Butig (Lanao Del Sur),2021_Earthquake_Information/April/2021_0410_1734_B2.html
+20210411T0150_10.28_125.54,2021-04-11T01:50:00+08:00,10.28,125.54,81.0,2.3,010 km S 26° W of Loreto (Dinagat Islands),2021_Earthquake_Information/April/2021_0410_1750_B2.html
+20210411T0157_9.56_126.26,2021-04-11T01:57:00+08:00,9.56,126.26,27.0,1.9,027 km S 24° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0410_1757_B2.html
+20210411T0325_8.96_125.66,2021-04-11T03:25:00+08:00,8.96,125.66,34.0,1.8,014 km N 89° E of City Of Butuan (Agusan Del Norte),2021_Earthquake_Information/April/2021_0410_1925_B2.html
+20210411T0333_7.68_124.57,2021-04-11T03:33:00+08:00,7.68,124.57,30.0,2.0,020 km S 70° W of Kalilangan (Bukidnon),2021_Earthquake_Information/April/2021_0410_1933_B2.html
+20210411T0445_5.85_124.7,2021-04-11T04:45:00+08:00,5.85,124.7,10.0,2.5,018 km S 29° E of Kiamba (Sarangani),2021_Earthquake_Information/April/2021_0410_2045_B2.html
+20210411T0802_9.77_124.77,2021-04-11T08:02:00+08:00,9.77,124.77,6.0,2.3,022 km N 84° E of Anda (Bohol),2021_Earthquake_Information/April/2021_0411_0002_B2.html
+20210411T1202_11.2_124.78,2021-04-11T12:02:00+08:00,11.2,124.78,12.0,2.1,001 km N 38° W of Jaro (Leyte),2021_Earthquake_Information/April/2021_0411_0402_B2.html
+20210411T1356_7.74_126.42,2021-04-11T13:56:00+08:00,7.74,126.42,24.0,1.8,007 km S 33° W of Cateel (Davao Oriental),2021_Earthquake_Information/April/2021_0411_0556_B2.html
+20210411T1617_4.7_127.47,2021-04-11T16:17:00+08:00,4.7,127.47,15.0,3.3,241 km S 71° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0411_0817_B2.html
+20210411T1648_8.99_126.33,2021-04-11T16:48:00+08:00,8.99,126.33,48.0,2.4,015 km S 84° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/April/2021_0411_0848_B2.html
+20210411T1738_12.96_120.25,2021-04-11T17:38:00+08:00,12.96,120.25,30.0,2.3,048 km S 51° W of Mamburao (Occidental Mindoro),2021_Earthquake_Information/April/2021_0411_0938_B2.html
+20210411T1919_11.1_124.46,2021-04-11T19:19:00+08:00,11.1,124.46,14.0,1.8,014 km S 31° E of Villaba (Leyte),2021_Earthquake_Information/April/2021_0411_1119_B2.html
+20210411T2023_5.98_124.54,2021-04-11T20:23:00+08:00,5.98,124.54,21.0,2.2,010 km S 29° E of Maitum (Sarangani),2021_Earthquake_Information/April/2021_0411_1223_B2.html
+20210411T2037_6.49_126.05,2021-04-11T20:37:00+08:00,6.49,126.05,36.0,3.5,019 km S 07° W of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0411_1237_B2.html
+20210411T2114_13.04_120.96,2021-04-11T21:14:00+08:00,13.04,120.96,1.0,3.1,026 km S 79° E of Santa Cruz (Occidental Mindoro),2021_Earthquake_Information/April/2021_0411_1314_B2.html
+20210411T2123_13.1_121.0,2021-04-11T21:23:00+08:00,13.1,121.0,2.0,2.5,030 km N 87° E of Santa Cruz (Occidental Mindoro),2021_Earthquake_Information/April/2021_0411_1323_B2.html
+20210411T2338_9.56_122.5,2021-04-11T23:38:00+08:00,9.56,122.5,30.0,2.2,006 km S 43° E of Hinoba-an (Negros Occidental),2021_Earthquake_Information/April/2021_0411_1538_B2.html
+20210412T0014_10.24_125.46,2021-04-12T00:14:00+08:00,10.24,125.46,118.0,2.1,009 km N 57° W of Libjo (Dinagat Islands),2021_Earthquake_Information/April/2021_0411_1614_B2.html
+20210412T0016_5.46_126.34,2021-04-12T00:16:00+08:00,5.46,126.34,72.0,3.0,092 km S 57° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0411_1616_B2.html
+20210412T0029_18.15_120.42,2021-04-12T00:29:00+08:00,18.15,120.42,38.0,1.8,014 km N 45° W of Paoay (Ilocos Norte),2021_Earthquake_Information/April/2021_0411_1629_B1.html
+20210412T0108_16.61_121.04,2021-04-12T01:08:00+08:00,16.61,121.04,1.0,2.9,009 km N 06° E of Ambaguio (Nueva Vizcaya),2021_Earthquake_Information/April/2021_0411_1708_B2.html
+20210412T0358_10.12_125.17,2021-04-12T03:58:00+08:00,10.12,125.17,8.0,2.8,007 km N 12° E of San Francisco (Southern Leyte),2021_Earthquake_Information/April/2021_0411_1958_B2.html
+20210412T0422_8.44_126.62,2021-04-12T04:22:00+08:00,8.44,126.62,27.0,2.9,032 km N 75° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/April/2021_0411_2022_B2.html
+20210412T0724_10.45_125.68,2021-04-12T07:24:00+08:00,10.45,125.68,60.0,2.6,014 km N 48° E of Loreto (Dinagat Islands),2021_Earthquake_Information/April/2021_0411_2324_B2.html
+20210412T0750_7.39_123.47,2021-04-12T07:50:00+08:00,7.39,123.47,31.0,2.2,010 km S 40° E of Tabina (Zamboanga Del Sur),2021_Earthquake_Information/April/2021_0411_2350_B2.html
+20210412T1001_18.77_120.75,2021-04-12T10:01:00+08:00,18.77,120.75,15.0,2.5,024 km N 10° W of Pagudpud (Ilocos Norte),2021_Earthquake_Information/April/2021_0412_0201_B2.html
+20210412T1138_8.85_125.72,2021-04-12T11:38:00+08:00,8.85,125.72,13.0,3.2,016 km N 13° W of City Of Bayugan (Agusan Del Sur),2021_Earthquake_Information/April/2021_0412_0338_B2.html
+20210412T1514_12.89_126.01,2021-04-12T15:14:00+08:00,12.89,126.01,29.0,3.3,094 km N 61° E of Mapanas (Northern Samar),2021_Earthquake_Information/April/2021_0412_0714_B2.html
+20210412T1647_7.85_124.61,2021-04-12T16:47:00+08:00,7.85,124.61,1.0,2.6,019 km N 52° W of Kalilangan (Bukidnon),2021_Earthquake_Information/April/2021_0412_0847_B2.html
+20210412T1707_12.99_121.04,2021-04-12T17:07:00+08:00,12.99,121.04,1.0,2.2,032 km N 60° E of Sablayan (Occidental Mindoro),2021_Earthquake_Information/April/2021_0412_0907_B2.html
+20210412T2051_10.95_124.77,2021-04-12T20:51:00+08:00,10.95,124.77,1.0,2.5,009 km N 68° E of Albuera (Leyte),2021_Earthquake_Information/April/2021_0412_1251_B2.html
+20210412T2112_9.97_126.09,2021-04-12T21:12:00+08:00,9.97,126.09,33.0,1.7,005 km S 23° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0412_1312_B2.html
+20210412T2139_9.98_124.32,2021-04-12T21:39:00+08:00,9.98,124.32,21.0,2.4,002 km S 58° W of San Miguel (Bohol),2021_Earthquake_Information/April/2021_0412_1339_B2.html
+20210412T2253_8.8_126.34,2021-04-12T22:53:00+08:00,8.8,126.34,20.0,2.1,005 km S 86° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/April/2021_0412_1453_B2.html
+20210412T2329_9.84_123.96,2021-04-12T23:29:00+08:00,9.84,123.96,2.0,2.6,002 km S 05° E of San Isidro (Bohol),2021_Earthquake_Information/April/2021_0412_1529_B2.html
+20210412T2353_13.41_120.65,2021-04-12T23:53:00+08:00,13.41,120.65,20.0,2.5,009 km S 64° W of Abra De Ilog (Occidental Mindoro),2021_Earthquake_Information/April/2021_0412_1553_B2.html
+20210413T0135_9.97_126.22,2021-04-13T01:35:00+08:00,9.97,126.22,12.0,3.7,017 km S 73° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0412_1735_B2.html
+20210413T0239_13.82_120.6,2021-04-13T02:39:00+08:00,13.82,120.6,110.0,2.1,003 km S 72° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0412_1839_B2.html
+20210413T0329_9.68_125.82,2021-04-13T03:29:00+08:00,9.68,125.82,32.0,2.1,015 km N 39° E of Claver (Surigao Del Norte),2021_Earthquake_Information/April/2021_0412_1929_B2.html
+20210413T0504_9.33_126.59,2021-04-13T05:04:00+08:00,9.33,126.59,11.0,2.4,044 km N 82° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/April/2021_0412_2104_B2.html
+20210413T0542_9.32_126.36,2021-04-13T05:42:00+08:00,9.32,126.36,11.0,2.5,019 km N 76° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/April/2021_0412_2142_B2.html
+20210413T0618_8.07_126.28,2021-04-13T06:18:00+08:00,8.07,126.28,33.0,1.9,016 km S 14° W of City Of Bislig (Surigao Del Sur),2021_Earthquake_Information/April/2021_0412_2218_B2.html
+20210413T0730_13.9_120.4,2021-04-13T07:30:00+08:00,13.9,120.4,74.0,3.4,026 km N 75° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0412_2330_B2.html
+20210413T0745_8.78_126.25,2021-04-13T07:45:00+08:00,8.78,126.25,30.0,1.7,005 km N 34° E of San Agustin (Surigao Del Sur),2021_Earthquake_Information/April/2021_0412_2345_B2.html
+20210413T1117_9.41_126.18,2021-04-13T11:17:00+08:00,9.41,126.18,17.0,3.5,014 km N 07° W of Cortes (Surigao Del Sur),2021_Earthquake_Information/April/2021_0413_0317_B2.html
+20210413T1247_10.36_122.43,2021-04-13T12:47:00+08:00,10.36,122.43,43.0,1.9,022 km S 34° W of Nueva Valencia (Guimaras),2021_Earthquake_Information/April/2021_0413_0447_B2.html
+20210413T1407_13.73_122.37,2021-04-13T14:07:00+08:00,13.73,122.37,2.0,2.4,010 km S 84° W of Buenavista (Quezon),2021_Earthquake_Information/April/2021_0413_0607_B2.html
+20210413T1718_11.25_125.69,2021-04-13T17:18:00+08:00,11.25,125.69,19.0,2.5,011 km N 18° E of Salcedo (Eastern Samar),2021_Earthquake_Information/April/2021_0413_0918_B2.html
+20210413T1758_17.44_121.33,2021-04-13T17:58:00+08:00,17.44,121.33,29.0,1.9,015 km S 79° W of City Of Tabuk (Kalinga),2021_Earthquake_Information/April/2021_0413_0958_B2.html
+20210413T1906_9.2_122.39,2021-04-13T19:06:00+08:00,9.2,122.39,18.0,2.1,036 km S 50° W of Basay (Negros Oriental),2021_Earthquake_Information/April/2021_0413_1106_B2.html
+20210413T1916_16.25_119.88,2021-04-13T19:16:00+08:00,16.25,119.88,48.0,1.9,007 km N 12° E of Bani (Pangasinan),2021_Earthquake_Information/April/2021_0413_1116_B2.html
+20210413T1943_16.4_119.99,2021-04-13T19:43:00+08:00,16.4,119.99,45.0,1.9,010 km N 82° E of Bolinao (Pangasinan),2021_Earthquake_Information/April/2021_0413_1143_B2.html
+20210413T2102_5.28_126.24,2021-04-13T21:02:00+08:00,5.28,126.24,29.0,2.7,092 km S 81° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0413_1302_B2.html
+20210413T2116_11.17_125.57,2021-04-13T21:16:00+08:00,11.17,125.57,27.0,2.4,006 km N 74° E of Quinapondan (Eastern Samar),2021_Earthquake_Information/April/2021_0413_1316_B2.html
+20210413T2208_11.36_126.17,2021-04-13T22:08:00+08:00,11.36,126.17,9.0,4.0,058 km N 60° E of Mercedes (Eastern Samar),2021_Earthquake_Information/April/2021_0413_1408_B2.html
+20210413T2313_9.68_126.1,2021-04-13T23:13:00+08:00,9.68,126.1,21.0,2.3,010 km S 30° E of Dapa (Surigao Del Norte),2021_Earthquake_Information/April/2021_0413_1513_B2.html
+20210413T2323_6.86_124.68,2021-04-13T23:23:00+08:00,6.86,124.68,4.0,2.9,008 km N 39° E of Lambayong (Sultan Kudarat),2021_Earthquake_Information/April/2021_0413_1523_B2_Sultan_Kudarat.html
+20210413T2323_9.41_125.41,2021-04-13T23:23:00+08:00,9.41,125.41,27.0,2.8,014 km N 59° W of Jabonga (Agusan Del Norte),2021_Earthquake_Information/April/2021_0413_1523_B2_Agusan_Del_Norte.html
+20210413T2354_6.0_124.63,2021-04-13T23:54:00+08:00,6.0,124.63,15.0,2.0,002 km N 04° E of Kiamba (Sarangani),2021_Earthquake_Information/April/2021_0413_1554_B2.html
+20210414T0114_16.13_119.78,2021-04-14T01:14:00+08:00,16.13,119.78,34.0,2.1,003 km N 59° W of Agno (Pangasinan),2021_Earthquake_Information/April/2021_0413_1714_B2.html
+20210414T0123_9.03_125.68,2021-04-14T01:23:00+08:00,9.03,125.68,33.0,2.0,023 km N 02° W of Sibagat (Agusan Del Sur),2021_Earthquake_Information/April/2021_0413_1723_B2.html
+20210414T0142_15.52_120.6,2021-04-14T01:42:00+08:00,15.52,120.6,154.0,2.7,004 km N 19° E of City Of Tarlac (Tarlac),2021_Earthquake_Information/April/2021_0413_1742_B2.html
+20210414T0159_16.22_119.64,2021-04-14T01:59:00+08:00,16.22,119.64,32.0,2.0,021 km N 56° W of Agno (Pangasinan),2021_Earthquake_Information/April/2021_0413_1759_B2.html
+20210414T0226_9.48_127.22,2021-04-14T02:26:00+08:00,9.48,127.22,17.0,2.5,115 km N 79° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/April/2021_0413_1826_B2.html
+20210414T0238_5.44_127.0,2021-04-14T02:38:00+08:00,5.44,127.0,34.0,5.1,159 km S 71° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0413_1838_B2.html
+20210414T0239_13.9_120.57,2021-04-14T02:39:00+08:00,13.9,120.57,198.0,5.0,010 km N 45° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0413_1839_B2F.html
+20210414T0252_6.77_124.8,2021-04-14T02:52:00+08:00,6.77,124.8,23.0,2.6,010 km S 51° W of Tulunan (Cotabato),2021_Earthquake_Information/April/2021_0413_1852_B2.html
+20210414T0300_9.43_123.86,2021-04-14T03:00:00+08:00,9.43,123.86,30.0,1.5,023 km S 28° W of Alburquerque (Bohol),2021_Earthquake_Information/April/2021_0413_1900_B2.html
+20210414T0446_9.28_125.58,2021-04-14T04:46:00+08:00,9.28,125.58,4.0,2.3,003 km N 59° E of Santiago (Agusan Del Norte),2021_Earthquake_Information/April/2021_0413_2046_B2.html
+20210414T0449_8.68_126.52,2021-04-14T04:49:00+08:00,8.68,126.52,22.0,2.3,033 km S 78° E of San Agustin (Surigao Del Sur),2021_Earthquake_Information/April/2021_0413_2049_B2.html
+20210414T0459_13.21_120.62,2021-04-14T04:59:00+08:00,13.21,120.62,18.0,2.0,003 km S 65° E of Mamburao (Occidental Mindoro),2021_Earthquake_Information/April/2021_0413_2059_B2.html
+20210414T0540_8.91_125.79,2021-04-14T05:40:00+08:00,8.91,125.79,18.0,3.2,022 km N 12° E of City Of Bayugan (Agusan Del Sur),2021_Earthquake_Information/April/2021_0413_2140_B2.html
+20210414T0612_14.68_121.59,2021-04-14T06:12:00+08:00,14.68,121.59,29.0,2.3,010 km S 22° W of General Nakar (Quezon),2021_Earthquake_Information/April/2021_0413_2212_B2.html
+20210414T0701_6.31_126.2,2021-04-14T07:01:00+08:00,6.31,126.2,13.0,2.9,040 km S 21° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0413_2301_B2.html
+20210414T1133_10.06_126.49,2021-04-14T11:33:00+08:00,10.06,126.49,1.0,2.8,046 km N 84° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_0333_B2.html
+20210414T1332_10.07_126.59,2021-04-14T13:32:00+08:00,10.07,126.59,4.0,3.6,056 km N 85° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_0532_B2.html
+20210414T1714_4.81_126.93,2021-04-14T17:14:00+08:00,4.81,126.93,153.0,3.2,187 km S 49° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0414_0914_B2.html
+20210414T1722_8.39_123.2,2021-04-14T17:22:00+08:00,8.39,123.2,29.0,2.2,018 km N 32° E of Siayan (Zamboanga Del Norte),2021_Earthquake_Information/April/2021_0414_0922_B2.html
+20210414T1834_11.79_124.16,2021-04-14T18:34:00+08:00,11.79,124.16,23.0,2.4,014 km N 66° E of Esperanza (Masbate),2021_Earthquake_Information/April/2021_0414_1034_B2.html
+20210414T1909_10.06_126.49,2021-04-14T19:09:00+08:00,10.06,126.49,5.0,4.9,045 km N 85° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1109_B2F.html
+20210414T1912_9.91_126.39,2021-04-14T19:12:00+08:00,9.91,126.39,13.0,2.4,036 km S 71° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1112_B2.html
+20210414T1920_10.02_126.44,2021-04-14T19:20:00+08:00,10.02,126.44,1.0,3.6,040 km N 90° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1120_B2.html
+20210414T1947_10.09_126.47,2021-04-14T19:47:00+08:00,10.09,126.47,1.0,2.8,044 km N 79° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1147_B2.html
+20210414T1956_10.13_126.55,2021-04-14T19:56:00+08:00,10.13,126.55,7.0,2.5,053 km N 76° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1156_B2.html
+20210414T2002_12.05_125.56,2021-04-14T20:02:00+08:00,12.05,125.56,26.0,3.3,009 km N 81° E of Dolores (Eastern Samar),2021_Earthquake_Information/April/2021_0414_1202_B2.html
+20210414T2005_15.42_122.0,2021-04-14T20:05:00+08:00,15.42,122.0,6.0,2.5,064 km N 03° E of Burdeos (Quezon),2021_Earthquake_Information/April/2021_0414_1205_B2.html
+20210414T2007_9.94_126.42,2021-04-14T20:07:00+08:00,9.94,126.42,16.0,2.6,039 km S 78° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1207_B2.html
+20210414T2040_7.42_126.52,2021-04-14T20:40:00+08:00,7.42,126.52,24.0,2.7,011 km N 25° W of Caraga (Davao Oriental),2021_Earthquake_Information/April/2021_0414_1240_B2.html
+20210414T2143_15.24_120.61,2021-04-14T21:43:00+08:00,15.24,120.61,32.0,2.4,005 km S 85° E of Mabalacat City (Pampanga),2021_Earthquake_Information/April/2021_0414_1343_B3.html
+20210414T2145_9.79_126.05,2021-04-14T21:45:00+08:00,9.79,126.05,15.0,2.1,004 km N 10° W of Dapa (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1345_B2.html
+20210414T2148_14.84_119.94,2021-04-14T21:48:00+08:00,14.84,119.94,23.0,3.1,020 km S 54° W of San Antonio (Zambales),2021_Earthquake_Information/April/2021_0414_1348_B2.html
+20210414T2235_10.04_126.53,2021-04-14T22:35:00+08:00,10.04,126.53,3.0,2.6,050 km N 87° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1435_B2.html
+20210414T2236_9.87_126.19,2021-04-14T22:36:00+08:00,9.87,126.19,19.0,2.7,021 km S 37° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1436_B2.html
+20210414T2254_10.01_126.17,2021-04-14T22:54:00+08:00,10.01,126.17,15.0,2.3,010 km S 84° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1454_B2.html
+20210414T2257_9.42_126.38,2021-04-14T22:57:00+08:00,9.42,126.38,19.0,2.7,026 km N 51° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/April/2021_0414_1457_B2.html
+20210414T2314_10.03_126.43,2021-04-14T23:14:00+08:00,10.03,126.43,3.0,3.0,040 km N 88° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1514_B2.html
+20210415T0007_8.46_126.79,2021-04-15T00:07:00+08:00,8.46,126.79,23.0,2.6,051 km N 78° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/April/2021_0414_1607_B2.html
+20210415T0024_9.89_126.12,2021-04-15T00:24:00+08:00,9.89,126.12,21.0,2.0,015 km S 18° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1624_B2.html
+20210415T0027_16.22_122.01,2021-04-15T00:27:00+08:00,16.22,122.01,27.0,2.8,010 km N 31° E of Dinalungan (Aurora),2021_Earthquake_Information/April/2021_0414_1627_B2.html
+20210415T0028_9.42_126.36,2021-04-15T00:28:00+08:00,9.42,126.36,22.0,2.3,024 km N 49° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/April/2021_0414_1628_B2.html
+20210415T0035_21.87_121.04,2021-04-15T00:35:00+08:00,21.87,121.04,6.0,2.8,145 km N 35° W of Itbayat (Batanes),2021_Earthquake_Information/April/2021_0414_1635_B2.html
+20210415T0036_21.4_120.79,2021-04-15T00:36:00+08:00,21.4,120.79,2.0,3.8,128 km N 58° W of Itbayat (Batanes),2021_Earthquake_Information/April/2021_0414_1636_B2.html
+20210415T0039_10.06_126.63,2021-04-15T00:39:00+08:00,10.06,126.63,8.0,4.7,061 km N 86° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1639_B2.html
+20210415T0057_9.89_125.98,2021-04-15T00:57:00+08:00,9.89,125.98,1.0,2.6,017 km S 36° W of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1657_B2.html
+20210415T0111_9.68_125.92,2021-04-15T01:11:00+08:00,9.68,125.92,32.0,1.7,017 km S 61° W of Dapa (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1711_B2.html
+20210415T0112_9.87_126.52,2021-04-15T01:12:00+08:00,9.87,126.52,16.0,2.3,040 km N 77° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1712_B2.html
+20210415T0122_10.36_125.14,2021-04-15T01:22:00+08:00,10.36,125.14,1.0,2.5,007 km S 60° W of Hinunangan (Southern Leyte),2021_Earthquake_Information/April/2021_0414_1722_B2.html
+20210415T0131_15.27_120.62,2021-04-15T01:31:00+08:00,15.27,120.62,22.0,3.0,006 km S 64° E of Bamban (Tarlac),2021_Earthquake_Information/April/2021_0414_1731_B2.html
+20210415T0256_9.95_126.4,2021-04-15T02:56:00+08:00,9.95,126.4,1.0,2.0,032 km N 56° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_1856_B2.html
+20210415T0354_13.7_120.61,2021-04-15T03:54:00+08:00,13.7,120.61,97.0,2.1,014 km S 09° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0414_1954_B2.html
+20210415T0524_13.76_120.6,2021-04-15T05:24:00+08:00,13.76,120.6,95.0,1.9,009 km S 25° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0414_2124_B2.html
+20210415T0539_3.32_127.78,2021-04-15T05:39:00+08:00,3.32,127.78,33.0,3.9,350 km S 48° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0414_2139_B2.html
+20210415T0552_9.67_126.23,2021-04-15T05:52:00+08:00,9.67,126.23,30.0,2.4,016 km S 33° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0414_2152_B2.html
+20210415T0617_15.66_119.84,2021-04-15T06:17:00+08:00,15.66,119.84,24.0,1.9,014 km S 31° W of Santa Cruz (Zambales),2021_Earthquake_Information/April/2021_0414_2217_B2.html
+20210415T0903_13.42_120.69,2021-04-15T09:03:00+08:00,13.42,120.69,30.0,1.6,005 km S 58° W of Abra De Ilog (Occidental Mindoro),2021_Earthquake_Information/April/2021_0415_0103_B2.html
+20210415T0909_9.82_126.12,2021-04-15T09:09:00+08:00,9.82,126.12,17.0,2.1,005 km N 44° W of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0415_0109_B2.html
+20210415T0956_5.93_124.75,2021-04-15T09:56:00+08:00,5.93,124.75,24.0,2.7,015 km S 66° E of Kiamba (Sarangani),2021_Earthquake_Information/April/2021_0415_0156_B2F.html
+20210415T1000_9.92_126.23,2021-04-15T10:00:00+08:00,9.92,126.23,25.0,2.7,020 km S 57° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0415_0200_B2.html
+20210415T1006_9.8_126.03,2021-04-15T10:06:00+08:00,9.8,126.03,26.0,2.0,005 km N 28° W of Dapa (Surigao Del Norte),2021_Earthquake_Information/April/2021_0415_0206_B2.html
+20210415T1007_6.63_124.93,2021-04-15T10:07:00+08:00,6.63,124.93,26.0,1.7,007 km S 27° W of Columbio (Sultan Kudarat),2021_Earthquake_Information/April/2021_0415_0207_B2.html
+20210415T1056_9.81_125.67,2021-04-15T10:56:00+08:00,9.81,125.67,98.0,2.8,012 km S 03° W of Cagdianao (Dinagat Islands),2021_Earthquake_Information/April/2021_0415_0256_B2.html
+20210415T1110_9.33_126.13,2021-04-15T11:10:00+08:00,9.33,126.13,29.0,1.8,009 km N 51° W of Cortes (Surigao Del Sur),2021_Earthquake_Information/April/2021_0415_0310_B2.html
+20210415T1142_10.03_126.29,2021-04-15T11:42:00+08:00,10.03,126.29,6.0,2.7,024 km N 87° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0415_0342_B2.html
+20210415T1414_11.87_124.19,2021-04-15T14:14:00+08:00,11.87,124.19,10.0,2.5,015 km S 84° E of Pio V. Corpuz (Masbate),2021_Earthquake_Information/April/2021_0415_0614_B2.html
+20210415T1452_6.47_126.73,2021-04-15T14:52:00+08:00,6.47,126.73,33.0,2.7,071 km S 25° E of Tarragona (Davao Oriental),2021_Earthquake_Information/April/2021_0415_0652_B2.html
+20210415T1626_13.9_120.56,2021-04-15T16:26:00+08:00,13.9,120.56,26.0,1.9,011 km N 46° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0415_0826_B2.html
+20210415T1656_9.91_123.01,2021-04-15T16:56:00+08:00,9.91,123.01,7.0,2.6,016 km N 67° W of Ayungon (Negros Oriental),2021_Earthquake_Information/April/2021_0415_0856_B2.html
+20210415T1657_8.5_125.74,2021-04-15T16:57:00+08:00,8.5,125.74,34.0,1.9,000 km N 63° E of San Luis (Agusan Del Sur),2021_Earthquake_Information/April/2021_0415_0857_B2.html
+20210415T1714_14.1_120.48,2021-04-15T17:14:00+08:00,14.1,120.48,145.0,2.4,016 km N 82° W of Nasugbu (Batangas),2021_Earthquake_Information/April/2021_0415_0914_B2.html
+20210415T1822_10.34_126.09,2021-04-15T18:22:00+08:00,10.34,126.09,7.0,2.9,035 km N 03° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0415_1022_B2.html
+20210415T1837_17.24_120.3,2021-04-15T18:37:00+08:00,17.24,120.3,15.0,2.7,017 km N 62° W of City Of Candon (Ilocos Sur),2021_Earthquake_Information/April/2021_0415_1037_B2.html
+20210415T2103_10.02_125.46,2021-04-15T21:03:00+08:00,10.02,125.46,26.0,2.0,013 km S 89° W of San Jose (Dinagat Islands),2021_Earthquake_Information/April/2021_0415_1303_B2.html
+20210415T2127_18.51_120.7,2021-04-15T21:27:00+08:00,18.51,120.7,33.0,1.9,008 km S 70° W of Bangui (Ilocos Norte),2021_Earthquake_Information/April/2021_0415_1327_B2.html
+20210415T2204_13.94_120.52,2021-04-15T22:04:00+08:00,13.94,120.52,93.0,2.0,017 km N 44° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0415_1404_B2.html
+20210415T2248_6.75_126.62,2021-04-15T22:48:00+08:00,6.75,126.62,21.0,3.1,038 km S 29° E of Tarragona (Davao Oriental),2021_Earthquake_Information/April/2021_0415_1448_B2.html
+20210415T2333_5.68_127.1,2021-04-15T23:33:00+08:00,5.68,127.1,9.0,3.3,157 km S 46° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0415_1533_B2.html
+20210416T0028_9.3_126.49,2021-04-16T00:28:00+08:00,9.3,126.49,11.0,3.4,033 km N 85° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/April/2021_0415_1628_B2.html
+20210416T0036_11.09_121.76,2021-04-16T00:36:00+08:00,11.09,121.76,5.0,3.2,032 km N 53° W of Patnongon (Antique),2021_Earthquake_Information/April/2021_0415_1636_B2.html
+20210416T0141_10.21_126.64,2021-04-16T01:41:00+08:00,10.21,126.64,3.0,2.3,065 km N 71° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0415_1741_B2.html
+20210416T0214_13.73_120.57,2021-04-16T02:14:00+08:00,13.73,120.57,93.0,2.1,014 km S 32° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0415_1814_B2.html
+20210416T0227_19.21_121.25,2021-04-16T02:27:00+08:00,19.21,121.25,19.0,2.2,013 km N 20° E of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0415_1827_B2.html
+20210416T0330_18.63_120.73,2021-04-16T03:30:00+08:00,18.63,120.73,24.0,2.8,010 km N 39° W of Pagudpud (Ilocos Norte),2021_Earthquake_Information/April/2021_0415_1930_B2.html
+20210416T0348_6.44_125.41,2021-04-16T03:48:00+08:00,6.44,125.41,19.0,2.5,017 km N 66° E of Malungon (Sarangani),2021_Earthquake_Information/April/2021_0415_1948_B2.html
+20210416T0414_9.92_126.25,2021-04-16T04:14:00+08:00,9.92,126.25,16.0,2.2,018 km N 33° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0415_2014_B2.html
+20210416T0511_9.9_124.06,2021-04-16T05:11:00+08:00,9.9,124.06,4.0,2.5,004 km S 75° W of Sagbayan (Bohol),2021_Earthquake_Information/April/2021_0415_2111_B2.html
+20210416T0609_10.03_126.3,2021-04-16T06:09:00+08:00,10.03,126.3,1.0,2.8,024 km N 87° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0415_2209_B2.html
+20210416T0701_6.53_125.62,2021-04-16T07:01:00+08:00,6.53,125.62,18.0,2.4,013 km N 03° E of Malita (Davao Occidental),2021_Earthquake_Information/April/2021_0415_2301_B2.html
+20210416T0711_6.59_125.27,2021-04-16T07:11:00+08:00,6.59,125.27,1.0,2.8,004 km S 20° E of Kiblawan (Davao Del Sur),2021_Earthquake_Information/April/2021_0415_2311_B2.html
+20210416T0918_17.8_120.92,2021-04-16T09:18:00+08:00,17.8,120.92,1.0,2.5,014 km N 51° E of Tineg (Abra),2021_Earthquake_Information/April/2021_0416_0118_B2.html
+20210416T1014_13.69_120.86,2021-04-16T10:14:00+08:00,13.69,120.86,22.0,2.3,004 km N 25° W of Tingloy (Batangas),2021_Earthquake_Information/April/2021_0416_0214_B2F.html
+20210416T1314_13.82_120.84,2021-04-16T13:14:00+08:00,13.82,120.84,8.0,2.8,010 km S 64° W of San Luis (Batangas),2021_Earthquake_Information/April/2021_0416_0514_B2.html
+20210416T1407_16.34_122.09,2021-04-16T14:07:00+08:00,16.34,122.09,40.0,3.5,007 km N 27° W of Casiguran (Aurora),2021_Earthquake_Information/April/2021_0416_0607_B2.html
+20210416T1422_15.64_119.13,2021-04-16T14:22:00+08:00,15.64,119.13,23.0,3.0,086 km N 89° W of Candelaria (Zambales),2021_Earthquake_Information/April/2021_0416_0622_B2.html
+20210416T1725_9.38_125.68,2021-04-16T17:25:00+08:00,9.38,125.68,14.0,2.6,007 km S 03° E of Kitcharao (Agusan Del Norte),2021_Earthquake_Information/April/2021_0416_0925_B2.html
+20210416T1907_10.05_126.02,2021-04-16T19:07:00+08:00,10.05,126.02,31.0,2.1,004 km N 31° W of Santa Monica (Surigao Del Norte),2021_Earthquake_Information/April/2021_0416_1107_B2_Surigao_Del_Norte.html
+20210416T1907_13.78_120.51,2021-04-16T19:07:00+08:00,13.78,120.51,121.0,2.2,015 km S 68° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0416_1107_B2.html
+20210416T1931_8.06_126.62,2021-04-16T19:31:00+08:00,8.06,126.62,32.0,2.6,023 km N 85° E of Lingig (Surigao Del Sur),2021_Earthquake_Information/April/2021_0416_1131_B2.html
+20210416T2015_10.01_126.51,2021-04-16T20:15:00+08:00,10.01,126.51,7.0,2.8,046 km N 57° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0416_1215_B2.html
+20210416T2017_4.97_125.57,2021-04-16T20:17:00+08:00,4.97,125.57,147.0,4.5,051 km S 19° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0416_1217_B2.html
+20210416T2117_9.7_125.92,2021-04-16T21:17:00+08:00,9.7,125.92,5.0,2.0,016 km S 65° W of Dapa (Surigao Del Norte),2021_Earthquake_Information/April/2021_0416_1317_B2.html
+20210416T2245_19.85_121.84,2021-04-16T22:45:00+08:00,19.85,121.84,8.0,2.1,038 km N 12° W of Babuyan Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0416_1445_B2.html
+20210416T2344_17.75_120.58,2021-04-16T23:44:00+08:00,17.75,120.58,2.0,2.1,013 km N 85° E of San Juan (Ilocos Sur),2021_Earthquake_Information/April/2021_0416_1544_B2.html
+20210416T2349_9.85_122.53,2021-04-16T23:49:00+08:00,9.85,122.53,31.0,2.0,014 km N 49° E of City Of Sipalay (Negros Occidental),2021_Earthquake_Information/April/2021_0416_1549_B2.html
+20210417T0017_12.74_121.81,2021-04-17T00:17:00+08:00,12.74,121.81,19.0,2.7,032 km N 64° W of Calatrava (Romblon),2021_Earthquake_Information/April/2021_0416_1617_B2.html
+20210417T0142_9.42_125.64,2021-04-17T01:42:00+08:00,9.42,125.64,3.0,2.6,008 km S 67° E of Kitcharao (Agusan Del Norte),2021_Earthquake_Information/April/2021_0416_1742_B2.html
+20210417T0158_8.81_125.71,2021-04-17T01:58:00+08:00,8.81,125.71,16.0,2.4,011 km N 21° W of City Of Bayugan (Agusan Del Sur),2021_Earthquake_Information/April/2021_0416_1758_B2.html
+20210417T0339_6.5_126.7,2021-04-17T03:39:00+08:00,6.5,126.7,24.0,2.2,071 km S 76° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0416_1939_B2.html
+20210417T0418_5.72_126.03,2021-04-17T04:18:00+08:00,5.72,126.03,46.0,2.3,048 km S 63° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0416_2018_B2.html
+20210417T0431_9.64_124.59,2021-04-17T04:31:00+08:00,9.64,124.59,5.0,2.9,011 km S 06° E of Anda (Bohol),2021_Earthquake_Information/April/2021_0416_2031_B2.html
+20210417T0441_9.57_125.37,2021-04-17T04:41:00+08:00,9.57,125.37,33.0,2.3,005 km S 17° W of Malimono (Surigao Del Norte),2021_Earthquake_Information/April/2021_0416_2041_B2.html
+20210417T0455_3.3_126.77,2021-04-17T04:55:00+08:00,3.3,126.77,58.0,5.4,278 km S 33° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0416_2055_B3.html
+20210417T0555_5.92_126.02,2021-04-17T05:55:00+08:00,5.92,126.02,111.0,3.4,041 km N 89° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0416_2155_B2_Davao_Oriental.html
+20210417T0555_9.64_123.04,2021-04-17T05:55:00+08:00,9.64,123.04,4.0,2.7,010 km N 59° W of City Of Bais (Negros Oriental),2021_Earthquake_Information/April/2021_0416_2155_B2_Negros_Oriental.html
+20210417T0702_3.29_126.78,2021-04-17T07:02:00+08:00,3.29,126.78,24.0,3.3,279 km S 33° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0416_2302_B2.html
+20210417T0746_10.18_121.6,2021-04-17T07:46:00+08:00,10.18,121.6,34.0,2.8,045 km S 53° W of Anini-y (Antique),2021_Earthquake_Information/April/2021_0416_2346_B2.html
+20210417T0806_5.96_126.57,2021-04-17T08:06:00+08:00,5.96,126.57,19.0,3.1,094 km S 35° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0417_0006_B2.html
+20210417T1259_16.02_119.88,2021-04-17T12:59:00+08:00,16.02,119.88,24.0,3.1,004 km S 22° E of Burgos (Pangasinan),2021_Earthquake_Information/April/2021_0417_0459_B2.html
+20210417T1306_19.15_121.29,2021-04-17T13:06:00+08:00,19.15,121.29,29.0,2.2,010 km N 59° E of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0417_0506_B2.html
+20210417T1325_9.26_124.01,2021-04-17T13:25:00+08:00,9.26,124.01,32.0,1.8,040 km N 80° E of Maria (Siquijor),2021_Earthquake_Information/April/2021_0417_0525_B2.html
+20210417T1339_5.68_125.62,2021-04-17T13:39:00+08:00,5.68,125.62,193.0,2.9,026 km S 05° W of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0417_0539_B2.html
+20210417T1737_17.64_119.22,2021-04-17T17:37:00+08:00,17.64,119.22,20.0,2.9,121 km N 88° W of Santa Catalina (Ilocos Sur),2021_Earthquake_Information/April/2021_0417_0937_B2.html
+20210417T1757_3.97_127.18,2021-04-17T17:57:00+08:00,3.97,127.18,32.0,3.9,252 km S 51° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0417_0957_B2.html
+20210417T1822_5.91_124.71,2021-04-17T18:22:00+08:00,5.91,124.71,16.0,2.9,013 km S 45° E of Kiamba (Sarangani),2021_Earthquake_Information/April/2021_0417_1022_B2.html
+20210417T1855_18.63_121.13,2021-04-17T18:55:00+08:00,18.63,121.13,33.0,2.0,013 km N 54° W of Sanchez-mira (Cagayan),2021_Earthquake_Information/April/2021_0417_1055_B2.html
+20210417T1936_17.1_120.13,2021-04-17T19:36:00+08:00,17.1,120.13,18.0,2.2,034 km S 78° W of City Of Candon (Ilocos Sur),2021_Earthquake_Information/April/2021_0417_1136_B2.html
+20210417T1941_15.0_122.8,2021-04-17T19:41:00+08:00,15.0,122.8,26.0,3.0,060 km N 16° W of Tinaga Island (Vinzons) (Camarines Norte),2021_Earthquake_Information/April/2021_0417_1141_B2.html
+20210417T2214_10.02_126.6,2021-04-17T22:14:00+08:00,10.02,126.6,10.0,2.6,056 km N 62° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0417_1414_B2.html
+20210417T2230_19.74_121.6,2021-04-17T22:30:00+08:00,19.74,121.6,13.0,3.4,055 km N 14° E of Calayan (Cagayan),2021_Earthquake_Information/April/2021_0417_1430_B2.html
+20210417T2339_13.59_120.59,2021-04-17T23:39:00+08:00,13.59,120.59,109.0,2.8,022 km N 43° W of Abra De Ilog (Occidental Mindoro),2021_Earthquake_Information/April/2021_0417_1539_B2.html
+20210418T0037_17.13_122.82,2021-04-18T00:37:00+08:00,17.13,122.82,17.0,3.2,042 km N 80° E of Palanan (Isabela),2021_Earthquake_Information/April/2021_0417_1637_B2.html
+20210418T0109_5.92_126.31,2021-04-18T01:09:00+08:00,5.92,126.31,9.0,2.8,073 km N 90° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0417_1709_B2.html
+20210418T0148_18.52_120.97,2021-04-18T01:48:00+08:00,18.52,120.97,35.0,2.5,005 km S 28° W of Santa Praxedes (Cagayan),2021_Earthquake_Information/April/2021_0417_1748_B2.html
+20210418T0255_15.63_121.0,2021-04-18T02:55:00+08:00,15.63,121.0,35.0,2.2,004 km S 36° W of Llanera (Nueva Ecija),2021_Earthquake_Information/April/2021_0417_1855_B2.html
+20210418T0300_9.57_126.14,2021-04-18T03:00:00+08:00,9.57,126.14,61.0,2.1,020 km S 74° E of Socorro (Surigao Del Norte),2021_Earthquake_Information/April/2021_0417_1900_B2.html
+20210418T0308_13.9_120.53,2021-04-18T03:08:00+08:00,13.9,120.53,70.0,1.9,014 km N 56° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0417_1908_B2.html
+20210418T0323_4.52_124.05,2021-04-18T03:23:00+08:00,4.52,124.05,150.0,3.3,175 km S 21° W of Kiamba (Sarangani),2021_Earthquake_Information/April/2021_0417_1923_B2.html
+20210418T0334_7.41_127.37,2021-04-18T03:34:00+08:00,7.41,127.37,1.0,3.9,089 km N 84° E of Caraga (Davao Oriental),2021_Earthquake_Information/April/2021_0417_1934_B2.html
+20210418T0338_13.6_120.62,2021-04-18T03:38:00+08:00,13.6,120.62,117.0,3.4,021 km N 35° W of Abra De Ilog (Occidental Mindoro),2021_Earthquake_Information/April/2021_0417_1938_B2.html
+20210418T0343_15.87_119.55,2021-04-18T03:43:00+08:00,15.87,119.55,29.0,2.1,038 km N 83° W of Infanta (Pangasinan),2021_Earthquake_Information/April/2021_0417_1943_B2.html
+20210418T0416_5.05_126.12,2021-04-18T04:16:00+08:00,5.05,126.12,8.0,3.0,085 km S 64° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0417_2016_B2.html
+20210418T0443_6.32_126.11,2021-04-18T04:43:00+08:00,6.32,126.11,65.0,3.3,048 km N 74° E of Don Marcelino (Davao Occidental),2021_Earthquake_Information/April/2021_0417_2043_B2.html
+20210418T0602_18.04_120.7,2021-04-18T06:02:00+08:00,18.04,120.7,34.0,2.1,002 km S 78° E of Marcos (Ilocos Norte),2021_Earthquake_Information/April/2021_0417_2202_B2.html
+20210418T0752_9.94_125.48,2021-04-18T07:52:00+08:00,9.94,125.48,25.0,3.0,014 km S 48° W of San Jose (Dinagat Islands),2021_Earthquake_Information/April/2021_0417_2352_B2.html
+20210418T0821_13.65_120.57,2021-04-18T08:21:00+08:00,13.65,120.57,69.0,3.2,021 km S 18° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0418_0021_B2.html
+20210418T0939_9.85_125.43,2021-04-18T09:39:00+08:00,9.85,125.43,26.0,1.8,009 km N 05° E of San Francisco (Surigao Del Norte),2021_Earthquake_Information/April/2021_0418_0139_B2.html
+20210418T1056_13.27_120.84,2021-04-18T10:56:00+08:00,13.27,120.84,63.0,2.2,023 km S 33° E of Abra De Ilog (Occidental Mindoro),2021_Earthquake_Information/April/2021_0418_0256_B2.html
+20210418T1358_6.85_126.38,2021-04-18T13:58:00+08:00,6.85,126.38,29.0,3.1,021 km S 57° E of City Of Mati (Davao Oriental),2021_Earthquake_Information/April/2021_0418_0558_B2.html
+20210418T1430_5.07_126.45,2021-04-18T14:30:00+08:00,5.07,126.45,2.0,3.3,128 km S 44° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0418_0630_B2.html
+20210418T1713_5.5_126.05,2021-04-18T17:13:00+08:00,5.5,126.05,81.0,2.8,063 km S 45° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0418_0913_B2.html
+20210418T1857_11.46_124.41,2021-04-18T18:57:00+08:00,11.46,124.41,9.0,3.1,002 km N 51° W of Calubian (Leyte),2021_Earthquake_Information/April/2021_0418_1057_B2.html
+20210418T1955_11.44_124.42,2021-04-18T19:55:00+08:00,11.44,124.42,8.0,2.7,001 km S 59° W of Calubian (Leyte),2021_Earthquake_Information/April/2021_0418_1155_B2.html
+20210418T2229_11.07_124.61,2021-04-18T22:29:00+08:00,11.07,124.61,27.0,1.8,006 km N 08° E of Ormoc City (Leyte),2021_Earthquake_Information/April/2021_0418_1429_B2.html
+20210418T2249_13.59_121.45,2021-04-18T22:49:00+08:00,13.59,121.45,24.0,2.4,026 km S 12° E of San Juan (Batangas),2021_Earthquake_Information/April/2021_0418_1449_B2.html
+20210418T2338_6.05_124.88,2021-04-18T23:38:00+08:00,6.05,124.88,22.0,2.0,030 km N 76° E of Kiamba (Sarangani),2021_Earthquake_Information/April/2021_0418_1538_B2.html
+20210419T0113_7.41_123.42,2021-04-19T01:13:00+08:00,7.41,123.42,33.0,2.4,005 km S 07° E of Tabina (Zamboanga Del Sur),2021_Earthquake_Information/April/2021_0418_1713_B2.html
+20210419T0118_7.06_125.98,2021-04-19T01:18:00+08:00,7.06,125.98,30.0,2.5,012 km S 54° E of Pantukan (Davao De Oro),2021_Earthquake_Information/April/2021_0418_1718_B2.html
+20210419T0434_15.33_119.87,2021-04-19T04:34:00+08:00,15.33,119.87,23.0,2.8,012 km S 21° W of Palauig (Zambales),2021_Earthquake_Information/April/2021_0418_2034_B2.html
+20210419T0702_16.19_121.82,2021-04-19T07:02:00+08:00,16.19,121.82,19.0,3.0,016 km N 71° W of Dinalungan (Aurora),2021_Earthquake_Information/April/2021_0418_2302_B2.html
+20210419T1232_9.67_124.71,2021-04-19T12:32:00+08:00,9.67,124.71,6.0,3.1,016 km S 59° E of Anda (Bohol),2021_Earthquake_Information/April/2021_0419_0432_B2.html
+20210419T1507_15.22_119.84,2021-04-19T15:07:00+08:00,15.22,119.84,35.0,3.7,019 km S 52° W of Iba (Zambales),2021_Earthquake_Information/April/2021_0419_0707_B3F.html
+20210419T1558_15.07_119.94,2021-04-19T15:58:00+08:00,15.07,119.94,18.0,2.5,014 km N 86° W of San Felipe (Zambales),2021_Earthquake_Information/April/2021_0419_0758_B2.html
+20210419T1816_14.14_121.31,2021-04-19T18:16:00+08:00,14.14,121.31,16.0,1.6,011 km S 68° E of Los Baños (Laguna),2021_Earthquake_Information/April/2021_0419_1016_B2.html
+20210419T1821_14.15_121.33,2021-04-19T18:21:00+08:00,14.15,121.33,22.0,2.1,012 km S 76° E of Los Baños (Laguna),2021_Earthquake_Information/April/2021_0419_1021_B2.html
+20210419T2010_14.03_120.21,2021-04-19T20:10:00+08:00,14.03,120.21,27.0,1.5,022 km N 27° E of Lubang (Occidental Mindoro),2021_Earthquake_Information/April/2021_0419_1210_B2.html
+20210420T0100_13.73_120.57,2021-04-20T01:00:00+08:00,13.73,120.57,95.0,1.8,013 km S 29° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0419_1700_B2.html
+20210420T0102_15.47_120.19,2021-04-20T01:02:00+08:00,15.47,120.19,33.0,2.6,030 km N 82° E of Palauig (Zambales),2021_Earthquake_Information/April/2021_0419_1702_B2.html
+20210420T0238_14.16_121.26,2021-04-20T02:38:00+08:00,14.16,121.26,22.0,2.3,004 km S 66° E of Los Baños (Laguna),2021_Earthquake_Information/April/2021_0419_1838_B2.html
+20210420T0313_14.17_121.27,2021-04-20T03:13:00+08:00,14.17,121.27,34.0,1.6,005 km S 86° E of Los Baños (Laguna),2021_Earthquake_Information/April/2021_0419_1913_B2.html
+20210420T0339_10.28_122.25,2021-04-20T03:39:00+08:00,10.28,122.25,1.0,2.6,036 km S 19° E of San Joaquin (Iloilo),2021_Earthquake_Information/April/2021_0419_1939_B2.html
+20210420T0749_6.99_123.85,2021-04-20T07:49:00+08:00,6.99,123.85,636.0,4.6,021 km S 65° W of Datu Blah T. Sinsuat (Maguindanao),2021_Earthquake_Information/April/2021_0419_2349_B2.html
+20210420T0908_6.57_125.26,2021-04-20T09:08:00+08:00,6.57,125.26,4.0,3.1,006 km S 07° E of Kiblawan (Davao Del Sur),2021_Earthquake_Information/April/2021_0420_0108_B2F.html
+20210420T1127_8.65_126.41,2021-04-20T11:27:00+08:00,8.65,126.41,30.0,2.0,023 km S 64° E of San Agustin (Surigao Del Sur),2021_Earthquake_Information/April/2021_0420_0327_B2.html
+20210420T1205_10.13_125.11,2021-04-20T12:05:00+08:00,10.13,125.11,6.0,2.5,010 km N 36° W of San Francisco (Southern Leyte),2021_Earthquake_Information/April/2021_0420_0405_B2.html
+20210420T1415_9.83_126.14,2021-04-20T14:15:00+08:00,9.83,126.14,26.0,2.1,005 km N 21° W of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0420_0615_B2.html
+20210420T1454_6.57_126.02,2021-04-20T14:54:00+08:00,6.57,126.02,34.0,2.3,011 km S 33° W of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0420_0654_B2.html
+20210420T1630_9.52_126.06,2021-04-20T16:30:00+08:00,9.52,126.06,35.0,3.9,021 km N 35° E of Carrascal (Surigao Del Sur),2021_Earthquake_Information/April/2021_0420_0830_B3F.html
+20210420T1713_5.47_126.21,2021-04-20T17:13:00+08:00,5.47,126.21,8.0,3.2,080 km S 52° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0420_0913_B2.html
+20210420T1756_5.09_126.57,2021-04-20T17:56:00+08:00,5.09,126.57,1.0,3.4,132 km S 74° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0420_0956_B2.html
+20210420T1930_5.01_126.47,2021-04-20T19:30:00+08:00,5.01,126.47,11.0,3.2,123 km S 70° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0420_1130_B2.html
+20210420T1944_15.75_120.58,2021-04-20T19:44:00+08:00,15.75,120.58,4.0,2.1,007 km S 29° W of San Manuel (Tarlac),2021_Earthquake_Information/April/2021_0420_1144_B2.html
+20210420T2146_4.33_126.24,2021-04-20T21:46:00+08:00,4.33,126.24,9.0,3.2,165 km S 34° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0420_1346_B2.html
+20210420T2214_15.98_119.72,2021-04-20T22:14:00+08:00,15.98,119.72,33.0,1.8,018 km S 85° W of Dasol (Pangasinan),2021_Earthquake_Information/April/2021_0420_1414_B2.html
+20210421T0026_9.39_126.22,2021-04-21T00:26:00+08:00,9.39,126.22,25.0,2.8,013 km N 12° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/April/2021_0420_1626_B2.html
+20210421T0033_5.14_126.25,2021-04-21T00:33:00+08:00,5.14,126.25,10.0,2.9,096 km S 72° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0420_1633_B2.html
+20210421T0056_14.11_120.41,2021-04-21T00:56:00+08:00,14.11,120.41,185.0,2.8,024 km N 82° W of Nasugbu (Batangas),2021_Earthquake_Information/April/2021_0420_1656_B2.html
+20210421T0137_5.57_125.27,2021-04-21T01:37:00+08:00,5.57,125.27,20.0,3.0,024 km N 44° W of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0420_1737_B2.html
+20210421T0201_15.14_119.59,2021-04-21T02:01:00+08:00,15.14,119.59,21.0,2.8,046 km S 63° W of Iba (Zambales),2021_Earthquake_Information/April/2021_0420_1801_B2.html
+20210421T1010_9.79_122.33,2021-04-21T10:10:00+08:00,9.79,122.33,15.0,2.0,012 km N 81° W of City Of Sipalay (Negros Occidental),2021_Earthquake_Information/April/2021_0421_0210_B2.html
+20210421T1017_9.81_125.83,2021-04-21T10:17:00+08:00,9.81,125.83,33.0,2.0,017 km S 65° W of Del Carmen (Surigao Del Norte),2021_Earthquake_Information/April/2021_0421_0217_B2.html
+20210421T1418_6.89_121.61,2021-04-21T14:18:00+08:00,6.89,121.61,6.0,3.5,026 km N 04° E of Hadji Muhtamad (Basilan),2021_Earthquake_Information/April/2021_0421_0618_B2F.html
+20210421T1435_14.25_120.36,2021-04-21T14:35:00+08:00,14.25,120.36,98.0,2.4,025 km S 34° W of Mariveles (Bataan),2021_Earthquake_Information/April/2021_0421_0635_B2.html
+20210421T1645_8.67_125.8,2021-04-21T16:45:00+08:00,8.67,125.8,13.0,3.7,008 km S 49° E of City Of Bayugan (Agusan Del Sur),2021_Earthquake_Information/April/2021_0421_0845_B3F.html
+20210421T1825_8.67_125.8,2021-04-21T18:25:00+08:00,8.67,125.8,12.0,2.6,008 km S 50° E of City Of Bayugan (Agusan Del Sur),2021_Earthquake_Information/April/2021_0421_1025_B2.html
+20210421T1852_8.71_125.72,2021-04-21T18:52:00+08:00,8.71,125.72,8.0,2.1,003 km S 75° W of City Of Bayugan (Agusan Del Sur),2021_Earthquake_Information/April/2021_0421_1052_B2.html
+20210421T1856_19.14_121.26,2021-04-21T18:56:00+08:00,19.14,121.26,36.0,2.3,009 km N 76° E of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0421_1056_B2.html
+20210421T1938_9.12_126.4,2021-04-21T19:38:00+08:00,9.12,126.4,23.0,2.3,021 km N 37° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/April/2021_0421_1138_B2.html
+20210421T1954_14.22_120.36,2021-04-21T19:54:00+08:00,14.22,120.36,76.0,2.2,027 km S 30° W of Mariveles (Bataan),2021_Earthquake_Information/April/2021_0421_1154_B2.html
+20210421T2225_17.23_120.66,2021-04-21T22:25:00+08:00,17.23,120.66,21.0,3.0,010 km N 12° W of Quirino (Ilocos Sur),2021_Earthquake_Information/April/2021_0421_1425_B2.html
+20210421T2306_8.56_126.61,2021-04-21T23:06:00+08:00,8.56,126.61,29.0,1.9,037 km N 55° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/April/2021_0421_1506_B2.html
+20210421T2331_10.48_124.91,2021-04-21T23:31:00+08:00,10.48,124.91,4.0,2.7,016 km S 25° W of Mahaplag (Leyte),2021_Earthquake_Information/April/2021_0421_1531_B2.html
+20210421T2332_10.95_126.09,2021-04-21T23:32:00+08:00,10.95,126.09,7.0,4.0,041 km S 77° E of Guiuan (Eastern Samar),2021_Earthquake_Information/April/2021_0421_1532_B2.html
+20210421T2349_10.88_126.09,2021-04-21T23:49:00+08:00,10.88,126.09,24.0,2.7,044 km S 67° E of Guiuan (Eastern Samar),2021_Earthquake_Information/April/2021_0421_1549_B2.html
+20210421T2359_9.79_122.48,2021-04-21T23:59:00+08:00,9.79,122.48,13.0,2.3,006 km N 69° E of City Of Sipalay (Negros Occidental),2021_Earthquake_Information/April/2021_0421_1559_B2.html
+20210422T0033_16.28_122.02,2021-04-22T00:33:00+08:00,16.28,122.02,25.0,2.3,011 km 00 °est of Casiguran (Aurora),2021_Earthquake_Information/April/2021_0421_1633_B2.html
+20210422T0042_16.87_121.67,2021-04-22T00:42:00+08:00,16.87,121.67,35.0,1.9,022 km N 33° E of City Of Santiago,2021_Earthquake_Information/April/2021_0421_1642_B2.html
+20210422T0216_9.03_126.33,2021-04-22T02:16:00+08:00,9.03,126.33,27.0,1.5,008 km N 40° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/April/2021_0421_1816_B2.html
+20210422T0227_5.98_126.56,2021-04-22T02:27:00+08:00,5.98,126.56,108.0,2.6,092 km S 36° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0421_1827_B2.html
+20210422T0337_14.17_120.31,2021-04-22T03:37:00+08:00,14.17,120.31,119.0,2.5,036 km N 74° W of Nasugbu (Batangas),2021_Earthquake_Information/April/2021_0421_1937_B2.html
+20210422T0357_6.37_127.17,2021-04-22T03:57:00+08:00,6.37,127.17,30.0,3.3,110 km S 47° E of Tarragona (Davao Oriental),2021_Earthquake_Information/April/2021_0421_1957_B2.html
+20210422T0403_3.57_126.27,2021-04-22T04:03:00+08:00,3.57,126.27,28.0,3.3,225 km S 25° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0421_2003_B2.html
+20210422T0434_6.7_126.43,2021-04-22T04:34:00+08:00,6.7,126.43,28.0,2.7,037 km S 41° E of City Of Mati (Davao Oriental),2021_Earthquake_Information/April/2021_0421_2034_B2.html
+20210422T0654_3.76_125.98,2021-04-22T06:54:00+08:00,3.76,125.98,31.0,3.4,193 km S 19° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0421_2254_B2.html
+20210422T0734_17.97_120.98,2021-04-22T07:34:00+08:00,17.97,120.98,15.0,1.5,025 km S 41° E of Carasi (Ilocos Norte),2021_Earthquake_Information/April/2021_0421_2334_B2.html
+20210422T0752_13.85_120.85,2021-04-22T07:52:00+08:00,13.85,120.85,8.0,2.7,008 km S 66° W of Lemery (Batangas),2021_Earthquake_Information/April/2021_0421_2352_B2.html
+20210422T1111_7.79_124.6,2021-04-22T11:11:00+08:00,7.79,124.6,1.0,2.2,017 km N 72° W of Kalilangan (Bukidnon),2021_Earthquake_Information/April/2021_0422_0311_B2.html
+20210422T1248_9.92_122.9,2021-04-22T12:48:00+08:00,9.92,122.9,5.0,2.5,020 km N 10° W of Mabinay (Negros Oriental),2021_Earthquake_Information/April/2021_0422_0448_B2.html
+20210422T1448_8.71_126.24,2021-04-22T14:48:00+08:00,8.71,126.24,17.0,2.4,004 km S 28° E of San Agustin (Surigao Del Sur),2021_Earthquake_Information/April/2021_0422_0648_B2.html
+20210422T2033_6.55_125.3,2021-04-22T20:33:00+08:00,6.55,125.3,1.0,2.7,009 km S 34° E of Kiblawan (Davao Del Sur),2021_Earthquake_Information/April/2021_0422_1233_B2.html
+20210422T2349_7.21_125.98,2021-04-22T23:49:00+08:00,7.21,125.98,22.0,2.3,013 km N 45° E of Pantukan (Davao De Oro),2021_Earthquake_Information/April/2021_0422_1549_B2.html
+20210423T0015_5.04_127.52,2021-04-23T00:15:00+08:00,5.04,127.52,91.0,3.1,229 km S 65° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0422_1615_B2.html
+20210423T0027_9.05_126.33,2021-04-23T00:27:00+08:00,9.05,126.33,37.0,2.0,010 km N 32° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/April/2021_0422_1627_B2.html
+20210423T0043_6.43_125.56,2021-04-23T00:43:00+08:00,6.43,125.56,201.0,3.1,006 km N 68° W of Malita (Davao Occidental),2021_Earthquake_Information/April/2021_0422_1643_B2.html
+20210423T0049_9.88_122.3,2021-04-23T00:49:00+08:00,9.88,122.3,24.0,2.2,019 km N 50° W of City Of Sipalay (Negros Occidental),2021_Earthquake_Information/April/2021_0422_1649_B2.html
+20210423T0108_18.72_121.48,2021-04-23T01:08:00+08:00,18.72,121.48,61.0,2.0,019 km S 38° E of Fuga Island (Aparri) (Cagayan),2021_Earthquake_Information/April/2021_0422_1708_B2.html
+20210423T0144_10.57_125.82,2021-04-23T01:44:00+08:00,10.57,125.82,30.0,2.2,022 km S 28° E of Homonhon Island (Guiuan) (Eastern Samar),2021_Earthquake_Information/April/2021_0422_1744_B2.html
+20210423T0222_10.01_126.94,2021-04-23T02:22:00+08:00,10.01,126.94,29.0,2.4,090 km N 74° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0422_1822_B2.html
+20210423T0233_3.06_126.23,2021-04-23T02:33:00+08:00,3.06,126.23,37.0,4.8,275 km S 19° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0422_1833_B2.html
+20210423T0241_5.02_126.37,2021-04-23T02:41:00+08:00,5.02,126.37,1.0,3.5,114 km S 68° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0422_1841_B2.html
+20210423T0332_6.61_126.64,2021-04-23T03:32:00+08:00,6.61,126.64,28.0,2.3,053 km S 23° E of Tarragona (Davao Oriental),2021_Earthquake_Information/April/2021_0422_1932_B2.html
+20210423T0405_9.65_126.24,2021-04-23T04:05:00+08:00,9.65,126.24,16.0,1.9,018 km S 32° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0422_2005_B2.html
+20210423T0412_8.29_125.96,2021-04-23T04:12:00+08:00,8.29,125.96,22.0,2.6,017 km N 87° E of La Paz (Agusan Del Sur),2021_Earthquake_Information/April/2021_0422_2012_B2.html
+20210423T0431_10.42_125.03,2021-04-23T04:31:00+08:00,10.42,125.03,1.0,4.6,007 km N 54° E of Sogod (Southern Leyte),2021_Earthquake_Information/April/2021_0422_2031_B4F.html
+20210423T0434_10.4_125.1,2021-04-23T04:34:00+08:00,10.4,125.1,29.0,2.3,014 km N 81° E of Sogod (Southern Leyte),2021_Earthquake_Information/April/2021_0422_2034_B2.html
+20210423T0440_6.07_125.91,2021-04-23T04:40:00+08:00,6.07,125.91,135.0,2.8,034 km N 59° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0422_2040_B2.html
+20210423T0446_10.47_125.1,2021-04-23T04:46:00+08:00,10.47,125.1,23.0,3.4,016 km N 55° E of Sogod (Southern Leyte),2021_Earthquake_Information/April/2021_0422_2046_B2.html
+20210423T0458_6.31_126.84,2021-04-23T04:58:00+08:00,6.31,126.84,20.0,2.3,092 km S 28° E of Tarragona (Davao Oriental),2021_Earthquake_Information/April/2021_0422_2058_B2.html
+20210423T0510_10.38_125.1,2021-04-23T05:10:00+08:00,10.38,125.1,11.0,2.6,013 km S 87° E of Sogod (Southern Leyte),2021_Earthquake_Information/April/2021_0422_2110_B2.html
+20210423T0637_10.46_125.09,2021-04-23T06:37:00+08:00,10.46,125.09,1.0,3.2,015 km N 54° E of Sogod (Southern Leyte),2021_Earthquake_Information/April/2021_0422_2237_B2F.html
+20210423T0643_10.22_126.29,2021-04-23T06:43:00+08:00,10.22,126.29,8.0,3.0,032 km N 47° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0422_2243_B2_Surigao_Del_Norte.html
+20210423T0643_15.62_119.88,2021-04-23T06:43:00+08:00,15.62,119.88,17.0,3.1,006 km S 83° W of Candelaria (Zambales),2021_Earthquake_Information/April/2021_0422_2243_B2_Zambales.html
+20210423T1115_6.5_126.08,2021-04-23T11:15:00+08:00,6.5,126.08,113.0,2.9,017 km S 03° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0423_0315_B2.html
+20210423T1141_9.65_126.11,2021-04-23T11:41:00+08:00,9.65,126.11,32.0,2.1,016 km S 21° W of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0423_0341_B2.html
+20210423T1325_10.45_125.06,2021-04-23T13:25:00+08:00,10.45,125.06,3.0,3.2,011 km N 48° E of Sogod (Southern Leyte),2021_Earthquake_Information/April/2021_0423_0525_B3F.html
+20210423T1407_13.52_122.3,2021-04-23T14:07:00+08:00,13.52,122.3,12.0,2.5,011 km S 88° W of Mulanay (Quezon),2021_Earthquake_Information/April/2021_0423_0607_B2.html
+20210423T1504_10.47_125.08,2021-04-23T15:04:00+08:00,10.47,125.08,2.0,3.9,011 km S 56° W of Silago (Southern Leyte),2021_Earthquake_Information/April/2021_0423_0704_B3F.html
+20210423T1648_8.5_125.77,2021-04-23T16:48:00+08:00,8.5,125.77,52.0,4.4,006 km N 10° W of Talacogon (Agusan Del Sur),2021_Earthquake_Information/April/2021_0423_0848_B3F.html
+20210423T1735_5.63_126.58,2021-04-23T17:35:00+08:00,5.63,126.58,37.0,2.9,108 km S 73° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0423_0935_B2.html
+20210423T1754_8.32_125.95,2021-04-23T17:54:00+08:00,8.32,125.95,7.0,2.7,023 km S 52° E of Talacogon (Agusan Del Sur),2021_Earthquake_Information/April/2021_0423_0954_B2.html
+20210423T1756_8.48_125.75,2021-04-23T17:56:00+08:00,8.48,125.75,49.0,3.4,005 km N 53° W of Talacogon (Agusan Del Sur),2021_Earthquake_Information/April/2021_0423_0956_B2F.html
+20210423T1758_8.48_125.74,2021-04-23T17:58:00+08:00,8.48,125.74,52.0,3.2,006 km N 50° W of Talacogon (Agusan Del Sur),2021_Earthquake_Information/April/2021_0423_0958_B2.html
+20210423T1811_10.45_125.15,2021-04-23T18:11:00+08:00,10.45,125.15,8.0,2.5,008 km N 42° W of Hinunangan (Southern Leyte),2021_Earthquake_Information/April/2021_0423_1011_B2.html
+20210423T1812_8.36_125.79,2021-04-23T18:12:00+08:00,8.36,125.79,64.0,2.6,009 km S 02° E of Talacogon (Agusan Del Sur),2021_Earthquake_Information/April/2021_0423_1012_B1_Talacogon.html
+20210423T1812_8.51_126.0,2021-04-23T18:12:00+08:00,8.51,126.0,26.0,2.2,014 km N 01° W of Rosario (Agusan Del Sur),2021_Earthquake_Information/April/2021_0423_1012_B2_Rosario.html
+20210423T1834_8.44_125.76,2021-04-23T18:34:00+08:00,8.44,125.76,69.0,2.8,003 km S 63° W of Talacogon (Agusan Del Sur),2021_Earthquake_Information/April/2021_0423_1034_B2.html
+20210423T1839_8.32_125.94,2021-04-23T18:39:00+08:00,8.32,125.94,10.0,4.3,023 km S 50° E of Talacogon (Agusan Del Sur),2021_Earthquake_Information/April/2021_0423_1039_B2F.html
+20210423T1915_3.13_126.66,2021-04-23T19:15:00+08:00,3.13,126.66,51.0,3.4,288 km S 29° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0423_1115_B2.html
+20210423T1959_6.54_125.98,2021-04-23T19:59:00+08:00,6.54,125.98,12.0,2.0,016 km S 40° W of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0423_1159_B2.html
+20210423T2009_6.48_125.59,2021-04-23T20:09:00+08:00,6.48,125.59,205.0,3.2,008 km N 13° W of Malita (Davao Occidental),2021_Earthquake_Information/April/2021_0423_1209_B2.html
+20210423T2119_4.56_125.99,2021-04-23T21:19:00+08:00,4.56,125.99,138.0,3.1,114 km S 33° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0423_1319_B2.html
+20210423T2135_9.75_122.45,2021-04-23T21:35:00+08:00,9.75,122.45,27.0,1.9,003 km S 39° E of City Of Sipalay (Negros Occidental),2021_Earthquake_Information/April/2021_0423_1335_B2.html
+20210423T2138_10.42_125.12,2021-04-23T21:38:00+08:00,10.42,125.12,1.0,3.6,015 km N 77° E of Sogod (Southern Leyte),2021_Earthquake_Information/April/2021_0423_1338_B2F.html
+20210423T2150_9.88_125.79,2021-04-23T21:50:00+08:00,9.88,125.79,31.0,1.8,022 km S 69° E of Dinagat (Dinagat Islands),2021_Earthquake_Information/April/2021_0423_1350_B2.html
+20210423T2307_18.03_121.04,2021-04-23T23:07:00+08:00,18.03,121.04,33.0,2.1,015 km N 87° W of Kabugao (Apayao),2021_Earthquake_Information/April/2021_0423_1507_B2.html
+20210423T2354_16.64_120.23,2021-04-23T23:54:00+08:00,16.64,120.23,1.0,2.2,010 km N 72° W of City Of San Fernando (La Union),2021_Earthquake_Information/April/2021_0423_1554_B2.html
+20210424T0021_9.93_122.56,2021-04-24T00:21:00+08:00,9.93,122.56,28.0,2.1,008 km S 57° W of Cauayan (Negros Occidental),2021_Earthquake_Information/April/2021_0423_1621_B2.html
+20210424T0029_9.83_124.22,2021-04-24T00:29:00+08:00,9.83,124.22,30.0,2.0,003 km N 64° E of Carmen (Bohol),2021_Earthquake_Information/April/2021_0423_1629_B2.html
+20210424T0103_8.27_125.95,2021-04-24T01:03:00+08:00,8.27,125.95,23.0,2.2,014 km S 25° W of Rosario (Agusan Del Sur),2021_Earthquake_Information/April/2021_0423_1703_B2.html
+20210424T0127_9.52_126.88,2021-04-24T01:27:00+08:00,9.52,126.88,17.0,2.5,080 km N 71° E of Cortes (Surigao Del Sur),2021_Earthquake_Information/April/2021_0423_1727_B2.html
+20210424T0130_10.22_123.26,2021-04-24T01:30:00+08:00,10.22,123.26,27.0,1.8,011 km N 06° W of City Of Guihulngan (Negros Oriental),2021_Earthquake_Information/April/2021_0423_1730_B2.html
+20210424T0204_6.48_125.66,2021-04-24T02:04:00+08:00,6.48,125.66,197.0,2.5,009 km N 34° E of Malita (Davao Occidental),2021_Earthquake_Information/April/2021_0423_1804_B2.html
+20210424T0206_6.49_126.46,2021-04-24T02:06:00+08:00,6.49,126.46,34.0,3.0,046 km S 67° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0423_1806_B2.html
+20210424T0211_7.24_126.92,2021-04-24T02:11:00+08:00,7.24,126.92,22.0,2.5,041 km S 76° E of Caraga (Davao Oriental),2021_Earthquake_Information/April/2021_0423_1811_B1.html
+20210424T0245_5.38_126.22,2021-04-24T02:45:00+08:00,5.38,126.22,27.0,4.9,088 km S 87° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0423_1845_B2.html
+20210424T0255_5.53_126.23,2021-04-24T02:55:00+08:00,5.53,126.23,24.0,3.6,077 km S 57° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0423_1855_B2.html
+20210424T0343_5.46_126.34,2021-04-24T03:43:00+08:00,5.46,126.34,1.0,3.0,102 km N 87° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0423_1943_B2.html
+20210424T0457_10.49_125.1,2021-04-24T04:57:00+08:00,10.49,125.1,8.0,2.4,018 km N 48° E of Sogod (Southern Leyte),2021_Earthquake_Information/April/2021_0423_2057_B2.html
+20210424T0507_4.22_125.93,2021-04-24T05:07:00+08:00,4.22,125.93,125.0,2.6,143 km S 23° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0423_2107_B2.html
+20210424T0530_6.79_126.86,2021-04-24T05:30:00+08:00,6.79,126.86,8.0,2.7,058 km S 37° E of Manay (Davao Oriental),2021_Earthquake_Information/April/2021_0423_2130_B2.html
+20210424T0550_5.45_126.36,2021-04-24T05:50:00+08:00,5.45,126.36,1.0,3.6,104 km N 87° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0423_2150_B2.html
+20210424T0600_10.34_125.08,2021-04-24T06:00:00+08:00,10.34,125.08,6.0,3.1,012 km S 65° E of Sogod (Southern Leyte),2021_Earthquake_Information/April/2021_0423_2200_B2F.html
+20210424T0622_9.46_123.82,2021-04-24T06:22:00+08:00,9.46,123.82,16.0,2.4,015 km S 31° E of Panglao (Bohol),2021_Earthquake_Information/April/2021_0423_2222_B2.html
+20210424T0639_3.66_126.26,2021-04-24T06:39:00+08:00,3.66,126.26,25.0,3.3,215 km S 26° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0423_2239_B2.html
+20210424T0709_5.06_126.51,2021-04-24T07:09:00+08:00,5.06,126.51,1.0,4.8,127 km S 72° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0423_2309_B2.html
+20210424T0839_8.63_125.88,2021-04-24T08:39:00+08:00,8.63,125.88,16.0,2.7,023 km N 27° E of Talacogon (Agusan Del Sur),2021_Earthquake_Information/April/2021_0424_0039_B2.html
+20210424T1023_7.02_122.97,2021-04-24T10:23:00+08:00,7.02,122.97,56.0,2.6,035 km S 24° E of Olutanga (Zamboanga Sibugay),2021_Earthquake_Information/April/2021_0424_0223_B2.html
+20210424T1115_19.27_120.28,2021-04-24T11:15:00+08:00,19.27,120.28,18.0,3.7,092 km N 25° W of Burgos (Ilocos Norte),2021_Earthquake_Information/April/2021_0424_0315_B2.html
+20210424T1318_16.27_122.16,2021-04-24T13:18:00+08:00,16.27,122.16,9.0,2.4,004 km S 74° E of Casiguran (Aurora),2021_Earthquake_Information/April/2021_0424_0518_B2.html
+20210424T1653_13.58_120.6,2021-04-24T16:53:00+08:00,13.58,120.6,126.0,2.5,020 km N 42° W of Abra De Ilog (Occidental Mindoro),2021_Earthquake_Information/April/2021_0424_0853_B2.html
+20210424T1754_18.17_120.14,2021-04-24T17:54:00+08:00,18.17,120.14,24.0,2.6,040 km N 66° W of Currimao (Ilocos Norte),2021_Earthquake_Information/April/2021_0424_0954_B2.html
+20210424T1808_13.5_120.37,2021-04-24T18:08:00+08:00,13.5,120.37,32.0,2.0,013 km N 49° W of Paluan (Occidental Mindoro),2021_Earthquake_Information/April/2021_0424_1008_B2.html
+20210424T1911_18.17_120.59,2021-04-24T19:11:00+08:00,18.17,120.59,25.0,3.1,003 km S 08° W of City Of Laoag (Ilocos Norte),2021_Earthquake_Information/April/2021_0424_1111_B2.html
+20210424T1940_17.47_120.74,2021-04-24T19:40:00+08:00,17.47,120.74,12.0,1.9,007 km S 22° E of Bucay (Abra),2021_Earthquake_Information/April/2021_0424_1140_B2.html
+20210424T2140_9.82_125.48,2021-04-24T21:40:00+08:00,9.82,125.48,25.0,1.8,004 km N 29° W of City Of Surigao (Surigao Del Norte),2021_Earthquake_Information/April/2021_0424_1340_B2.html
+20210424T2204_5.9_124.83,2021-04-24T22:04:00+08:00,5.9,124.83,6.0,2.5,024 km S 67° E of Kiamba (Sarangani),2021_Earthquake_Information/April/2021_0424_1404_B2.html
+20210424T2343_13.42_123.3,2021-04-24T23:43:00+08:00,13.42,123.3,21.0,1.7,006 km S 27° E of Bula (Camarines Sur),2021_Earthquake_Information/April/2021_0424_1543_B2.html
+20210425T0145_17.43_120.39,2021-04-25T01:45:00+08:00,17.43,120.39,23.0,2.7,008 km S 38° W of Santa (Ilocos Sur),2021_Earthquake_Information/April/2021_0424_1745_B2_Ilocos_Sur.html
+20210425T0145_9.99_126.23,2021-04-25T01:45:00+08:00,9.99,126.23,11.0,2.6,024 km N 21° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0424_1745_B2_Surigao_Del_Norte.html
+20210425T0200_5.12_126.29,2021-04-25T02:00:00+08:00,5.12,126.29,14.0,3.4,098 km S 74° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0424_1800_B2.html
+20210425T0243_17.85_121.04,2021-04-25T02:43:00+08:00,17.85,121.04,28.0,2.7,027 km N 59° E of Tineg (Abra),2021_Earthquake_Information/April/2021_0424_1843_B2.html
+20210425T0344_13.64_124.24,2021-04-25T03:44:00+08:00,13.64,124.24,31.0,2.4,007 km N 05° E of Virac (Catanduanes),2021_Earthquake_Information/April/2021_0424_1944_B2.html
+20210425T0345_19.53_121.55,2021-04-25T03:45:00+08:00,19.53,121.55,13.0,2.0,031 km N 15° E of Calayan (Cagayan),2021_Earthquake_Information/April/2021_0424_1945_B2.html
+20210425T0353_5.46_126.31,2021-04-25T03:53:00+08:00,5.46,126.31,1.0,3.4,089 km S 56° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0424_1953_B2.html
+20210425T0426_11.71_124.27,2021-04-25T04:26:00+08:00,11.71,124.27,21.0,3.2,010 km N 69° W of Kawayan (Biliran),2021_Earthquake_Information/April/2021_0424_2026_B2.html
+20210425T0435_18.02_120.4,2021-04-25T04:35:00+08:00,18.02,120.4,22.0,2.9,013 km N 37° W of Badoc (Ilocos Norte),2021_Earthquake_Information/April/2021_0424_2035_B2.html
+20210425T0443_14.47_119.04,2021-04-25T04:43:00+08:00,14.47,119.04,59.0,3.4,125 km S 65° W of San Antonio (Zambales),2021_Earthquake_Information/April/2021_0424_2043_B2.html
+20210425T0519_10.15_124.96,2021-04-25T05:19:00+08:00,10.15,124.96,2.0,2.6,013 km N 79° E of City Of Maasin (Southern Leyte),2021_Earthquake_Information/April/2021_0424_2119_B2.html
+20210425T0522_10.26_124.48,2021-04-25T05:22:00+08:00,10.26,124.48,18.0,2.6,021 km N 54° E of Talibon (Bohol),2021_Earthquake_Information/April/2021_0424_2122_B1.html
+20210425T1443_6.12_125.6,2021-04-25T14:43:00+08:00,6.12,125.6,98.0,2.4,015 km S 47° W of Don Marcelino (Davao Occidental),2021_Earthquake_Information/April/2021_0425_0643_B2.html
+20210425T1553_14.21_123.73,2021-04-25T15:53:00+08:00,14.21,123.73,45.0,2.3,036 km N 05° E of Garchitorena (Camarines Sur),2021_Earthquake_Information/April/2021_0425_0753_B2.html
+20210425T1903_9.07_126.56,2021-04-25T19:03:00+08:00,9.07,126.56,1.0,2.6,033 km N 70° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/April/2021_0425_1103_B2.html
+20210425T1946_19.95_121.69,2021-04-25T19:46:00+08:00,19.95,121.69,14.0,3.0,047 km S 25° W of Sabtang (Batanes),2021_Earthquake_Information/April/2021_0425_1146_B2.html
+20210425T1948_9.97_126.23,2021-04-25T19:48:00+08:00,9.97,126.23,13.0,2.2,003 km S 45° W of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0425_1148_B2.html
+20210425T1958_9.99_126.51,2021-04-25T19:58:00+08:00,9.99,126.51,4.0,3.6,046 km N 59° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0425_1158_B2.html
+20210425T2049_9.98_126.24,2021-04-25T20:49:00+08:00,9.98,126.24,10.0,1.9,020 km N 51° E of Pilar (Surigao Del Norte),2021_Earthquake_Information/April/2021_0425_1249_B2.html
+20210425T2050_10.91_125.81,2021-04-25T20:50:00+08:00,10.91,125.81,3.0,3.5,017 km S 33° E of Guiuan (Eastern Samar),2021_Earthquake_Information/April/2021_0425_1250_B2.html
+20210425T2105_10.07_126.62,2021-04-25T21:05:00+08:00,10.07,126.62,2.0,3.5,060 km N 84° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0425_1305_B2.html
+20210425T2110_13.66_120.88,2021-04-25T21:10:00+08:00,13.66,120.88,90.0,2.0,001 km N 66° E of Tingloy (Batangas),2021_Earthquake_Information/April/2021_0425_1310_B2.html
+20210425T2114_8.05_124.9,2021-04-25T21:14:00+08:00,8.05,124.9,30.0,2.5,026 km N 19° E of Pangantucan (Bukidnon),2021_Earthquake_Information/April/2021_0425_1314_B2.html
+20210425T2136_10.01_126.53,2021-04-25T21:36:00+08:00,10.01,126.53,4.0,3.1,048 km N 59° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0425_1336_B2.html
+20210425T2137_9.85_126.33,2021-04-25T21:37:00+08:00,9.85,126.33,13.0,3.3,020 km N 68° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0425_1337_B2.html
+20210425T2232_6.72_125.3,2021-04-25T22:32:00+08:00,6.72,125.3,16.0,2.9,009 km N 80° E of Matanao (Davao Del Sur),2021_Earthquake_Information/April/2021_0425_1432_B2.html
+20210425T2320_11.26_124.66,2021-04-25T23:20:00+08:00,11.26,124.66,6.0,2.2,004 km S 27° E of Capoocan (Leyte),2021_Earthquake_Information/April/2021_0425_1520_B2.html
+20210425T2350_9.65_126.57,2021-04-25T23:50:00+08:00,9.65,126.57,7.0,3.0,048 km S 72° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0425_1550_B2.html
+20210425T2355_8.31_126.31,2021-04-25T23:55:00+08:00,8.31,126.31,65.0,2.7,010 km N 03° W of City Of Bislig (Surigao Del Sur),2021_Earthquake_Information/April/2021_0425_1555_B2.html
+20210425T2359_6.06_126.2,2021-04-25T23:59:00+08:00,6.06,126.2,13.0,2.9,064 km N 75° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0425_1559_B2.html
+20210426T0013_9.87_126.23,2021-04-26T00:13:00+08:00,9.87,126.23,11.0,2.0,012 km N 40° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0425_1613_B2.html
+20210426T0028_9.86_125.45,2021-04-26T00:28:00+08:00,9.86,125.45,23.0,2.0,010 km N 19° E of San Francisco (Surigao Del Norte),2021_Earthquake_Information/April/2021_0425_1628_B2.html
+20210426T0132_9.94_126.28,2021-04-26T01:32:00+08:00,9.94,126.28,15.0,2.4,022 km N 39° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0425_1732_B2.html
+20210426T0252_6.39_126.34,2021-04-26T02:52:00+08:00,6.39,126.34,17.0,2.5,041 km S 45° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0425_1852_B2.html
+20210426T0305_5.9_126.9,2021-04-26T03:05:00+08:00,5.9,126.9,77.0,3.2,124 km S 47° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0425_1905_B2.html
+20210426T0312_10.42_125.09,2021-04-26T03:12:00+08:00,10.42,125.09,1.0,3.0,013 km N 76° W of Hinunangan (Southern Leyte),2021_Earthquake_Information/April/2021_0425_1912_B2.html
+20210426T0313_10.4_125.17,2021-04-26T03:13:00+08:00,10.4,125.17,39.0,2.3,003 km N 76° W of Hinunangan (Southern Leyte),2021_Earthquake_Information/April/2021_0425_1913_B2.html
+20210426T0345_14.18_122.26,2021-04-26T03:45:00+08:00,14.18,122.26,8.0,1.9,014 km S 88° W of Santa Elena (Camarines Norte),2021_Earthquake_Information/April/2021_0425_1945_B2.html
+20210426T0404_5.68_126.08,2021-04-26T04:04:00+08:00,5.68,126.08,11.0,3.2,055 km S 62° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0425_2004_B2.html
+20210426T0448_9.58_126.22,2021-04-26T04:48:00+08:00,9.58,126.22,34.0,1.7,024 km S 18° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0425_2048_B2.html
+20210426T0454_7.97_124.86,2021-04-26T04:54:00+08:00,7.97,124.86,10.0,3.8,016 km N 14° E of Pangantucan (Bukidnon),2021_Earthquake_Information/April/2021_0425_2054_B2F.html
+20210426T0521_7.99_126.58,2021-04-26T05:21:00+08:00,7.99,126.58,55.0,4.0,026 km N 32° E of Cateel (Davao Oriental),2021_Earthquake_Information/April/2021_0425_2121_B2F.html
+20210426T0544_13.78_120.57,2021-04-26T05:44:00+08:00,13.78,120.57,81.0,2.2,009 km S 50° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0425_2144_B2.html
+20210426T0635_10.44_125.1,2021-04-26T06:35:00+08:00,10.44,125.1,1.0,3.4,011 km N 66° W of Hinunangan (Southern Leyte),2021_Earthquake_Information/April/2021_0425_2235_B2.html
+20210426T0826_10.46_125.16,2021-04-26T08:26:00+08:00,10.46,125.16,26.0,2.2,009 km N 34° W of Hinunangan (Southern Leyte),2021_Earthquake_Information/April/2021_0426_0026_B2.html
+20210426T0828_10.51_125.14,2021-04-26T08:28:00+08:00,10.51,125.14,23.0,2.4,003 km S 46° W of Silago (Southern Leyte),2021_Earthquake_Information/April/2021_0426_0028_B2.html
+20210426T0830_14.91_122.81,2021-04-26T08:30:00+08:00,14.91,122.81,34.0,2.2,051 km N 17° W of Tinaga Island (Vinzons) (Camarines Norte),2021_Earthquake_Information/April/2021_0426_0030_B2.html
+20210426T1030_6.89_125.09,2021-04-26T10:30:00+08:00,6.89,125.09,20.0,2.3,007 km S 01° E of Makilala (Cotabato),2021_Earthquake_Information/April/2021_0426_0230_B2.html
+20210426T1350_16.08_121.98,2021-04-26T13:50:00+08:00,16.08,121.98,23.0,2.6,026 km S 35° W of Casiguran (Aurora),2021_Earthquake_Information/April/2021_0426_0550_B3F.html
+20210426T1404_7.23_125.0,2021-04-26T14:04:00+08:00,7.23,125.0,5.0,2.3,006 km S 73° W of Antipas (Cotabato),2021_Earthquake_Information/April/2021_0426_0604_B2.html
+20210426T1852_6.24_127.28,2021-04-26T18:52:00+08:00,6.24,127.28,141.0,3.2,129 km S 46° E of Tarragona (Davao Oriental),2021_Earthquake_Information/April/2021_0426_1052_B2.html
+20210426T2016_15.5_119.08,2021-04-26T20:16:00+08:00,15.5,119.08,12.0,3.1,090 km N 86° W of Palauig (Zambales),2021_Earthquake_Information/April/2021_0426_1216_B2.html
+20210426T2111_8.82_125.74,2021-04-26T21:11:00+08:00,8.82,125.74,13.0,2.6,012 km N 08° W of City Of Bayugan (Agusan Del Sur),2021_Earthquake_Information/April/2021_0426_1311_B2.html
+20210426T2123_10.56_126.14,2021-04-26T21:23:00+08:00,10.56,126.14,2.0,2.6,049 km S 66° E of Homonhon Island (Guiuan) (Eastern Samar),2021_Earthquake_Information/April/2021_0426_1323_B2.html
+20210426T2147_16.31_119.71,2021-04-26T21:47:00+08:00,16.31,119.71,21.0,2.5,021 km S 67° W of Bolinao (Pangasinan),2021_Earthquake_Information/April/2021_0426_1347_B2.html
+20210426T2152_9.77_123.79,2021-04-26T21:52:00+08:00,9.77,123.79,28.0,2.0,021 km N 10° E of Panglao (Bohol),2021_Earthquake_Information/April/2021_0426_1352_B2.html
+20210426T2159_8.65_126.11,2021-04-26T21:59:00+08:00,8.65,126.11,137.0,3.1,017 km S 50° W of San Agustin (Surigao Del Sur),2021_Earthquake_Information/April/2021_0426_1359_B2.html
+20210427T0009_11.51_125.09,2021-04-27T00:09:00+08:00,11.51,125.09,54.0,2.0,015 km S 32° E of Calbiga (Samar),2021_Earthquake_Information/April/2021_0426_1609_B2.html
+20210427T0023_8.97_126.42,2021-04-27T00:23:00+08:00,8.97,126.42,19.0,2.9,015 km N 89° E of Bayabas (Surigao Del Sur),2021_Earthquake_Information/April/2021_0426_1623_B2.html
+20210427T0048_15.39_120.11,2021-04-27T00:48:00+08:00,15.39,120.11,39.0,1.8,015 km N 41° E of Botolan (Zambales),2021_Earthquake_Information/April/2021_0426_1648_B2.html
+20210427T0103_9.13_122.61,2021-04-27T01:03:00+08:00,9.13,122.61,22.0,2.2,031 km S 05° W of Basay (Negros Oriental),2021_Earthquake_Information/April/2021_0426_1703_B2.html
+20210427T0136_8.69_125.62,2021-04-27T01:36:00+08:00,8.69,125.62,32.0,3.2,014 km S 79° W of City Of Bayugan (Agusan Del Sur),2021_Earthquake_Information/April/2021_0426_1736_B2.html
+20210427T0151_6.69_126.63,2021-04-27T01:51:00+08:00,6.69,126.63,28.0,2.8,044 km S 27° E of Tarragona (Davao Oriental),2021_Earthquake_Information/April/2021_0426_1751_B2.html
+20210427T0328_7.92_126.58,2021-04-27T03:28:00+08:00,7.92,126.58,27.0,2.8,020 km N 44° E of Cateel (Davao Oriental),2021_Earthquake_Information/April/2021_0426_1928_B2.html
+20210427T0334_16.29_120.85,2021-04-27T03:34:00+08:00,16.29,120.85,33.0,1.6,017 km N 33° W of Santa Fe (Nueva Vizcaya),2021_Earthquake_Information/April/2021_0426_1934_B2.html
+20210427T0535_13.8_120.62,2021-04-27T05:35:00+08:00,13.8,120.62,96.0,2.0,004 km S 28° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0426_2135_B2.html
+20210427T0541_4.14_126.33,2021-04-27T05:41:00+08:00,4.14,126.33,2.0,3.2,173 km S 35° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0426_2141_B2.html
+20210427T0543_4.3_126.41,2021-04-27T05:43:00+08:00,4.3,126.41,14.0,4.0,164 km S 42° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0426_2143_B2.html
+20210427T0634_6.41_126.26,2021-04-27T06:34:00+08:00,6.41,126.26,29.0,2.8,034 km S 38° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0426_2234_B2.html
+20210427T0836_6.34_126.21,2021-04-27T08:36:00+08:00,6.34,126.21,20.0,2.7,038 km S 23° E of Governor Generoso (Davao Oriental),2021_Earthquake_Information/April/2021_0427_0036_B2.html
+20210427T0925_7.74_126.66,2021-04-27T09:25:00+08:00,7.74,126.66,57.0,2.8,021 km N 32° E of Baganga (Davao Oriental),2021_Earthquake_Information/April/2021_0427_0125_B2.html
+20210427T1033_8.7_126.22,2021-04-27T10:33:00+08:00,8.7,126.22,128.0,2.4,014 km S 38° W of Marihatag (Surigao Del Sur),2021_Earthquake_Information/April/2021_0427_0233_B2.html
+20210427T1107_9.76_126.34,2021-04-27T11:07:00+08:00,9.76,126.34,13.0,2.3,021 km S 84° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0427_0307_B2.html
+20210427T1138_9.77_126.25,2021-04-27T11:38:00+08:00,9.77,126.25,9.0,2.9,011 km S 81° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0427_0338_B2.html
+20210427T1147_9.63_126.2,2021-04-27T11:47:00+08:00,9.63,126.2,23.0,1.7,018 km S 17° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0427_0347_B2.html
+20210427T1224_13.38_120.32,2021-04-27T12:24:00+08:00,13.38,120.32,34.0,1.9,016 km S 77° W of Paluan (Occidental Mindoro),2021_Earthquake_Information/April/2021_0427_0424_B2.html
+20210427T1231_18.51_120.79,2021-04-27T12:31:00+08:00,18.51,120.79,34.0,2.0,004 km S 38° E of Bangui (Ilocos Norte),2021_Earthquake_Information/April/2021_0427_0431_B2.html
+20210427T1344_9.47_122.65,2021-04-27T13:44:00+08:00,9.47,122.65,26.0,1.9,025 km S 53° E of Hinoba-an (Negros Occidental),2021_Earthquake_Information/April/2021_0427_0544_B2.html
+20210427T1533_11.94_120.71,2021-04-27T15:33:00+08:00,11.94,120.71,22.0,2.9,056 km S 84° E of Coron (Palawan),2021_Earthquake_Information/April/2021_0427_0733_B2.html
+20210427T1601_13.93_120.5,2021-04-27T16:01:00+08:00,13.93,120.5,84.0,2.0,018 km N 54° W of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0427_0801_B2.html
+20210427T1644_10.03_126.49,2021-04-27T16:44:00+08:00,10.03,126.49,5.0,4.1,046 km N 89° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0427_0844_B2F.html
+20210427T1742_17.05_120.06,2021-04-27T17:42:00+08:00,17.05,120.06,27.0,2.5,043 km S 73° W of City Of Candon (Ilocos Sur),2021_Earthquake_Information/April/2021_0427_0942_B2.html
+20210427T1946_5.37_125.61,2021-04-27T19:46:00+08:00,5.37,125.61,102.0,3.2,021 km S 77° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0427_1146_B2.html
+20210427T2107_5.45_125.29,2021-04-27T21:07:00+08:00,5.45,125.29,18.0,3.5,015 km N 74° W of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0427_1307_B2.html
+20210427T2139_16.63_120.97,2021-04-27T21:39:00+08:00,16.63,120.97,23.0,1.9,013 km N 28° W of Ambaguio (Nueva Vizcaya),2021_Earthquake_Information/April/2021_0427_1339_B2.html
+20210427T2158_10.0_126.26,2021-04-27T21:58:00+08:00,10.0,126.26,11.0,2.4,020 km S 84° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0427_1358_B2.html
+20210427T2231_8.97_122.96,2021-04-27T22:31:00+08:00,8.97,122.96,17.0,2.7,013 km S 41° W of Siaton (Negros Oriental),2021_Earthquake_Information/April/2021_0427_1431_B2.html
+20210427T2239_18.96_120.95,2021-04-27T22:39:00+08:00,18.96,120.95,28.0,2.1,031 km S 59° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0427_1439_B2.html
+20210427T2253_17.77_122.75,2021-04-27T22:53:00+08:00,17.77,122.75,60.0,3.9,069 km N 45° E of Divilacan (Isabela),2021_Earthquake_Information/April/2021_0427_1453_B2.html
+20210427T2311_13.95_120.5,2021-04-27T23:11:00+08:00,13.95,120.5,103.0,1.8,019 km S 61° W of Lian (Batangas),2021_Earthquake_Information/April/2021_0427_1511_B2.html
+20210427T2343_9.93_124.28,2021-04-27T23:43:00+08:00,9.93,124.28,7.0,2.8,005 km N 07° E of Dagohoy (Bohol),2021_Earthquake_Information/April/2021_0427_1543_B2.html
+20210428T0020_5.15_125.37,2021-04-28T00:20:00+08:00,5.15,125.37,58.0,3.3,029 km S 10° W of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0427_1620_B2.html
+20210428T0058_5.03_126.47,2021-04-28T00:58:00+08:00,5.03,126.47,24.0,4.3,124 km S 70° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0427_1658_B2.html
+20210428T0115_16.49_118.98,2021-04-28T01:15:00+08:00,16.49,118.98,14.0,4.3,097 km N 65° W of Agno (Pangasinan),2021_Earthquake_Information/April/2021_0427_1715_B2.html
+20210428T0147_19.14_120.81,2021-04-28T01:47:00+08:00,19.14,120.81,29.0,4.2,042 km N 84° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0427_1747_B2.html
+20210428T0148_6.85_126.16,2021-04-28T01:48:00+08:00,6.85,126.16,11.0,2.8,009 km N 73° E of San Isidro (Davao Oriental),2021_Earthquake_Information/April/2021_0427_1748_B2.html
+20210428T0356_10.44_123.13,2021-04-28T03:56:00+08:00,10.44,123.13,3.0,2.5,011 km N 58° W of City Of Canlaon (Negros Oriental),2021_Earthquake_Information/April/2021_0427_1956_B2.html
+20210428T0401_9.61_126.27,2021-04-28T04:01:00+08:00,9.61,126.27,15.0,3.3,023 km S 33° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0427_2001_B2.html
+20210428T0411_4.98_127.5,2021-04-28T04:11:00+08:00,4.98,127.5,111.0,2.9,230 km S 63° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0427_2011_B2.html
+20210428T0448_11.17_122.93,2021-04-28T04:48:00+08:00,11.17,122.93,9.0,2.3,006 km S 01° W of Lemery (Iloilo),2021_Earthquake_Information/April/2021_0427_2048_B2.html
+20210428T0501_19.07_121.15,2021-04-28T05:01:00+08:00,19.07,121.15,34.0,2.3,007 km S 55° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0427_2101_B2.html
+20210428T0508_10.48_125.78,2021-04-28T05:08:00+08:00,10.48,125.78,28.0,2.3,026 km N 58° E of Loreto (Dinagat Islands),2021_Earthquake_Information/April/2021_0427_2108_B2.html
+20210428T0556_9.6_126.28,2021-04-28T05:56:00+08:00,9.6,126.28,17.0,2.7,024 km S 33° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0427_2156_B2.html
+20210428T0636_17.71_122.68,2021-04-28T06:36:00+08:00,17.71,122.68,90.0,2.4,059 km N 44° E of Divilacan (Isabela),2021_Earthquake_Information/April/2021_0427_2236_B2.html
+20210428T0703_15.91_119.62,2021-04-28T07:03:00+08:00,15.91,119.62,34.0,1.8,030 km S 41° W of Agno (Pangasinan),2021_Earthquake_Information/April/2021_0427_2303_B2.html
+20210428T0806_15.84_122.09,2021-04-28T08:06:00+08:00,15.84,122.09,27.0,3.3,035 km S 23° E of Dinalungan (Aurora),2021_Earthquake_Information/April/2021_0428_0006_B2F.html
+20210428T1257_9.66_126.01,2021-04-28T12:57:00+08:00,9.66,126.01,30.0,1.7,006 km N 48° E of Socorro (Surigao Del Norte),2021_Earthquake_Information/April/2021_0428_0457_B2.html
+20210428T1429_7.75_126.41,2021-04-28T14:29:00+08:00,7.75,126.41,16.0,2.7,026 km N 40° W of Baganga (Davao Oriental),2021_Earthquake_Information/April/2021_0428_0629_B2.html
+20210428T1601_8.83_126.42,2021-04-28T16:01:00+08:00,8.83,126.42,33.0,1.9,014 km N 75° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/April/2021_0428_0801_B2.html
+20210428T1736_7.42_124.62,2021-04-28T17:36:00+08:00,7.42,124.62,10.0,3.0,012 km S 43° W of Banisilan (Cotabato),2021_Earthquake_Information/April/2021_0428_0936_B3F.html
+20210428T2113_10.37_125.35,2021-04-28T21:13:00+08:00,10.37,125.35,22.0,2.3,011 km N 82° E of Hinundayan (Southern Leyte),2021_Earthquake_Information/April/2021_0428_1313_B2.html
+20210428T2114_5.71_126.73,2021-04-28T21:14:00+08:00,5.71,126.73,3.0,2.6,122 km S 79° E of Jose Abad Santos (Davao Occidental),2021_Earthquake_Information/April/2021_0428_1314_B2.html
+20210428T2118_10.45_125.28,2021-04-28T21:18:00+08:00,10.45,125.28,20.0,2.5,011 km N 15° E of Hinundayan (Southern Leyte),2021_Earthquake_Information/April/2021_0428_1318_B2.html
+20210428T2138_9.93_126.09,2021-04-28T21:38:00+08:00,9.93,126.09,10.0,2.8,010 km S 12° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0428_1338_B2.html
+20210428T2216_15.42_119.84,2021-04-28T22:16:00+08:00,15.42,119.84,43.0,2.5,008 km S 80° W of Palauig (Zambales),2021_Earthquake_Information/April/2021_0428_1416_B2.html
+20210429T0010_13.05_118.75,2021-04-29T00:10:00+08:00,13.05,118.75,33.0,2.8,173 km S 59° W of Lubang (Occidental Mindoro),2021_Earthquake_Information/April/2021_0428_1610_B2.html
+20210429T0056_10.68_122.82,2021-04-29T00:56:00+08:00,10.68,122.82,11.0,2.2,019 km S 84° E of Buenavista (Guimaras),2021_Earthquake_Information/April/2021_0428_1656_B2.html
+20210429T0102_17.98_120.12,2021-04-29T01:02:00+08:00,17.98,120.12,21.0,3.3,038 km N 71° W of Sinait (Ilocos Sur),2021_Earthquake_Information/April/2021_0428_1702_B2.html
+20210429T0112_10.01_124.17,2021-04-29T01:12:00+08:00,10.01,124.17,5.0,2.3,009 km N 41° W of Danao (Bohol),2021_Earthquake_Information/April/2021_0428_1712_B2.html
+20210429T0123_17.93_119.81,2021-04-29T01:23:00+08:00,17.93,119.81,16.0,2.9,069 km N 84° W of Sinait (Ilocos Sur),2021_Earthquake_Information/April/2021_0428_1723_B2.html
+20210429T0127_18.06_120.35,2021-04-29T01:27:00+08:00,18.06,120.35,30.0,2.5,016 km N 74° W of Currimao (Ilocos Norte),2021_Earthquake_Information/April/2021_0428_1727_B2.html
+20210429T0131_9.85_126.13,2021-04-29T01:31:00+08:00,9.85,126.13,14.0,3.1,008 km N 23° W of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0428_1731_B2.html
+20210429T0156_5.19_125.37,2021-04-29T01:56:00+08:00,5.19,125.37,11.0,3.2,026 km S 14° W of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0428_1756_B2.html
+20210429T0158_17.81_120.0,2021-04-29T01:58:00+08:00,17.81,120.0,12.0,3.1,049 km S 83° W of Sinait (Ilocos Sur),2021_Earthquake_Information/April/2021_0428_1758_B2.html
+20210429T0232_15.2_120.31,2021-04-29T02:32:00+08:00,15.2,120.31,29.0,1.8,028 km S 81° W of Mabalacat City (Pampanga),2021_Earthquake_Information/April/2021_0428_1832_B2.html
+20210429T0239_16.08_119.83,2021-04-29T02:39:00+08:00,16.08,119.83,32.0,2.1,005 km S 42° E of Agno (Pangasinan),2021_Earthquake_Information/April/2021_0428_1839_B2.html
+20210429T0306_8.45_126.81,2021-04-29T03:06:00+08:00,8.45,126.81,21.0,3.1,053 km N 80° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/April/2021_0428_1906_B2.html
+20210429T0326_11.72_124.16,2021-04-29T03:26:00+08:00,11.72,124.16,9.0,2.7,013 km S 83° E of Esperanza (Masbate),2021_Earthquake_Information/April/2021_0428_1926_B2.html
+20210429T0602_10.42_126.08,2021-04-29T06:02:00+08:00,10.42,126.08,24.0,2.3,044 km N 01° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0428_2202_B2.html
+20210429T0712_16.14_121.82,2021-04-29T07:12:00+08:00,16.14,121.82,35.0,1.5,015 km S 90° W of Dinalungan (Aurora),2021_Earthquake_Information/April/2021_0428_2312_B2.html
+20210429T0713_9.54_125.67,2021-04-29T07:13:00+08:00,9.54,125.67,30.0,1.7,008 km S 60° W of Claver (Surigao Del Norte),2021_Earthquake_Information/April/2021_0428_2313_B2.html
+20210429T0854_2.26_126.28,2021-04-29T08:54:00+08:00,2.26,126.28,25.0,4.8,362 km S 15° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0429_0054_B3.html
+20210429T0905_9.73_126.17,2021-04-29T09:05:00+08:00,9.73,126.17,22.0,2.8,006 km S 19° E of General Luna (Surigao Del Norte),2021_Earthquake_Information/April/2021_0429_0105_B2.html
+20210429T1022_10.77_122.92,2021-04-29T10:22:00+08:00,10.77,122.92,13.0,2.4,007 km N 68° W of City Of Talisay (Negros Occidental),2021_Earthquake_Information/April/2021_0429_0222_B2.html
+20210429T1141_8.39_127.19,2021-04-29T11:41:00+08:00,8.39,127.19,25.0,2.8,094 km N 89° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/April/2021_0429_0341_B2.html
+20210429T1152_16.52_120.98,2021-04-29T11:52:00+08:00,16.52,120.98,11.0,1.9,005 km S 75° W of Ambaguio (Nueva Vizcaya),2021_Earthquake_Information/April/2021_0429_0352_B2.html
+20210429T1234_13.83_120.27,2021-04-29T12:34:00+08:00,13.83,120.27,31.0,1.5,012 km N 08° E of Looc (Occidental Mindoro),2021_Earthquake_Information/April/2021_0429_0434_B2.html
+20210429T1240_6.04_125.14,2021-04-29T12:40:00+08:00,6.04,125.14,29.0,1.9,025 km N 40° E of Maasim (Sarangani),2021_Earthquake_Information/April/2021_0429_0440_B2.html
+20210429T1306_9.26_123.18,2021-04-29T13:06:00+08:00,9.26,123.18,6.0,2.1,012 km N 52° W of Dauin (Negros Oriental),2021_Earthquake_Information/April/2021_0429_0506_B2.html
+20210429T1309_9.55_122.5,2021-04-29T13:09:00+08:00,9.55,122.5,19.0,2.2,007 km S 42° E of Hinoba-an (Negros Occidental),2021_Earthquake_Information/April/2021_0429_0509_B1.html
+20210429T1447_16.22_119.76,2021-04-29T14:47:00+08:00,16.22,119.76,36.0,2.0,012 km N 22° W of Agno (Pangasinan),2021_Earthquake_Information/April/2021_0429_0647_B2.html
+20210429T1521_20.88_121.32,2021-04-29T15:21:00+08:00,20.88,121.32,9.0,3.1,055 km N 80° W of Itbayat (Batanes),2021_Earthquake_Information/April/2021_0429_0721_B2.html
+20210429T1559_5.49_125.31,2021-04-29T15:59:00+08:00,5.49,125.31,22.0,2.6,015 km N 57° W of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0429_0759_B2.html
+20210429T2020_9.72_122.64,2021-04-29T20:20:00+08:00,9.72,122.64,79.0,2.0,012 km S 01° E of Candoni (Negros Occidental),2021_Earthquake_Information/April/2021_0429_1220_B2.html
+20210429T2117_8.42_126.88,2021-04-29T21:17:00+08:00,8.42,126.88,32.0,2.1,034 km N 73° E of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/April/2021_0429_1317_B2.html
+20210429T2118_4.95_125.92,2021-04-29T21:18:00+08:00,4.95,125.92,97.0,3.1,076 km S 47° E of Sarangani (Davao Occidental),2021_Earthquake_Information/April/2021_0429_1318_B2.html
+20210429T2233_21.46_121.69,2021-04-29T22:33:00+08:00,21.46,121.69,1.0,4.7,076 km N 12° W of Itbayat (Batanes),2021_Earthquake_Information/April/2021_0429_1433_B2.html
+20210429T2235_21.55_121.68,2021-04-29T22:35:00+08:00,21.55,121.68,1.0,3.9,086 km N 11° W of Itbayat (Batanes),2021_Earthquake_Information/April/2021_0429_1435_B2.html
+20210429T2241_18.05_122.32,2021-04-29T22:41:00+08:00,18.05,122.32,41.0,2.2,055 km S 55° E of Gonzaga (Cagayan),2021_Earthquake_Information/April/2021_0429_1441_B2.html
+20210429T2305_21.5_121.74,2021-04-29T23:05:00+08:00,21.5,121.74,2.0,3.8,080 km N 08° W of Itbayat (Batanes),2021_Earthquake_Information/April/2021_0429_1505_B2_Batanes.html
+20210429T2305_7.72_124.65,2021-04-29T23:05:00+08:00,7.72,124.65,2.0,2.3,011 km S 81° W of Kalilangan (Bukidnon),2021_Earthquake_Information/April/2021_0429_1505_B2_Bukidnon.html
+20210429T2337_14.12_120.42,2021-04-29T23:37:00+08:00,14.12,120.42,117.0,1.5,023 km N 77° W of Nasugbu (Batangas),2021_Earthquake_Information/April/2021_0429_1537_B2_Batangas.html
+20210429T2337_21.83_121.84,2021-04-29T23:37:00+08:00,21.83,121.84,25.0,3.8,115 km N 01° W of Itbayat (Batanes),2021_Earthquake_Information/April/2021_0429_1537_B2_Batanes.html
+20210430T0007_10.08_122.64,2021-04-30T00:07:00+08:00,10.08,122.64,78.0,2.7,012 km N 10° E of Cauayan (Negros Occidental),2021_Earthquake_Information/April/2021_0429_1607_B2.html
+20210430T0016_7.27_124.54,2021-04-30T00:16:00+08:00,7.27,124.54,1.0,2.6,009 km N 08° E of Midsayap (Cotabato),2021_Earthquake_Information/April/2021_0429_1616_B2.html
+20210430T0042_6.52_123.82,2021-04-30T00:42:00+08:00,6.52,123.82,1.0,3.0,026 km S 81° W of Kalamansig (Sultan Kudarat),2021_Earthquake_Information/April/2021_0429_1642_B2.html
+20210430T0117_21.83_121.62,2021-04-30T01:17:00+08:00,21.83,121.62,1.0,3.8,118 km N 11° W of Itbayat (Batanes),2021_Earthquake_Information/April/2021_0429_1717_B2.html
+20210430T0140_21.91_121.92,2021-04-30T01:40:00+08:00,21.91,121.92,41.0,3.9,124 km N 04° E of Itbayat (Batanes),2021_Earthquake_Information/April/2021_0429_1740_B2.html
+20210430T0145_6.16_126.9,2021-04-30T01:45:00+08:00,6.16,126.9,15.0,2.9,111 km S 27° E of Tarragona (Davao Oriental),2021_Earthquake_Information/April/2021_0429_1745_B2.html
+20210430T0209_13.62_120.64,2021-04-30T02:09:00+08:00,13.62,120.64,138.0,1.7,023 km S 01° E of Calatagan (Batangas),2021_Earthquake_Information/April/2021_0429_1809_B2.html
+20210430T0211_16.5_120.74,2021-04-30T02:11:00+08:00,16.5,120.74,32.0,2.0,009 km N 82° W of Bokod (Benguet),2021_Earthquake_Information/April/2021_0429_1811_B2.html
+20210430T0224_13.56_120.47,2021-04-30T02:24:00+08:00,13.56,120.47,47.0,2.9,016 km N 03° E of Paluan (Occidental Mindoro),2021_Earthquake_Information/April/2021_0429_1824_B2.html
+20210430T0234_8.36_126.2,2021-04-30T02:34:00+08:00,8.36,126.2,35.0,2.4,015 km S 89° W of Hinatuan (Surigao Del Sur),2021_Earthquake_Information/April/2021_0429_1834_B2.html
+20210430T0311_7.76_125.99,2021-04-30T03:11:00+08:00,7.76,125.99,31.0,2.2,010 km S 43° W of Monkayo (Davao De Oro),2021_Earthquake_Information/April/2021_0429_1911_B2.html
+20210430T0336_10.07_125.85,2021-04-30T03:36:00+08:00,10.07,125.85,33.0,2.0,025 km N 77° W of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0429_1936_B2.html
+20210430T0351_20.28_120.33,2021-04-30T03:51:00+08:00,20.28,120.33,1.0,2.6,162 km S 88° W of Sabtang (Batanes),2021_Earthquake_Information/April/2021_0429_1951_B2.html
+20210430T0424_6.0_126.04,2021-04-30T04:24:00+08:00,6.0,126.04,133.0,2.4,043 km S 60° E of Don Marcelino (Davao Occidental),2021_Earthquake_Information/April/2021_0429_2024_B2.html
+20210430T0441_8.74_126.57,2021-04-30T04:41:00+08:00,8.74,126.57,30.0,2.4,031 km S 77° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/April/2021_0429_2041_B2.html
+20210430T0455_17.12_122.46,2021-04-30T04:55:00+08:00,17.12,122.46,32.0,3.1,007 km N 27° E of Palanan (Isabela),2021_Earthquake_Information/April/2021_0429_2055_B2.html
+20210430T0542_15.42_120.43,2021-04-30T05:42:00+08:00,15.42,120.43,25.0,2.6,007 km S 33° W of San Jose (Tarlac),2021_Earthquake_Information/April/2021_0429_2142_B2.html
+20210430T0634_10.14_126.12,2021-04-30T06:34:00+08:00,10.14,126.12,33.0,2.0,014 km N 19° E of Burgos (Surigao Del Norte),2021_Earthquake_Information/April/2021_0429_2234_B2.html
+20210430T0711_10.33_125.27,2021-04-30T07:11:00+08:00,10.33,125.27,1.0,3.2,003 km S 27° E of Hinundayan (Southern Leyte),2021_Earthquake_Information/April/2021_0429_2311_B2.html
+20210430T0813_9.78_124.23,2021-04-30T08:13:00+08:00,9.78,124.23,30.0,2.5,006 km S 34° E of Carmen (Bohol),2021_Earthquake_Information/April/2021_0430_0013_B2.html
+20210430T0956_6.92_126.0,2021-04-30T09:56:00+08:00,6.92,126.0,29.0,2.3,003 km N 22° W of Lupon (Davao Oriental),2021_Earthquake_Information/April/2021_0430_0156_B2.html
+20210430T0959_10.62_125.33,2021-04-30T09:59:00+08:00,10.62,125.33,1.0,2.2,021 km N 61° E of Silago (Southern Leyte),2021_Earthquake_Information/April/2021_0430_0159_B2.html
+20210430T1208_16.12_120.85,2021-04-30T12:08:00+08:00,16.12,120.85,12.0,1.7,011 km S 66° W of Santa Fe (Nueva Vizcaya),2021_Earthquake_Information/April/2021_0430_0408_B2.html
+20210430T1238_8.3_125.92,2021-04-30T12:38:00+08:00,8.3,125.92,9.0,2.2,013 km S 44° W of Rosario (Agusan Del Sur),2021_Earthquake_Information/April/2021_0430_0438_B2.html
+20210430T1317_15.02_119.69,2021-04-30T13:17:00+08:00,15.02,119.69,1.0,2.2,042 km S 84° W of San Felipe (Zambales),2021_Earthquake_Information/April/2021_0430_0517_B2.html
+20210430T1335_9.9_122.44,2021-04-30T13:35:00+08:00,9.9,122.44,16.0,2.1,014 km N 04° E of City Of Sipalay (Negros Occidental),2021_Earthquake_Information/April/2021_0430_0535_B2.html
+20210430T1341_18.35_121.17,2021-04-30T13:41:00+08:00,18.35,121.17,43.0,2.0,019 km N 84° W of Luna (Apayao),2021_Earthquake_Information/April/2021_0430_0541_B2.html
+20210430T1629_16.56_120.9,2021-04-30T16:29:00+08:00,16.56,120.9,14.0,2.1,009 km S 41° E of Kabayan (Benguet),2021_Earthquake_Information/April/2021_0430_0829_B2.html
+20210430T1759_13.58_121.24,2021-04-30T17:59:00+08:00,13.58,121.24,15.0,2.2,008 km S 24° E of Lobo (Batangas),2021_Earthquake_Information/April/2021_0430_0959_B2.html
+20210430T1803_6.33_125.81,2021-04-30T18:03:00+08:00,6.33,125.81,143.0,3.1,020 km N 39° E of Don Marcelino (Davao Occidental),2021_Earthquake_Information/April/2021_0430_1003_B2.html
+20210430T2002_7.0_125.08,2021-04-30T20:02:00+08:00,7.0,125.08,24.0,1.9,004 km N 07° W of Makilala (Cotabato),2021_Earthquake_Information/April/2021_0430_1202_B2_Cotabato.html
+20210430T2002_8.77_126.61,2021-04-30T20:02:00+08:00,8.77,126.61,18.0,2.6,034 km S 84° E of Marihatag (Surigao Del Sur),2021_Earthquake_Information/April/2021_0430_1202_B2_Surigao_del_Sur.html
+20210430T2212_18.98_121.04,2021-04-30T22:12:00+08:00,18.98,121.04,7.0,2.3,022 km S 50° W of Dalupiri Island (Calayan) (Cagayan),2021_Earthquake_Information/April/2021_0430_1412_B2.html
