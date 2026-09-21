@@ -9,7 +9,7 @@ from datetime import date
 from pathlib import Path
 
 from collector import pagasa_dams, pagasa_regional, pagasa_tcb, phivolcs_eq, phivolcs_volcano
-from collector.store import append_jsonl, upsert_csv
+from collector.store import append_jsonl, replace_csv, upsert_csv
 
 FIX = Path(__file__).parent / "fixtures"
 
@@ -23,7 +23,8 @@ class Earthquakes(unittest.TestCase):
         rows = phivolcs_eq.parse(load("phivolcs_eq.html"))
         self.assertEqual(len(rows), 25)
         first = rows[0]
-        self.assertEqual(first["event_id"], "2026_0921_0058")
+        self.assertEqual(first["event_id"], "20260921T0858_6.51_124.07")
+        self.assertEqual(len({r["event_id"] for r in rows}), 25)
         self.assertEqual(first["datetime_pht"], "2026-09-21T08:58:00+08:00")
         self.assertEqual((first["lat"], first["lon"], first["depth_km"], first["mag"]), ("6.51", "124.07", "1.0", "1.8"))
         self.assertIn("Kalamansig (Sultan Kudarat)", first["location"])
@@ -77,6 +78,11 @@ class Store(unittest.TestCase):
             self.assertEqual(upsert_csv(p, ["k", "v"], rows, ["k"], ["k"]), 0)
             self.assertEqual(upsert_csv(p, ["k", "v"], [{"k": "1", "v": "z"}], ["k"], ["k"]), 1)
             self.assertEqual([r["v"] for r in csv.DictReader(p.read_text().splitlines())], ["z", "b"])
+            q = Path(tmp) / "c.csv"
+            full = [{"k": str(i), "v": "x"} for i in range(100)]
+            self.assertEqual(replace_csv(q, ["k", "v"], full, ["k"]), (100, True))
+            self.assertEqual(replace_csv(q, ["k", "v"], full[:98], ["k"]), (2, True))   # 取得元が 2 件消した
+            self.assertEqual(replace_csv(q, ["k", "v"], full[:50], ["k"]), (0, False))  # 途中で切れたページは書かない
             j = Path(tmp) / "b.jsonl"
             self.assertEqual(append_jsonl(j, [{"id": "x"}, {"id": "y"}], "id"), 2)
             self.assertEqual(append_jsonl(j, [{"id": "y"}, {"id": "z"}], "id"), 1)

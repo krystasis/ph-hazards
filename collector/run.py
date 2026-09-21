@@ -12,7 +12,7 @@ from datetime import datetime, timedelta, timezone
 
 from . import pagasa_dams, pagasa_regional, pagasa_tcb, phivolcs_eq, phivolcs_volcano
 from .fetch import Blocked, fetch, in_cooldown, load_state, save_state
-from .store import DATA, append_jsonl, upsert_csv
+from .store import DATA, append_jsonl, replace_csv, upsert_csv
 
 PHT = timezone(timedelta(hours=8))
 PAUSE_SEC = 2  # 同じホストへ続けて行くときの間隔
@@ -33,6 +33,16 @@ def _finish(key: str, state: dict, now: datetime, resp, ok: bool, note: str) -> 
     save_state(key, state)
 
 
+def save_eq_months(rows: list[dict]) -> tuple[int, bool]:
+    """ページは月の全件を載せているので、月ごとのファイルを丸ごと置き換える。"""
+    changed, ok = 0, True
+    for month in sorted({phivolcs_eq.month_of(r) for r in rows}):
+        part = [r for r in rows if phivolcs_eq.month_of(r) == month]
+        n, fine = replace_csv(DATA / "earthquakes" / f"{month}.csv", phivolcs_eq.FIELDS, part, ["datetime_pht", "event_id"])
+        changed, ok = changed + n, ok and fine
+    return changed, ok
+
+
 def run_eq(now, force) -> tuple[bool, str]:
     key, state = phivolcs_eq.KEY, load_state(phivolcs_eq.KEY)
     if in_cooldown(state, now):
@@ -44,12 +54,9 @@ def run_eq(now, force) -> tuple[bool, str]:
         _finish(key, state, now, resp, True, "304")
         return True, "304 変更なし"
     rows = phivolcs_eq.parse(resp.text)
-    changed = 0
-    for month in sorted({phivolcs_eq.month_of(r) for r in rows}):
-        part = [r for r in rows if phivolcs_eq.month_of(r) == month]
-        changed += upsert_csv(DATA / "earthquakes" / f"{month}.csv", phivolcs_eq.FIELDS, part, ["event_id"], ["datetime_pht", "event_id"])
-    ok = len(rows) > 0
-    note = f"{len(rows)} 行を解析、{changed} 行を更新"
+    changed, ok = save_eq_months(rows)
+    ok = ok and len(rows) > 0
+    note = f"{len(rows)} 行を解析、{changed} 行を更新" + ("" if ok else "(行数が急減。書かずに止めた)")
     _finish(key, state, now, resp, ok, note)
     return ok, note
 

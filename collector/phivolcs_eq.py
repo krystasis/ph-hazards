@@ -15,8 +15,14 @@ FIELDS = ["event_id", "datetime_pht", "lat", "lon", "depth_km", "mag", "location
 _ROW = re.compile(r"<tr[^>]*>(.*?)</tr>", re.S | re.I)
 _TD = re.compile(r"<td[^>]*>(.*?)</td>", re.S | re.I)
 _HREF = re.compile(r'href="([^"]+\.html)"', re.I)
-# 通常は 分 まで(2026_0921_0058)。同じ分に別の地震があると 秒 まで付く(2026_0920_201041)。
-_STEM = re.compile(r"(\d{4}_\d{4}_\d{4,6})")
+_MONTHS = ["January", "February", "March", "April", "May", "June", "July",
+           "August", "September", "October", "November", "December"]
+
+
+def archive_url(month: str) -> str:
+    """'2018-01' → 月別ページの URL。"""
+    y, m = month.split("-")
+    return f"{URL}EQLatest-Monthly/{y}/{y}_{_MONTHS[int(m) - 1]}.html"
 
 
 def _num(s: str) -> str:
@@ -25,7 +31,7 @@ def _num(s: str) -> str:
 
 
 def parse(page: str) -> list[dict]:
-    rows: list[dict] = []
+    rows: dict[str, dict] = {}
     for m in _ROW.finditer(page):
         body = m.group(1)
         href = _HREF.search(body)
@@ -37,22 +43,21 @@ def parse(page: str) -> list[dict]:
             dt = datetime.strptime(when, "%d %B %Y - %I:%M %p")
         except ValueError:
             continue
-        bulletin = href.group(1).replace("\\", "/")
-        stem = _STEM.search(bulletin)
-        rows.append(
-            {
-                # 速報(B1)が確報(B2)に差し替わっても同じ地震として上書きできるよう、版の接尾辞は外す。
-                "event_id": stem.group(1) if stem else dt.strftime("%Y_%m%d_%H%M") + "_pht",
-                "datetime_pht": dt.strftime("%Y-%m-%dT%H:%M:00+08:00"),
-                "lat": _num(cell_text(cells[1])),
-                "lon": _num(cell_text(cells[2])),
-                "depth_km": _num(cell_text(cells[3])),
-                "mag": _num(cell_text(cells[4])),
-                "location": cell_text(cells[5]),
-                "bulletin": bulletin,
-            }
-        )
-    return rows
+        lat, lon = _num(cell_text(cells[1])), _num(cell_text(cells[2]))
+        # リンク先のファイル名は ID に使えない(古い月では別々の地震が同じリンクを共有している)。
+        # 地震そのもの(発生時刻 + 震央)から作る。
+        event_id = f"{dt:%Y%m%dT%H%M}_{lat}_{lon}"
+        rows[event_id] = {
+            "event_id": event_id,
+            "datetime_pht": dt.strftime("%Y-%m-%dT%H:%M:00+08:00"),
+            "lat": lat,
+            "lon": lon,
+            "depth_km": _num(cell_text(cells[3])),
+            "mag": _num(cell_text(cells[4])),
+            "location": cell_text(cells[5]),
+            "bulletin": re.sub(r"^[./\\]+", "", href.group(1).replace("\\", "/")),
+        }
+    return list(rows.values())
 
 
 def month_of(row: dict) -> str:

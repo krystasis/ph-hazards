@@ -48,3 +48,27 @@ def append_jsonl(path: Path, items: list[dict], id_field: str) -> int:
             for i in fresh:
                 f.write(json.dumps(i, ensure_ascii=False, sort_keys=True) + "\n")
     return len(fresh)
+
+
+def replace_csv(path: Path, fields: list[str], rows: list[dict], sort: list[str], min_ratio: float = 0.95) -> tuple[int, bool]:
+    """ファイルを今回の内容で置き換える(取得元の訂正・削除に追従する)。
+
+    行数が急に減ったときは途中で切れたページとみなし、書かずに (0, False) を返す。
+    """
+    old: list[dict] = []
+    if path.exists():
+        with path.open(newline="", encoding="utf-8") as f:
+            old = list(csv.DictReader(f))
+    if old and len(rows) < len(old) * min_ratio:
+        return 0, False
+    new = sorted(({f: str(r.get(f, "")) for f in fields} for r in rows), key=lambda r: tuple(r[s] for s in sort))
+    if new == old:
+        return 0, True
+    old_keys = {tuple(r.items()) for r in old}
+    changed = sum(1 for r in new if tuple(r.items()) not in old_keys) + max(0, len(old) - len(new))
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=fields, lineterminator="\n")
+        w.writeheader()
+        w.writerows(new)
+    return changed, True
