@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.kazuki.ph_hazards.fallback</string>
+	<key>Comment</key>
+	<string>収集の予備。正は GitHub Actions(15 分ごと)で、15 分おきに起動して origin/main の state を見て、40 分以上成功していなければこの Mac が 1 回だけ収集して data/state を push する。正が動いていれば何もしない。失敗時は logs/launchd-fallback.log と docs/ops.md を見る</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/bin/bash</string>
+		<string>-lc</string>
+		<string>cd __REPO__ &amp;&amp; scripts/fallback_collect.sh; s=$?; [ $s -ge 2 ] &amp;&amp; osascript -e 'display notification "fallback_collect.sh が壊れている。logs/launchd-fallback.log を見る" with title "ph_hazards"'; exit $s</string>
+	</array>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>PATH</key>
+		<string>/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin:__HOME__/.local/bin</string>
+	</dict>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StartInterval</key>
+	<integer>900</integer>
+	<key>ProcessType</key>
+	<string>Background</string>
+	<key>Nice</key>
+	<integer>10</integer>
+	<key>LowPriorityIO</key>
+	<true/>
+	<key>StandardOutPath</key>
+	<string>__REPO__/logs/launchd-fallback.log</string>
+	<key>StandardErrorPath</key>
+	<string>__REPO__/logs/launchd-fallback.log</string>
+</dict>
+</plist>
