@@ -5,9 +5,10 @@ and kept as plain files so the git history doubles as a change log.
 
 | Data | Source | Interval |
 |---|---|---|
-| Earthquakes | PHIVOLCS earthquake information | 15 min (conditional GET) |
+| Earthquakes (2018 onward) | PHIVOLCS earthquake information | 15 min (conditional GET); past months loaded once |
 | Thunderstorm advisories / heavy rainfall warnings | PAGASA regional services divisions (5 pages) | 15 min |
 | Dam water levels, flood watch status | PAGASA flood information | 3 h (values are daily) |
+| River water levels (Pasig-Marikina-Tullahan basin, 17 stations) | PAGASA flood forecasting and warning system | 15 min, stored when a value changes |
 | Volcano alert levels | PHIVOLCS volcano monitoring | 1 h, one row per day |
 | Tropical cyclone bulletins | PAGASA severe weather bulletin | 30 min, stored only while active |
 

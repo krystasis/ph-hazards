@@ -1,0 +1,597 @@
+event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
+20180501T0019_10.17_122.4,2018-05-01T00:19:00+08:00,10.17,122.4,4.0,2.2,032 km N ° W of Cauayan (Negros Occidental),2018_Earthquake_Information/April/2018_0430_1619_B1.html
+20180501T0020_9.97_122.26,2018-05-01T00:20:00+08:00,9.97,122.26,24.0,2.4,041 km N 64° W of Candoni (Negros Occidental),2018_Earthquake_Information/April/2018_0430_1620_B2.html
+20180501T0215_5.05_127.18,2018-05-01T02:15:00+08:00,5.05,127.18,120.0,3.6,194 km S 77° E of Sarangani (Davao Occidentall),2018_Earthquake_Information/April/2018_0430_1815_B2.html
+20180501T0341_13.73_120.55,2018-05-01T03:41:00+08:00,13.73,120.55,65.0,2.2,015 km S 40° W of Calatagan (Batangas),2018_Earthquake_Information/April/2018_0430_1941_B2.html
+20180501T0352_10.09_122.18,2018-05-01T03:52:00+08:00,10.09,122.18,3.0,2.6,044 km N 34° W of Sipalay (Negros Occidental),2018_Earthquake_Information/April/2018_0430_1956_B2.html
+20180501T0356_10.19_122.41,2018-05-01T03:56:00+08:00,10.19,122.41,1.0,2.3,033 km N 45° W of Cauayan (Negros Occidental),2018_Earthquake_Information/April/2018_0430_1956_B2.html
+20180501T0416_10.21_122.24,2018-05-01T04:16:00+08:00,10.21,122.24,1.0,2.5,050 km N 58° W of Cauayan (Negros Occidental),2018_Earthquake_Information/April/2018_0430_2016_B2.html
+20180501T0423_10.12_122.17,2018-05-01T04:23:00+08:00,10.12,122.17,1.0,2.9,043 km S 39° E of Anini-y (Antique),2018_Earthquake_Information/April/2018_0430_2022_B2.html
+20180501T0445_4.77_124.99,2018-05-01T04:45:00+08:00,4.77,124.99,23.0,2.7,091 km S 36° W of Sarangani (Davao Occidental),2018_Earthquake_Information/April/2018_0430_2045_B2.html
+20180501T0502_6.96_125.7,2018-05-01T05:02:00+08:00,6.96,125.7,28.0,2.9,13 km S 05° W of Samal (Island Garden City of Samal (Davao Del Norte),2018_Earthquake_Information/April/2018_0430_2102_B2.html
+20180501T0833_9.95_124.25,2018-05-01T08:33:00+08:00,9.95,124.25,33.0,2.2,004 km N 89° E of Danao (Bohol),2018_Earthquake_Information/May/2018_0501_0033_B2.html
+20180501T1759_13.05_124.27,2018-05-01T17:59:00+08:00,13.05,124.27,33.0,1.7,008 km S 83° E of Prieto Diaz (Sorsogon),2018_Earthquake_Information/April/2018_0501_0959_B2.html
+20180501T1951_10.26_122.25,2018-05-01T19:51:00+08:00,10.26,122.25,3.0,3.6,052 km N 53° W of Cauayan (Negros Occidental),2018_Earthquake_Information/April/2018_0501_1151_B2.html
+20180501T2025_10.16_122.36,2018-05-01T20:25:00+08:00,10.16,122.36,3.0,2.1,035 km N 55° W of Cauayan (Negros Occidental),2018_Earthquake_Information/May/2018_0501_1225_B2.html
+20180501T2127_9.73_123.94,2018-05-01T21:27:00+08:00,9.73,123.94,33.0,2.0,005 km S 43° W of Balilihan (Bohol),2018_Earthquake_Information/May/2018_0501_1327_B2.html
+20180501T2132_6.48_126.85,2018-05-01T21:32:00+08:00,6.48,126.85,180.0,3.3,077 km S 36° E of Tarragona (Davao Oriental),2018_Earthquake_Information/May/2018_0501_1332_B2.html
+20180501T2222_16.77_119.85,2018-05-01T22:22:00+08:00,16.77,119.85,30.0,2.5,042 km N 05° W of Bolinao (Pangasinan),2018_Earthquake_Information/May/2018_0501_1422_B2.html
+20180501T2223_9.26_126.91,2018-05-01T22:23:00+08:00,9.26,126.91,1.0,2.6,076 km N 65° E of Bayabas (Surigao Del Sur),2018_Earthquake_Information/May/2018_0501_1423_B2.html
+20180502T0129_6.15_124.69,2018-05-02T01:29:00+08:00,6.15,124.69,26.0,1.7,009 km S 02° E of T'boli (South Cotabato),2018_Earthquake_Information/May/2018_0501_1729_B2.html
+20180502T0147_5.09_127.11,2018-05-02T01:47:00+08:00,5.09,127.11,14.0,2.6,184 km S 63° E of Jose Abad Santos (Davao Occidental),2018_Earthquake_Information/May/2018_0501_1747_B2.html
+20180502T0216_18.54_120.99,2018-05-02T02:16:00+08:00,18.54,120.99,18.0,3.1,005 km S 62° E of Santa Praxedes (Cagayan),2018_Earthquake_Information/May/2018_0501_1816_B2.html
+20180502T0226_3.96_124.71,2018-05-02T02:26:00+08:00,3.96,124.71,364.0,3.0,184 km S 28° W of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0501_1826_B2.html
+20180502T0709_16.81_120.64,2018-05-02T07:09:00+08:00,16.81,120.64,27.0,2.2,014 km S 50° E of Alilem (Ilocos Sur),2018_Earthquake_Information/May/2018_0501_2309_B2.html
+20180502T0728_8.79_126.7,2018-05-02T07:28:00+08:00,8.79,126.7,31.0,2.5,022 km S 89° E of Marihatag (Surigao Del Sur),2018_Earthquake_Information/May/2018_0501_2309_B2.html
+20180502T0948_6.14_126.48,2018-05-02T09:48:00+08:00,6.14,126.48,108.0,2.2,072 km S 38° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0502_0148_B2.html
+20180502T1111_6.71_126.53,2018-05-02T11:11:00+08:00,6.71,126.53,12.0,2.5,039 km S 14° E of Tarragona (Davao Oriental),2018_Earthquake_Information/May/2018_0502_0311_B2.html
+20180502T1134_11.65_125.85,2018-05-02T11:34:00+08:00,11.65,125.85,25.0,2.8,045 km S 75° E of San Julian (Eastern Samar),2018_Earthquake_Information/May/2018_0502_0334_B2.html
+20180502T1326_7.64_127.11,2018-05-02T13:26:00+08:00,7.64,127.11,1.0,3.1,061 km N 84° E of Baganga (Davao Oriental),2018_Earthquake_Information/May/2018_0502_0526_B2.html
+20180502T1556_9.84_124.83,2018-05-02T15:56:00+08:00,9.84,124.83,10.0,2.1,028 km S 72° W of Limasawa (Southern Leyte),2018_Earthquake_Information/May/2018_0502_0756_B2.html
+20180502T1912_4.3_126.23,2018-05-02T19:12:00+08:00,4.3,126.23,1.0,3.3,150 km S 34° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0502_1112_B2.html
+20180502T1938_9.9_124.72,2018-05-02T19:38:00+08:00,9.9,124.72,20.0,2.2,029 km S 27° W of Maasin (Southern Leyte),2018_Earthquake_Information/May/2018_0502_1138_B2.html
+20180502T2121_9.93_126.28,2018-05-02T21:21:00+08:00,9.93,126.28,13.0,3.7,021 km N 41° E of General Luna (Surigao Del Norte),2018_Earthquake_Information/May/2018_0502_1321_B3.html
+20180503T0001_10.65_126.6,2018-05-03T00:01:00+08:00,10.65,126.6,28.0,2.7,091 km N 40° E of Burgos (Surigao Del Norte),2018_Earthquake_Information/May/2018_0502_1601_B2.html
+20180503T0111_11.95_124.06,2018-05-03T01:11:00+08:00,11.95,124.06,1.0,2.7,007 km N 31° E of Pio V. Corpuz (Limbuhan) (Masbate),2018_Earthquake_Information/May/2018_0502_1711_B2.html
+20180503T0208_6.08_126.55,2018-05-03T02:08:00+08:00,6.08,126.55,75.0,2.9,082 km S 40° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0502_1808_B2.html
+20180503T0312_9.49_124.94,2018-05-03T03:12:00+08:00,9.49,124.94,27.0,2.7,036 km N 44° E of Mambajao (Camiguin),2018_Earthquake_Information/May/2018_0502_1912_B2.html
+20180503T0318_11.58_124.21,2018-05-03T03:18:00+08:00,11.58,124.21,13.0,2.8,019 km S 75° W of Almeria (Biliran),2018_Earthquake_Information/May/2018_0502_1918_B2.html
+20180503T1620_5.96_124.12,2018-05-03T16:20:00+08:00,5.96,124.12,570.0,3.7,030 km S 17° W of Palimbang (Sultan Kudarat),2018_Earthquake_Information/May/2018_0503_0820_B3.html
+20180503T2039_17.02_120.73,2018-05-03T20:39:00+08:00,17.02,120.73,26.0,2.3,004 km N 15° W of Cervantes (Ilocos Sur),2018_Earthquake_Information/May/2018_0503_1239_B2.html
+20180503T2238_7.9_127.42,2018-05-03T22:38:00+08:00,7.9,127.42,1.0,3.0,101 km N 69° E of Baganga (Davao Oriental),2018_Earthquake_Information/May/2018_0503_1438_B2.html
+20180504T0046_11.03_124.73,2018-05-04T00:46:00+08:00,11.03,124.73,6.0,2.3,014 km N 19° E of Albuera (Leyte),2018_Earthquake_Information/May/2018_0503_1646_B2.html
+20180504T0259_6.14_125.75,2018-05-04T02:59:00+08:00,6.14,125.75,148.0,2.9,024 km N 62° E of Jose Abad Santos (Davao Occidental),2018_Earthquake_Information/May/2018_0503_1859_B2.html
+20180504T0523_13.84_124.01,2018-05-04T05:23:00+08:00,13.84,124.01,8.0,3.0,012 km N 38° E of Caramoan (Camarines Surl),2018_Earthquake_Information/May/2018_0503_2123_B2.html
+20180504T0535_9.45_125.59,2018-05-04T05:35:00+08:00,9.45,125.59,15.0,3.0,002 km S 47° E of Kitcharao (Agusan Del Norte),2018_Earthquake_Information/May/2018_0503_2135_B2.html
+20180504T0540_5.9_126.97,2018-05-04T05:40:00+08:00,5.9,126.97,20.0,2.7,130 km S 50° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0503_2140_B2.html
+20180504T0546_7.73_124.62,2018-05-04T05:46:00+08:00,7.73,124.62,1.0,2.1,017 km S 57° W of Wao (Lanao Del Sur),2018_Earthquake_Information/May/2018_0503_2146_B2.html
+20180504T0844_13.59_120.7,2018-05-04T08:44:00+08:00,13.59,120.7,113.0,3.7,016 km N 12° W of Abra De Ilog (Occidental Mindoro),2018_Earthquake_Information/May/2018_0504_0044_B3.html
+20180504T1332_13.21_125.06,2018-05-04T13:32:00+08:00,13.21,125.06,23.0,2.4,071 km N 04° E of Laoang (Northern Samar),2018_Earthquake_Information/May/2018_0504_0532_B2.html
+20180504T1637_13.31_122.16,2018-05-04T16:37:00+08:00,13.31,122.16,1.0,2.2,008 km S 76° E of Torrijos (Marinduque),2018_Earthquake_Information/May/2018_0504_0837_B2.html
+20180504T1857_12.96_124.58,2018-05-04T18:57:00+08:00,12.96,124.58,18.0,2.1,039 km N 38° E of Biri (Northern Samar),2018_Earthquake_Information/May/2018_0504_1057_B2.html
+20180504T1918_5.35_127.44,2018-05-04T19:18:00+08:00,5.35,127.44,157.0,3.7,217 km S 30° E of Tarragona (Davao Oriental),2018_Earthquake_Information/May/2018_0504_1118_B2.html
+20180504T2028_11.47_124.38,2018-05-04T20:28:00+08:00,11.47,124.38,8.0,2.8,006 km N 62° W of Calubian (Leyte),2018_Earthquake_Information/May/2018_0504_1228_B2.html
+20180504T2129_13.62_120.66,2018-05-04T21:29:00+08:00,13.62,120.66,158.0,3.1,023 km S 07° E of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0504_1329_B2.html
+20180504T2333_19.19_121.27,2018-05-04T23:33:00+08:00,19.19,121.27,19.0,2.8,023 km S 65° W of Calayan (Cagayan),2018_Earthquake_Information/May/2018_0504_1533_B2.html
+20180505T0337_9.94_125.44,2018-05-05T03:37:00+08:00,9.94,125.44,28.0,2.2,018 km S 58° W of San Jose (Dinagat),2018_Earthquake_Information/May/2018_0504_1937_B2.html
+20180505T0536_9.68_126.19,2018-05-05T05:36:00+08:00,9.68,126.19,24.0,2.4,012 km S 20° E of General Luna (Surigao Del Norte),2018_Earthquake_Information/May/2018_0504_2136_B2.html
+20180505T0546_15.33_120.1,2018-05-05T05:46:00+08:00,15.33,120.1,24.0,2.3,013 km S 89° E of Iba (Zambales),2018_Earthquake_Information/May/2018_0504_2146_B2.html
+20180505T0608_11.28_124.84,2018-05-05T06:08:00+08:00,11.28,124.84,5.0,2.5,012 km N 33° E of Jaro (Leyte),2018_Earthquake_Information/May/2018_0504_2208_B2.html
+20180505T0925_13.49_120.35,2018-05-05T09:25:00+08:00,13.49,120.35,12.0,2.1,027 km S 23° E of Looc (Occidental Mindoro),2018_Earthquake_Information/May/2018_0505_0125_B2.html
+20180505T1018_13.51_124.46,2018-05-05T10:18:00+08:00,13.51,124.46,39.0,4.6,019 km S 30° E of Baras (Catanduanes),2018_Earthquake_Information/May/2018_0505_0218_B4F.html
+20180505T1036_13.48_124.53,2018-05-05T10:36:00+08:00,13.48,124.53,30.0,2.6,026 km S 41° E of Baras (Catanduanes),2018_Earthquake_Information/May/2018_0505_0236_B2.html
+20180505T1133_10.21_125.64,2018-05-05T11:33:00+08:00,10.21,125.64,94.0,2.5,012 km N 84° E of Libjo (Albor) (Surigao Del Norte),2018_Earthquake_Information/May/2018_0505_0333_B2.html
+20180505T1325_15.62_121.04,2018-05-05T13:25:00+08:00,15.62,121.04,3.0,2.3,006 km S 29° E of Llanera (Nueva Ecija),2018_Earthquake_Information/May/2018_0505_0525_B2.html
+20180505T1331_8.83_125.8,2018-05-05T13:31:00+08:00,8.83,125.8,17.0,2.9,014 km N 23° E of Bayugan City (Agusan Del Sur),2018_Earthquake_Information/May/2018_0505_0531_B2.html
+20180505T1419_14.43_123.96,2018-05-05T14:19:00+08:00,14.43,123.96,16.0,6.0,047 km N 28° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0505_0619_B4F.html
+20180505T1421_14.44_123.97,2018-05-05T14:21:00+08:00,14.44,123.97,1.0,3.3,048 km N 27° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0505_0621_B2.html
+20180505T1424_14.47_124.0,2018-05-05T14:24:00+08:00,14.47,124.0,4.0,1.8,050 km N 21° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0505_0624_B2.html
+20180505T1425_14.47_123.94,2018-05-05T14:25:00+08:00,14.47,123.94,1.0,2.4,052 km N 28° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0505_0625_B2.html
+20180505T1525_14.39_123.9,2018-05-05T15:25:00+08:00,14.39,123.9,2.0,2.5,048 km N 38° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0505_0725_B2.html
+20180505T1721_14.39_123.86,2018-05-05T17:21:00+08:00,14.39,123.86,1.0,2.2,051 km N 41° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0505_0921_B2.html
+20180505T1730_6.17_124.86,2018-05-05T17:30:00+08:00,6.17,124.86,30.0,1.5,018 km S 52° E of Lake Sebu (South Cotobato),2018_Earthquake_Information/May/2018_0505_0930_B2.html
+20180505T1756_14.34_123.83,2018-05-05T17:56:00+08:00,14.34,123.83,1.0,2.7,049 km N 48° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0505_0956_B2.html
+20180505T1758_6.75_123.69,2018-05-05T17:58:00+08:00,6.75,123.69,602.0,3.6,046 km S 81° W of South Upi (Maguindanao),2018_Earthquake_Information/May/2018_0505_0958_B2.html
+20180505T1826_13.17_124.12,2018-05-05T18:26:00+08:00,13.17,124.12,5.0,2.3,002 km S 14° W of Rapu - Rapu (Albay),2018_Earthquake_Information/May/2018_0505_1026_B2.html
+20180505T1944_13.58_120.83,2018-05-05T19:44:00+08:00,13.58,120.83,14.0,1.5,010 km S 28° W of Tingloy (Batangas),2018_Earthquake_Information/May/2018_0505_1144_B2.html
+20180505T2030_9.82_125.41,2018-05-05T20:30:00+08:00,9.82,125.41,30.0,2.0,005 km N 11° W of San Francisco (Surigao del Norte),2018_Earthquake_Information/May/2018_0505_1230_B2.html
+20180505T2146_6.04_126.14,2018-05-05T21:46:00+08:00,6.04,126.14,1.0,2.4,052 km S 71° E of Don Marcelino (Davao Occidental),2018_Earthquake_Information/May/2018_0505_1346_B1.html
+20180505T2230_16.37_120.62,2018-05-05T22:30:00+08:00,16.37,120.62,23.0,2.2,004 km S 33° E of Baguio City (Benguet),2018_Earthquake_Information/May/2018_0505_1430_B2.html
+20180505T2241_8.36_126.57,2018-05-05T22:41:00+08:00,8.36,126.57,42.0,3.1,025 km S 88° E of Hinatuan (Surigao Del Sur),2018_Earthquake_Information/May/2018_0505_1441_B2.html
+20180505T2340_14.31_123.85,2018-05-05T23:40:00+08:00,14.31,123.85,1.0,2.4,045 km N 50° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0505_1540_B2.html
+20180506T0000_14.4_123.85,2018-05-06T00:00:00+08:00,14.4,123.85,1.0,2.2,051 km N 41° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0505_1600_B2.html
+20180506T0003_5.72_124.95,2018-05-06T00:03:00+08:00,5.72,124.95,19.0,2.3,017 km S 23° W of Maasim (Sarangani),2018_Earthquake_Information/May/2018_0505_1603_B2.html
+20180506T0009_9.86_124.07,2018-05-06T00:09:00+08:00,9.86,124.07,8.0,2.1,007 km S 87° E of Catigbian (Bohol),2018_Earthquake_Information/May/2018_0505_1609_B2.html
+20180506T0016_13.47_122.23,2018-05-06T00:16:00+08:00,13.47,122.23,26.0,1.5,018 km S 40° W of Catanauan (Quezon),2018_Earthquake_Information/May/2018_0505_1616_B2.html
+20180506T0112_13.58_120.54,2018-05-06T01:12:00+08:00,13.58,120.54,41.0,2.0,020 km N 22° E of Paluan (Occidental Mindoro),2018_Earthquake_Information/May/2018_0505_1712_B2.html
+20180506T0118_9.43_123.3,2018-05-06T01:18:00+08:00,9.43,123.3,27.0,2.4,007 km N 60° E of San Jose (Negros Oriental),2018_Earthquake_Information/May/2018_0505_1718_B1.html
+20180506T0219_14.42_123.94,2018-05-06T02:19:00+08:00,14.42,123.94,1.0,2.4,048 km N 31° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0505_1819_B2.html
+20180506T0319_15.99_120.34,2018-05-06T03:19:00+08:00,15.99,120.34,18.0,2.9,003 km S 38° W of Calasiao (Pangasinan),2018_Earthquake_Information/May/2018_0505_1919_B2.html
+20180506T0321_9.15_123.04,2018-05-06T03:21:00+08:00,9.15,123.04,29.0,2.0,008 km N 05° E of Siaton (Negros Oriental),2018_Earthquake_Information/May/2018_0505_1921_B2.html
+20180506T0344_5.83_123.72,2018-05-06T03:44:00+08:00,5.83,123.72,21.0,2.3,068 km S 51° W of Palimbang (Sultan Kudarat),2018_Earthquake_Information/May/2018_0505_1944_B2.html
+20180506T0404_11.12_122.68,2018-05-06T04:04:00+08:00,11.12,122.68,26.0,2.3,005 km N 76° E of Passi (Iloilo),2018_Earthquake_Information/May/2018_0505_2004_B2.html
+20180506T0527_7.02_124.05,2018-05-06T05:27:00+08:00,7.02,124.05,618.0,4.1,012 km N 89° W of Upi (Maguindanao),2018_Earthquake_Information/May/2018_0505_2127_B2.html
+20180506T0706_13.65_124.56,2018-05-06T07:06:00+08:00,13.65,124.56,7.0,2.1,020 km S 88° E of Baras (Catanduanes),2018_Earthquake_Information/May/2018_0505_2306_B2.html
+20180506T0719_5.91_126.7,2018-05-06T07:19:00+08:00,5.91,126.7,20.0,2.8,107 km S 40° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0505_2319_B2.html
+20180506T0735_7.14_126.5,2018-05-06T07:35:00+08:00,7.14,126.5,119.0,2.7,009 km S 24° W of Manay (Davao Oriental),2018_Earthquake_Information/May/2018_0505_2335_B2.html
+20180506T0739_14.71_120.02,2018-05-06T07:39:00+08:00,14.71,120.02,26.0,2.8,027 km N 84° W of Morong (Bataan),2018_Earthquake_Information/May/2018_0505_2339_B2.html
+20180506T1119_11.12_124.64,2018-05-06T11:19:00+08:00,11.12,124.64,11.0,2.3,017 km S 62° W of Jaro (Leyte),2018_Earthquake_Information/May/2018_0506_0319_B2.html
+20180506T1148_14.51_124.05,2018-05-06T11:48:00+08:00,14.51,124.05,8.0,2.3,052 km N 15° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0506_0348_B2.html
+20180506T1259_11.28_124.6,2018-05-06T12:59:00+08:00,11.28,124.6,0.0,2.5,005 km S 65° W of Capoocan (Leyte),2018_Earthquake_Information/May/2018_0506_0459_B2.html
+20180506T1455_13.83_120.57,2018-05-06T14:55:00+08:00,13.83,120.57,102.0,2.2,007 km N 89° W of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0506_0655_B2.html
+20180506T1456_13.85_123.8,2018-05-06T14:56:00+08:00,13.85,123.8,51.0,2.5,012 km S 66° E of Gatchitorena (Camarines Sur),2018_Earthquake_Information/May/2018_0506_0656_B2.html
+20180506T2019_8.98_126.45,2018-05-06T20:19:00+08:00,8.98,126.45,17.0,3.6,019 km N 85° E of Bayabas (Surigao Del Sur),2018_Earthquake_Information/May/2018_0506_1219_B2.html
+20180506T2123_11.21_124.67,2018-05-06T21:23:00+08:00,11.21,124.67,19.0,2.7,009 km S 66° W of Tunga (Leyte),2018_Earthquake_Information/May/2018_0506_1323_B2.html
+20180506T2209_9.88_123.01,2018-05-06T22:09:00+08:00,9.88,123.01,32.0,1.7,013 km S 42° E of Mabinay (Negros Oriental),2018_Earthquake_Information/May/2018_0506_1409_B2.html
+20180506T2233_10.31_125.2,2018-05-06T22:33:00+08:00,10.31,125.2,43.0,2.7,006 km N 33° E of Cabalian (San Juan) (Southern Leyte),2018_Earthquake_Information/May/2018_0506_1433_B2.html
+20180506T2307_14.44_123.88,2018-05-06T23:07:00+08:00,14.44,123.88,1.0,2.1,054 km N 36° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0506_1507_B2.html
+20180506T2331_7.75_127.28,2018-05-06T23:31:00+08:00,7.75,127.28,29.0,3.2,081 km N 76° E of Baganga (Davao Oriental),2018_Earthquake_Information/May/2018_0506_1531_B2.html
+20180507T0016_19.14_121.02,2018-05-07T00:16:00+08:00,19.14,121.02,13.0,3.1,049 km S 72° W of Calayan (Cagayan),2018_Earthquake_Information/May/2018_0506_1616_B2.html
+20180507T0035_7.58_124.44,2018-05-07T00:35:00+08:00,7.58,124.44,1.0,2.9,012 km N 46° E of Buldon (Maguindanao),2018_Earthquake_Information/May/2018_0506_1635_B2.html
+20180507T0217_14.47_123.97,2018-05-07T02:17:00+08:00,14.47,123.97,1.0,2.4,052 km N 24° W of Pandan (Cataduanes),2018_Earthquake_Information/May/2018_0506_1817_B2.html
+20180507T0358_18.93_121.17,2018-05-07T03:58:00+08:00,18.93,121.17,9.0,2.4,037 km N 15° E of Claveria (Cagayan),2018_Earthquake_Information/May/2018_0506_1958_B2.html
+20180507T0836_8.95_126.63,2018-05-07T08:36:00+08:00,8.95,126.63,25.0,2.8,036 km N 85° E of Cagwait (Surigao Del Sur),2018_Earthquake_Information/May/2018_0507_0036_B2.html
+20180507T0841_14.45_123.84,2018-05-07T08:41:00+08:00,14.45,123.84,1.0,2.0,057 km N 39° W of Pandan (Cataduanes),2018_Earthquake_Information/May/2018_0507_0041_B2.html
+20180507T1120_16.37_122.21,2018-05-07T11:20:00+08:00,16.37,122.21,50.0,2.4,003 km S 04° W of Dilasag (Aurora),2018_Earthquake_Information/May/2018_0507_0320_B2.html
+20180507T2127_11.03_123.88,2018-05-07T21:27:00+08:00,11.03,123.88,29.0,2.3,008 km S 50° W of San Remigio (Cebu),2018_Earthquake_Information/May/2018_0507_1327_B2.html
+20180507T2156_14.74_123.99,2018-05-07T21:56:00+08:00,14.74,123.99,41.0,2.0,079 km N 14° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0507_1356_B2.html
+20180507T2306_13.65_120.95,2018-05-07T23:06:00+08:00,13.65,120.95,13.0,2.3,009 km S 81° E of Tingloy (Batangas),2018_Earthquake_Information/May/2018_0507_1506_B2.html
+20180508T0012_13.11_124.21,2018-05-08T00:12:00+08:00,13.11,124.21,75.0,2.0,007 km N 19° E of Prieto Diaz (Sorsogon),2018_Earthquake_Information/May/2018_0507_1612_B2.html
+20180508T0034_9.3_126.07,2018-05-08T00:34:00+08:00,9.3,126.07,123.0,2.3,014 km N 77° W of Cortes (Surigao del Sur),2018_Earthquake_Information/May/2018_0508_0434_B2.html
+20180508T0052_10.76_124.91,2018-05-08T00:52:00+08:00,10.76,124.91,31.0,2.3,011 km N 82° W of Abuyog (Leyte),2018_Earthquake_Information/May/2018_0507_1652_B2.html
+20180508T0633_6.67_126.94,2018-05-08T06:33:00+08:00,6.67,126.94,31.0,3.0,069 km S 53° E of Tarragona (Davao Oriental),2018_Earthquake_Information/May/2018_0507_2233_B2.html
+20180508T0720_6.4_126.87,2018-05-08T07:20:00+08:00,6.4,126.87,14.0,2.4,085 km S 33° E of Tarragona (Davao Oriental),2018_Earthquake_Information/May/2018_0507_2320_B2.html
+20180508T1050_13.88_120.54,2018-05-08T10:50:00+08:00,13.88,120.54,93.0,2.1,011 km N 64° W of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0508_0250_B2.html
+20180508T1116_13.09_120.65,2018-05-08T11:16:00+08:00,13.09,120.65,31.0,2.4,008 km N 87° W of Santa Cruz (Occidental Mindoro),2018_Earthquake_Information/May/2018_0508_0316_B2.html
+20180508T1119_9.82_124.1,2018-05-08T11:19:00+08:00,9.82,124.1,34.0,2.0,007 km N 53° W of Batuan (Bohol),2018_Earthquake_Information/May/2018_0508_0319_B2.html
+20180508T1153_9.18_122.29,2018-05-08T11:53:00+08:00,9.18,122.29,6.0,2.6,047 km S 29° W of Hinoba-an (Negros Occidental),2018_Earthquake_Information/May/2018_0508_0353_B2.html
+20180508T1329_10.38_125.04,2018-05-08T13:29:00+08:00,10.38,125.04,1.0,3.5,009 km N 09° W of Libagon (Southern Leyte),2018_Earthquake_Information/May/2018_0508_0529_B3F.html
+20180508T1536_10.37_125.08,2018-05-08T15:36:00+08:00,10.37,125.08,1.0,2.9,008 km N 27° E of Libagon (Southern Leyte),2018_Earthquake_Information/May/2018_0508_0736_B2.html
+20180508T1720_17.24_120.12,2018-05-08T17:20:00+08:00,17.24,120.12,19.0,2.3,035 km N 81° W of Candon City (Ilocos Sur),2018_Earthquake_Information/May/2018_0508_0920_B2.html
+20180508T1844_14.51_124.1,2018-05-08T18:44:00+08:00,14.51,124.1,6.0,2.2,052 km N 08° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0508_1044_B2.html
+20180508T1924_14.5_124.01,2018-05-08T19:24:00+08:00,14.5,124.01,1.0,2.0,053 km N 19° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0508_1124_B2.html
+20180508T1932_7.54_124.53,2018-05-08T19:32:00+08:00,7.54,124.53,33.0,1.7,018 km N 80° E of Buldon (Maguindanao),2018_Earthquake_Information/May/2018_0508_1132_B2.html
+20180508T2029_14.54_124.03,2018-05-08T20:29:00+08:00,14.54,124.03,1.0,3.8,056 km N 15° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0508_1229_B2.html
+20180508T2044_13.05_125.05,2018-05-08T20:44:00+08:00,13.05,125.05,45.0,2.7,055 km N 14° E of Pambujan (Northern Samar),2018_Earthquake_Information/May/2018_0508_1244_B2.html
+20180508T2109_14.5_124.02,2018-05-08T21:09:00+08:00,14.5,124.02,1.0,3.5,052 km N 18° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0508_1309_B2.html
+20180508T2314_17.76_120.45,2018-05-08T23:14:00+08:00,17.76,120.45,62.0,2.3,002 km N 34° W of Lopog (San Juan) (Ilocos Sur),2018_Earthquake_Information/May/2018_0508_1514_B2.html
+20180508T2315_14.1_120.78,2018-05-08T23:15:00+08:00,14.1,120.78,31.0,1.6,009 km S 62° W of Alfonso (Cavite),2018_Earthquake_Information/May/2018_0508_1515_B2.html
+20180508T2319_10.24_125.09,2018-05-08T23:19:00+08:00,10.24,125.09,33.0,3.2,007 km S 49° W of Saint Bernard (Southern Leyte),2018_Earthquake_Information/May/2018_0508_1519_B2.html
+20180508T2322_12.66_123.4,2018-05-08T23:22:00+08:00,12.66,123.4,54.0,2.0,016 km N 01° E of Aroroy (Masbate),2018_Earthquake_Information/May/2018_0508_1522_B2.html
+20180509T0020_13.57_121.44,2018-05-09T00:20:00+08:00,13.57,121.44,28.0,2.6,023 km S 69° E of Lobo (Batangas),2018_Earthquake_Information/May/2018_0508_1620_B2.html
+20180509T0101_13.55_120.62,2018-05-09T01:01:00+08:00,13.55,120.62,153.0,2.7,017 km N 46° W of Abra De Ilog (Occidental Mindoro),2018_Earthquake_Information/May/2018_0508_1701_B2.html
+20180509T0107_8.21_125.83,2018-05-09T01:07:00+08:00,8.21,125.83,34.0,3.2,004 km N 34° W of Loreto (Agusan Del Sur),2018_Earthquake_Information/May/2018_0508_1707_B2.html
+20180509T0108_13.61_120.46,2018-05-09T01:08:00+08:00,13.61,120.46,31.0,3.5,026 km S 62° E of Looc (Occidental Mindoro),2018_Earthquake_Information/May/2018_0508_1708_B2.html
+20180509T0114_18.36_120.46,2018-05-09T01:14:00+08:00,18.36,120.46,27.0,3.2,017 km N 80° W of Pasuquin (Ilocos Norte),2018_Earthquake_Information/May/2018_0508_1714_B2.html
+20180509T0157_9.93_126.18,2018-05-09T01:57:00+08:00,9.93,126.18,48.0,2.2,019 km S 79° E of San Benito (Surigao Del Norte),2018_Earthquake_Information/May/2018_0508_1757_B2.html
+20180509T0223_13.63_120.65,2018-05-09T02:23:00+08:00,13.63,120.65,31.0,2.1,022 km N 25° W of Abra De Ilog (Occidental Mindoro),2018_Earthquake_Information/May/2018_0508_1823_B2.html
+20180509T0235_15.49_119.69,2018-05-09T02:35:00+08:00,15.49,119.69,15.0,2.6,024 km N 74° W of Palauig (Zambales),2018_Earthquake_Information/May/2018_0508_1835_B2.html
+20180509T0240_13.64_120.65,2018-05-09T02:40:00+08:00,13.64,120.65,33.0,2.0,021 km S 05° E of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0508_1840_B2.html
+20180509T0316_5.49_126.46,2018-05-09T03:16:00+08:00,5.49,126.46,127.0,3.1,109 km N 87° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0508_1916_B2.html
+20180509T0320_10.13_124.87,2018-05-09T03:20:00+08:00,10.13,124.87,32.0,2.4,004km S 83° E of Maasin (Southern Leyte),2018_Earthquake_Information/May/2018_0508_1920_B2.html
+20180509T0402_10.1_123.52,2018-05-09T04:02:00+08:00,10.1,123.52,16.0,2.2,002km S 31° E of Barili (Cebu),2018_Earthquake_Information/May/2018_0508_2002_B2.html
+20180509T0404_20.2_120.29,2018-05-09T04:04:00+08:00,20.2,120.29,42.0,3.2,160km N 51° W of Calayan (Cagayan),2018_Earthquake_Information/May/2018_0508_2004_B2.html
+20180509T0404_9.37_122.61,2018-05-09T04:04:00+08:00,9.37,122.61,9.0,2.0,006km S 35° W of Basay (Negros Oriental),2018_Earthquake_Information/May/2018_0508_2004_B2.html
+20180509T0529_7.07_126.82,2018-05-09T05:29:00+08:00,7.07,126.82,7.0,3.6,035km S 62° E of Manay (Davao Oriental),2018_Earthquake_Information/May/2018_0508_2129_B2.html
+20180509T0545_7.78_126.13,2018-05-09T05:45:00+08:00,7.78,126.13,12.0,3.0,011km S 85° E of Monkayo (Compostela Valley),2018_Earthquake_Information/May/2018_0508_2145_B2.html
+20180509T1047_13.58_120.62,2018-05-09T10:47:00+08:00,13.58,120.62,105.0,2.5,020km N 39° W of Abra de Ilog (Occidental Mindoro),2018_Earthquake_Information/May/2018_0509_0247_B2.html
+20180509T1203_12.62_120.65,2018-05-09T12:03:00+08:00,12.62,120.65,4.0,2.5,026km S 28° W of Sablayan (Occidental Mindoro),2018_Earthquake_Information/May/2018_0509_0403_B3.html
+20180509T1255_5.99_124.71,2018-05-09T12:55:00+08:00,5.99,124.71,20.0,2.0,010km N 89° E of Kiamba (Sarangani),2018_Earthquake_Information/May/2018_0509_0455_B2.html
+20180509T1315_16.81_120.03,2018-05-09T13:15:00+08:00,16.81,120.03,17.0,2.4,036km N 74° W of Bacnotan (La Union),2018_Earthquake_Information/May/2018_0509_0515_B3.html
+20180509T1528_10.27_122.27,2018-05-09T15:28:00+08:00,10.27,122.27,5.0,2.5,038 km S 22° E of San Joaquin (Iloilo),2018_Earthquake_Information/May/2018_0509_0728_B2.html
+20180509T1538_7.69_124.8,2018-05-09T15:38:00+08:00,7.69,124.8,1.0,3.2,007 km S 44° E of Kalilangan (Bukidnon),2018_Earthquake_Information/May/2018_0509_0738_B4F.html
+20180509T1539_7.69_124.68,2018-05-09T15:39:00+08:00,7.69,124.68,1.0,3.5,009 km N 60° W of Wao (Lanao del Sur),2018_Earthquake_Information/May/2018_0509_0739_B3F.html
+20180509T2021_18.1_120.72,2018-05-09T20:21:00+08:00,18.1,120.72,27.0,2.4,018 km S 50° E of Laoag City (Ilocos Norte),2018_Earthquake_Information/May/2018_0509_1222_B2.html
+20180509T2151_19.04_121.23,2018-05-09T21:51:00+08:00,19.04,121.23,11.0,2.1,036 km S 42° W of Calayan (Cagayan),2018_Earthquake_Information/May/2018_0509_1351_B2.html
+20180509T2347_7.69_124.76,2018-05-09T23:47:00+08:00,7.69,124.76,1.0,2.8,005 km N 12° E of Wao (Lanao Del Sur),2018_Earthquake_Information/May/2018_0509_1547_B2_Mindanao.html
+20180509T2348_13.53_123.11,2018-05-09T23:48:00+08:00,13.53,123.11,17.0,2.1,007 km N 78° E of Pasacao (Camarines Sur),2018_Earthquake_Information/May/2018_0509_1548_B2.html
+20180509T2359_7.68_124.83,2018-05-09T23:59:00+08:00,7.68,124.83,7.0,2.6,009 km N 64° E of Wao (Lanao Del Sur),2018_Earthquake_Information/May/2018_0509_1559_B2.html
+20180510T0002_5.75_124.98,2018-05-10T00:02:00+08:00,5.75,124.98,12.0,2.7,013 km S 13° W of Maasim (Sarangani),2018_Earthquake_Information/May/2018_0509_1602_B2.html
+20180510T0118_9.92_125.45,2018-05-10T01:18:00+08:00,9.92,125.45,33.0,2.0,016 km S 72° W of Dinagat (Dinagat),2018_Earthquake_Information/May/2018_0509_1718_B2.html
+20180510T0128_13.58_120.62,2018-05-10T01:28:00+08:00,13.58,120.62,21.0,3.6,019 km N 38° W of Abra De Ilog (Occidental Mindoro),2018_Earthquake_Information/May/2018_0509_1728_B2.html
+20180510T0255_13.68_122.57,2018-05-10T02:55:00+08:00,13.68,122.57,1.0,2.7,012 km N 02° E of San Narciso (Quezon),2018_Earthquake_Information/May/2018_0509_1855_B2.html
+20180510T0315_17.74_120.4,2018-05-10T03:15:00+08:00,17.74,120.4,35.0,2.8,006 km N 89° W of Lapog (San Juan) (Ilocos Sur),2018_Earthquake_Information/May/2018_0509_1915_B2.html
+20180510T1033_10.08_125.36,2018-05-10T10:33:00+08:00,10.08,125.36,9.0,2.9,015 km N 39° E of Pintuyan (Southern Leyte),2018_Earthquake_Information/May/2018_0510_0233_B2.html
+20180510T1107_16.37_120.8,2018-05-10T11:07:00+08:00,16.37,120.8,9.0,2.6,015 km S 87° E of Itogon (Benguet),2018_Earthquake_Information/May/2018_0510_0307_B2.html
+20180510T1131_18.58_120.89,2018-05-10T11:31:00+08:00,18.58,120.89,10.0,2.1,007 km N 68° W of Santa Praxedes (Cagayan),2018_Earthquake_Information/May/2018_0510_0331_B2.html
+20180510T1135_14.74_121.96,2018-05-10T11:35:00+08:00,14.74,121.96,24.0,2.3,004 km N 49° E of Polilio (Quezon),2018_Earthquake_Information/May/2018_0510_0335_B2.html
+20180510T1341_10.2_125.91,2018-05-10T13:41:00+08:00,10.2,125.91,27.0,2.7,024 km N 36° W of Santa Monica (Sapao) (Surigao del Norte),2018_Earthquake_Information/May/2018_0510_0541_B2.html
+20180510T1349_17.44_121.3,2018-05-10T13:49:00+08:00,17.44,121.3,31.0,2.3,016 km N 88° W of Tabuk (Kalinga),2018_Earthquake_Information/May/2018_0510_0549_B2.html
+20180510T1410_8.9_127.34,2018-05-10T14:10:00+08:00,8.9,127.34,34.0,3.0,114 km N 89° E of Cagwait (Surigao del Sur),2018_Earthquake_Information/May/2018_0510_0610_B2.html
+20180510T1637_5.99_125.73,2018-05-10T16:37:00+08:00,5.99,125.73,145.0,4.0,017 km N 45° E of Jose Abad Santos (Davao Occidental),2018_Earthquake_Information/May/2018_0510_0837_B2.html
+20180510T1712_9.98_123.1,2018-05-10T17:12:00+08:00,9.98,123.1,22.0,2.0,009 km N 53° W of Tayasan (Negros Oriental),2018_Earthquake_Information/May/2018_0510_0912_B2.html
+20180510T1908_14.29_125.18,2018-05-10T19:08:00+08:00,14.29,125.18,33.0,2.8,102 km N 57° E of Gigmoto (Catanduanes),2018_Earthquake_Information/May/2018_0511_0739_B1.html
+20180510T1947_11.18_124.69,2018-05-10T19:47:00+08:00,11.18,124.69,6.0,2.9,010 km S 85° W of Jaro (Leyte),2018_Earthquake_Information/May/2018_0510_1147_B2.html
+20180510T1956_10.12_125.53,2018-05-10T19:56:00+08:00,10.12,125.53,16.0,5.7,009 km S 07° W of Libjo (Dinagat Islands),2018_Earthquake_Information/May/2018_0510_1156_B5F.html
+20180510T2302_16.46_122.37,2018-05-10T23:02:00+08:00,16.46,122.37,36.0,2.6,013 km S 55° E of Dinapigue (Isabela),2018_Earthquake_Information/May/2018_0510_1502_B2.html
+20180510T2339_10.43_125.12,2018-05-10T23:39:00+08:00,10.43,125.12,32.0,2.1,009 km N 65° W of Hinunangan (Southern Leyte),2018_Earthquake_Information/May/2018_0510_1539_B2.html
+20180510T2344_13.56_120.69,2018-05-10T23:44:00+08:00,13.56,120.69,194.0,3.4,013 km N 18° W of Abra De Ilog (Occidental Mindoro),2018_Earthquake_Information/May/2018_0510_1544_B2.html
+20180511T0038_13.26_122.19,2018-05-11T00:38:00+08:00,13.26,122.19,17.0,2.2,013 km S 56° E of Torrijos (Marinduque),2018_Earthquake_Information/May/2018_0510_1638_B2.html
+20180511T0042_18.81_120.99,2018-05-11T00:42:00+08:00,18.81,120.99,21.0,3.0,024 km N 24° W of Claveria (Cagayan),2018_Earthquake_Information/May/2018_0510_1642_B2.html
+20180511T0109_6.36_126.2,2018-05-11T01:09:00+08:00,6.36,126.2,20.0,3.0,034 km S 23° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0510_1709_B2.html
+20180511T0113_6.32_126.91,2018-05-11T01:13:00+08:00,6.32,126.91,26.0,3.1,039 km S 19° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0510_1713_B2.html
+20180511T0121_16.48_122.35,2018-05-11T01:21:00+08:00,16.48,122.35,37.0,2.5,011 km S 61° E of Dinapigue (Isabela),2018_Earthquake_Information/May/2018_0510_1721_B2.html
+20180511T0202_6.69_124.14,2018-05-11T02:02:00+08:00,6.69,124.14,527.0,5.9,014 km S 44° E of South Upi (Maguindanao),2018_Earthquake_Information/May/2018_0510_1802_B2.html
+20180511T0226_7.94_125.0,2018-05-11T02:26:00+08:00,7.94,125.0,9.0,3.2,024 km N 62° E of Pangantucan (Bukidnon),2018_Earthquake_Information/May/2018_0510_1826_B2.html
+20180511T0308_5.85_124.99,2018-05-11T03:08:00+08:00,5.85,124.99,61.0,2.4,002 km S 63° W of Maasim (Sarangani),2018_Earthquake_Information/May/2018_0510_1908_B2.html
+20180511T0314_19.11_121.21,2018-05-11T03:14:00+08:00,19.11,121.21,16.0,2.5,032 km S 55° W of Calayan (Cagayan),2018_Earthquake_Information/May/2018_0510_1914_B2.html
+20180511T0403_13.66_125.13,2018-05-11T04:03:00+08:00,13.66,125.13,28.0,2.0,081 km S 81° E of Gigmoto (Catanduanes),2018_Earthquake_Information/May/2018_0510_2003_B2.html
+20180511T0406_5.47_126.67,2018-05-11T04:06:00+08:00,5.47,126.67,82.0,5.0,132 km N 88° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0510_2006_B3.html
+20180511T1034_5.66_126.08,2018-05-11T10:34:00+08:00,5.66,126.08,86.0,3.0,057 km S 64° E of Jose Abad Santos (Davao Occidental),2018_Earthquake_Information/May/2018_0511_0234_B2.html
+20180511T1038_12.52_124.64,2018-05-11T10:38:00+08:00,12.52,124.64,24.0,2.3,002 km N 03° E of Catarman (Northern Samar),2018_Earthquake_Information/May/2018_0511_0238_B2.html
+20180511T1455_11.2_125.74,2018-05-11T14:55:00+08:00,11.2,125.74,17.0,3.6,018 km N 07° E of Guiuan (Eastern Samar),2018_Earthquake_Information/May/2018_0511_0655_B2.html
+20180511T1528_11.39_124.42,2018-05-11T15:28:00+08:00,11.39,124.42,28.0,2.4,010 km S 37° W of Biliran (Biliran),2018_Earthquake_Information/May/2018_0511_0728_B2.html
+20180511T1539_7.62_125.67,2018-05-11T15:39:00+08:00,7.62,125.67,3.0,2.8,008 km N 29° E of Kapalong (Davao Del Norte),2018_Earthquake_Information/May/2018_0511_0739_B2.html
+20180511T1941_14.2_123.82,2018-05-11T19:41:00+08:00,14.2,123.82,9.0,2.5,041 km N 66° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0511_1141_B2.html
+20180511T2012_7.71_124.76,2018-05-11T20:12:00+08:00,7.71,124.76,1.0,3.4,003 km S 12° E of Kalilangan (Bukidnon),2018_Earthquake_Information/May/2018_0511_1212_B2F.html
+20180511T2016_11.25_124.65,2018-05-11T20:16:00+08:00,11.25,124.65,4.0,2.4,005 km S 25° E of Capoocan (Leyte),2018_Earthquake_Information/May/2018_0511_1216_B2.html
+20180511T2022_19.23_121.2,2018-05-11T20:22:00+08:00,19.23,121.2,17.0,3.4,029 km S 78° W of Calayan (Cagayan),2018_Earthquake_Information/May/2018_0511_1222_B2.html
+20180511T2224_14.38_124.24,2018-05-11T22:24:00+08:00,14.38,124.24,1.0,2.5,038 km N 12° E of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0511_1424_B2.html
+20180511T2229_3.89_128.66,2018-05-11T22:29:00+08:00,3.89,128.66,43.0,4.4,392 km S 64° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0511_1429_B2.html
+20180511T2241_5.79_125.61,2018-05-11T22:41:00+08:00,5.79,125.61,15.0,2.0,011 km S 02° E of Jose Abad Santos (Davao Occidental),2018_Earthquake_Information/May/2018_0511_1441_B2.html
+20180511T2306_14.51_119.83,2018-05-11T23:06:00+08:00,14.51,119.83,29.0,2.2,051 km S 68° W of Morong (Bataan),2018_Earthquake_Information/May/2018_0511_1506_B2.html
+20180511T2333_14.44_123.93,2018-05-11T23:33:00+08:00,14.44,123.93,2.0,3.7,051 km N 30° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0511_1533_B2.html
+20180511T2351_6.35_126.51,2018-05-11T23:51:00+08:00,6.35,126.51,49.0,4.8,058 km S 55° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0511_1551_B3.html
+20180511T2357_8.7_126.59,2018-05-11T23:57:00+08:00,8.7,126.59,29.0,3.1,034 km S 71° E of Marihatag (Surigao del Sur),2018_Earthquake_Information/May/2018_0511_1557_B2.html
+20180512T0002_6.38_126.53,2018-05-12T00:02:00+08:00,6.38,126.53,34.0,2.4,059 km S 59° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0511_1602_B2.html
+20180512T0007_6.38_126.51,2018-05-12T00:07:00+08:00,6.38,126.51,27.0,2.0,056 km S 58° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0511_1607_B2.html
+20180512T0024_10.39_126.24,2018-05-12T00:24:00+08:00,10.39,126.24,12.0,4.1,044 km N 24° E of Burgos (Surigao del Norte),2018_Earthquake_Information/May/2018_0511_1624_B2.html
+20180512T0057_13.58_120.56,2018-05-12T00:57:00+08:00,13.58,120.56,147.0,2.8,021 km N 27° E of Paluan (Occidental Mindoro),2018_Earthquake_Information/May/2018_0511_1657_B3.html
+20180512T0059_7.76_121.79,2018-05-12T00:59:00+08:00,7.76,121.79,34.0,2.6,037 km N 81° W of Siocon (Zamboanga Del Norte),2018_Earthquake_Information/May/2018_0511_1659_B2.html
+20180512T0120_6.41_126.45,2018-05-12T01:20:00+08:00,6.41,126.45,26.0,2.3,049 km S 58° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0511_1720_B2.html
+20180512T0339_10.6_126.02,2018-05-12T03:39:00+08:00,10.6,126.02,13.0,2.9,065 km N 05° E of Burgos (Surigao Del Norte),2018_Earthquake_Information/May/2018_0511_1939_B2.html
+20180512T0347_10.62_126.11,2018-05-12T03:47:00+08:00,10.62,126.11,14.0,4.0,063 km S 43° E of Guian (Eastern Samar),2018_Earthquake_Information/May/2018_0511_1947_B2.html
+20180512T0354_10.52_126.06,2018-05-12T03:54:00+08:00,10.52,126.06,13.0,2.6,056 km N 01° W of Burgos (Surigao Del Norte),2018_Earthquake_Information/May/2018_0511_1954_B2.html
+20180512T0456_6.03_125.75,2018-05-12T04:56:00+08:00,6.03,125.75,113.0,5.4,045 km S 20° E of Malita (Davao Occidental),2018_Earthquake_Information/May/2018_0511_2056_B3F.html
+20180512T0602_7.06_126.07,2018-05-12T06:02:00+08:00,7.06,126.07,33.0,2.4,012 km N 28° E of Banaybanay (Davao Oriental),2018_Earthquake_Information/May/2018_0511_2202_B2.html
+20180512T0619_21.23_121.39,2018-05-12T06:19:00+08:00,21.23,121.39,42.0,2.4,066 km N 39° W of Itbayat (Batanes),2018_Earthquake_Information/May/2018_0511_2219_B2.html
+20180512T0807_9.67_126.07,2018-05-12T08:07:00+08:00,9.67,126.07,28.0,2.7,010 km S 13° E of Dapa (Dinagat),2018_Earthquake_Information/May/2018_0512_0007_B2.html
+20180512T0808_13.25_120.8,2018-05-12T08:08:00+08:00,13.25,120.8,57.0,3.5,047 km N 05° E of Sablayan (Occidental Mindoro),2018_Earthquake_Information/May/2018_0512_0008_B2F.html
+20180512T0821_8.44_126.88,2018-05-12T08:21:00+08:00,8.44,126.88,96.0,2.7,062 km N 84° E of Hinatuan (Surigao Del Sur),2018_Earthquake_Information/May/2018_0512_0021_B2.html
+20180512T1311_8.35_126.36,2018-05-12T13:11:00+08:00,8.35,126.36,20.0,3.2,004 km S 11° E of Hinatuan (Surigao Del Sur),2018_Earthquake_Information/May/2018_0512_0511_B2.html
+20180512T1419_6.08_126.31,2018-05-12T14:19:00+08:00,6.08,126.31,96.0,3.0,069 km S 79° E of Don Marcelino (Davao Occidental),2018_Earthquake_Information/May/2018_0512_0619_B2.html
+20180512T1454_14.43_124.01,2018-05-12T14:54:00+08:00,14.43,124.01,1.0,2.6,046 km N 22° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0512_0654_B2.html
+20180512T1706_13.07_121.45,2018-05-12T17:06:00+08:00,13.07,121.45,31.0,2.1,009 km S 09° E of Pola (Oriental Mindoro),2018_Earthquake_Information/May/2018_0512_0906_B2.html
+20180512T1912_13.67_120.67,2018-05-12T19:12:00+08:00,13.67,120.67,160.0,2.8,019 km S 13° E of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0512_1112_B2.html
+20180512T2038_9.03_122.36,2018-05-12T20:38:00+08:00,9.03,122.36,24.0,2.8,053 km S 36° W of Basay (Negros Oriental),2018_Earthquake_Information/May/2018_0512_1238_B2.html
+20180512T2121_13.56_120.37,2018-05-12T21:21:00+08:00,13.56,120.37,31.0,2.5,019 km N 34° W of Paluan (Occidental Mindoro),2018_Earthquake_Information/May/2018_0512_1321_B2.html
+20180512T2154_9.05_122.48,2018-05-12T21:54:00+08:00,9.05,122.48,1.0,2.6,044 km S 24° W of Basay (Negros Oriental),2018_Earthquake_Information/May/2018_0512_1354_B2.html
+20180513T0126_10.83_125.53,2018-05-13T01:26:00+08:00,10.83,125.53,49.0,2.2,031 km S 42° W of Guiuan (Eastern Samar),2018_Earthquake_Information/May/2018_0512_1726_B2.html
+20180513T0305_6.82_126.74,2018-05-13T03:05:00+08:00,6.82,126.74,13.0,2.1,041 km S 53° E of Tarragona (Davao Oriental),2018_Earthquake_Information/May/2018_0512_1905_B2.html
+20180513T0335_9.68_123.67,2018-05-13T03:35:00+08:00,9.68,123.67,12.0,2.0,018 km S 58° E of Dalaguete (Cebu),2018_Earthquake_Information/May/2018_0512_1935_B2.html
+20180513T0607_3.23_126.53,2018-05-13T06:07:00+08:00,3.23,126.53,110.0,3.3,271 km S 26° E of Saragani (Davao Occidental),2018_Earthquake_Information/May/2018_0512_2207_B2.html
+20180513T0845_11.18_126.21,2018-05-13T08:45:00+08:00,11.18,126.21,15.0,2.7,055 km N 73° E of Guiuan (Eastern Samar),2018_Earthquake_Information/May/2018_0513_0045_B2.html
+20180513T0938_14.45_123.06,2018-05-13T09:38:00+08:00,14.45,123.06,1.0,2.3,046 km N 15° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0513_0138_B2.html
+20180513T1028_14.02_120.6,2018-05-13T10:28:00+08:00,14.02,120.6,159.0,2.2,006 km S 64° W of Lian (Batangas),2018_Earthquake_Information/May/2018_0513_0228_B2.html
+20180513T1045_16.44_122.31,2018-05-13T10:45:00+08:00,16.44,122.31,7.0,3.6,011 km S 32° E of Dinapigue (Isabela),2018_Earthquake_Information/May/2018_0513_0245_B2.html
+20180513T1201_10.54_126.12,2018-05-13T12:01:00+08:00,10.54,126.12,10.0,2.8,057 km N 05° E of Burgos (Surigao Del Norte),2018_Earthquake_Information/May/2018_0513_0401_B2.html
+20180513T1620_17.44_120.32,2018-05-13T16:20:00+08:00,17.44,120.32,25.0,2.6,013 km S 69° W of Santa (Ilocos Sur),2018_Earthquake_Information/May/2018_0513_0820_B2.html
+20180513T1631_11.79_125.23,2018-05-13T16:31:00+08:00,11.79,125.23,21.0,2.2,029 km N 51° E of Calbiga (Western Samar),2018_Earthquake_Information/May/2018_0513_0831_B2.html
+20180513T1915_10.08_125.38,2018-05-13T19:15:00+08:00,10.08,125.38,16.0,2.1,021 km S 54° W of Libjo (Dinagat Islands),2018_Earthquake_Information/May/2018_0513_1115_B2.html
+20180513T1916_12.7_123.21,2018-05-13T19:16:00+08:00,12.7,123.21,29.0,2.3,022 km S 11° W of Claveria (Masbate),2018_Earthquake_Information/May/2018_0513_1116_B2.html
+20180513T2239_10.38_122.2,2018-05-13T22:39:00+08:00,10.38,122.2,1.0,2.3,041 km S 67° W of Nueva Valencia (Guimaras),2018_Earthquake_Information/May/2018_0513_1439_B2.html
+20180513T2241_13.12_124.34,2018-05-13T22:41:00+08:00,13.12,124.34,1.0,2.6,018 km N 66° E of Prieto Diaz (Sorsogon),2018_Earthquake_Information/May/2018_0513_1441_B2.html
+20180513T2316_10.92_124.16,2018-05-13T23:16:00+08:00,10.92,124.16,2.0,2.5,031 km S 88° W of Isabel (Leyte),2018_Earthquake_Information/May/2018_0513_1516_B2.html
+20180513T2333_5.44_125.45,2018-05-13T23:33:00+08:00,5.44,125.45,165.0,5.1,003 km N 65° W of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0513_1533_B3F.html
+20180513T2338_13.75_120.59,2018-05-13T23:38:00+08:00,13.75,120.59,107.0,2.0,010 km S 25° W of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0513_1538_B2.html
+20180513T2346_6.48_126.37,2018-05-13T23:46:00+08:00,6.48,126.37,19.0,2.7,038 km S 59° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0513_1546_B2.html
+20180513T2349_9.99_123.2,2018-05-13T23:49:00+08:00,9.99,123.2,6.0,2.5,001 km N 06° W of Jimalalud (Negros Oriental),2018_Earthquake_Information/May/2018_0513_1549_B2.html
+20180514T0012_13.87_120.56,2018-05-14T00:12:00+08:00,13.87,120.56,174.0,3.1,009 km N 66° W of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0513_1612_B2.html
+20180514T0029_14.59_123.24,2018-05-14T00:29:00+08:00,14.59,123.24,3.0,2.6,059 km N 55° E of Paracale (Camarines Norte),2018_Earthquake_Information/May/2018_0513_1629_B2.html
+20180514T0147_8.7_125.58,2018-05-14T01:47:00+08:00,8.7,125.58,28.0,2.8,008 km N 69° W of Esperanza (Agusan del Sur),2018_Earthquake_Information/May/2018_0513_1747_B2.html
+20180514T0303_13.71_120.67,2018-05-14T03:03:00+08:00,13.71,120.67,142.0,2.0,014 km S 17° E of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0513_1903_B2.html
+20180514T0327_5.81_127.1,2018-05-14T03:27:00+08:00,5.81,127.1,130.0,2.7,147 km S 51° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0513_1927_B2.html
+20180514T0406_8.44_124.68,2018-05-14T04:06:00+08:00,8.44,124.68,24.0,2.4,021 km N 20° E of Talakag (Bukidnon),2018_Earthquake_Information/May/2018_0513_2006_B2F.html
+20180514T0612_8.54_122.6,2018-05-14T06:12:00+08:00,8.54,122.6,9.0,4.9,046 km N 10° W of Liloy (Zamboanga del Norte),2018_Earthquake_Information/May/2018_0513_2212_B3F.html
+20180514T0625_15.69_119.98,2018-05-14T06:25:00+08:00,15.69,119.98,33.0,2.1,009 km N 35° E of Candelaria (Zambales),2018_Earthquake_Information/May/2018_0513_2225_B2.html
+20180514T0637_10.06_125.36,2018-05-14T06:37:00+08:00,10.06,125.36,19.0,2.6,018 km N 45° E of Pintuyan (Southern Leyte),2018_Earthquake_Information/May/2018_0513_2237_B2.html
+20180514T0942_9.8_125.61,2018-05-14T09:42:00+08:00,9.8,125.61,122.0,2.6,012 km N 84° E of Surigao City (Surigao Del Norte),2018_Earthquake_Information/May/2018_0514_0142_B2.html
+20180514T1102_5.28_126.53,2018-05-14T11:02:00+08:00,5.28,126.53,1.0,3.1,121 km S 56° E of Jose Abad Santos (Davao Occidental),2018_Earthquake_Information/May/2018_0514_0302_B2.html
+20180514T1114_14.06_120.35,2018-05-14T11:14:00+08:00,14.06,120.35,89.0,3.9,030 km S 86° W of Nasugbu (Batangas),2018_Earthquake_Information/May/2018_0514_0314_B2.html
+20180514T1117_10.72_122.1,2018-05-14T11:17:00+08:00,10.72,122.1,3.0,2.9,012 km S 49° E of Sibalom (Antique),2018_Earthquake_Information/May/2018_0514_0317_B2.html
+20180514T1132_13.82_120.64,2018-05-14T11:32:00+08:00,13.82,120.64,17.0,2.1,001 km S 18° E of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0514_0332_B2.html
+20180514T1553_13.74_120.95,2018-05-14T15:53:00+08:00,13.74,120.95,31.0,2.0,002 km S 19° E of Mabini (Batangas),2018_Earthquake_Information/May/2018_0514_0753_B1.html
+20180514T1605_10.32_126.67,2018-05-14T16:05:00+08:00,10.32,126.67,8.0,2.8,074 km N 63° E of Burgos (Surigao del Norte),2018_Earthquake_Information/May/2018_0514_0805_B2.html
+20180514T1629_9.86_126.37,2018-05-14T16:29:00+08:00,9.86,126.37,8.0,2.9,025 km N 71° E of General Luna (Surigao del Norte),2018_Earthquake_Information/May/2018_0514_0829_B2.html
+20180514T1712_10.05_126.09,2018-05-14T17:12:00+08:00,10.05,126.09,11.0,2.1,004 km N 29° E of Burgos (Surigao del Norte),2018_Earthquake_Information/May/2018_0514_0912_B2.html
+20180514T1835_20.32_121.07,2018-05-14T18:35:00+08:00,20.32,121.07,33.0,2.4,084 km S 89° W of Sabtang (Batanes),2018_Earthquake_Information/May/2018_0514_1035_B2.html
+20180514T1910_12.98_124.12,2018-05-14T19:10:00+08:00,12.98,124.12,25.0,3.0,007 km N 07° W of Gubat (Sorsogon),2018_Earthquake_Information/May/2018_0514_1110_B2.html
+20180514T1945_7.01_126.12,2018-05-14T19:45:00+08:00,7.01,126.12,26.0,2.4,012 km N 60° W of Mati (Davao Oriental),2018_Earthquake_Information/May/2018_0514_1145_B2.html
+20180514T2031_6.49_126.02,2018-05-14T20:31:00+08:00,6.49,126.02,26.0,2.8,019 km S 21° W of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0514_1231_B2.html
+20180514T2104_9.86_126.28,2018-05-14T21:04:00+08:00,9.86,126.28,10.0,2.5,016 km N 58° E of General Luna (Surigao Del Norte),2018_Earthquake_Information/May/2018_0514_1304_B2.html
+20180514T2126_9.89_125.46,2018-05-14T21:26:00+08:00,9.89,125.46,19.0,2.9,019 km S 41° W of San Jose (Dinagat),2018_Earthquake_Information/May/2018_0514_1326_B2.html
+20180514T2158_11.0_126.3,2018-05-14T21:58:00+08:00,11.0,126.3,1.0,3.1,064 km S 86° E of Guiuan (Eastern Samar),2018_Earthquake_Information/May/2018_0514_1358_B2.html
+20180514T2312_20.01_121.24,2018-05-14T23:12:00+08:00,20.01,121.24,22.0,4.8,075 km S 61° W of Sabtang (Batanes),2018_Earthquake_Information/May/2018_0514_1512_B2F.html
+20180514T2319_10.85_126.29,2018-05-14T23:19:00+08:00,10.85,126.29,9.0,2.7,066 km S 72° E of Guiuan (Eastern Samar),2018_Earthquake_Information/May/2018_0514_1519_B2.html
+20180514T2338_6.92_127.02,2018-05-14T23:38:00+08:00,6.92,127.02,17.0,3.8,065 km S 78° E of Tarragona (Davao Oriental),2018_Earthquake_Information/May/2018_0514_1538_B2.html
+20180515T0114_9.59_126.27,2018-05-15T01:14:00+08:00,9.59,126.27,21.0,3.2,025 km S 31° E of General Luna (Surigao Del Norte),2018_Earthquake_Information/May/2018_0514_1714_B2.html
+20180515T0130_9.28_127.47,2018-05-15T01:30:00+08:00,9.28,127.47,23.0,3.2,135 km N 75° E of Bayasbas (Surigao Del Sur),2018_Earthquake_Information/May/2018_0514_1730_B2.html
+20180515T0149_11.66_124.29,2018-05-15T01:49:00+08:00,11.66,124.29,15.0,2.8,007 km S 71° W of Kawayan (Biliran),2018_Earthquake_Information/May/2018_0514_1749_B2.html
+20180515T0218_5.47_125.21,2018-05-15T02:18:00+08:00,5.47,125.21,26.0,2.8,029 km N 82° W of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0514_1818_B2.html
+20180515T0239_6.35_125.05,2018-05-15T02:39:00+08:00,6.35,125.05,34.0,2.5,012 km N 85° E of Tupi (South Cotabato),2018_Earthquake_Information/May/2018_0514_1839_B2.html
+20180515T0408_8.22_122.86,2018-05-15T04:08:00+08:00,8.22,122.86,12.0,2.5,014 km N 35° E of Salug (Zamboanga Del Norte),2018_Earthquake_Information/May/2018_0514_2008_B2.html
+20180515T0444_12.98_125.02,2018-05-15T04:44:00+08:00,12.98,125.02,14.0,2.5,047 km N 13° E of Pambujan (Northern Samar),2018_Earthquake_Information/May/2018_0514_2044_B2.html
+20180515T0547_13.69_120.65,2018-05-15T05:47:00+08:00,13.69,120.65,33.0,1.9,016 km S 05° E of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0514_2147_B2.html
+20180515T0726_3.42_126.1,2018-05-15T07:26:00+08:00,3.42,126.1,1.0,3.3,233 km S 17° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0514_2326_B2.html
+20180515T1127_13.64_120.22,2018-05-15T11:27:00+08:00,13.64,120.22,12.0,2.4,010 km S 21° W of Looc (Occidental Mindoro),2018_Earthquake_Information/May/2018_0515_0327_B2.html
+20180515T1209_10.22_125.05,2018-05-15T12:09:00+08:00,10.22,125.05,6.0,2.5,009 km N 36° E of Malitbog (Southern Leyte),2018_Earthquake_Information/May/2018_0515_0409_B2.html
+20180515T1218_8.5_126.08,2018-05-15T12:18:00+08:00,8.5,126.08,10.0,2.9,006 km S 57° W of Barobo (Surigao Del Sur),2018_Earthquake_Information/May/2018_0515_0418_B1.html
+20180515T1320_9.36_125.67,2018-05-15T13:20:00+08:00,9.36,125.67,26.0,3.3,015 km S 44° E of Kitcharao (Agusan Del Norte),2018_Earthquake_Information/May/2018_0515_0520_B2F.html
+20180515T1559_11.49_121.59,2018-05-15T15:59:00+08:00,11.49,121.59,47.0,2.7,051 km N 83° W of Culasi (Antique),2018_Earthquake_Information/May/2018_0515_0759_B2F.html
+20180515T1622_14.81_123.48,2018-05-15T16:22:00+08:00,14.81,123.48,21.0,2.3,095 km N 52° E of Paracle (Camarines Norte),2018_Earthquake_Information/May/2018_0515_0822_B2.html
+20180515T1837_10.03_126.1,2018-05-15T18:37:00+08:00,10.03,126.1,12.0,2.1,003 km N 66° E of Burgos (Surigao del Norte),2018_Earthquake_Information/May/2018_0515_1037_B2.html
+20180515T1903_6.55_126.72,2018-05-15T19:03:00+08:00,6.55,126.72,43.0,2.8,063 km S 28° E of Tarragona (Davao Oriental),2018_Earthquake_Information/May/2018_0515_1103_B2.html
+20180515T1933_3.35_126.24,2018-05-15T19:33:00+08:00,3.35,126.24,13.0,3.6,245 km S 20° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0515_1133_B2.html
+20180515T2000_6.9_123.89,2018-05-15T20:00:00+08:00,6.9,123.89,597.0,4.9,025 km N 67° W of South Upi (Maguindanao),2018_Earthquake_Information/May/2018_0515_1200_B3.html
+20180515T2021_13.88_120.52,2018-05-15T20:21:00+08:00,13.88,120.52,35.0,2.0,013 km N 66° W of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0515_1221_B2.html
+20180515T2253_10.75_124.03,2018-05-15T22:53:00+08:00,10.75,124.03,6.0,2.4,025 km N 01° E of Danao City (Cebu),2018_Earthquake_Information/May/2018_0515_1453_B2.html
+20180515T2357_15.96_120.37,2018-05-15T23:57:00+08:00,15.96,120.37,90.0,2.4,004 km N 41° E of San Carlos City (Pangasinan),2018_Earthquake_Information/May/2018_0515_1557_B2.html
+20180516T0022_5.72_125.04,2018-05-16T00:22:00+08:00,5.72,125.04,22.0,2.3,045 km S 18° W of General Santos City (South Cotabato),2018_Earthquake_Information/May/2018_0515_1622_B2.html
+20180516T0024_10.54_122.45,2018-05-16T00:24:00+08:00,10.54,122.45,26.0,2.2,042 km N 90° W of Bago City (Negros Occidental),2018_Earthquake_Information/May/2018_0515_1624_B2.html
+20180516T0111_13.04_122.36,2018-05-16T01:11:00+08:00,13.04,122.36,11.0,3.1,031 km N 71° E of Banton (Romblon),2018_Earthquake_Information/May/2018_0515_1711_B2.html
+20180516T0208_13.9_120.87,2018-05-16T02:08:00+08:00,13.9,120.87,32.0,2.0,005 km N 69° W of Lemery (Batangas),2018_Earthquake_Information/May/2018_0515_1808_B2.html
+20180516T0306_5.45_126.48,2018-05-16T03:06:00+08:00,5.45,126.48,12.0,3.3,107 km S 63° E of Jose Abad Santos (Davao Occidental),2018_Earthquake_Information/May/2018_0515_1906_B2.html
+20180516T0310_2.89_127.49,2018-05-16T03:10:00+08:00,2.89,127.49,166.0,3.9,359 km S 38° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0515_1910_B2.html
+20180516T0326_10.22_125.27,2018-05-16T03:26:00+08:00,10.22,125.27,16.0,2.4,007 km S 15° E of Anahawan (Southern Leyte),2018_Earthquake_Information/May/2018_0515_1926_B2.html
+20180516T0331_15.04_119.69,2018-05-16T03:31:00+08:00,15.04,119.69,9.0,2.6,041 km S 86° W of San Felipe (Zambales),2018_Earthquake_Information/May/2018_0515_1931_B3.html
+20180516T0447_20.02_121.41,2018-05-16T04:47:00+08:00,20.02,121.41,31.0,2.4,059 km S 54° W of Sabtang (Batanes),2018_Earthquake_Information/May/2018_0515_2047_B2.html
+20180516T0731_7.56_124.45,2018-05-16T07:31:00+08:00,7.56,124.45,4.0,3.0,011 km N 56° E of Buldon (Maguindanao),2018_Earthquake_Information/May/2018_0515_2331_B2.html
+20180516T0802_7.53_124.44,2018-05-16T08:02:00+08:00,7.53,124.44,6.0,3.2,008 km N 74° E of Buldon (Maguindanao),2018_Earthquake_Information/May/2018_0516_0002_B2.html
+20180516T0813_3.54_126.58,2018-05-16T08:13:00+08:00,3.54,126.58,33.0,3.1,243 km S 30° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0516_0013_B2.html
+20180516T0831_7.57_124.48,2018-05-16T08:31:00+08:00,7.57,124.48,1.0,3.3,014 km N 60° E of Buldon (Maguindanao),2018_Earthquake_Information/May/2018_0516_0031_B2.html
+20180516T0835_3.41_128.57,2018-05-16T08:35:00+08:00,3.41,128.57,222.0,3.9,410 km S 57° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0516_0035_B2.html
+20180516T0857_6.67_126.72,2018-05-16T08:57:00+08:00,6.67,126.72,175.0,2.4,052 km S 35° E of Tarragona (Davao Oriental),2018_Earthquake_Information/May/2018_0516_0057_B2.html
+20180516T1116_13.07_122.32,2018-05-16T11:16:00+08:00,13.07,122.32,3.0,2.9,028 km N 60° E of Banton (Romblon),2018_Earthquake_Information/May/2018_0516_0316_B2.html
+20180516T1305_6.46_124.02,2018-05-16T13:05:00+08:00,6.46,124.02,8.0,4.5,026 km S 61° W of Kalamansig (Sultan Kudarat),2018_Earthquake_Information/May/2018_0516_0505_B2F.html
+20180516T1649_4.71_126.64,2018-05-16T16:49:00+08:00,4.71,126.64,1.0,3.4,152 km S 58° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0516_0849_B2.html
+20180516T1912_20.35_122.23,2018-05-16T19:12:00+08:00,20.35,122.23,1.0,3.0,030 km S 65° E of Basco (Batanes),2018_Earthquake_Information/May/2018_0516_1112_B2F.html
+20180516T1918_6.8_125.5,2018-05-16T19:18:00+08:00,6.8,125.5,26.0,1.9,015 km N 78° E of Digos City (Davao del Sur),2018_Earthquake_Information/May/2018_0516_1118_B1.html
+20180516T1935_10.21_125.74,2018-05-16T19:35:00+08:00,10.21,125.74,35.0,2.1,023 km N 85° E of Libjo (Dinagat Islands),2018_Earthquake_Information/May/2018_0516_1135_B1.html
+20180516T2002_15.16_120.17,2018-05-16T20:02:00+08:00,15.16,120.17,106.0,2.4,013 km N 88° E of Cabangan (Zambales),2018_Earthquake_Information/May/2018_0516_1202_B2.html
+20180516T2147_6.29_126.3,2018-05-16T21:47:00+08:00,6.29,126.3,39.0,2.3,047 km S 32° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0516_1347_B2.html
+20180516T2155_14.03_120.18,2018-05-16T21:55:00+08:00,14.03,120.18,54.0,2.1,020 km N 20° E of Lubang (Occidental Mindoro),2018_Earthquake_Information/May/2018_0516_1355_B2.html
+20180516T2159_16.25_121.36,2018-05-16T21:59:00+08:00,16.25,121.36,15.0,2.7,018 km S 81° E of Kasibu (Nueva Vizcaya),2018_Earthquake_Information/May/2018_0516_1359_B2.html
+20180517T0043_16.28_121.4,2018-05-17T00:43:00+08:00,16.28,121.4,8.0,2.6,021 km N 90° E of Kasibu (Nueva Vizcaya),2018_Earthquake_Information/May/2018_0516_1643_B2.html
+20180517T0100_15.13_119.86,2018-05-17T01:00:00+08:00,15.13,119.86,33.0,2.1,021 km S 81° W of Cabangan (Zambales),2018_Earthquake_Information/May/2018_0516_1700_B2.html
+20180517T0130_4.53_126.78,2018-05-17T01:30:00+08:00,4.53,126.78,8.0,3.0,177 km S 55° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0516_1730_B2.html
+20180517T0204_4.85_126.36,2018-05-17T02:04:00+08:00,4.85,126.36,33.0,3.6,118 km S 57° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0516_1804_B2.html
+20180517T0219_7.52_124.37,2018-05-17T02:19:00+08:00,7.52,124.37,1.0,2.5,001 km N of Buldon (Maguindanao),2018_Earthquake_Information/May/2018_0516_1819_B2.html
+20180517T0220_7.55_124.44,2018-05-17T02:20:00+08:00,7.55,124.44,1.0,3.5,010 km N 60° E of Buldon (Maguindanao),2018_Earthquake_Information/May/2018_0516_1820_B2.html
+20180517T0332_13.54_120.7,2018-05-17T03:32:00+08:00,13.54,120.7,2.0,2.4,011 km N 15° W of Abra de Ilog (Occidental Mindoro),2018_Earthquake_Information/May/2018_0516_1932_B2.html
+20180517T0413_12.97_124.67,2018-05-17T04:13:00+08:00,12.97,124.67,7.0,2.3,046 km N 46° E of Biri (Northern Samar),2018_Earthquake_Information/May/2018_0516_2013_B2.html
+20180517T0655_10.13_126.53,2018-05-17T06:55:00+08:00,10.13,126.53,1.0,3.5,052 km N 76° E of Burgos (Surigao Del Norte),2018_Earthquake_Information/May/2018_0516_2255_B2.html
+20180517T0911_10.05_122.14,2018-05-17T09:11:00+08:00,10.05,122.14,2.0,3.0,049 km S 29° E of Anini-y (Antique),2018_Earthquake_Information/May/2018_0517_0111_B2.html
+20180517T0943_6.6_126.41,2018-05-17T09:43:00+08:00,6.6,126.41,29.0,2.5,037 km S 82° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0517_0143_B2.html
+20180517T1052_6.95_122.08,2018-05-17T10:52:00+08:00,6.95,122.08,33.0,2.3,006 km N 04°W of Zamboanga City (Zamboanga Del Sur),2018_Earthquake_Information/May/2018_0517_0252_B2F.html
+20180517T1212_5.53_125.27,2018-05-17T12:12:00+08:00,5.53,125.27,193.0,3.3,024 km N 65° W of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0517_0412_B2.html
+20180517T1508_4.93_126.08,2018-05-17T15:08:00+08:00,4.93,126.08,64.0,2.3,088 km S 51° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0517_0708_B2.html
+20180517T1642_12.96_124.63,2018-05-17T16:42:00+08:00,12.96,124.63,29.0,2.2,043 km N 43° E of Biri (Northern Samar),2018_Earthquake_Information/May/2018_0517_0842_B2.html
+20180517T1822_9.8_122.15,2018-05-17T18:22:00+08:00,9.8,122.15,75.0,2.7,028 km N 80° W of Sipalay (Negros Occidental),2018_Earthquake_Information/May/2018_0517_1022_B2.html
+20180517T1850_14.98_120.01,2018-05-17T18:50:00+08:00,14.98,120.01,26.0,2.0,010 km S 36° W of San Felipe (Zambales),2018_Earthquake_Information/May/2018_0517_1050_B2.html
+20180517T1859_10.04_123.12,2018-05-17T18:59:00+08:00,10.04,123.12,7.0,2.1,011 km N 54° W of Jimalalud (Negros Oriental),2018_Earthquake_Information/May/2018_0517_1059_B2.html
+20180517T1914_3.71_126.28,2018-05-17T19:14:00+08:00,3.71,126.28,14.0,2.9,210 km S 25° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0517_1114_B2.html
+20180517T2030_6.23_126.79,2018-05-17T20:30:00+08:00,6.23,126.79,33.0,2.5,091 km S 59° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0517_1230_B2.html
+20180517T2045_5.82_124.72,2018-05-17T20:45:00+08:00,5.82,124.72,19.0,2.0,021 km S 30° E of Kiamba (Sarangani),2018_Earthquake_Information/May/2018_0517_1245_B2.html
+20180517T2057_6.14_125.96,2018-05-17T20:57:00+08:00,6.14,125.96,114.0,2.6,030 km S 78° E of Don Marcelino (Davao Occidental),2018_Earthquake_Information/May/2018_0517_1257_B2.html
+20180517T2147_10.37_125.91,2018-05-17T21:47:00+08:00,10.37,125.91,28.0,2.0,036 km N 89° E of Loreto (Dinagat),2018_Earthquake_Information/May/2018_0517_1347_B2.html
+20180517T2252_6.61_126.98,2018-05-17T22:52:00+08:00,6.61,126.98,150.0,2.5,076 km S 50° E of Tarragona (Davao Oriental),2018_Earthquake_Information/May/2018_0517_1452_B2.html
+20180517T2332_20.7_121.08,2018-05-17T23:32:00+08:00,20.7,121.08,26.0,3.3,080 km S 82° W of Itbayat (Batanes),2018_Earthquake_Information/May/2018_0517_1532_B2.html
+20180517T2335_18.86_121.49,2018-05-17T23:35:00+08:00,18.86,121.49,65.0,2.3,043 km N 39° E of Sanchez-mira (Cagayan),2018_Earthquake_Information/May/2018_0517_1535_B2.html
+20180517T2357_10.12_125.81,2018-05-17T23:57:00+08:00,10.12,125.81,20.0,2.1,024 km N 77° E of Basilisa (Rizal) (Surigao del Norte),2018_Earthquake_Information/May/2018_0517_1557_B2.html
+20180518T0004_13.77_120.54,2018-05-18T00:04:00+08:00,13.77,120.54,66.0,1.8,013 km S 55° W of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0517_1604_B2.html
+20180518T0005_8.98_125.83,2018-05-18T00:05:00+08:00,8.98,125.83,48.0,2.2,022 km N 39° E of Sibagat (Agusan Del Sur),2018_Earthquake_Information/May/2018_0517_1615_B2.html
+20180518T0018_6.19_126.83,2018-05-18T00:18:00+08:00,6.19,126.83,17.0,2.1,090 km S 56° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0517_1618_B2.html
+20180518T0039_5.56_126.52,2018-05-18T00:39:00+08:00,5.56,126.52,63.0,2.7,107 km S 70° E of Jose Abad Santos (Davao Occidental),2018_Earthquake_Information/May/2018_0517_1639_B2.html
+20180518T0042_15.46_120.28,2018-05-18T00:42:00+08:00,15.46,120.28,30.0,2.0,022 km S 32° W of Mayantoc (Tarlac),2018_Earthquake_Information/May/2018_0517_1642_B2.html
+20180518T0100_17.23_120.3,2018-05-18T01:00:00+08:00,17.23,120.3,32.0,2.2,016 km N 77° W of Candon City (Ilocos Sur),2018_Earthquake_Information/May/2018_0517_1700_B2.html
+20180518T0127_17.47_120.48,2018-05-18T01:27:00+08:00,17.47,120.48,13.0,2.3,012 km N 62° W of Pilar (Abra),2018_Earthquake_Information/May/2018_0517_1727_B2.html
+20180518T0130_6.17_124.68,2018-05-18T01:30:00+08:00,6.17,124.68,21.0,2.1,006 km S 11° W of T'boli (South Cotabato),2018_Earthquake_Information/May/2018_0517_1730_B2.html
+20180518T0246_5.28_126.23,2018-05-18T02:46:00+08:00,5.28,126.23,11.0,2.5,086 km S 78° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0517_1846_B2.html
+20180518T0314_17.67_120.63,2018-05-18T03:14:00+08:00,17.67,120.63,34.0,2.1,003 km S 31° W of Danglas (Abra),2018_Earthquake_Information/May/2018_0517_1914_B2.html
+20180518T0325_11.55_126.07,2018-05-18T03:25:00+08:00,11.55,126.07,3.0,2.5,055 km N 63° E of Hernani (Eastern Samar),2018_Earthquake_Information/May/2018_0517_1925_B2.html
+20180518T0350_4.57_126.47,2018-05-18T03:50:00+08:00,4.57,126.47,1.0,3.1,146 km S 49° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0517_1950_B2.html
+20180518T0417_10.32_126.1,2018-05-18T04:17:00+08:00,10.32,126.1,15.0,3.1,033 km N 05° W of Burgos (Surigao del Norte),2018_Earthquake_Information/May/2018_0517_2017_B2.html
+20180518T0512_6.31_126.24,2018-05-18T05:12:00+08:00,6.31,126.24,29.0,2.6,042 km S 25° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0517_2112_B2.html
+20180518T0517_8.95_126.61,2018-05-18T05:17:00+08:00,8.95,126.61,47.0,2.6,034 km N 85° E of Cagwait (Surigao del Sur),2018_Earthquake_Information/May/2018_0517_2117_B2.html
+20180518T0519_9.78_126.59,2018-05-18T05:19:00+08:00,9.78,126.59,7.0,3.1,047 km N 90° E of General Luna (Surigao del Norte),2018_Earthquake_Information/May/2018_0517_2119_B1.html
+20180518T0803_10.33_123.95,2018-05-18T08:03:00+08:00,10.33,123.95,6.0,3.1,002 km N 18° W of Lapu-lapu City (Opon) (Cebu),2018_Earthquake_Information/May/2018_0518_0003_B2F.html
+20180518T0903_15.89_120.36,2018-05-18T09:03:00+08:00,15.89,120.36,92.0,2.2,004 km S 23° E of San Carlos City (Pangasinan),2018_Earthquake_Information/May/2018_0518_0103_B2.html
+20180518T1234_10.36_126.06,2018-05-18T12:34:00+08:00,10.36,126.06,14.0,4.3,037 km N 03° W of Burgos (Surigao Del Norte),2018_Earthquake_Information/May/2018_0518_0434_B3F.html
+20180518T1256_5.93_126.68,2018-05-18T12:56:00+08:00,5.93,126.68,33.0,2.3,118 km N 88° E of Jose Abad Santos (Davao Occidental),2018_Earthquake_Information/May/2018_0518_0456_B2.html
+20180518T1517_13.1_125.78,2018-05-18T15:17:00+08:00,13.1,125.78,10.0,2.3,090 km N 40° E of Mapanas (Northern Samar),2018_Earthquake_Information/May/2018_0518_0717_B1.html
+20180518T1547_16.0_119.47,2018-05-18T15:47:00+08:00,16.0,119.47,16.0,2.4,037 km S 70° W of Agno (Pangasinan),2018_Earthquake_Information/May/2018_0518_0747_B2.html
+20180518T1621_6.39_126.58,2018-05-18T16:21:00+08:00,6.39,126.58,28.0,3.7,063 km S 63° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0518_0821_B2.html
+20180518T1701_5.86_125.18,2018-05-18T17:01:00+08:00,5.86,125.18,14.0,1.8,004 km N 04° W of Glan (Sarangani),2018_Earthquake_Information/May/2018_0518_0901_B2.html
+20180518T1703_6.34_126.61,2018-05-18T17:03:00+08:00,6.34,126.61,33.0,2.4,069 km S 60° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0518_0903_B2.html
+20180518T2039_4.62_125.75,2018-05-18T20:39:00+08:00,4.62,125.75,131.0,2.6,096 km S 19° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0518_1239_B2.html
+20180518T2145_7.45_123.75,2018-05-18T21:45:00+08:00,7.45,123.75,68.0,2.2,037 km S 89° E of Tabina (Zamboanga Del Sur),2018_Earthquake_Information/May/2018_0518_1345_B2.html
+20180518T2147_7.71_124.79,2018-05-18T21:47:00+08:00,7.71,124.79,1.0,2.3,008 km N 28° E of Wao (Lanao Del Sur),2018_Earthquake_Information/May/2018_0518_1347_B2.html
+20180518T2228_13.77_120.88,2018-05-18T22:28:00+08:00,13.77,120.88,23.0,1.8,007 km N 78° W of Mabini (Batangas),2018_Earthquake_Information/May/2018_0518_1428_B2.html
+20180518T2335_18.91_121.44,2018-05-18T23:35:00+08:00,18.91,121.44,48.0,2.4,042 km S 04° W of Calayan (Cagayan),2018_Earthquake_Information/May/2018_0518_1535_B2.html
+20180518T2339_17.59_121.46,2018-05-18T23:39:00+08:00,17.59,121.46,22.0,2.3,007 km N 76° E of Pinukpuk (Kalinga),2018_Earthquake_Information/May/2018_0518_1539_B2.html
+20180519T0206_13.35_120.75,2018-05-19T02:06:00+08:00,13.35,120.75,100.0,1.9,008 km S 05° E of Abra De Ilog (Occidental Mindoro),2018_Earthquake_Information/May/2018_0518_1806_B2.html
+20180519T0248_6.63_127.13,2018-05-19T02:48:00+08:00,6.63,127.13,80.0,2.4,089 km S 59° E of Tarragona (Davao Oriental),2018_Earthquake_Information/May/2018_0518_1848_B2.html
+20180519T0254_13.35_123.45,2018-05-19T02:54:00+08:00,13.35,123.45,23.0,2.7,010 km S 37° W of Buhi (Camarines Sur),2018_Earthquake_Information/May/2018_0518_1854_B2_South%20Luzon.html
+20180519T0254_7.62_125.68,2018-05-19T02:54:00+08:00,7.62,125.68,14.0,2.4,014 km N 69° E of Baganga (Davao Oriental),2018_Earthquake_Information/May/2018_0518_1854_B2_Min.html
+20180519T0357_5.29_126.66,2018-05-19T03:57:00+08:00,5.29,126.66,48.0,3.6,133 km S 83° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0518_1957_B2.html
+20180519T0522_8.66_126.53,2018-05-19T05:22:00+08:00,8.66,126.53,62.0,2.4,030 km S 59° E of Marihatag (Surigao Del Sur),2018_Earthquake_Information/May/2018_0518_2122_B2.html
+20180519T0534_7.57_126.57,2018-05-19T05:34:00+08:00,7.57,126.57,131.0,3.1,012 km N 05° W of Baculin (Davao Oriental),2018_Earthquake_Information/May/2018_0518_2134_B2.html
+20180519T0543_14.94_120.21,2018-05-19T05:43:00+08:00,14.94,120.21,172.0,2.1,007 km S 57° E of San Marcelino (Zambales),2018_Earthquake_Information/May/2018_0518_2143_B2.html
+20180519T0943_11.26_126.46,2018-05-19T09:43:00+08:00,11.26,126.46,18.0,3.2,084 km N 73° E of Guiuan (Eastern Samar),2018_Earthquake_Information/May/2018_0519_0143_B2.html
+20180519T1010_17.25_119.98,2018-05-19T10:10:00+08:00,17.25,119.98,17.0,2.7,050 km N 83° W of Candon City (Ilocos Sur),2018_Earthquake_Information/May/2018_0519_0210_B2.html
+20180519T1302_7.93_121.52,2018-05-19T13:02:00+08:00,7.93,121.52,46.0,3.2,070 km N 79° W of Baliguian (Zamboanga Del Norte),2018_Earthquake_Information/May/2018_0519_0502_B2.html
+20180519T1440_10.71_125.51,2018-05-19T14:40:00+08:00,10.71,125.51,88.0,2.0,040 km N 10° W of Loreto (Dinagat),2018_Earthquake_Information/May/2018_0519_0640_B2.html
+20180519T1641_10.97_126.34,2018-05-19T16:41:00+08:00,10.97,126.34,1.0,3.0,068 km S 84° E of Guiuan (Eastern Samar),2018_Earthquake_Information/May/2018_0519_0841_B2.html
+20180519T1902_20.46_122.33,2018-05-19T19:02:00+08:00,20.46,122.33,60.0,2.2,038 km N 89° E of Basco (Batanes),2018_Earthquake_Information/May/2018_0519_1102_B2.html
+20180519T2328_13.69_120.6,2018-05-19T23:28:00+08:00,13.69,120.6,114.0,1.9,016 km S 12° W of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0519_1102_B2.html
+20180520T0127_15.67_121.69,2018-05-20T01:27:00+08:00,15.67,121.69,17.0,2.0,017 km S 54° E of Baler (Aurora),2018_Earthquake_Information/May/2018_0519_1727_B2.html
+20180520T0132_13.69_120.63,2018-05-20T01:32:00+08:00,13.69,120.63,101.0,2.8,015 km S 03° E of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0519_1732_B2.html
+20180520T0151_14.53_123.94,2018-05-20T01:51:00+08:00,14.53,123.94,1.0,2.0,059 km N 24° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0519_1751_B2.html
+20180520T0225_8.94_123.01,2018-05-20T02:25:00+08:00,8.94,123.01,16.0,1.8,015 km S 10° W of Siaton (Negros Oriental),2018_Earthquake_Information/May/2018_0519_1825_B2.html
+20180520T0440_14.27_120.25,2018-05-20T04:40:00+08:00,14.27,120.25,66.0,2.1,031 km S 54° W of Mariveles (Bataan),2018_Earthquake_Information/May/2018_0519_2040_B2.html
+20180520T0820_7.71_124.78,2018-05-20T08:20:00+08:00,7.71,124.78,1.0,2.8,008 km N 25° E of Wao (Lanao Del Sur),2018_Earthquake_Information/May/2018_0520_0020_B2.html
+20180520T0842_14.46_120.34,2018-05-20T08:42:00+08:00,14.46,120.34,69.0,2.1,032 km N 74° W of Nasugbu (Batangas),2018_Earthquake_Information/May/2018_0520_0042_B2.html
+20180520T1021_7.65_124.8,2018-05-20T10:21:00+08:00,7.65,124.8,9.0,4.2,005 km N 85° E of Wao (Lanao Del Sur),2018_Earthquake_Information/May/2018_0520_0221_B3F.html
+20180520T1050_7.69_124.78,2018-05-20T10:50:00+08:00,7.69,124.78,16.0,3.1,006 km N 33° E of Wao (Lanao Del Sur),2018_Earthquake_Information/May/2018_0520_0250_B2.html
+20180520T1127_9.79_126.54,2018-05-20T11:27:00+08:00,9.79,126.54,11.0,3.1,042 km N 89° E of General Luna (Surigao Del Norte),2018_Earthquake_Information/May/2018_0520_0327_B2.html
+20180520T1213_16.55_120.51,2018-05-20T12:13:00+08:00,16.55,120.51,1.0,2.4,007 km N 64° E of Burgos (La Union),2018_Earthquake_Information/May/2018_0520_0413_B2.html
+20180520T1317_12.69_123.23,2018-05-20T13:17:00+08:00,12.69,123.23,7.0,2.5,023 km S 05° W of Claveria (Masbate),2018_Earthquake_Information/May/2018_0520_0517_B2.html
+20180520T1353_9.92_124.19,2018-05-20T13:53:00+08:00,9.92,124.19,30.0,2.2,005 km S 46° W of Danao (Bohol),2018_Earthquake_Information/May/2018_0520_0553_B2.html
+20180520T1528_5.61_127.31,2018-05-20T15:28:00+08:00,5.61,127.31,77.0,3.4,178 km S 50° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0520_0728_B2.html
+20180520T2022_13.68_120.61,2018-05-20T20:22:00+08:00,13.68,120.61,114.0,2.6,017 km S 08° W of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0520_1222_B2.html
+20180520T2054_14.36_123.51,2018-05-20T20:54:00+08:00,14.36,123.51,47.0,2.9,048 km N 35° E of Siruma (Camarines Sur),2018_Earthquake_Information/May/2018_0520_1254_B2.html
+20180520T2118_8.41_125.99,2018-05-20T21:18:00+08:00,8.41,125.99,140.0,2.6,004 km N 21° W of Rosario (Agusan Del Sur),2018_Earthquake_Information/May/2018_0520_1318_B2.html
+20180520T2304_5.44_124.94,2018-05-20T23:04:00+08:00,5.44,124.94,18.0,2.2,047 km S 09° W of Maasim (Sarangani),2018_Earthquake_Information/May/2018_0520_1504_B2.html
+20180520T2313_10.43_126.04,2018-05-20T23:13:00+08:00,10.43,126.04,11.0,2.5,045 km North 00° of Santa Monica (Sapao) (Surigao del Norte),2018_Earthquake_Information/May/2018_0520_1513_B2.html
+20180521T0114_9.25_120.0,2018-05-21T01:14:00+08:00,9.25,120.0,29.0,2.4,004 km S 72 °E of Madrid (Surigao del Sur),2018_Earthquake_Information/May/2018_0520_1714_B1.html
+20180521T0121_6.59_125.74,2018-05-21T01:21:00+08:00,6.59,125.74,139.0,2.9,024 km N 35° E of Malita (Davao Occidental),2018_Earthquake_Information/May/2018_0520_1714_B2.html
+20180521T0238_6.9_126.3,2018-05-21T02:38:00+08:00,6.9,126.3,31.0,3.1,011 km S 56° E of Mati (Davao Oriental),2018_Earthquake_Information/May/2018_0520_1908_B2.html
+20180521T0308_13.77_120.57,2018-05-21T03:08:00+08:00,13.77,120.57,91.0,1.5,009 km S 46° W of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0520_1908_B2.html
+20180521T0411_13.52_120.28,2018-05-21T04:11:00+08:00,13.52,120.28,31.0,1.7,024 km N 59° W of Paluan (Occidental Mindoro),2018_Earthquake_Information/May/2018_0520_2011_B2.html
+20180521T0437_13.67_120.85,2018-05-21T04:37:00+08:00,13.67,120.85,29.0,2.2,003 km N 58° W of Tingloy (Batangas),2018_Earthquake_Information/May/2018_0520_2037_B2.html
+20180521T0527_10.42_125.18,2018-05-21T05:27:00+08:00,10.42,125.18,1.0,2.2,018 km N 30° W of Anahawan (Southern Leyte),2018_Earthquake_Information/May/2018_0520_2127_B2.html
+20180521T0548_9.95_126.11,2018-05-21T05:48:00+08:00,9.95,126.11,12.0,3.0,003 km N 60° E of San Isidro (Surigao Del Norte),2018_Earthquake_Information/May/2018_0520_2148_B2.html
+20180521T0626_9.93_126.12,2018-05-21T06:26:00+08:00,9.93,126.12,14.0,3.5,004 km S 79° E of San Isidro (Surigao Del Norte),2018_Earthquake_Information/May/2018_0520_2226_B2.html
+20180521T0741_14.68_119.01,2018-05-21T07:41:00+08:00,14.68,119.01,28.0,2.0,120 km S 76° W of San Antonio (Zambales),2018_Earthquake_Information/May/2018_0520_2341_B2.html
+20180521T0855_9.29_126.51,2018-05-21T08:55:00+08:00,9.29,126.51,11.0,2.8,035 km N 88° E of Cortes (Surigao Del Sur),2018_Earthquake_Information/May/2018_0521_0055_B2.html
+20180521T1447_13.41_121.53,2018-05-21T14:47:00+08:00,13.41,121.53,27.0,2.4,027 km n 69° E of Naujan (Oriental Mindoro),2018_Earthquake_Information/May/2018_0521_0647_B2.html
+20180521T1550_8.1_126.19,2018-05-21T15:50:00+08:00,8.1,126.19,9.0,2.9,033 km S 27° W of Hinatuan (Surigao Del Sur),2018_Earthquake_Information/May/2018_0521_0750_B2.html
+20180521T2018_17.26_120.03,2018-05-21T20:18:00+08:00,17.26,120.03,15.0,3.4,045 km N 80° W of Candon City (Ilocos Sur),2018_Earthquake_Information/May/2018_0521_1218_B2.html
+20180521T2244_6.27_126.22,2018-05-21T22:44:00+08:00,6.27,126.22,27.0,2.8,029 km S 01° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0521_1444_B2.html
+20180521T2359_6.63_126.93,2018-05-21T23:59:00+08:00,6.63,126.93,24.0,4.3,078 km S 34° E of Manay (Davao Oriental),2018_Earthquake_Information/May/2018_0521_1559_B3.html
+20180522T0024_6.67_126.87,2018-05-22T00:24:00+08:00,6.67,126.87,20.0,3.2,063 km S 49° E of Tarragona (Davao Oriental),2018_Earthquake_Information/May/2018_0521_1624_B2.html
+20180522T0037_17.23_120.03,2018-05-22T00:37:00+08:00,17.23,120.03,22.0,2.5,045 km N 85° W of Candon City (Ilocos Sur),2018_Earthquake_Information/May/2018_0521_1637_B2.html
+20180522T0100_10.51_122.29,2018-05-22T01:00:00+08:00,10.51,122.29,1.0,2.8,016 km S 21° E of Miagao (Iloilo),2018_Earthquake_Information/May/2018_0521_1700_B2.html
+20180522T0138_16.59_119.94,2018-05-22T01:38:00+08:00,16.59,119.94,57.0,2.0,023 km N 12° E of Bolinao (Pangasinan),2018_Earthquake_Information/May/2018_0521_1738_B2.html
+20180522T0219_13.65_120.98,2018-05-22T02:19:00+08:00,13.65,120.98,18.0,1.7,012 km S 23° E of Mabini (Batangas),2018_Earthquake_Information/May/2018_0521_1819_B2.html
+20180522T0226_15.68_119.79,2018-05-22T02:26:00+08:00,15.68,119.79,31.0,2.1,016 km N 69° W of Candelaria (Zambales),2018_Earthquake_Information/May/2018_0521_1826_B2.html
+20180522T0319_20.13_120.92,2018-05-22T03:19:00+08:00,20.13,120.92,132.0,2.4,102 km S 77° W of Sabtang (Batanes),2018_Earthquake_Information/May/2018_0521_1919_B2.html
+20180522T0346_13.89_120.84,2018-05-22T03:46:00+08:00,13.89,120.84,34.0,1.8,005 km S 26° E of Calaca (Batangas),2018_Earthquake_Information/May/2018_0521_1946_B2.html
+20180522T0451_11.82_124.15,2018-05-22T04:51:00+08:00,11.82,124.15,3.0,2.3,014 km N 43° E of Esperanza (Masbate),2018_Earthquake_Information/May/2018_0521_2051_B2.html
+20180522T0612_10.17_125.65,2018-05-22T06:12:00+08:00,10.17,125.65,29.0,1.9,013 km S 79° E of Libjo (Albor) (Surigao del Norte),2018_Earthquake_Information/May/2018_0521_2212_B2.html
+20180522T0638_17.14_121.51,2018-05-22T06:38:00+08:00,17.14,121.51,18.0,2.3,011 km N 79° W of Roxas (Isabela),2018_Earthquake_Information/May/2018_0521_2238_B2.html
+20180522T0731_7.14_125.71,2018-05-22T07:31:00+08:00,7.14,125.71,1.0,2.1,002 km N 52° E of Babak (Davao Del Norte),2018_Earthquake_Information/May/2018_0521_2331_B2.html
+20180522T0755_15.38_120.52,2018-05-22T07:55:00+08:00,15.38,120.52,132.0,2.2,008 km S 39° W of San Jose (Tarlac),2018_Earthquake_Information/May/2018_0521_2355_B2.html
+20180522T0804_5.54_126.94,2018-05-22T08:04:00+08:00,5.54,126.94,4.0,2.6,152 km S 75° E of Jose Abad Santos (Davao Occidental),2018_Earthquake_Information/May/2018_0522_0004_B2.html
+20180522T1016_7.15_125.27,2018-05-22T10:16:00+08:00,7.15,125.27,73.0,2.4,015 km S 61° E of Arakan (North Cotabato),2018_Earthquake_Information/May/2018_0522_0216_B2.html
+20180522T1053_14.54_124.08,2018-05-22T10:53:00+08:00,14.54,124.08,6.0,2.1,055 km N 10° W of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0522_0253_B2.html
+20180522T1230_12.38_123.68,2018-05-22T12:30:00+08:00,12.38,123.68,11.0,2.3,011 km S 65° W of Batuan (Masbate),2018_Earthquake_Information/May/2018_0522_0430_B2F.html
+20180522T1703_9.87_124.42,2018-05-22T17:03:00+08:00,9.87,124.42,35.0,2.3,010 km N 67° E of Pilar (Bohol),2018_Earthquake_Information/May/2018_0522_0903_B2.html
+20180522T1752_10.09_126.07,2018-05-22T17:52:00+08:00,10.09,126.07,11.0,3.0,009 km N 24° E of Santa Monica (Sapao) (Surigao Del Norte),2018_Earthquake_Information/May/2018_0522_0952_B2.html
+20180522T2055_5.18_126.27,2018-05-22T20:55:00+08:00,5.18,126.27,76.0,3.4,092 km S 72° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0522_1255_B2.html
+20180522T2204_13.18_121.12,2018-05-22T22:04:00+08:00,13.18,121.12,18.0,3.5,018 km S 84° W of Victoria (Oriental Mindoro),2018_Earthquake_Information/May/2018_0522_1404_B2.html
+20180522T2254_12.41_120.67,2018-05-22T22:54:00+08:00,12.41,120.67,31.0,2.7,034 km S 81° W of Rizal (Occidental Mindoro),2018_Earthquake_Information/May/2018_0522_1454_B2.html
+20180523T0230_11.11_124.62,2018-05-23T02:30:00+08:00,11.11,124.62,21.0,2.3,012 km N 04° W of Ormoc City (Leyte),2018_Earthquake_Information/May/2018_0522_1830_B2.html
+20180523T0657_14.31_124.32,2018-05-23T06:57:00+08:00,14.31,124.32,1.0,2.8,034 km N 30° E of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0522_2257_B2.html
+20180523T0836_7.17_125.57,2018-05-23T08:36:00+08:00,7.17,125.57,28.0,2.6,012 km N 22° W of Davao City (Davao Del Sur),2018_Earthquake_Information/May/2018_0523_0036_B2.html
+20180523T1002_15.64_119.91,2018-05-23T10:02:00+08:00,15.64,119.91,23.0,2.0,003 km N 46° W of Candelaria (Zambales),2018_Earthquake_Information/May/2018_0523_0202_B2.html
+20180523T1014_6.08_125.84,2018-05-23T10:14:00+08:00,6.08,125.84,114.0,3.1,021 km S 50° E of Don Marcelino (Davao Occidental),2018_Earthquake_Information/May/2018_0523_0214_B2.html
+20180523T1222_13.36_124.89,2018-05-23T12:22:00+08:00,13.36,124.89,7.0,2.0,066 km S 59° E of Baras (Catanduanes),2018_Earthquake_Information/May/2018_0523_0422_B2.html
+20180523T1330_5.96_126.26,2018-05-23T13:30:00+08:00,5.96,126.26,130.0,2.6,068 km S 68° E of Don Marcelino (Davao Occidental),2018_Earthquake_Information/May/2018_0523_0530_B2.html
+20180523T1403_8.94_124.11,2018-05-23T14:03:00+08:00,8.94,124.11,17.0,2.3,050 km N 41° W of Gitagum (Misamis Oriental),2018_Earthquake_Information/May/2018_0523_0603_B2.html
+20180523T1652_14.32_124.36,2018-05-23T16:52:00+08:00,14.32,124.36,1.0,2.4,037 km N 34° E of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0523_0852_B2.html
+20180523T1658_9.92_126.1,2018-05-23T16:58:00+08:00,9.92,126.1,3.0,2.7,011 km S 15° E of Burgos (Surigao Del Norte),2018_Earthquake_Information/May/2018_0523_0858_B2.html
+20180523T1901_13.61_120.5,2018-05-23T19:01:00+08:00,13.61,120.5,118.0,2.0,022 km N 08° E of Paluan (Occidental Mindoro),2018_Earthquake_Information/May/2018_0523_1101_B2.html
+20180523T2111_13.23_120.46,2018-05-23T21:11:00+08:00,13.23,120.46,1.0,2.3,014 km N 89° W of Mamburao (Occidental Mindoro),2018_Earthquake_Information/May/2018_0523_1311_B2.html
+20180523T2308_13.39_120.08,2018-05-23T23:08:00+08:00,13.39,120.08,22.0,2.0,041 km S 26° W of Looc (Occidental Mindoro),2018_Earthquake_Information/May/2018_0523_1508_B2.html
+20180524T0118_7.21_123.44,2018-05-24T01:18:00+08:00,7.21,123.44,38.0,2.5,027 km S 06° E of Tabina (Zamboanga Del Sur),2018_Earthquake_Information/May/2018_0523_1718_B2.html
+20180524T0640_15.16_119.9,2018-05-24T06:40:00+08:00,15.16,119.9,29.0,2.1,017 km N 89° W of Cabangan (Zambales),2018_Earthquake_Information/May/2018_0523_2240_B2.html
+20180524T0705_9.67_122.34,2018-05-24T07:05:00+08:00,9.67,122.34,77.0,2.5,013 km S 38° W of Sipalay (Negros Occidental),2018_Earthquake_Information/May/2018_0523_2305_B2.html
+20180524T0731_15.16_119.98,2018-05-24T07:31:00+08:00,15.16,119.98,24.0,2.2,008 km N 88° W of Cabangan (Zambales),2018_Earthquake_Information/May/2018_0523_2331_B2.html
+20180524T1119_12.29_120.39,2018-05-24T11:19:00+08:00,12.29,120.39,24.0,2.2,054 km N 76° E of Busuanga (Palawan),2018_Earthquake_Information/May/2018_0524_0319_B2.html
+20180524T1512_10.94_124.83,2018-05-24T15:12:00+08:00,10.94,124.83,17.0,2.4,015 km N 82° W of Albuera (Leyte),2018_Earthquake_Information/May/2018_0524_0712_B2.html
+20180524T1556_9.82_124.0,2018-05-24T15:56:00+08:00,9.82,124.0,30.0,2.3,008 km N 24° E of Balilihan (Bohol),2018_Earthquake_Information/May/2018_0524_0756_B2.html
+20180524T1707_12.93_124.64,2018-05-24T17:07:00+08:00,12.93,124.64,23.0,2.0,006 km N 47° E of Biri (Northern Samar),2018_Earthquake_Information/May/2018_0524_0907_B1.html
+20180524T1753_8.47_125.74,2018-05-24T17:53:00+08:00,8.47,125.74,60.0,3.5,005 km N 63° W of Talacogon (Agusan Del Sur),2018_Earthquake_Information/May/2018_0524_0953_B2.html
+20180524T1947_8.5_125.74,2018-05-24T19:47:00+08:00,8.5,125.74,61.0,2.9,008 km N 41° W of Talacogon (Agusan Del Sur),2018_Earthquake_Information/May/2018_0524_1147_B2.html
+20180524T2106_10.14_126.18,2018-05-24T21:06:00+08:00,10.14,126.18,17.0,2.6,018 km N 40° E of Burgos (Surigao Del Norte),2018_Earthquake_Information/May/2018_0524_1306_B2.html
+20180524T2215_11.99_124.16,2018-05-24T22:15:00+08:00,11.99,124.16,27.0,2.9,031 km N 41° W of Maripipi (Biliran),2018_Earthquake_Information/May/2018_0524_1415_B2.html
+20180524T2227_8.24_124.44,2018-05-24T22:27:00+08:00,8.24,124.44,31.0,2.3,023 km S 61° E of Lugait (Misamis Oriental),2018_Earthquake_Information/May/2018_0524_1427_B2.html
+20180524T2305_11.96_124.06,2018-05-24T23:05:00+08:00,11.96,124.06,2.0,3.3,008 km N 22° E of Pio V. Corpuz (Limbuhan)(Masbate),2018_Earthquake_Information/May/2018_0524_1505_B2.html
+20180524T2316_18.12_120.45,2018-05-24T23:16:00+08:00,18.12,120.45,13.0,3.0,012 km N 16° W of Currimao (Ilocos Norte),2018_Earthquake_Information/May/2018_0524_1516_B2.html
+20180525T0148_6.83_125.7,2018-05-25T01:48:00+08:00,6.83,125.7,18.0,2.6,027 km S 22° E of Davao City (Davao Del Sur),2018_Earthquake_Information/May/2018_0524_1748_B2.html
+20180525T0653_9.61_126.19,2018-05-25T06:53:00+08:00,9.61,126.19,33.0,2.5,020 km S 10° E of General Luna (Surigao Del Norte),2018_Earthquake_Information/May/2018_0524_2253_B2.html
+20180525T0847_16.15_119.84,2018-05-25T08:47:00+08:00,16.15,119.84,24.0,3.7,005 km S 34° W of Bani (Pangasinan),2018_Earthquake_Information/May/2018_0525_0047_B2.html
+20180525T0908_5.46_126.21,2018-05-25T09:08:00+08:00,5.46,126.21,82.0,3.6,082 km N 88° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0525_0108_B2.html
+20180525T1938_14.85_119.84,2018-05-25T19:38:00+08:00,14.85,119.84,33.0,2.1,029 km S 69° W of San Antonio (Zambales),2018_Earthquake_Information/May/2018_0525_1138_B2.html
+20180525T1957_5.64_126.31,2018-05-25T19:57:00+08:00,5.64,126.31,1.0,2.8,081 km S 71° E of Jose Abad Santos (Davao Occidental),2018_Earthquake_Information/May/2018_0525_1157_B2.html
+20180525T2157_13.64_120.62,2018-05-25T21:57:00+08:00,13.64,120.62,185.0,2.6,027 km S 85° W of Tingloy (Batangas),2018_Earthquake_Information/May/2018_0525_1357_B2.html
+20180525T2315_19.73_121.67,2018-05-25T23:15:00+08:00,19.73,121.67,27.0,3.4,054 km N 24° E of Calayan (Cagayan),2018_Earthquake_Information/May/2018_0525_1515_B2.html
+20180525T2323_15.108_119.12,2018-05-25T23:23:00+08:00,15.108,119.12,21.0,3.6,093 km S 65° W of Palauig (Zambales),2018_Earthquake_Information/May/2018_0525_1523_B2.html
+20180526T0010_9.2_126.62,2018-05-26T00:10:00+08:00,9.2,126.62,5.0,3.1,039 km N 68° E of Bayabas (Surigao del Sur),2018_Earthquake_Information/May/2018_0525_1610_B2.html
+20180526T0044_13.745_120.57,2018-05-26T00:44:00+08:00,13.745,120.57,66.0,2.0,012 km S 34° W of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0525_1644_B2.html
+20180526T0319_9.51_123.26,2018-05-26T03:19:00+08:00,9.51,123.26,9.0,2.6,023 km N 05° W of Dumaguete City,2018_Earthquake_Information/May/2018_0525_1919_B2.html
+20180526T0844_11.65_125.88,2018-05-26T08:44:00+08:00,11.65,125.88,18.0,2.6,046 km N 38° E of Hernani (Eastern Samar),2018_Earthquake_Information/May/2018_0526_0044_B2.html
+20180526T0857_9.96_126.27,2018-05-26T08:57:00+08:00,9.96,126.27,8.0,3.4,021 km N 61° E of Pilar (Surigao Del Norte),2018_Earthquake_Information/May/2018_0526_0057_B2.html
+20180526T0949_9.83_126.2,2018-05-26T09:49:00+08:00,9.83,126.2,20.0,2.0,011 km S 69° E of Pilar (Surigao Del Norte),2018_Earthquake_Information/May/2018_0526_0149_B2.html
+20180526T0950_9.96_126.3,2018-05-26T09:50:00+08:00,9.96,126.3,24.0,2.1,023 km N 83° E of San Isidro (Surigao Del Norte),2018_Earthquake_Information/May/2018_0526_0150_B2.html
+20180526T1043_8.99_126.26,2018-05-26T10:43:00+08:00,8.99,126.26,42.0,2.1,004 km N 55° W of Bayabas (Surigao Del Sur),2018_Earthquake_Information/May/2018_0526_0243_B2.html
+20180526T1125_18.47_120.93,2018-05-26T11:25:00+08:00,18.47,120.93,14.0,2.5,002 km N 59° E of Adams (Ilocos Norte),2018_Earthquake_Information/May/2018_0526_0325_B2.html
+20180526T1442_19.1_121.19,2018-05-26T14:42:00+08:00,19.1,121.19,27.0,2.5,035 km S 55° W of Calayan (Cagayan),2018_Earthquake_Information/May/2018_0526_0642_B2.html
+20180526T1955_18.35_120.7,2018-05-26T19:55:00+08:00,18.35,120.7,32.0,2.1,009 km N 79° E of Pasuquin (Ilocos Norte),2018_Earthquake_Information/May/2018_0526_1155_B2.html
+20180526T2026_16.13_122.02,2018-05-26T20:26:00+08:00,16.13,122.02,16.0,2.1,006 km S 82° E of Dinalungan (Aurora),2018_Earthquake_Information/May/2018_0526_1226_B2.html
+20180526T2027_6.15_125.36,2018-05-26T20:27:00+08:00,6.15,125.36,64.0,4.2,012 km N 54° E of Alabel (Sarangani),2018_Earthquake_Information/May/2018_0526_1227_B3F.html
+20180526T2036_16.29_122.23,2018-05-26T20:36:00+08:00,16.29,122.23,14.0,2.4,015 km N 83° E of Casiguran (Aurora),2018_Earthquake_Information/May/2018_0526_1236_B2.html
+20180526T2219_9.73_126.04,2018-05-26T22:19:00+08:00,9.73,126.04,10.0,2.8,003 km S 25° W of Dapa (Dinagat),2018_Earthquake_Information/May/2018_0526_1419_B2.html
+20180526T2235_10.97_124.67,2018-05-26T22:35:00+08:00,10.97,124.67,9.0,2.4,007 km N 26° W of Albuera (Leyte),2018_Earthquake_Information/May/2018_0526_1435_B2.html
+20180526T2312_20.2_121.39,2018-05-26T23:12:00+08:00,20.2,121.39,27.0,2.3,052 km S 73° W of Sabtang (Batanes),2018_Earthquake_Information/May/2018_0526_1512_B2.html
+20180527T0121_13.85_120.54,2018-05-27T01:21:00+08:00,13.85,120.54,187.0,2.0,010 km N 78° W of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0526_1721_B2.html
+20180527T0330_4.94_125.8,2018-05-27T03:30:00+08:00,4.94,125.8,117.0,2.7,065 km S 34° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0526_1930_B2.html
+20180527T0400_8.85_125.78,2018-05-27T04:00:00+08:00,8.85,125.78,6.0,2.7,009 km N 68° E of Sibagat (Agusan Del Sur),2018_Earthquake_Information/May/2018_0526_2000_B2.html
+20180527T0431_6.8_124.1,2018-05-27T04:31:00+08:00,6.8,124.1,1.0,2.3,002 km S 03° E of South Upi (Maguindanao),2018_Earthquake_Information/May/2018_0526_2031_B2.html
+20180527T0740_13.04_124.59,2018-05-27T07:40:00+08:00,13.04,124.59,2.0,3.0,043 km S 88° E of Prieto Diaz (Sorsogon),2018_Earthquake_Information/May/2018_0526_2340_B2.html
+20180527T1006_20.14_121.17,2018-05-27T10:06:00+08:00,20.14,121.17,59.0,2.0,027 km S 39° W of Sabtang (Batanes),2018_Earthquake_Information/May/2018_0527_0206_B2.html
+20180527T1020_11.26_124.61,2018-05-27T10:20:00+08:00,11.26,124.61,3.0,3.7,005 km S 40° W of Capoocan (Leyte),2018_Earthquake_Information/May/2018_0527_0220_B2F.html
+20180527T1125_15.71_119.98,2018-05-27T11:25:00+08:00,15.71,119.98,2.0,1.9,009 km S 51° E of Santa Cruz(Zambales),2018_Earthquake_Information/May/2018_0527_0325_B2.html
+20180527T1136_11.49_125.9,2018-05-27T11:36:00+08:00,11.49,125.9,25.0,2.9,015 km N 60° E of Hernani (Eastern Samar),2018_Earthquake_Information/May/2018_0527_0336_B2.html
+20180527T1609_8.85_122.92,2018-05-27T16:09:00+08:00,8.85,122.92,20.0,2.4,040 km N 27° W of Manukan (Zamboanga del Norte),2018_Earthquake_Information/May/2018_0527_0809_B2.html
+20180527T1737_13.65_120.98,2018-05-27T17:37:00+08:00,13.65,120.98,33.0,2.1,012 km S 23° E of Mabini (Batangas),2018_Earthquake_Information/May/2018_0527_0937_B2.html
+20180527T1938_20.12_121.5,2018-05-27T19:38:00+08:00,20.12,121.5,24.0,2.9,046 km S 58° W of Sabtang (Batanes),2018_Earthquake_Information/May/2018_0527_1138_B2.html
+20180527T1945_10.28_126.02,2018-05-27T19:45:00+08:00,10.28,126.02,31.0,2.6,027 km N 07° W of Santa Monica (Sapao) (Surigao Del Norte),2018_Earthquake_Information/May/2018_0527_1145_B2.html
+20180527T2240_10.9_125.62,2018-05-27T22:40:00+08:00,10.9,125.62,39.0,4.0,019 km S 38° W of Guiuan (Eastern Samar),2018_Earthquake_Information/May/2018_0527_1440_B3.html
+20180527T2306_6.28_126.22,2018-05-27T23:06:00+08:00,6.28,126.22,117.0,2.7,044 km S 21° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0527_1506_B2.html
+20180527T2317_19.17_121.27,2018-05-27T23:17:00+08:00,19.17,121.27,30.0,2.4,024 km S 60° W of Calayan (Cagayan),2018_Earthquake_Information/May/2018_0527_1517_B2.html
+20180528T0000_19.08_121.26,2018-05-28T00:00:00+08:00,19.08,121.26,13.0,3.0,031 km S 44° W of Calayan (Cagayan),2018_Earthquake_Information/May/2018_0527_1600_B2.html
+20180528T0336_10.92_124.23,2018-05-28T03:36:00+08:00,10.92,124.23,26.0,2.7,022 km S 83° E of Tabogon (Cebu),2018_Earthquake_Information/May/2018_0527_1936_B2.html
+20180528T0403_17.37_120.18,2018-05-28T04:03:00+08:00,17.37,120.18,21.0,2.5,028 km N 81° W of San Esteban (Ilocos Sur),2018_Earthquake_Information/May/2018_0527_2004_B2.html
+20180528T0612_11.11_124.68,2018-05-28T06:12:00+08:00,11.11,124.68,3.0,3.0,014 km N 32° E of Ormoc City (Leyte),2018_Earthquake_Information/May/2018_0527_2212_B2.html
+20180528T0906_7.01_125.35,2018-05-28T09:06:00+08:00,7.01,125.35,33.0,1.8,026 km N 04° W of Digos City (Davao Del Sur),2018_Earthquake_Information/May/2018_0528_0106_B2.html
+20180528T1042_5.3_126.5,2018-05-28T10:42:00+08:00,5.3,126.5,60.0,3.1,115 km S 82° E of Saranggani (Davao Occidental),2018_Earthquake_Information/May/2018_0528_0242_B2.html
+20180528T1305_6.74_125.9,2018-05-28T13:05:00+08:00,6.74,125.9,21.0,2.5,021 km S 35° W of Lupon (Davao Oriental),2018_Earthquake_Information/May/2018_0528_0505_B1.html
+20180528T1357_15.06_119.96,2018-05-28T13:57:00+08:00,15.06,119.96,19.0,2.1,012 km S 88° W of San Felipe (Zambales),2018_Earthquake_Information/May/2018_0528_0557_B2.html
+20180528T1657_15.96_120.1,2018-05-28T16:57:00+08:00,15.96,120.1,29.0,2.1,012 km S 05° E of Sual (Pangasinan),2018_Earthquake_Information/May/2018_0528_0857_B2.html
+20180528T1749_6.02_126.12,2018-05-28T17:49:00+08:00,6.02,126.12,96.0,2.8,058 km N 75° E of Jose Abad Santos (Davao Occidental),2018_Earthquake_Information/May/2018_0528_0949_B2.html
+20180528T1809_5.27_126.47,2018-05-28T18:09:00+08:00,5.27,126.47,41.0,2.6,112 km S 80° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0528_1009_B2.html
+20180528T1814_5.95_125.58,2018-05-28T18:14:00+08:00,5.95,125.58,41.0,3.1,008 km N 32° W of Jose Abad Santos (Davao Occidental),http://www.phivolcs.dost.gov.ph/html/update_SOEPD/../../2018_Earthquake_Information/May/2018_0528_1014_B1.html
+20180528T2006_8.69_126.78,2018-05-28T20:06:00+08:00,8.69,126.78,25.0,2.5,055 km S 77° E of Marihatag (Surigao del Sur),2018_Earthquake_Information/May/2018_0528_1206_B2.html
+20180528T2138_13.58_121.17,2018-05-28T21:38:00+08:00,13.58,121.17,23.0,2.1,009 km S 32° W of Lobo (Batangas),2018_Earthquake_Information/May/2018_0528_1338_B2.html
+20180528T2241_8.87_126.64,2018-05-28T22:41:00+08:00,8.87,126.64,16.0,2.3,038 km S 81° E of Cagwait (Surigao Del Sur),2018_Earthquake_Information/May/2018_0528_1441_B2.html
+20180528T2244_10.67_125.33,2018-05-28T22:44:00+08:00,10.67,125.33,3.0,2.7,025 km N 50° E of Silago (Southern Leyte),2018_Earthquake_Information/May/2018_0528_1444_B2.html
+20180528T2254_18.99_121.76,2018-05-28T22:54:00+08:00,18.99,121.76,3.0,2.0,045 km S 44° E of Calayan (Cagayan),2018_Earthquake_Information/May/2018_0528_1454_B2.html
+20180529T0111_15.04_119.91,2018-05-29T01:11:00+08:00,15.04,119.91,19.0,2.9,018 km S 81° W of San Felipe (Zambales),2018_Earthquake_Information/May/2018_0528_1711_B2.html
+20180529T0148_11.51_124.4,2018-05-29T01:48:00+08:00,11.51,124.4,5.0,2.4,006 km S 03° E of Naval (Biliran),2018_Earthquake_Information/May/2018_0528_1748_B2.html
+20180529T0624_16.19_122.08,2018-05-29T06:24:00+08:00,16.19,122.08,40.0,2.0,011 km S 27° W of Casiguran (Aurora),2018_Earthquake_Information/May/2018_0528_2224_B2.html
+20180529T0636_13.56_120.74,2018-05-29T06:36:00+08:00,13.56,120.74,125.0,2.3,013 km N 03° E of Abra de Ilog (Occidental Mindoro),2018_Earthquake_Information/May/2018_0528_2236_B3.html
+20180529T1124_10.69_125.23,2018-05-29T11:24:00+08:00,10.69,125.23,154.0,3.4,019 km N 24° E of Silago (Southern Leyte),2018_Earthquake_Information/May/2018_0529_0324_B2.html
+20180529T1645_9.43_126.36,2018-05-29T16:45:00+08:00,9.43,126.36,2.0,2.7,026 km N 48° E of Cortes (Surigao Del Sur),2018_Earthquake_Information/May/2018_0529_0845_B2.html
+20180529T2018_7.62_125.33,2018-05-29T20:18:00+08:00,7.62,125.33,6.0,3.0,028 km S 62° E of Quezon (Bukidnon),2018_Earthquake_Information/May/2018_0529_1218_B2.html
+20180529T2049_19.4_120.41,2018-05-29T20:49:00+08:00,19.4,120.41,76.0,3.2,102 km N 14° W of Burgos (Ilocos Norte),2018_Earthquake_Information/May/2018_0529_1249_B2.html
+20180529T2054_10.21_125.99,2018-05-29T20:54:00+08:00,10.21,125.99,26.0,2.2,022 km N 14° W of Santa Monica (Sapao) (Surigao Del Norte),2018_Earthquake_Information/May/2018_0529_1254_B2.html
+20180529T2249_13.71_120.43,2018-05-29T22:49:00+08:00,13.71,120.43,36.0,2.6,020 km S 85° E of Looc (Occidental Mindoro),2018_Earthquake_Information/May/2018_0529_1449_B2.html
+20180529T2305_14.53_119.06,2018-05-29T23:05:00+08:00,14.53,119.06,33.0,2.0,120 km S 67° W of San Antonio (Zambales),2018_Earthquake_Information/May/2018_0529_1505_B1.html
+20180529T2317_4.69_127.91,2018-05-29T23:17:00+08:00,4.69,127.91,31.0,3.5,282 km S 73° E of Saranggani (Davao Occidental),2018_Earthquake_Information/May/2018_0529_2235_B2.html
+20180530T0337_5.29_126.28,2018-05-30T03:37:00+08:00,5.29,126.28,112.0,2.4,091 km S 80° E of Saranggani (Davao Occidental),2018_Earthquake_Information/May/2018_0529_1937_B1.html
+20180530T0635_13.79_120.57,2018-05-30T06:35:00+08:00,13.79,120.57,13.0,2.0,009 km S 55° W of Calatagan (Batangas),2018_Earthquake_Information/May/2018_0529_2235_B2.html
+20180530T0658_6.82_126.19,2018-05-30T06:58:00+08:00,6.82,126.19,41.0,2.4,013 km S 76° E of San Isidro (Davao Oriental),2018_Earthquake_Information/May/2018_0529_2258_B1.html
+20180530T0659_7.57_123.54,2018-05-30T06:59:00+08:00,7.57,123.54,9.0,3.4,023 km S 74° E of Dinas (Zamboanga Del Sur),2018_Earthquake_Information/May/2018_0529_2259_B2.html
+20180530T1015_9.14_126.04,2018-05-30T10:15:00+08:00,9.14,126.04,128.0,2.1,010 km S 18° E of Carmen (Surigao Del Sur),2018_Earthquake_Information/May/2018_0530_0215_B2.html
+20180530T1057_13.94_120.34,2018-05-30T10:57:00+08:00,13.94,120.34,75.0,3.2,026 km N 23° E of Lubang (Occidental Mindoro),2018_Earthquake_Information/May/2018_0530_0257_B3.html
+20180530T1110_10.11_126.09,2018-05-30T11:10:00+08:00,10.11,126.09,13.0,3.2,011 km N 09° E of Burgos (Surigao Del Norte),2018_Earthquake_Information/May/2018_0530_0310_B3.html
+20180530T1353_14.0_120.32,2018-05-30T13:53:00+08:00,14.0,120.32,60.0,2.0,027 km N 54° E of Nasugbu (Batangas),2018_Earthquake_Information/May/2018_0530_0553_B2.html
+20180530T1420_11.24_125.71,2018-05-30T14:20:00+08:00,11.24,125.71,57.0,3.0,012 km N 29° E of S (Eastern Samar),2018_Earthquake_Information/May/2018_0530_0620_B2.html
+20180530T1459_8.8_122.09,2018-05-30T14:59:00+08:00,8.8,122.09,11.0,2.7,090 km S 42° W of Basay (Negros Oriental),2018_Earthquake_Information/May/2018_0530_0659_B2.html
+20180530T1618_10.3_126.08,2018-05-30T16:18:00+08:00,10.3,126.08,18.0,2.8,031 km N 01° E of Burgos (Surigao Del Norte),2018_Earthquake_Information/May/2018_0530_0818_B2.html
+20180530T1729_14.22_124.25,2018-05-30T17:29:00+08:00,14.22,124.25,3.0,2.4,021 km N 27° E of Pandan (Catanduanes),2018_Earthquake_Information/May/2018_0530_0929_B2.html
+20180530T1823_18.05_120.87,2018-05-30T18:23:00+08:00,18.05,120.87,66.0,2.3,011 km S 61° E of Solsona (Ilocos Norte),2018_Earthquake_Information/May/2018_0530_1023_B2.html
+20180530T1846_18.07_120.52,2018-05-30T18:46:00+08:00,18.07,120.52,26.0,4.2,001 km N 06° E of Paoay (Ilocos Norte),2018_Earthquake_Information/May/2018_0530_1046_B2F.html
+20180530T2031_9.15_126.7,2018-05-30T20:31:00+08:00,9.15,126.7,14.0,3.6,050km N 66° E of Bayabas (Surigao Del Sur),2018_Earthquake_Information/May/2018_0530_1231_B2.html
+20180530T2055_20.85_121.85,2018-05-30T20:55:00+08:00,20.85,121.85,32.0,2.1,006 km N 08° E of Itbayat (Batanes),2018_Earthquake_Information/May/2018_0530_1255_B2.html
+20180530T2250_5.47_125.52,2018-05-30T22:50:00+08:00,5.47,125.52,22.0,2.5,007 km N 49° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0530_1450_B2.html
+20180530T2255_9.42_123.05,2018-05-30T22:55:00+08:00,9.42,123.05,6.0,2.6,011 km S 39° W of Pamplona (Negros Oriental),2018_Earthquake_Information/May/2018_0530_1455_B2.html
+20180531T0048_17.33_121.83,2018-05-31T00:48:00+08:00,17.33,121.83,33.0,2.4,015 km N 15° W of Ilagan (Isabela),2018_Earthquake_Information/May/2018_0530_1648_B2.html
+20180531T0201_6.31_125.45,2018-05-31T02:01:00+08:00,6.31,125.45,60.0,2.2,031 km N 38° E of Alabel (Sarangani),2018_Earthquake_Information/May/2018_0530_1801_B2.html
+20180531T0229_5.46_124.93,2018-05-31T02:29:00+08:00,5.46,124.93,20.0,2.7,045 km S 12° W of Maasim (Sarangani),2018_Earthquake_Information/May/2018_0530_1829_B2.html
+20180531T0251_13.67_121.42,2018-05-31T02:51:00+08:00,13.67,121.42,19.0,2.1,023 km N 84° E of Lobo (Batangas),2018_Earthquake_Information/May/2018_0530_1851_B2.html
+20180531T0315_8.19_126.89,2018-05-31T03:15:00+08:00,8.19,126.89,32.0,2.3,056 km N 72° E of Lingig (Surigao Del Sur),2018_Earthquake_Information/May/2018_0530_1915_B2.html
+20180531T0505_9.04_125.77,2018-05-31T05:05:00+08:00,9.04,125.77,22.0,2.4,021 km S 84° E of Remedios Romualdez (Agusan Del Norte),2018_Earthquake_Information/May/2018_0530_2105_B2.html
+20180531T0805_10.6_125.0,2018-05-31T08:05:00+08:00,10.6,125.0,2.0,2.5,004 km S 77° E of Mahaplag (Leyte),2018_Earthquake_Information/May/2018_0531_0005_B2.html
+20180531T0814_13.98_120.34,2018-05-31T08:14:00+08:00,13.98,120.34,9.0,2.4,028 km S 79° W of Mamburao (Occidental Mindoro),2018_Earthquake_Information/May/2018_0531_0014_B2.html
+20180531T1050_9.85_126.35,2018-05-31T10:50:00+08:00,9.85,126.35,23.0,2.5,023 km N 70° E of General Luna (Surigao Del Norte),2018_Earthquake_Information/May/2018_0531_0250_B2.html
+20180531T1629_17.94_120.47,2018-05-31T16:29:00+08:00,17.94,120.47,1.0,2.5,008 km N 09° E of Sinait (Ilocos Sur),2018_Earthquake_Information/May/2018_0531_0829_B2F.html
+20180531T1846_15.73_121.62,2018-05-31T18:46:00+08:00,15.73,121.62,24.0,2.0,007 km S 63° E of Baler (Aurora),2018_Earthquake_Information/May/2018_0531_1046_B2.html
+20180531T2053_10.07_123.66,2018-05-31T20:53:00+08:00,10.07,123.66,25.0,2.2,005 km S 28° E of Carcar (Cebu),2018_Earthquake_Information/May/2018_0531_1254_B2.html
+20180531T2156_12.9_124.33,2018-05-31T21:56:00+08:00,12.9,124.33,31.0,2.1,021 km N 79° E of Barcelona (Sorsogon),2018_Earthquake_Information/May/2018_0531_1356_B2.html
+20180531T2319_15.07_120.01,2018-05-31T23:19:00+08:00,15.07,120.01,18.0,2.0,007 km N 84° W of San Felipe (Zambales),2018_Earthquake_Information/May/2018_0531_1519_B2.html
+20180531T2322_6.18_126.35,2018-05-31T23:22:00+08:00,6.18,126.35,1.0,2.7,060 km S 31° E of Governor Generoso (Davao Oriental),2018_Earthquake_Information/May/2018_0531_1522_B2.html
+20180531T2327_17.38_121.83,2018-05-31T23:27:00+08:00,17.38,121.83,24.0,2.5,006 km S 67° E of Santo Tomas (Isabela),2018_Earthquake_Information/May/2018_0531_1527_B2.html
+20180531T2344_4.02_126.5,2018-05-31T23:44:00+08:00,4.02,126.5,39.0,4.7,194 km S 36° E of Sarangani (Davao Occidental),2018_Earthquake_Information/May/2018_0531_1544_B2.html

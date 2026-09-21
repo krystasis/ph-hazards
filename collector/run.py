@@ -10,7 +10,7 @@ import sys
 import time
 from datetime import datetime, timedelta, timezone
 
-from . import pagasa_dams, pagasa_regional, pagasa_tcb, phivolcs_eq, phivolcs_volcano
+from . import pagasa_dams, pagasa_ffws, pagasa_regional, pagasa_tcb, phivolcs_eq, phivolcs_volcano
 from .fetch import Blocked, fetch, in_cooldown, load_state, save_state
 from .store import DATA, append_jsonl, replace_csv, upsert_csv
 
@@ -131,6 +131,31 @@ def run_tcb(now, force) -> tuple[bool, str]:
     return ok, note
 
 
+def run_ffws(now, force) -> tuple[bool, str]:
+    key, state = pagasa_ffws.KEY, load_state(pagasa_ffws.KEY)
+    if in_cooldown(state, now):
+        return True, "cooldown"
+    if not _due(state, now, pagasa_ffws.MIN_INTERVAL_MIN, force):
+        return True, "not due"
+    at = pagasa_ffws.slot(now.astimezone(PHT))
+    resp = fetch(key, pagasa_ffws.URL, {}, now, form={"ymdhm": at.strftime("%Y%m%d%H%M")})
+    rows = pagasa_ffws.parse(resp.text, at)
+    # 値が動いた観測所だけ残す(動かなくても 1 時間に 1 行)。リポジトリを膨らませないため。
+    last: dict = state.setdefault("last", {})
+    keep = []
+    for r in rows:
+        prev = last.get(r["station_code"])
+        stale = not prev or now - datetime.fromisoformat(prev["at"]) >= timedelta(minutes=pagasa_ffws.KEEPALIVE_MIN)
+        if stale or prev["wl"] != r["wl_m"] + r["flag"]:
+            keep.append(r)
+            last[r["station_code"]] = {"wl": r["wl_m"] + r["flag"], "at": now.isoformat()}
+    changed = upsert_csv(DATA / "river_levels" / f"{at:%Y-%m}.csv", pagasa_ffws.FIELDS, keep, ["time_pht", "station_code"], ["time_pht", "station_code"])
+    ok = len(rows) > 0
+    note = f"{len(rows)} 観測所、{changed} 行を追加"
+    _finish(key, state, now, resp, ok, note)
+    return ok, note
+
+
 def run_volcano(now, force) -> tuple[bool, str]:
     key, state = phivolcs_volcano.KEY, load_state(phivolcs_volcano.KEY)
     if in_cooldown(state, now):
@@ -152,6 +177,7 @@ SOURCES = {
     pagasa_dams.KEY: run_dams,
     pagasa_regional.KEY: run_regional,
     pagasa_tcb.KEY: run_tcb,
+    pagasa_ffws.KEY: run_ffws,
     phivolcs_volcano.KEY: run_volcano,
 }
 

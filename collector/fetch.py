@@ -6,6 +6,7 @@ import json
 import os
 import ssl
 import urllib.error
+import urllib.parse
 import urllib.request
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
@@ -71,15 +72,18 @@ def _block(key: str, state: dict, reason, now: datetime, detail: str) -> None:
     raise Blocked(f"{key}: {reason} → {hours}h 停止")
 
 
-def fetch(key: str, url: str, state: dict, now: datetime | None = None) -> Response:
-    """条件付き GET。変更が無ければ status=304 で本文は空。"""
+def fetch(key: str, url: str, state: dict, now: datetime | None = None, form: dict | None = None) -> Response:
+    """条件付き GET。変更が無ければ status=304 で本文は空。form を渡すと、公開ページ自身が行うのと同じ POST になる。"""
     now = now or datetime.now(timezone.utc)
     headers = {"User-Agent": USER_AGENT, "Accept-Encoding": "gzip", "Accept": "text/html"}
     if state.get("etag"):
         headers["If-None-Match"] = state["etag"]
     if state.get("last_modified"):
         headers["If-Modified-Since"] = state["last_modified"]
-    req = urllib.request.Request(url, headers=headers)
+    body = urllib.parse.urlencode(form).encode() if form else None
+    if form:
+        headers["Accept"] = "application/json"
+    req = urllib.request.Request(url, data=body, headers=headers)
     try:
         with urllib.request.urlopen(req, timeout=TIMEOUT, context=_ssl_context()) as r:
             raw = r.read()

@@ -5,10 +5,10 @@
 import csv
 import tempfile
 import unittest
-from datetime import date
+from datetime import date, datetime
 from pathlib import Path
 
-from collector import pagasa_dams, pagasa_regional, pagasa_tcb, phivolcs_eq, phivolcs_volcano
+from collector import pagasa_dams, pagasa_ffws, pagasa_regional, pagasa_tcb, phivolcs_eq, phivolcs_volcano
 from collector.store import append_jsonl, replace_csv, upsert_csv
 
 FIX = Path(__file__).parent / "fixtures"
@@ -61,6 +61,17 @@ class Regional(unittest.TestCase):
 class Cyclone(unittest.TestCase):
     def test_none_active(self):
         self.assertIsNone(pagasa_tcb.parse(load("pagasa_tcb_none.html")))
+
+
+class RiverLevels(unittest.TestCase):
+    def test_stations(self):
+        at = pagasa_ffws.slot(datetime(2026, 9, 21, 11, 47))
+        self.assertEqual(at, datetime(2026, 9, 21, 11, 30))
+        rows = pagasa_ffws.parse(load("pagasa_ffws.json"), at)
+        self.assertEqual(len(rows), 17)
+        sto = next(r for r in rows if r["station"] == "Sto Nino")
+        self.assertEqual((sto["wl_m"], sto["flag"], sto["alert_m"], sto["critical_m"]), ("12.78", "", "15.00", "17.00"))
+        self.assertEqual(next(r for r in rows if r["station"] == "Angono")["flag"], "*")
 
 
 class Volcano(unittest.TestCase):
