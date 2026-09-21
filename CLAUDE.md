@@ -16,10 +16,19 @@
 ## 定期実行の例外
 **収集は GitHub Actions(`.github/workflows/collect.yml`)で回す。** 手元のマシンの停電・回線断に左右されないようにするため。
 
+## 場所の名寄せと D1 への書き出し
+- `vendor/psgc/` — PSGC の地域・州・市町(PyPI `psgc`、MIT)。四半期に 1 回差し替える。
+- `places/` — 注意報の本文と地震の location を PSGC の市町コードに当てる。外れた名前は `places/aliases.json` に手で足す。
+- `db/schema.sql` — D1 のスキーマ。問い合わせは全部インデックスで引ける形にする(D1 の無料枠は走査した行数で数える)。
+- `db/export.py` — **前回から変わった行だけ**の SQL を作る。月のファイルを丸ごと送らない(1 日 10 万行の上限を超える)。
+- `db/verify_local.py` — 手元の SQLite でスキーマ・差分・削除の追従・問い合わせ計画を確かめる。
+
 ## 動かし方
     python3 -m unittest discover -s tests     # 実ページの切り抜きで解析を確認(通信なし)
     python3 -m collector.run                  # 1 回分(各取得元の最小間隔を守る)
     python3 -m collector.run --only phivolcs-eq --force
+    python3 -m db.verify_local data               # D1 へ送る内容を手元の SQLite で検証
+    python3 -m scripts.report_places data/advisories
     python3 -m collector.backfill_eq          # 過去分の地震(1 回だけ。済んだ月は取らない)
 
 ## データ
