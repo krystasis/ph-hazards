@@ -1359,8 +1359,8 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260922T1903_19.31_121.17,2026-09-22T19:03:00+08:00,19.31,121.17,33.0,1.7,023 km N 09° W of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/September/2026_0922_1103_B1.html
 20260922T1913_5.73_125.48,2026-09-22T19:13:00+08:00,5.73,125.48,28.0,1.9,028 km N 02° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/September/2026_0922_1113_B2F.html
 20260922T1921_5.68_125.26,2026-09-22T19:21:00+08:00,5.68,125.26,27.0,1.9,016 km S 20° E of Glan (Sarangani),2026_Earthquake_Information/September/2026_0922_1121_B2F.html
-20260922T1936_7.88_126.78,2026-09-22T19:36:00+08:00,7.88,126.78,25.0,1.5,037 km N 75° E of Cateel (Davao Oriental),2026_Earthquake_Information/September/2026_0922_1136_B1.html
-20260922T2006_9.7_125.85,2026-09-22T20:06:00+08:00,9.7,125.85,36.0,1.6,015 km N 55° W of Socorro (Surigao Del Norte),2026_Earthquake_Information/September/2026_0922_1206_B1.html
+20260922T1936_7.97_126.74,2026-09-22T19:36:00+08:00,7.97,126.74,6.0,1.5,036 km S 79° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/September/2026_0922_1136_B2.html
+20260922T2006_9.78_125.89,2026-09-22T20:06:00+08:00,9.78,125.89,34.0,1.6,020 km N 26° W of Socorro (Surigao Del Norte),2026_Earthquake_Information/September/2026_0922_1206_B2.html
 20260922T2018_19.1_121.2,2026-09-22T20:18:00+08:00,19.1,121.2,3.0,2.5,001 km S 30° W of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/September/2026_0922_1218_B2.html
 20260922T2021_19.63_121.3,2026-09-22T20:21:00+08:00,19.63,121.3,14.0,2.5,045 km N 24° W of Calayan (Cagayan),2026_Earthquake_Information/September/2026_0922_1221_B1.html
 20260922T2042_7.64_124.85,2026-09-22T20:42:00+08:00,7.64,124.85,28.0,1.4,008 km N 56° W of Kadingilan (Bukidnon),2026_Earthquake_Information/September/2026_0922_1242_B1.html
@@ -1378,8 +1378,8 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260923T0025_7.07_124.63,2026-09-23T00:25:00+08:00,7.07,124.63,49.0,1.7,005 km N 76° W of Pikit (Cotabato),2026_Earthquake_Information/September/2026_0922_1625_B1.html
 20260923T0034_5.81_126.29,2026-09-23T00:34:00+08:00,5.81,126.29,100.0,2.7,072 km S 81° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/September/2026_0922_1634_B1.html
 20260923T0044_9.72_122.27,2026-09-23T00:44:00+08:00,9.72,122.27,26.0,1.6,019 km S 73° W of City Of Sipalay (Negros Occidental),2026_Earthquake_Information/September/2026_0922_1644_B1.html
-20260923T0059_15.29_120.36,2026-09-23T00:59:00+08:00,15.29,120.36,136.0,3.5,023 km N 78° W of Mabalacat City (Pampanga),2026_Earthquake_Information/September/2026_0922_1659_B1.html
-20260923T0101_8.98_126.35,2026-09-23T01:01:00+08:00,8.98,126.35,31.0,1.7,007 km N 76° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/September/2026_0922_1701_B1.html
+20260923T0059_15.21_120.32,2026-09-23T00:59:00+08:00,15.21,120.32,143.0,3.5,027 km S 81° W of Mabalacat City (Pampanga),2026_Earthquake_Information/September/2026_0922_1659_B2.html
+20260923T0101_8.95_126.47,2026-09-23T01:01:00+08:00,8.95,126.47,32.0,1.7,021 km S 86° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/September/2026_0922_1701_B2.html
 20260923T0140_5.64_126.7,2026-09-23T01:40:00+08:00,5.64,126.7,15.0,3.3,121 km S 76° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/September/2026_0922_1740_B1.html
 20260923T0223_6.92_125.66,2026-09-23T02:23:00+08:00,6.92,125.66,43.0,2.3,018 km S 20° W of Island Garden City Of Samal (Davao Del Norte),2026_Earthquake_Information/September/2026_0922_1823_B2.html
 20260923T0226_5.19_125.44,2026-09-23T02:26:00+08:00,5.19,125.44,33.0,1.7,025 km S 04° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/September/2026_0922_1826_B1F.html
@@ -1425,3 +1425,6 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260923T1841_10.41_125.14,2026-09-23T18:41:00+08:00,10.41,125.14,1.0,2.3,007 km N 77° W of Hinunangan (Southern Leyte),2026_Earthquake_Information/September/2026_0923_1041_B1.html
 20260923T1930_5.72_125.15,2026-09-23T19:30:00+08:00,5.72,125.15,11.0,2.6,013 km S 29° W of Glan (Sarangani),2026_Earthquake_Information/September/2026_0923_1130_B1F.html
 20260923T1951_4.79_125.46,2026-09-23T19:51:00+08:00,4.79,125.46,14.0,2.6,069 km S 04° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/September/2026_0923_1151_B1F.html
+20260923T1956_5.69_126.14,2026-09-23T19:56:00+08:00,5.69,126.14,97.0,2.9,060 km S 66° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/September/2026_0923_1156_B1.html
+20260923T2019_9.72_126.26,2026-09-23T20:19:00+08:00,9.72,126.26,24.0,3.3,013 km S 58° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/September/2026_0923_121901_B1.html
+20260923T2031_10.26_126.48,2026-09-23T20:31:00+08:00,10.26,126.48,9.0,2.7,052 km N 58° E of Burgos (Surigao Del Norte),2026_Earthquake_Information/September/2026_0923_1231_B1.html
