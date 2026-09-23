@@ -1380,7 +1380,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260923T0044_9.72_122.27,2026-09-23T00:44:00+08:00,9.72,122.27,26.0,1.6,019 km S 73° W of City Of Sipalay (Negros Occidental),2026_Earthquake_Information/September/2026_0922_1644_B1.html
 20260923T0059_15.21_120.32,2026-09-23T00:59:00+08:00,15.21,120.32,143.0,3.5,027 km S 81° W of Mabalacat City (Pampanga),2026_Earthquake_Information/September/2026_0922_1659_B2.html
 20260923T0101_8.95_126.47,2026-09-23T01:01:00+08:00,8.95,126.47,32.0,1.7,021 km S 86° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/September/2026_0922_1701_B2.html
-20260923T0140_5.64_126.7,2026-09-23T01:40:00+08:00,5.64,126.7,15.0,3.3,121 km S 76° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/September/2026_0922_1740_B1.html
+20260923T0140_5.63_126.65,2026-09-23T01:40:00+08:00,5.63,126.65,14.0,3.3,115 km S 74° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/September/2026_0922_1740_B2.html
 20260923T0223_6.92_125.66,2026-09-23T02:23:00+08:00,6.92,125.66,43.0,2.3,018 km S 20° W of Island Garden City Of Samal (Davao Del Norte),2026_Earthquake_Information/September/2026_0922_1823_B2.html
 20260923T0226_5.19_125.44,2026-09-23T02:26:00+08:00,5.19,125.44,33.0,1.7,025 km S 04° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/September/2026_0922_1826_B1F.html
 20260923T0321_11.08_124.06,2026-09-23T03:21:00+08:00,11.08,124.06,23.0,1.8,010 km N 68° E of City Of Bogo (Cebu),2026_Earthquake_Information/September/2026_0922_1921_B1F.html
@@ -1391,16 +1391,16 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260923T0434_9.65_126.18,2026-09-23T04:34:00+08:00,9.65,126.18,27.0,4.2,018 km S 51° E of Dapa (Surigao Del Norte),2026_Earthquake_Information/September/2026_0922_2034_B3F.html
 20260923T0449_9.74_126.5,2026-09-23T04:49:00+08:00,9.74,126.5,16.0,2.0,038 km S 83° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/September/2026_0922_2049_B1.html
 20260923T0505_10.02_126.36,2026-09-23T05:05:00+08:00,10.02,126.36,1.0,2.7,032 km N 89° E of Burgos (Surigao Del Norte),2026_Earthquake_Information/September/2026_0922_2105_B1.html
-20260923T0514_7.51_125.66,2026-09-23T05:14:00+08:00,7.51,125.66,29.0,1.9,005 km S 60° E of Santo Tomas (Davao Del Norte),2026_Earthquake_Information/September/2026_0922_2114_B1.html
-20260923T0520_7.56_123.16,2026-09-23T05:20:00+08:00,7.56,123.16,49.0,1.6,002 km S 23° W of Margosatubig (Zamboanga Del Sur),2026_Earthquake_Information/September/2026_0922_2120_B1.html
-20260923T0521_15.02_119.86,2026-09-23T05:21:00+08:00,15.02,119.86,33.0,1.8,023 km S 79° W of San Felipe (Zambales),2026_Earthquake_Information/September/2026_0922_2121_B1.html
+20260923T0514_7.5_125.67,2026-09-23T05:14:00+08:00,7.5,125.67,25.0,1.9,006 km S 50° E of Santo Tomas (Davao Del Norte),2026_Earthquake_Information/September/2026_0922_2114_B2.html
+20260923T0520_8.38_123.01,2026-09-23T05:20:00+08:00,8.38,123.01,27.0,1.7,007 km S 14° W of Jose Dalman (Zamboanga Del Norte),2026_Earthquake_Information/September/2026_0922_2120_B2.html
+20260923T0521_15.05_119.89,2026-09-23T05:21:00+08:00,15.05,119.89,35.0,1.8,020 km S 88° W of San Felipe (Zambales),2026_Earthquake_Information/September/2026_0922_2121_B2.html
 20260923T0526_5.42_126.56,2026-09-23T05:26:00+08:00,5.42,126.56,32.0,2.5,115 km S 62° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/September/2026_0922_2126_B1.html
 20260923T0532_5.56_125.34,2026-09-23T05:32:00+08:00,5.56,125.34,25.0,1.6,018 km N 57° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/September/2026_0922_2132_B1F.html
 20260923T0610_11.69_125.49,2026-09-23T06:10:00+08:00,11.69,125.49,20.0,2.1,008 km S 30° E of San Julian (Eastern Samar),2026_Earthquake_Information/September/2026_0922_2210_B2.html
 20260923T0626_15.5_119.99,2026-09-23T06:26:00+08:00,15.5,119.99,28.0,1.5,005 km S 38° E of Masinloc (Zambales),2026_Earthquake_Information/September/2026_0922_2226_B1.html
 20260923T0639_15.63_119.97,2026-09-23T06:39:00+08:00,15.63,119.97,28.0,2.0,005 km N 84° E of Candelaria (Zambales),2026_Earthquake_Information/September/2026_0922_2239_B1.html
 20260923T0828_5.26_125.29,2026-09-23T08:28:00+08:00,5.26,125.29,18.0,2.8,022 km S 40° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/September/2026_0923_0028_B1F.html
-20260923T0833_11.12_124.09,2026-09-23T08:33:00+08:00,11.12,124.09,4.0,3.0,015 km N 55° E of City Of Bogo (Cebu),2026_Earthquake_Information/September/2026_0923_0033_B1F.html
+20260923T0833_11.13_124.07,2026-09-23T08:33:00+08:00,11.13,124.07,4.0,3.0,012 km N 89° E of Medellin (Cebu),2026_Earthquake_Information/September/2026_0923_0033_B2F.html
 20260923T1009_16.14_121.97,2026-09-23T10:09:00+08:00,16.14,121.97,10.0,1.5,002 km S 86° E of Dinalungan (Aurora),2026_Earthquake_Information/September/2026_0923_0209_B1.html
 20260923T1120_6.54_125.93,2026-09-23T11:20:00+08:00,6.54,125.93,129.0,2.4,020 km S 53° W of Governor Generoso (Davao Oriental),2026_Earthquake_Information/September/2026_0923_0320_B1.html
 20260923T1121_10.92_124.06,2026-09-23T11:21:00+08:00,10.92,124.06,7.0,1.7,016 km S 33° E of City Of Bogo (Cebu),2026_Earthquake_Information/September/2026_0923_0321_B2F.html
@@ -1435,3 +1435,9 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260923T2148_8.93_122.67,2026-09-23T21:48:00+08:00,8.93,122.67,22.0,2.3,042 km S 70° W of Siaton (Negros Oriental),2026_Earthquake_Information/September/2026_0923_1348_B1.html
 20260923T2153_5.51_125.32,2026-09-23T21:53:00+08:00,5.51,125.32,18.0,1.6,016 km N 47° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/September/2026_0923_1353_B1F.html
 20260923T2211_7.06_125.91,2026-09-23T22:11:00+08:00,7.06,125.91,32.0,2.1,007 km S 09° E of Pantukan (Davao De Oro),2026_Earthquake_Information/September/2026_0923_1411_B1.html
+20260923T2215_5.75_125.38,2026-09-23T22:15:00+08:00,5.75,125.38,11.0,2.2,021 km S 67° E of Glan (Sarangani),2026_Earthquake_Information/September/2026_0923_1415_B1F.html
+20260923T2219_6.6_125.9,2026-09-23T22:19:00+08:00,6.6,125.9,135.0,3.6,020 km S 74° W of Governor Generoso (Davao Oriental),2026_Earthquake_Information/September/2026_0923_1419_B1.html
+20260923T2227_8.99_125.44,2026-09-23T22:27:00+08:00,8.99,125.44,135.0,2.2,004 km N 58° E of Buenavista (Agusan Del Norte),2026_Earthquake_Information/September/2026_0923_1427_B1.html
+20260923T2245_7.43_126.76,2026-09-23T22:45:00+08:00,7.43,126.76,21.0,3.1,024 km N 63° E of Caraga (Davao Oriental),2026_Earthquake_Information/September/2026_0923_1445_B1.html
+20260923T2307_11.12_124.08,2026-09-23T23:07:00+08:00,11.12,124.08,7.0,2.0,013 km N 55° E of City Of Bogo (Cebu),2026_Earthquake_Information/September/2026_0923_1507_B1F.html
+20260923T2315_5.08_125.23,2026-09-23T23:15:00+08:00,5.08,125.23,54.0,2.8,042 km S 30° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/September/2026_0923_1515_B1F.html
