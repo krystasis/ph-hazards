@@ -1409,8 +1409,8 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260923T1233_19.72_121.58,2026-09-23T12:33:00+08:00,19.72,121.58,4.0,4.5,052 km N 12° E of Calayan (Cagayan),2026_Earthquake_Information/September/2026_0923_0433_B2.html
 20260923T1251_10.12_122.05,2026-09-23T12:51:00+08:00,10.12,122.05,14.0,2.2,037 km S 22° E of Anini-y (Antique),2026_Earthquake_Information/September/2026_0923_0451_B2.html
 20260923T1303_3.44_126.55,2026-09-23T13:03:00+08:00,3.44,126.55,89.0,3.6,252 km S 30° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/September/2026_0923_0503_B2.html
-20260923T1417_20.81_121.98,2026-09-23T14:17:00+08:00,20.81,121.98,183.0,2.4,015 km N 80° E of Itbayat (Batanes),2026_Earthquake_Information/September/2026_0923_0617_B1.html
-20260923T1419_9.15_126.53,2026-09-23T14:19:00+08:00,9.15,126.53,10.0,4.2,033 km N 53° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/September/2026_0923_061917_B1.html
+20260923T1417_20.68_122.51,2026-09-23T14:17:00+08:00,20.68,122.51,170.0,2.4,062 km N 65° E of Basco (Batanes),2026_Earthquake_Information/September/2026_0923_0617_B2.html
+20260923T1419_9.13_126.42,2026-09-23T14:19:00+08:00,9.13,126.42,22.0,3.8,023 km N 41° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/September/2026_0923_0619_B2.html
 20260923T1435_19.59_121.3,2026-09-23T14:35:00+08:00,19.59,121.3,12.0,3.5,041 km N 27° W of Calayan (Cagayan),2026_Earthquake_Information/September/2026_0923_0635_B1.html
 20260923T1453_17.68_120.52,2026-09-23T14:53:00+08:00,17.68,120.52,6.0,1.8,009 km S 43° E of San Juan (Ilocos Sur),2026_Earthquake_Information/September/2026_0923_0653_B1.html
 20260923T1459_19.8_121.3,2026-09-23T14:59:00+08:00,19.8,121.3,8.0,2.7,062 km N 17° W of Calayan (Cagayan),2026_Earthquake_Information/September/2026_0923_0659_B1.html
@@ -1471,3 +1471,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260924T0959_19.39_121.48,2026-09-24T09:59:00+08:00,19.39,121.48,24.0,1.5,014 km N 02° E of Calayan (Cagayan),2026_Earthquake_Information/September/2026_0924_0159_B1.html
 20260924T1007_5.73_125.96,2026-09-24T10:07:00+08:00,5.73,125.96,156.0,2.3,041 km S 60° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/September/2026_0924_0207_B1.html
 20260924T1012_7.24_126.87,2026-09-24T10:12:00+08:00,7.24,126.87,32.0,2.5,035 km S 73° E of Caraga (Davao Oriental),2026_Earthquake_Information/September/2026_0924_0212_B1.html
+20260924T1038_10.46_122.36,2026-09-24T10:38:00+08:00,10.46,122.36,34.0,1.6,021 km S 71° W of Nueva Valencia (Guimaras),2026_Earthquake_Information/September/2026_0924_0238_B1.html
