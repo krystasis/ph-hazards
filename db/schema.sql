@@ -141,3 +141,14 @@ CREATE TABLE IF NOT EXISTS regional_outlook (
   PRIMARY KEY (region, issued_at, day_index)
 ) WITHOUT ROWID;
 CREATE INDEX IF NOT EXISTS outlook_region_issued ON regional_outlook (region, issued_at DESC);
+
+-- 週間予報の州別(地域別ページに埋め込まれた州ごとのデータ。regional_outlook の欄は既定の州 1 つぶんだけ)。発表ごとに全部残す。
+-- province_code: 州の PSGC コード。Metro Manila は NCR の地域コード 1300000000、独立市(Zamboanga City など)は
+-- その市自身の PSGC 市コード。市町ページは「市町の province_code」か「市町自身のコード」のどちらかで引く。
+-- 名前が当たらない州は送らない(docs/sources/pagasa-regional.md)。day_name は同じ発表の regional_outlook と同じ並び。
+CREATE TABLE IF NOT EXISTS province_outlook (
+  province_code TEXT, issued_at TEXT, day_index INTEGER, day_name TEXT,
+  tmin INTEGER, tmax INTEGER, wind TEXT, direction TEXT, coastal TEXT,
+  PRIMARY KEY (province_code, issued_at, day_index)
+) WITHOUT ROWID;
+CREATE INDEX IF NOT EXISTS poutlook_prov_issued ON province_outlook (province_code, issued_at DESC);

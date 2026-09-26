@@ -37,6 +37,10 @@
 - 残し方: `data/outlook/YYYY-MM.jsonl` に 1 地域 × 1 発表で 1 行(追記のみ、`id = <region>:<issued_at>` で重複を落とす)。
   `days` が静的な欄(D1 の `regional_outlook` に入るのはこれだけ)、`provinces` が州別データ
   (`{州のコード: {name, days: [[tmin, tmax, wind, direction, coastal], …]}}`、コードは取得元の表記のまま)。
-  州別は今は D1 に送らない。州ごとの表にするかはサイト側で決める。
+  州別は D1 の `province_outlook` に入る(発表ごとに全部。`db/export.py` の `outlook_place` で名前を PSGC に当てる:
+  Metro Manila → NCR の地域コード `1300000000`、「〜 City」→ その市自身の市コード、それ以外 → 州のコード。
+  「, Davao Region」のような後ろの地域名は、市を探す範囲の手がかりにだけ使う)。
+- **当たらない名前(D1 に送らない)**: 2026-09-26 の 87 件中 1 件 — `Metro Davao, Davao Region`(minprsd)。
+  Davao City 1 市なのか周辺を含むのかが取得元から読めないので、当て推量で市に付けていない。増えたらここに足す。
 - 欄が無い・読めないときは記録して続ける(注意報の取得は失敗にしない)。状態の note に「週間予報 n/5」が出る。
 - 2026-09-26 の実測: 5 ページとも 09:00 AM 発表、Saturday〜Wednesday の 5 日。

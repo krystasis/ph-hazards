@@ -20,7 +20,9 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 from places.advisory_places import city_codes, extract
+from collector.pagasa_regional import PROVINCE_DAY
 from places.eq_places import resolve
+from places.gazetteer import load as load_gazetteer
 from . import rates
 
 MAX_SQL_BYTES = 90_000  # D1 は 1 文 100KB まで
@@ -37,6 +39,7 @@ COLUMNS = {
     "city_quake_months": ["city_code", "month", "n"],
     "daily_quake_counts": ["day", "n", "n_m4"],
     "regional_outlook": ["region", "issued_at", "day_index", "day_name", "tmin", "tmax", "wind", "direction", "coastal"],
+    "province_outlook": ["province_code", "issued_at", "day_index", "day_name", "tmin", "tmax", "wind", "direction", "coastal"],
     "advisories": ["id", "region", "kind", "title", "number", "issued_at", "expires_at", "text", "first_seen"],
     "advisory_cities": ["advisory_id", "city_code", "status", "expires_at"],
     "dam_levels": ["dam", "obs_date", "obs_time", "rwl_m", "dev_24h_m", "nhwl_m", "dev_nhwl_m", "rule_curve_m",
@@ -54,6 +57,7 @@ KEYS = {
     "volcano_alert": ["volcano", "date_pht"], "cyclone_bulletins": ["sha"], "source_status": ["source"],
     "city_quake_years": ["city_code", "year"], "city_quake_bands": ["city_code"], "city_quake_months": ["city_code", "month"],
     "daily_quake_counts": ["day"], "regional_outlook": ["region", "issued_at", "day_index"],
+    "province_outlook": ["province_code", "issued_at", "day_index"],
 }
 NUMERIC = {"lat", "lon", "depth_km", "mag", "distance_km", "total", "m4_plus", "max_mag", "radius_km", "years",
            "n_m3", "n_m4", "n_m5", "m4_per_year", "p30_m4", "p365_m4", "rwl_m", "dev_24h_m",
@@ -64,7 +68,7 @@ NUMERIC = {"lat", "lon", "depth_km", "mag", "distance_km", "total", "m4_plus", "
 WATERMARK = {"river_levels": "time_pht", "cyclone_bulletins": "fetched_utc", "advisories": None, "advisory_cities": None}
 # 送る順。新しいデータを過去分の積み残しで待たせないため、小さい表を先に置く(地震はこの後ろ)。
 APPEND_ORDER = ("advisories", "advisory_cities", "river_levels", "cyclone_bulletins")
-ROWHASH_ORDER = ("source_status", "regional_outlook", "city_quake_stats", "city_quake_rates", "big_quakes", "city_quake_years",
+ROWHASH_ORDER = ("source_status", "regional_outlook", "province_outlook", "city_quake_stats", "city_quake_rates", "big_quakes", "city_quake_years",
                  "city_quake_bands", "city_quake_months", "daily_quake_counts", "dam_levels", "flood_watch", "volcano_alert")
 # 集計の表は、元の地震の付け替え(aliases.json の追加など)で行が消えることがある。manifest にあって今回無い行は D1 からも消す。
 DELETE_GONE = {"city_quake_years", "city_quake_bands", "city_quake_months"}
@@ -154,6 +158,17 @@ def build(data: Path, state: Path | None = None) -> dict[str, dict[tuple, dict]]
                        "day_name": d.get("name") or "", "tmin": _s(d.get("tmin")), "tmax": _s(d.get("tmax")),
                        "wind": d.get("wind") or "", "direction": d.get("direction") or "", "coastal": d.get("coastal") or ""}
                 t["regional_outlook"][(row["region"], row["issued_at"], row["day_index"])] = row
+            names = [d.get("name") or "" for d in o.get("days") or []]
+            for p in (o.get("provinces") or {}).values():
+                code = outlook_place(p.get("name") or "")
+                if not code:
+                    continue   # 当たらない名前は送らない(docs/sources/pagasa-regional.md に一覧)
+                for i, d in enumerate(p.get("days") or []):
+                    v = dict(zip(PROVINCE_DAY, d))
+                    row = {"province_code": code, "issued_at": o["issued_at"], "day_index": str(i),
+                           "day_name": names[i] if i < len(names) else "", "tmin": _s(v.get("tmin")), "tmax": _s(v.get("tmax")),
+                           "wind": v.get("wind") or "", "direction": v.get("direction") or "", "coastal": v.get("coastal") or ""}
+                    t["province_outlook"][(code, o["issued_at"], str(i))] = row
 
     for f in sorted((data / "advisories").glob("*.jsonl")):
         for a in _jsonl(f):
@@ -178,6 +193,30 @@ def build(data: Path, state: Path | None = None) -> dict[str, dict[tuple, dict]]
                     row["_wm"] = row[WATERMARK[table]]
                 t[table][tuple(row[k] for k in KEYS[table])] = row
     return t
+
+
+def outlook_place(name: str, gaz=None) -> str:
+    """週間予報の州別データの名前 → province_outlook.province_code。当たらなければ空。
+
+    - 「Metro Manila」→ NCR の地域コード 1300000000(NCR の市町は州を持たないので、サイトは地域コードで引く)
+    - 「Zamboanga City」「Isabela City」のような市 → その市自身の PSGC 市コード(州の Isabela に当てない)
+    - それ以外 → 州のコード。MIN の「Davao del Sur, Davao Region」のような「, 地域名」は地域の手がかりに使う
+    """
+    g = gaz or load_gazetteer()
+    head, _, tail = name.partition(",")
+    head = head.strip()
+    region = g.region_code(tail) if tail.strip() else None
+    if g.region_code(head) == "1300000000":
+        return "1300000000"
+    low = head.lower()
+    if low.endswith(" city") or low.startswith("city of "):
+        c = g.city(head, region_code=region)
+        return c.code if c else ""
+    p = g.province(head)
+    if p:
+        return p.code
+    c = g.city(head, region_code=region)   # 市と書かれていない独立市(「Angeles」など)
+    return c.code if c else ""
 
 
 def _s(v) -> str:

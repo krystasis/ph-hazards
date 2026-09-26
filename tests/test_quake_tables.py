@@ -52,6 +52,23 @@ class RealFixture(unittest.TestCase):
         self.assertEqual((row["day_name"], row["tmin"], row["tmax"], row["direction"], row["coastal"]),
                          ("Monday", "26", "34", "southwest becoming southeast", "Slight to moderate"))
 
+    def test_province_outlook_rows(self):
+        from db.export import outlook_place
+        o = self.t["province_outlook"]
+        self.assertEqual(len(o), 86 * 5)   # 87 州のうち「Metro Davao」だけ当たらない
+        self.assertEqual(outlook_place("Metro Davao, Davao Region"), "")
+        benguet = o[("1401100000", "2026-09-26T09:00:00+08:00", "0")]
+        self.assertEqual((benguet["day_name"], benguet["tmin"], benguet["tmax"], benguet["direction"]),
+                         ("Saturday", "16", "25", "Southwest"))
+        self.assertIn(("1300000000", "2026-09-26T09:00:00+08:00", "4"), o)            # Metro Manila → NCR の地域コード
+        self.assertEqual(outlook_place("Isabela City, Zamboanga Peninsula"), "0990101000")   # 市自身のコード(州の Isabela ではない)
+        self.assertEqual(outlook_place("Isabela"), "0203100000")
+        self.assertEqual(outlook_place("Zamboanga City, Zamboanga Peninsula"), "0931700000")
+        # 既定の州の行は、静的な欄(regional_outlook)と同じ値
+        for i in range(5):
+            r, p = self.t["regional_outlook"][("nlprsd", "2026-09-26T09:00:00+08:00", str(i))], o[("0102800000", "2026-09-26T09:00:00+08:00", str(i))]
+            self.assertEqual({k: r[k] for k in ("day_name", "tmin", "tmax", "direction")}, {k: p[k] for k in ("day_name", "tmin", "tmax", "direction")})
+
     def test_same_set_as_city_quake_stats(self):
         stats = self.t["city_quake_stats"]
         self.assertEqual(set(self.t["city_quake_bands"]), set(stats))
@@ -76,7 +93,7 @@ class RealFixture(unittest.TestCase):
 
     def test_units_and_second_run(self):
         units = {u.key: u for u in plan(self.t, {})}
-        for name in ("regional_outlook", "city_quake_years", "city_quake_bands", "city_quake_months", "daily_quake_counts"):
+        for name in ("regional_outlook", "province_outlook", "city_quake_years", "city_quake_bands", "city_quake_months", "daily_quake_counts"):
             self.assertGreater(units[name].rows, 0, name)
         _, manifest, _ = diff(self.t, {})
         self.assertEqual([u.key for u in plan(self.t, manifest) if u.statements], [])
