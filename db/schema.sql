@@ -106,3 +106,38 @@ CREATE TABLE IF NOT EXISTS big_quakes (
   province_code TEXT
 );
 CREATE INDEX IF NOT EXISTS bigq_time ON big_quakes (occurred_at DESC);
+
+-- 市町ページの地震の記録(city_quake_stats と同じ対象: 基準点の市町が付いた地震、全マグニチュード)。年・月・日は PHT。
+CREATE TABLE IF NOT EXISTS city_quake_years (
+  city_code TEXT, year INTEGER, n INTEGER, n_m4 INTEGER,  -- n_m4 = M4.0 以上
+  PRIMARY KEY (city_code, year)
+) WITHOUT ROWID;
+
+-- マグニチュードの帯 <3.0 / 3.0–3.9 / 4.0–4.9 / 5.0+。latest_30d は手元の最新の地震までの 30 日(実行時刻ではない)。
+CREATE TABLE IF NOT EXISTS city_quake_bands (
+  city_code TEXT PRIMARY KEY,
+  lt3 INTEGER, m3 INTEGER, m4 INTEGER, m5 INTEGER,
+  latest_30d INTEGER, latest_30d_max REAL                  -- 30 日に 0 件なら latest_30d_max は NULL
+) WITHOUT ROWID;
+
+-- 直近 24 か月(最新の地震の月を含む)だけ。0 件の月は行が無い。窓から出た月は、窓が動いた回に
+-- 書き出し側が「month < 下限」の DELETE を同じ単位で送って消す(db/export.py の _rowhash_unit)。
+CREATE TABLE IF NOT EXISTS city_quake_months (
+  city_code TEXT, month TEXT, n INTEGER,                  -- month = 'YYYY-MM'
+  PRIMARY KEY (city_code, month)
+) WITHOUT ROWID;
+
+-- 全国の日ごとの件数(PHT の日付)。記録の最初の日から最後の日まで、0 件の日も 1 行ある。
+CREATE TABLE IF NOT EXISTS daily_quake_counts (
+  day TEXT PRIMARY KEY, n INTEGER, n_m4 INTEGER           -- day = 'YYYY-MM-DD'
+) WITHOUT ROWID;
+
+-- PAGASA 地域別ページの週間予報(Extended Weather Outlook)。発表ごとに全部残す。
+-- region は ncrprsd などの PRSD。中身はそのページの**既定の州 1 つぶん**(docs/sources/pagasa-regional.md)。
+-- day_index 0 = 欄の先頭の日(day_name が曜日。2026-09-26 の実物では発表日と同じ曜日)。tmin / tmax は ℃、wind / direction / coastal は取得元の表記そのまま。
+CREATE TABLE IF NOT EXISTS regional_outlook (
+  region TEXT, issued_at TEXT, day_index INTEGER, day_name TEXT,
+  tmin INTEGER, tmax INTEGER, wind TEXT, direction TEXT, coastal TEXT,
+  PRIMARY KEY (region, issued_at, day_index)
+) WITHOUT ROWID;
+CREATE INDEX IF NOT EXISTS outlook_region_issued ON regional_outlook (region, issued_at DESC);

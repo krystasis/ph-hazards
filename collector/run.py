@@ -84,6 +84,23 @@ def run_dams(now, force) -> tuple[bool, str]:
     return ok, note
 
 
+def save_outlook(page: str, region: str, now: datetime) -> int | None:
+    """週間予報を 1 件残す(注意報と同じ取得から読む)。新規なら 1、既出なら 0、読めなければ None。
+
+    欄が無い・読めないときは記録だけして続ける。週間予報のせいで注意報の取得を失敗にしない。
+    """
+    try:
+        o = pagasa_regional.parse_outlook(page, region)
+        if not o:
+            print(f"[{pagasa_regional.KEY}] {region}: 週間予報の欄が見つからない / 読めない(続ける)")
+            return None
+        o["first_seen_utc"] = now.isoformat()
+        return append_jsonl(DATA / "outlook" / f"{o['issued_at'][:7]}.jsonl", [o], "id")
+    except Exception as e:  # noqa: BLE001 — 週間予報は付け足し。ここで落とさない
+        print(f"[{pagasa_regional.KEY}] {region}: 週間予報で失敗 {e!r}(続ける)")
+        return None
+
+
 def run_regional(now, force) -> tuple[bool, str]:
     key, state = pagasa_regional.KEY, load_state(pagasa_regional.KEY)
     if in_cooldown(state, now):
@@ -92,6 +109,7 @@ def run_regional(now, force) -> tuple[bool, str]:
         return True, "not due"
     fallback = now.astimezone(PHT).isoformat()
     total = fresh = pages_ok = 0
+    outlook_ok = outlook_new = 0
     resp = None
     for region in pagasa_regional.REGIONS:
         resp = fetch(key, pagasa_regional.BASE + region, {}, now)  # 動的ページなので条件付き GET は使わない
@@ -105,9 +123,13 @@ def run_regional(now, force) -> tuple[bool, str]:
         for month in sorted({pagasa_regional.month_of(i, fallback) for i in items}):
             part = [i for i in items if pagasa_regional.month_of(i, fallback) == month]
             fresh += append_jsonl(DATA / "advisories" / f"{month}.jsonl", part, "id")
+        got = save_outlook(resp.text, region, now)
+        if got is not None:
+            outlook_ok, outlook_new = outlook_ok + 1, outlook_new + got
         time.sleep(PAUSE_SEC)
     ok = pages_ok == len(pagasa_regional.REGIONS)
-    note = f"{pages_ok}/{len(pagasa_regional.REGIONS)} ページ、発令中 {total} 件、新規 {fresh} 件"
+    note = (f"{pages_ok}/{len(pagasa_regional.REGIONS)} ページ、発令中 {total} 件、新規 {fresh} 件、"
+            f"週間予報 {outlook_ok}/{len(pagasa_regional.REGIONS)}(新規 {outlook_new})")
     _finish(key, state, now, resp, ok, note)
     return ok, note
 

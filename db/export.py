@@ -32,6 +32,11 @@ COLUMNS = {
     "big_quakes": ["event_id", "occurred_at", "lat", "lon", "depth_km", "mag", "location", "city_code", "province_code"],
     "city_quake_rates": ["city_code", "radius_km", "since", "until_", "years", "n_m3", "n_m4", "n_m5", "m4_per_year",
                          "p30_m4", "p365_m4", "last_m4_at", "last_m5_at", "m4_by_year"],
+    "city_quake_years": ["city_code", "year", "n", "n_m4"],
+    "city_quake_bands": ["city_code", "lt3", "m3", "m4", "m5", "latest_30d", "latest_30d_max"],
+    "city_quake_months": ["city_code", "month", "n"],
+    "daily_quake_counts": ["day", "n", "n_m4"],
+    "regional_outlook": ["region", "issued_at", "day_index", "day_name", "tmin", "tmax", "wind", "direction", "coastal"],
     "advisories": ["id", "region", "kind", "title", "number", "issued_at", "expires_at", "text", "first_seen"],
     "advisory_cities": ["advisory_id", "city_code", "status", "expires_at"],
     "dam_levels": ["dam", "obs_date", "obs_time", "rwl_m", "dev_24h_m", "nhwl_m", "dev_nhwl_m", "rule_curve_m",
@@ -47,17 +52,24 @@ KEYS = {
     "advisory_cities": ["city_code", "advisory_id"], "dam_levels": ["dam", "obs_date"],
     "flood_watch": ["sub_basin", "date_pht"], "river_levels": ["station_code", "time_pht"],
     "volcano_alert": ["volcano", "date_pht"], "cyclone_bulletins": ["sha"], "source_status": ["source"],
+    "city_quake_years": ["city_code", "year"], "city_quake_bands": ["city_code"], "city_quake_months": ["city_code", "month"],
+    "daily_quake_counts": ["day"], "regional_outlook": ["region", "issued_at", "day_index"],
 }
 NUMERIC = {"lat", "lon", "depth_km", "mag", "distance_km", "total", "m4_plus", "max_mag", "radius_km", "years",
            "n_m3", "n_m4", "n_m5", "m4_per_year", "p30_m4", "p365_m4", "rwl_m", "dev_24h_m",
            "nhwl_m", "dev_nhwl_m", "rule_curve_m", "dev_rule_curve_m", "wl_m", "alert_m", "alarm_m", "critical_m",
-           "alert_level"}
+           "alert_level", "year", "n", "lt3", "m3", "m4", "m5", "latest_30d", "latest_30d_max", "day_index", "tmin", "tmax"}
 
 # 追記しかされない表は、行ごとのハッシュを持たずに「どこまで送ったか」だけ覚える(manifest を小さく保つ)。
 WATERMARK = {"river_levels": "time_pht", "cyclone_bulletins": "fetched_utc", "advisories": None, "advisory_cities": None}
 # 送る順。新しいデータを過去分の積み残しで待たせないため、小さい表を先に置く(地震はこの後ろ)。
 APPEND_ORDER = ("advisories", "advisory_cities", "river_levels", "cyclone_bulletins")
-ROWHASH_ORDER = ("source_status", "city_quake_stats", "city_quake_rates", "big_quakes", "dam_levels", "flood_watch", "volcano_alert")
+ROWHASH_ORDER = ("source_status", "regional_outlook", "city_quake_stats", "city_quake_rates", "big_quakes", "city_quake_years",
+                 "city_quake_bands", "city_quake_months", "daily_quake_counts", "dam_levels", "flood_watch", "volcano_alert")
+# 集計の表は、元の地震の付け替え(aliases.json の追加など)で行が消えることがある。manifest にあって今回無い行は D1 からも消す。
+DELETE_GONE = {"city_quake_years", "city_quake_bands", "city_quake_months"}
+MONTHS_KEPT = 24   # city_quake_months は最新の地震の月から数えて 24 か月ぶんだけ持つ
+BANDS_DAYS = 30    # city_quake_bands.latest_30d の窓
 RECENT_MONTHS = 2  # 地震は直近 2 か月だけ行ごとに比べ、それより古い月は月の要約で比べる
 
 _HOURS = re.compile(r"(\d+)\s*(?:to\s*(\d+)\s*)?hours?|an\s+hour", re.I)
@@ -134,6 +146,14 @@ def build(data: Path, state: Path | None = None) -> dict[str, dict[tuple, dict]]
     for (eid,), row in t["earthquakes"].items():
         if float(row["mag"] or 0) >= rates.BIG_MAG:
             t["big_quakes"][(eid,)] = {c: row[c] for c in COLUMNS["big_quakes"]}
+    t["_months_since"] = quake_aggregates(t)
+    for f in sorted((data / "outlook").glob("*.jsonl")):
+        for o in _jsonl(f):
+            for d in o.get("days") or []:
+                row = {"region": o["region"], "issued_at": o["issued_at"], "day_index": str(d["day_index"]),
+                       "day_name": d.get("name") or "", "tmin": _s(d.get("tmin")), "tmax": _s(d.get("tmax")),
+                       "wind": d.get("wind") or "", "direction": d.get("direction") or "", "coastal": d.get("coastal") or ""}
+                t["regional_outlook"][(row["region"], row["issued_at"], row["day_index"])] = row
 
     for f in sorted((data / "advisories").glob("*.jsonl")):
         for a in _jsonl(f):
@@ -158,6 +178,68 @@ def build(data: Path, state: Path | None = None) -> dict[str, dict[tuple, dict]]
                     row["_wm"] = row[WATERMARK[table]]
                 t[table][tuple(row[k] for k in KEYS[table])] = row
     return t
+
+
+def _s(v) -> str:
+    return "" if v is None else str(v)
+
+
+def _month_add(month: str, k: int) -> str:
+    y, m = map(int, month.split("-"))
+    i = y * 12 + (m - 1) + k
+    return f"{i // 12:04d}-{i % 12 + 1:02d}"
+
+
+def quake_aggregates(t: dict) -> str:
+    """地震の表から、市町ページと全国の欄が読む小さな集計を作る。city_quake_months の下限の月を返す。
+
+    - 対象は city_quake_stats と同じ(基準点の市町が付いた地震、全マグニチュード)。
+    - 年・月・日はすべて PHT(occurred_at は +08:00 で持っているので先頭を切るだけ)。
+    - 「直近 30 日」「直近 24 か月」の基準は **手元の最新の地震**(実行した時刻ではない)。
+      取得が止まっても窓が空に向かって滑らない。
+    """
+    rows = list(t["earthquakes"].values())
+    if not rows:
+        return ""
+    newest = max(r["occurred_at"] for r in rows)
+    since_30d = (datetime.fromisoformat(newest) - timedelta(days=BANDS_DAYS)).isoformat()
+    months_since = _month_add(newest[:7], -(MONTHS_KEPT - 1))
+    years: dict[tuple, list[int]] = {}
+    months: dict[tuple, int] = {}
+    bands: dict[str, dict] = {}
+    days: dict[str, list[int]] = {}
+    for r in rows:
+        mag = float(r["mag"] or 0)
+        at = r["occurred_at"]
+        dd = days.setdefault(at[:10], [0, 0])
+        dd[0] += 1
+        dd[1] += mag >= 4
+        code = r["city_code"]
+        if not code:
+            continue
+        y = years.setdefault((code, at[:4]), [0, 0])
+        y[0] += 1
+        y[1] += mag >= 4
+        if at[:7] >= months_since:
+            months[(code, at[:7])] = months.get((code, at[:7]), 0) + 1
+        b = bands.setdefault(code, {"city_code": code, "lt3": 0, "m3": 0, "m4": 0, "m5": 0, "latest_30d": 0, "latest_30d_max": None})
+        b["lt3" if mag < 3 else "m3" if mag < 4 else "m4" if mag < 5 else "m5"] += 1
+        if at > since_30d:
+            b["latest_30d"] += 1
+            b["latest_30d_max"] = mag if b["latest_30d_max"] is None else max(b["latest_30d_max"], mag)
+    for (code, year), (n, n4) in years.items():
+        t["city_quake_years"][(code, year)] = {"city_code": code, "year": year, "n": str(n), "n_m4": str(n4)}
+    for (code, month), n in months.items():
+        t["city_quake_months"][(code, month)] = {"city_code": code, "month": month, "n": str(n)}
+    for code, b in bands.items():
+        t["city_quake_bands"][(code,)] = {k: _s(v) for k, v in b.items()}
+    # 全国の日ごとの件数は、記録の最初の日から最後の日まで **0 件の日も含めて** 1 日 1 行(日の範囲で引いて穴が無いように)。
+    day, last = datetime.fromisoformat(min(days) + "T00:00:00"), max(days)
+    while (key := day.strftime("%Y-%m-%d")) <= last:
+        n, n4 = days.get(key, [0, 0])
+        t["daily_quake_counts"][(key,)] = {"day": key, "n": str(n), "n_m4": str(n4)}
+        day += timedelta(days=1)
+    return months_since
 
 
 def _hash(row: dict) -> str:
@@ -223,19 +305,41 @@ def _watermark_unit(table: str, tables: dict, manifest: dict) -> Unit:
     return Unit(table, table, statements, len(fresh), patch)
 
 
+def _delete_keys(table: str, gone: list[str], statements: list[str]) -> None:
+    """manifest の鍵("a|b")で行を消す。主キーの等号の OR なので主キーで引ける。"""
+    cols = KEYS[table]
+    for i in range(0, len(gone), 200):
+        conds = [" AND ".join(f"{c} = {_lit(c, v)}" for c, v in zip(cols, g.split("|"))) for g in gone[i:i + 200]]
+        statements.append(f"DELETE FROM {table} WHERE " + " OR ".join(f"({c})" for c in conds) + ";")
+
+
 def _rowhash_unit(table: str, tables: dict, manifest: dict) -> Unit:
-    """小さな表: 行ごとにハッシュを比べる。"""
+    """小さな表: 行ごとにハッシュを比べる。
+
+    city_quake_months は窓(最新の地震の月から 24 か月)の外の月を送らない。窓が動いた回(月に 1 回)だけ、
+    同じ単位の先頭に「下限より古い月を消す」DELETE を 1 本入れる(下限は manifest の `_since` に覚える)。
+    毎回入れないのは、主キーの先頭が city_code なので月だけの範囲 DELETE は表を舐めるから(15 分ごとに舐めない)。
+    """
     old = manifest.get(table) or {}
     rows = tables.get(table) or {}   # 古いテストの fixture など、表が無い入力も通す
     now = {"|".join(k): _hash(r) for k, r in rows.items()}
     pick = [rows[k] for k in rows if old.get("|".join(k)) != now["|".join(k)]]
     statements: list[str] = []
+    since = ""
+    if table == "city_quake_months" and (since := tables.get("_months_since") or ""):
+        if old.get("_since") != since:
+            statements.append(f"DELETE FROM city_quake_months WHERE month < {_lit('month', since)};")
+        now["_since"] = since
+    gone: list[str] = []
+    if table in DELETE_GONE:
+        gone = [k for k in old if not k.startswith("_") and k not in now and not (since and k.split("|")[-1] < since)]
+        _delete_keys(table, gone, statements)
     _emit(table, pick, statements)
 
     def patch(m: dict) -> None:
         m[table] = now
 
-    return Unit(table, table, statements, len(pick), patch)
+    return Unit(table, table, statements, len(pick) + len(gone), patch)
 
 
 def _eq_units(tables: dict, manifest: dict, max_rows: int | None) -> list[Unit]:

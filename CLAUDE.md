@@ -24,6 +24,7 @@
   `plan()` が SQL を「単位」に区切る(表 1 つ、または地震の 1 か月)。単位は *全部送れたときだけ* manifest を進める最小のかたまり。
 - `db/send.py` — その単位を D1 へ送る。下の決まりを守る。
 - `db/verify_local.py` — 手元の SQLite でスキーマ・差分・削除の追従・問い合わせ計画を確かめる。
+- `db/prsd_regions.json` — PSGC の地域(割れている地域は州)→ PRSD。`python3 -m db.prsd_regions data` で注意報から作り直す。
 
 ### D1 へ送るときの決まり(`db/send.py`)
 - **送れた分だけ manifest を進める。** 途中で失敗したらそこで止めて 0 以外で終わる(Actions が赤くなる)。
@@ -51,6 +52,7 @@
 - `data/earthquakes/YYYY-MM.csv` — event_id で上書き(速報→確報の差し替えに追従)
 - `data/dams/YYYY.csv`、`data/flood_watch/YYYY.csv`
 - `data/advisories/YYYY-MM.jsonl` — 雷雨注意報・豪雨警報の本文(市町名つき)。追記のみ
+- `data/outlook/YYYY-MM.jsonl` — 地域別ページの週間予報(1 地域 × 1 発表で 1 行、追記のみ)。静的な欄は既定の州 1 つぶん、州別は `provinces`
 - `data/river_levels/YYYY-MM.csv` — 河川水位(10 分値)。値が動いたときと 1 時間ごとだけ残す
 - `data/volcano_alert/YYYY.csv` — 火山の警戒レベル(1 日 1 行)
 - `data/tcb/YYYY-MM.jsonl` — 台風公報の本文。発令中のみ。シグナルの構造化は実物が出てから書く

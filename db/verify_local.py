@@ -54,6 +54,14 @@ queries = {
     "市町に発令中の注意報": ("select advisory_id, status from advisory_cities where city_code=? and expires_at > ? order by expires_at desc", (city, "2026-09-21T12:00:00+08:00")),
     "全国の直近の地震 20 件": ("select * from earthquakes order by occurred_at desc limit 20", ()),
     "観測所の直近の水位": ("select * from river_levels where station_code=? order by time_pht desc limit 12", ("11103201",)),
+    "市町の年ごとの件数": ("select year, n, n_m4 from city_quake_years where city_code=? order by year limit 20", (city,)),
+    "市町のマグニチュード帯 1 行": ("select * from city_quake_bands where city_code=?", (city,)),
+    "市町の直近 24 か月": ("select month, n from city_quake_months where city_code=? and month >= ? order by month limit 24", (city, "2024-10")),
+    "全国の日ごとの件数(30 日)": ("select day, n, n_m4 from daily_quake_counts where day >= ? and day <= ? order by day limit 31", ("2026-08-27", "2026-09-26")),
+    "地域の最新の週間予報": ("select * from regional_outlook where region=? order by issued_at desc limit 5", ("ncrprsd",)),
+    "地域の最新の週間予報(発表時刻だけ)": ("select issued_at from regional_outlook where region=? order by issued_at desc limit 1", ("ncrprsd",)),
+    "その発表の 5 日(日の順)": ("select * from regional_outlook where region=? and issued_at=? order by day_index limit 7", ("ncrprsd", "2026-09-26T09:00:00+08:00")),
+    "消えた集計行の削除(主キーの OR)": ("delete from city_quake_years where (city_code = ? and year = 2019) or (city_code = ? and year = 2020)", (city, city)),
 }
 for name, (sql, params) in queries.items():
     how = " / ".join(r[3] for r in con.execute("explain query plan " + sql, params))
