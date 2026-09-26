@@ -21,6 +21,7 @@ from pathlib import Path
 
 from places.advisory_places import city_codes, extract
 from places.eq_places import resolve
+from . import rates
 
 MAX_SQL_BYTES = 90_000  # D1 は 1 文 100KB まで
 
@@ -28,6 +29,8 @@ COLUMNS = {
     "earthquakes": ["event_id", "occurred_at", "lat", "lon", "depth_km", "mag", "location",
                     "city_code", "province_code", "distance_km", "bearing", "row_hash"],
     "city_quake_stats": ["city_code", "total", "m4_plus", "max_mag", "max_mag_at", "first_at", "last_at"],
+    "city_quake_rates": ["city_code", "radius_km", "since", "until_", "years", "n_m3", "n_m4", "n_m5", "m4_per_year",
+                         "p30_m4", "p365_m4", "last_m4_at", "last_m5_at", "m4_by_year"],
     "advisories": ["id", "region", "kind", "title", "number", "issued_at", "expires_at", "text", "first_seen"],
     "advisory_cities": ["advisory_id", "city_code", "status", "expires_at"],
     "dam_levels": ["dam", "obs_date", "obs_time", "rwl_m", "dev_24h_m", "nhwl_m", "dev_nhwl_m", "rule_curve_m",
@@ -39,12 +42,13 @@ COLUMNS = {
     "source_status": ["source", "last_ok", "last_fetch", "note"],
 }
 KEYS = {
-    "earthquakes": ["event_id"], "city_quake_stats": ["city_code"], "advisories": ["id"],
+    "earthquakes": ["event_id"], "city_quake_stats": ["city_code"], "city_quake_rates": ["city_code"], "advisories": ["id"],
     "advisory_cities": ["city_code", "advisory_id"], "dam_levels": ["dam", "obs_date"],
     "flood_watch": ["sub_basin", "date_pht"], "river_levels": ["station_code", "time_pht"],
     "volcano_alert": ["volcano", "date_pht"], "cyclone_bulletins": ["sha"], "source_status": ["source"],
 }
-NUMERIC = {"lat", "lon", "depth_km", "mag", "distance_km", "total", "m4_plus", "max_mag", "rwl_m", "dev_24h_m",
+NUMERIC = {"lat", "lon", "depth_km", "mag", "distance_km", "total", "m4_plus", "max_mag", "radius_km", "years",
+           "n_m3", "n_m4", "n_m5", "m4_per_year", "p30_m4", "p365_m4", "rwl_m", "dev_24h_m",
            "nhwl_m", "dev_nhwl_m", "rule_curve_m", "dev_rule_curve_m", "wl_m", "alert_m", "alarm_m", "critical_m",
            "alert_level"}
 
@@ -52,7 +56,7 @@ NUMERIC = {"lat", "lon", "depth_km", "mag", "distance_km", "total", "m4_plus", "
 WATERMARK = {"river_levels": "time_pht", "cyclone_bulletins": "fetched_utc", "advisories": None, "advisory_cities": None}
 # 送る順。新しいデータを過去分の積み残しで待たせないため、小さい表を先に置く(地震はこの後ろ)。
 APPEND_ORDER = ("advisories", "advisory_cities", "river_levels", "cyclone_bulletins")
-ROWHASH_ORDER = ("source_status", "city_quake_stats", "dam_levels", "flood_watch", "volcano_alert")
+ROWHASH_ORDER = ("source_status", "city_quake_stats", "city_quake_rates", "dam_levels", "flood_watch", "volcano_alert")
 RECENT_MONTHS = 2  # 地震は直近 2 か月だけ行ごとに比べ、それより古い月は月の要約で比べる
 
 _HOURS = re.compile(r"(\d+)\s*(?:to\s*(\d+)\s*)?hours?|an\s+hour", re.I)
@@ -124,6 +128,8 @@ def build(data: Path, state: Path | None = None) -> dict[str, dict[tuple, dict]]
                 s["first_at"], s["last_at"] = min(s["first_at"], row["occurred_at"]), max(s["last_at"], row["occurred_at"])
     for s in stats.values():
         t["city_quake_stats"][(s["city_code"],)] = {k: str(v) for k, v in s.items()}
+    for r in rates.city_rates(t["earthquakes"].values()):
+        t["city_quake_rates"][(r["city_code"],)] = r
 
     for f in sorted((data / "advisories").glob("*.jsonl")):
         for a in _jsonl(f):
@@ -216,8 +222,9 @@ def _watermark_unit(table: str, tables: dict, manifest: dict) -> Unit:
 def _rowhash_unit(table: str, tables: dict, manifest: dict) -> Unit:
     """小さな表: 行ごとにハッシュを比べる。"""
     old = manifest.get(table) or {}
-    now = {"|".join(k): _hash(r) for k, r in tables[table].items()}
-    pick = [tables[table][k] for k in tables[table] if old.get("|".join(k)) != now["|".join(k)]]
+    rows = tables.get(table) or {}   # 古いテストの fixture など、表が無い入力も通す
+    now = {"|".join(k): _hash(r) for k, r in rows.items()}
+    pick = [rows[k] for k in rows if old.get("|".join(k)) != now["|".join(k)]]
     statements: list[str] = []
     _emit(table, pick, statements)
 

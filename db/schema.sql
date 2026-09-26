@@ -76,3 +76,22 @@ CREATE TABLE IF NOT EXISTS cyclone_bulletins (
 CREATE TABLE IF NOT EXISTS source_status (
   source TEXT PRIMARY KEY, last_ok TEXT, last_fetch TEXT, note TEXT
 ) WITHOUT ROWID;
+
+-- 市町ごとの地震の頻度(50 km 圏、ベースレート)。「予知」ではなく「この土地はどれくらい揺れる場所か」。
+-- 完全性の都合で M3.0 以上だけを数える(M1〜2 は年によって取りこぼしが違う)。
+CREATE TABLE IF NOT EXISTS city_quake_rates (
+  city_code      TEXT PRIMARY KEY,
+  radius_km      INTEGER NOT NULL,
+  since          TEXT NOT NULL,           -- 数え始めの日
+  until_         TEXT NOT NULL,           -- 数え終わりの日
+  years          REAL NOT NULL,
+  n_m3           INTEGER NOT NULL,
+  n_m4           INTEGER NOT NULL,
+  n_m5           INTEGER NOT NULL,
+  m4_per_year    REAL NOT NULL,
+  p30_m4         REAL NOT NULL,           -- 30 日以内に M4.0+ が 1 回以上ある確率(ポアソン近似、0..1)
+  p365_m4        REAL NOT NULL,
+  last_m4_at     TEXT,                    -- 最後の M4.0+ の発生時刻
+  last_m5_at     TEXT,
+  m4_by_year     TEXT NOT NULL            -- JSON {"2018": n, …}(傾向の折れ線用)
+) WITHOUT ROWID;
