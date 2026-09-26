@@ -21,7 +21,7 @@ class Rates(unittest.TestCase):
             ev("2024-01-01T00:00:00+08:00", 9.8, 127.5, 6.0),   # 約 150 km 東 → 圏外
         ]
         rows = {r["city_code"]: r for r in rates.city_rates(evs, today=date(2026, 9, 26))}
-        gl = next(r for r in rows.values() if r["city_code"].startswith("1667") and r["n_m4"] == "2")
+        gl = next(r for r in rows.values() if r["city_code"] == "1606710000")
         self.assertEqual((gl["n_m3"], gl["n_m4"], gl["n_m5"]), ("2", "2", "1"))
         self.assertEqual(gl["last_m5_at"], "2024-01-01T00:00:00+08:00")
         self.assertEqual(json.loads(gl["m4_by_year"])["2024"], 1)
