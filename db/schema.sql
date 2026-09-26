@@ -95,3 +95,14 @@ CREATE TABLE IF NOT EXISTS city_quake_rates (
   last_m5_at     TEXT,
   m4_by_year     TEXT NOT NULL            -- JSON {"2018": n, …}(傾向の折れ線用)
 ) WITHOUT ROWID;
+
+-- M5.5 以上だけの小さな写し(2018 年〜、数百行)。「直近に大きい地震があったか」を、13 万行の表を走査せずに引くため。
+CREATE TABLE IF NOT EXISTS big_quakes (
+  event_id      TEXT PRIMARY KEY,
+  occurred_at   TEXT NOT NULL,
+  lat REAL, lon REAL, depth_km REAL, mag REAL,
+  location      TEXT NOT NULL,
+  city_code     TEXT,
+  province_code TEXT
+);
+CREATE INDEX IF NOT EXISTS bigq_time ON big_quakes (occurred_at DESC);

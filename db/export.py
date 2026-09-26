@@ -29,6 +29,7 @@ COLUMNS = {
     "earthquakes": ["event_id", "occurred_at", "lat", "lon", "depth_km", "mag", "location",
                     "city_code", "province_code", "distance_km", "bearing", "row_hash"],
     "city_quake_stats": ["city_code", "total", "m4_plus", "max_mag", "max_mag_at", "first_at", "last_at"],
+    "big_quakes": ["event_id", "occurred_at", "lat", "lon", "depth_km", "mag", "location", "city_code", "province_code"],
     "city_quake_rates": ["city_code", "radius_km", "since", "until_", "years", "n_m3", "n_m4", "n_m5", "m4_per_year",
                          "p30_m4", "p365_m4", "last_m4_at", "last_m5_at", "m4_by_year"],
     "advisories": ["id", "region", "kind", "title", "number", "issued_at", "expires_at", "text", "first_seen"],
@@ -42,7 +43,7 @@ COLUMNS = {
     "source_status": ["source", "last_ok", "last_fetch", "note"],
 }
 KEYS = {
-    "earthquakes": ["event_id"], "city_quake_stats": ["city_code"], "city_quake_rates": ["city_code"], "advisories": ["id"],
+    "earthquakes": ["event_id"], "city_quake_stats": ["city_code"], "city_quake_rates": ["city_code"], "big_quakes": ["event_id"], "advisories": ["id"],
     "advisory_cities": ["city_code", "advisory_id"], "dam_levels": ["dam", "obs_date"],
     "flood_watch": ["sub_basin", "date_pht"], "river_levels": ["station_code", "time_pht"],
     "volcano_alert": ["volcano", "date_pht"], "cyclone_bulletins": ["sha"], "source_status": ["source"],
@@ -56,7 +57,7 @@ NUMERIC = {"lat", "lon", "depth_km", "mag", "distance_km", "total", "m4_plus", "
 WATERMARK = {"river_levels": "time_pht", "cyclone_bulletins": "fetched_utc", "advisories": None, "advisory_cities": None}
 # 送る順。新しいデータを過去分の積み残しで待たせないため、小さい表を先に置く(地震はこの後ろ)。
 APPEND_ORDER = ("advisories", "advisory_cities", "river_levels", "cyclone_bulletins")
-ROWHASH_ORDER = ("source_status", "city_quake_stats", "city_quake_rates", "dam_levels", "flood_watch", "volcano_alert")
+ROWHASH_ORDER = ("source_status", "city_quake_stats", "city_quake_rates", "big_quakes", "dam_levels", "flood_watch", "volcano_alert")
 RECENT_MONTHS = 2  # 地震は直近 2 か月だけ行ごとに比べ、それより古い月は月の要約で比べる
 
 _HOURS = re.compile(r"(\d+)\s*(?:to\s*(\d+)\s*)?hours?|an\s+hour", re.I)
@@ -130,6 +131,9 @@ def build(data: Path, state: Path | None = None) -> dict[str, dict[tuple, dict]]
         t["city_quake_stats"][(s["city_code"],)] = {k: str(v) for k, v in s.items()}
     for r in rates.city_rates(t["earthquakes"].values()):
         t["city_quake_rates"][(r["city_code"],)] = r
+    for (eid,), row in t["earthquakes"].items():
+        if float(row["mag"] or 0) >= rates.BIG_MAG:
+            t["big_quakes"][(eid,)] = {c: row[c] for c in COLUMNS["big_quakes"]}
 
     for f in sorted((data / "advisories").glob("*.jsonl")):
         for a in _jsonl(f):

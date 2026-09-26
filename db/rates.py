@@ -17,6 +17,7 @@ from datetime import date
 from places.gazetteer import load
 
 RADIUS_KM = 50
+BIG_MAG = 5.5  # big_quakes(余震の確率を出す本震の下限)
 SINCE = "2019-01-01"
 MIN_MAG = 3.0
 KY = 110.57
