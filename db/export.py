@@ -44,6 +44,8 @@ COLUMNS = {
     "province_outlook": ["province_code", "issued_at", "day_index", "day_name", "tmin", "tmax", "wind", "direction", "coastal"],
     "advisories": ["id", "region", "kind", "title", "number", "issued_at", "expires_at", "text", "first_seen"],
     "advisory_cities": ["advisory_id", "city_code", "status", "expires_at"],
+    "advisory_summary": ["advisory_id", "region", "kind", "status", "issued_at", "expires_at", "n_towns", "towns_json",
+                         "provinces_json"],
     "dam_levels": ["dam", "obs_date", "obs_time", "rwl_m", "dev_24h_m", "nhwl_m", "dev_nhwl_m", "rule_curve_m",
                    "dev_rule_curve_m", "gates", "gate_opening_m", "inflow_cms", "outflow_cms"],
     "flood_watch": ["date_pht", "sub_basin", "status"],
@@ -58,7 +60,7 @@ COLUMNS = {
 }
 KEYS = {
     "earthquakes": ["event_id"], "city_quake_stats": ["city_code"], "city_quake_rates": ["city_code"], "big_quakes": ["event_id"], "advisories": ["id"],
-    "advisory_cities": ["city_code", "advisory_id"], "dam_levels": ["dam", "obs_date"],
+    "advisory_cities": ["city_code", "advisory_id"], "advisory_summary": ["advisory_id"], "dam_levels": ["dam", "obs_date"],
     "flood_watch": ["sub_basin", "date_pht"], "river_levels": ["station_code", "time_pht"],
     "volcano_alert": ["volcano", "date_pht"], "cyclone_bulletins": ["sha"], "source_status": ["source"],
     "city_quake_years": ["city_code", "year"], "city_quake_bands": ["city_code"], "city_quake_months": ["city_code", "month"],
@@ -70,12 +72,13 @@ NUMERIC = {"lat", "lon", "depth_km", "mag", "distance_km", "total", "m4_plus", "
            "n_m3", "n_m4", "n_m5", "m4_per_year", "p30_m4", "p365_m4", "rwl_m", "dev_24h_m",
            "nhwl_m", "dev_nhwl_m", "rule_curve_m", "dev_rule_curve_m", "wl_m", "alert_m", "alarm_m", "critical_m",
            "alert_level", "year", "n", "lt3", "m3", "m4", "m5", "latest_30d", "latest_30d_max", "day_index", "tmin", "tmax",
-           "center_lat", "center_lon", "max_wind_kmh", "gust_kmh", "signal"}
+           "center_lat", "center_lon", "max_wind_kmh", "gust_kmh", "signal", "n_towns"}
 
 # 追記しかされない表は、行ごとのハッシュを持たずに「どこまで送ったか」だけ覚える(manifest を小さく保つ)。
-WATERMARK = {"river_levels": "time_pht", "cyclone_bulletins": "fetched_utc", "advisories": None, "advisory_cities": None}
+WATERMARK = {"river_levels": "time_pht", "cyclone_bulletins": "fetched_utc", "advisories": None, "advisory_cities": None,
+             "advisory_summary": None}
 # 送る順。新しいデータを過去分の積み残しで待たせないため、小さい表を先に置く(地震はこの後ろ)。
-APPEND_ORDER = ("advisories", "advisory_cities", "river_levels", "cyclone_bulletins")
+APPEND_ORDER = ("advisories", "advisory_cities", "advisory_summary", "river_levels", "cyclone_bulletins")
 ROWHASH_ORDER = ("source_status", "cyclone_advisories", "cyclone_signals", "regional_outlook", "province_outlook", "city_quake_stats", "city_quake_rates", "big_quakes", "city_quake_years",
                  "city_quake_bands", "city_quake_months", "daily_quake_counts", "dam_levels", "flood_watch", "volcano_alert")
 # 集計の表は、元の地震の付け替え(aliases.json の追加など)で行が消えることがある。manifest にあって今回無い行は D1 からも消す。
@@ -189,8 +192,10 @@ def build(data: Path, state: Path | None = None) -> dict[str, dict[tuple, dict]]
                 "number": a.get("number", ""), "issued_at": a.get("issued_at", ""), "expires_at": exp,
                 "text": a["text"], "first_seen": a.get("first_seen_utc", ""),
             }
-            for code, status in city_codes(extract(a["text"])).items():
+            codes = city_codes(extract(a["text"]))
+            for code, status in codes.items():
                 t["advisory_cities"][(code, a["id"])] = {"_wm": seen, "advisory_id": a["id"], "city_code": code, "status": status, "expires_at": exp}
+            t["advisory_summary"][(a["id"],)] = advisory_summary(t["advisories"][(a["id"],)], codes, seen)
 
     for table, folder, reader in [("dam_levels", "dams", _csv), ("flood_watch", "flood_watch", _csv),
                                   ("river_levels", "river_levels", _csv), ("volcano_alert", "volcano_alert", _csv),
@@ -203,6 +208,31 @@ def build(data: Path, state: Path | None = None) -> dict[str, dict[tuple, dict]]
                 t[table][tuple(row[k] for k in KEYS[table])] = row
     cyclone_tables(data, t)
     return t
+
+
+_STATUS_RANK = {"watch": 0, "expected": 1, "occurring": 2}
+
+
+def advisory_summary(adv: dict, codes: dict[str, str], seen: str, gaz=None) -> dict:
+    """注意報 1 つ → advisory_summary の 1 行(ホームの地図と数。advisory_cities を町の数だけ読まずに済ませる)。
+
+    towns_json は [[lat, lon, city_code, s]](市町コードの順。座標は小数 3 桁 ≒ 100 m、無ければ null。
+    s は状態の頭文字 o / e / w)。300 町を名指しする雷雨の注意報で 10 KB ほど。
+    """
+    g = gaz or load_gazetteer()
+    towns, provinces = [], {}
+    for code in sorted(codes):
+        c = g.cities.get(code)
+        lat = round(c.lat, 3) if c and c.lat is not None else None
+        lon = round(c.lon, 3) if c and c.lon is not None else None
+        towns.append([lat, lon, code, codes[code][0]])
+        if c and c.province_code:
+            provinces[c.province_code] = provinces.get(c.province_code, 0) + 1
+    top = max(codes.values(), key=_STATUS_RANK.__getitem__) if codes else ""
+    return {"_wm": seen, "advisory_id": adv["id"], "region": adv["region"], "kind": adv["kind"], "status": top,
+            "issued_at": adv["issued_at"], "expires_at": adv["expires_at"], "n_towns": str(len(codes)),
+            "towns_json": json.dumps(towns, separators=(",", ":")),
+            "provinces_json": json.dumps(dict(sorted(provinces.items())), separators=(",", ":"))}
 
 
 def cyclone_tables(data: Path, t: dict) -> None:
@@ -367,7 +397,7 @@ class Unit:
 def _watermark_unit(table: str, tables: dict, manifest: dict) -> Unit:
     """追記だけの表: 送信位置より新しい行だけ。"""
     wm = (manifest.get(table) or {}).get("sent_until", "")
-    fresh = sorted((r for r in tables[table].values() if r["_wm"] > wm), key=lambda r: r["_wm"])
+    fresh = sorted((r for r in (tables.get(table) or {}).values() if r["_wm"] > wm), key=lambda r: r["_wm"])
     statements: list[str] = []
     _emit(table, fresh, statements)
     until = max([wm] + [r["_wm"] for r in fresh])

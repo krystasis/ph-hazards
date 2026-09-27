@@ -84,3 +84,27 @@ class EarthquakeLocations(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class Summary(unittest.TestCase):
+    """advisory_summary(ホームの地図用の 1 注意報 1 行)は advisory_cities と同じ町・同じ状態を持つ。"""
+
+    def test_advisory_cities_と同じ町(self):
+        import json
+        from db.export import advisory_summary
+        codes = city_codes(extract(NCR))
+        adv = {"id": "a1", "region": "ncrprsd", "kind": "thunderstorm", "issued_at": "2026-09-21T14:00:00+08:00",
+               "expires_at": "2026-09-21T16:00:00+08:00"}
+        row = advisory_summary(adv, codes, "2026-09-21T06:00:00+00:00")
+        towns = json.loads(row["towns_json"])
+        self.assertEqual(row["n_towns"], str(len(codes)))
+        self.assertEqual({t[2]: t[3] for t in towns}, {c: s[0] for c, s in codes.items()})
+        self.assertEqual(row["status"], "occurring")                       # Naic などが occurring
+        self.assertTrue(all(t[0] is not None and round(t[0], 3) == t[0] for t in towns))
+        self.assertEqual(sum(json.loads(row["provinces_json"]).values()), len(codes))
+        self.assertEqual(row["_wm"], "2026-09-21T06:00:00+00:00")
+
+    def test_町が無い注意報(self):
+        from db.export import advisory_summary
+        row = advisory_summary({"id": "a2", "region": "minprsd", "kind": "rainfall", "issued_at": "", "expires_at": ""}, {}, "x")
+        self.assertEqual((row["n_towns"], row["towns_json"], row["provinces_json"], row["status"]), ("0", "[]", "{}", ""))

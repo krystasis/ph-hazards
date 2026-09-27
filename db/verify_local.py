@@ -52,6 +52,7 @@ queries = {
     "市町の直近の地震 20 件": ("select occurred_at, mag, location from earthquakes where city_code=? order by occurred_at desc limit 20", (city,)),
     "市町の集計 1 行": ("select * from city_quake_stats where city_code=?", (city,)),
     "市町に発令中の注意報": ("select advisory_id, status from advisory_cities where city_code=? and expires_at > ? order by expires_at desc", (city, "2026-09-21T12:00:00+08:00")),
+    "ホームの地図: 発令中の注意報の要約": ("select advisory_id, region, issued_at, towns_json from advisory_summary where expires_at > ? order by expires_at desc limit 60", ("2026-09-22T16:22:00+08:00",)),
     "全国の直近の地震 20 件": ("select * from earthquakes order by occurred_at desc limit 20", ()),
     "観測所の直近の水位": ("select * from river_levels where station_code=? order by time_pht desc limit 12", ("11103201",)),
     "市町の年ごとの件数": ("select year, n, n_m4 from city_quake_years where city_code=? order by year limit 20", (city,)),

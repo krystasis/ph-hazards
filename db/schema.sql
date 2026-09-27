@@ -153,6 +153,24 @@ CREATE TABLE IF NOT EXISTS province_outlook (
 ) WITHOUT ROWID;
 CREATE INDEX IF NOT EXISTS poutlook_prov_issued ON province_outlook (province_code, issued_at DESC);
 
+-- ホームの全国地図と「いま発令中」の数のための、注意報 1 つ 1 行の要約。advisory_cities(1 町 1 行)を
+-- 発令中の数だけ読むと、山の時刻で数千行になる(D1 の無料枠は走査した行数で数える)。ここは発令中の注意報の数だけ。
+-- towns_json は [[lat, lon, "city_code", "s"], …](座標は小数 3 桁、無ければ null。s は o=occurring / e=expected / w=watch)。
+-- provinces_json は {"州コード": 町の数}。中身は advisory_cities と同じ名寄せ(places/advisory_places.py)から作る。
+-- 注意報は出た後に変わらないので、advisories と同じく追記だけ(db/export.py の WATERMARK)。
+CREATE TABLE IF NOT EXISTS advisory_summary (
+  advisory_id    TEXT PRIMARY KEY,
+  region         TEXT NOT NULL,
+  kind           TEXT NOT NULL,
+  status         TEXT,                   -- 町の中で一番強い状態(occurring > expected > watch)。町が無ければ NULL
+  issued_at      TEXT,
+  expires_at     TEXT,                   -- advisories と同じ値
+  n_towns        INTEGER NOT NULL,
+  towns_json     TEXT NOT NULL,
+  provinces_json TEXT NOT NULL
+) WITHOUT ROWID;
+CREATE INDEX IF NOT EXISTS advs_expires ON advisory_summary (expires_at);
+
 -- 台風公報の構造化(collector/tcb_parse.py、docs/sources/pagasa-tcb.md)。1 公報 1 行。sha は cyclone_bulletins.sha と同じ。
 -- 時刻は +08:00 の ISO。本文に無い値は NULL(作らない)。par_status は inside / exiting / outside / entering / unknown。
 -- forecast_json は [{"at", "text", "outside_par"}] の JSON。台風が終わっても行は残るので、「いま発令中か」は
