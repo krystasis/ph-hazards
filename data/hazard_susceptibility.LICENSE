@@ -1,0 +1,34 @@
+hazard_susceptibility.csv — per-town flood, landslide and storm-surge susceptibility summaries (Philippines)
+
+This database is made available under the Open Database License (ODbL) 1.0:
+https://opendatacommons.org/licenses/odbl/1.0/
+Any rights in individual contents of the database are licensed under the Database Contents License:
+https://opendatacommons.org/licenses/dbcl/1.0/
+
+Attribution (required):
+  Contains information from Project NOAH (UP NOAH Center) made available under the Open Database License (ODbL) 1.0.
+  Derived per-town summary available under ODbL.
+
+Sources:
+- UP NOAH hazard maps (flood 100-year rain return period, landslide hazard, storm surge advisory 4), ODbL 1.0.
+  Retrieved from the mirror https://huggingface.co/datasets/bettergovph/project-noah-hazard-maps
+  (commit 3820095a7e40, a copy of the official Project NOAH Google Drive release of 2021-10).
+- Town (city/municipality) boundaries used only to measure areas: OCHA COD-AB Philippines
+  (https://data.humdata.org/dataset/cod-ab-phl; OCHA FISS, NAMRIA, PSA), CC BY-IGO 3.0. No boundaries are redistributed here.
+- Town codes: PSGC (Philippine Standard Geographic Code), via vendor/psgc/.
+
+Columns:
+  city_code         PSGC 10-digit city/municipality code
+  layer             flood_100yr | landslide | storm_surge (storm surge advisory 4)
+  class_*_pct       share of the town's area (COD-AB polygon) in NOAH's high / medium / low hazard class, in %,
+                    measured in an Albers equal-area projection for the Philippines; higher classes take precedence
+  label             high:   >= 10% of the area in the high class
+                    medium: otherwise >= 2% in the high class, or >= 10% in high + medium
+                    low:    otherwise >= 0.05% in any class
+                    none:   no class reaches 0.05%
+                    Towns in provinces NOAH did not map for a layer have no row for that layer.
+  source_version    NOAH release / mirror commit
+  computed_at       date of computation (UTC)
+
+Indicative only; not an official hazard assessment. For an official site-specific assessment use
+HazardHunterPH (https://hazardhunter.georisk.gov.ph/) and the MGB geohazard maps.

@@ -194,3 +194,16 @@ CREATE TABLE IF NOT EXISTS cyclone_signals (
 ) WITHOUT ROWID;
 CREATE INDEX IF NOT EXISTS cycs_prov ON cyclone_signals (province_code, sha);
 CREATE INDEX IF NOT EXISTS cycs_city ON cyclone_signals (city_code, sha);
+
+-- ================================================================
+-- 土地の危険度(UP NOAH の洪水 100 年・土砂・高潮 SSA4、ODbL 1.0)。docs/sources/noah.md
+-- ================================================================
+-- 市町(PSGC)× 層で 1 行。data/hazard_susceptibility.csv をそのまま入れる(1 回きりの手作業で作る表。定期の更新は無い)。
+-- layer は flood_100yr / landslide / storm_surge。class_*_pct は町の面積のうちその級の割合(%)、label は high / medium / low / none。
+-- 州にその層の図が無い町は行が無い(ページは「not mapped」)。市町ページは city_code の主キーの先頭で引く(最大 3 行)。
+CREATE TABLE IF NOT EXISTS hazard_susceptibility (
+  city_code TEXT, layer TEXT,
+  class_high_pct REAL, class_medium_pct REAL, class_low_pct REAL,
+  label TEXT, source_version TEXT, computed_at TEXT,
+  PRIMARY KEY (city_code, layer)
+) WITHOUT ROWID;

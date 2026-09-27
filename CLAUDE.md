@@ -56,4 +56,5 @@
 - `data/river_levels/YYYY-MM.csv` — 河川水位(10 分値)。値が動いたときと 1 時間ごとだけ残す
 - `data/volcano_alert/YYYY.csv` — 火山の警戒レベル(1 日 1 行)
 - `data/tcb/YYYY-MM.jsonl` — 台風公報の本文(整えた物)。発令中のみ。構造化は `collector/tcb_parse.py`(シグナルは実物で未確認。docs/sources/pagasa-tcb.md)
+- `data/hazard_susceptibility.csv` — 市町 × 層(洪水 100 年・土砂・高潮 SSA4)の危険度の面積率と区分。UP NOAH から非公開側で 1 回きりに作る派生物、ODbL(`.LICENSE`、docs/sources/noah.md)
 - `state/<key>.json` — etag、最終取得、クールダウン。Actions には永続ディスクが無いのでコミットする

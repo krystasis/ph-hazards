@@ -88,6 +88,15 @@ MONTHS_KEPT = 24   # city_quake_months は最新の地震の月から数えて 2
 BANDS_DAYS = 30    # city_quake_bands.latest_30d の窓
 RECENT_MONTHS = 2  # 地震は直近 2 か月だけ行ごとに比べ、それより古い月は月の要約で比べる
 
+# ---- 土地の危険度(UP NOAH、ODbL 1.0)。data/hazard_susceptibility.csv は 1 回きりの手作業で作る(docs/sources/noah.md)。
+# 行はほとんど動かないので行ごとのハッシュで比べ、作り直して消えた行は D1 からも消す。
+COLUMNS["hazard_susceptibility"] = ["city_code", "layer", "class_high_pct", "class_medium_pct", "class_low_pct",
+                                    "label", "source_version", "computed_at"]
+KEYS["hazard_susceptibility"] = ["city_code", "layer"]
+NUMERIC |= {"class_high_pct", "class_medium_pct", "class_low_pct"}
+ROWHASH_ORDER += ("hazard_susceptibility",)
+DELETE_GONE |= {"hazard_susceptibility"}
+
 _HOURS = re.compile(r"(\d+)\s*(?:to\s*(\d+)\s*)?hours?|an\s+hour", re.I)
 
 
@@ -207,7 +216,18 @@ def build(data: Path, state: Path | None = None) -> dict[str, dict[tuple, dict]]
                     row["_wm"] = row[WATERMARK[table]]
                 t[table][tuple(row[k] for k in KEYS[table])] = row
     cyclone_tables(data, t)
+    hazard_table(data, t)
     return t
+
+
+def hazard_table(data: Path, t: dict) -> None:
+    """data/hazard_susceptibility.csv → hazard_susceptibility(ファイルが無ければ空)。"""
+    f = data / "hazard_susceptibility.csv"
+    if not f.exists():
+        return
+    for r in _csv(f):
+        row = {c: r.get(c, "") for c in COLUMNS["hazard_susceptibility"]}
+        t["hazard_susceptibility"][(row["city_code"], row["layer"])] = row
 
 
 _STATUS_RANK = {"watch": 0, "expected": 1, "occurring": 2}

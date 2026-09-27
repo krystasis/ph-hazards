@@ -72,6 +72,13 @@ queries = {
     "公報のシグナル全部": ("select * from cyclone_signals where sha=? order by signal desc", ("x",)),
     "消えた集計行の削除(主キーの OR)": ("delete from city_quake_years where (city_code = ? and year = 2019) or (city_code = ? and year = 2020)", (city, city)),
 }
+# 土地の危険度(NOAH): 市町ページは主キーの先頭で最大 3 行。中身も確かめる(区分の値・率の合計・CSV と同じ行数)
+queries["市町の土地の危険度(3 層)"] = ("select layer, class_high_pct, class_medium_pct, class_low_pct, label from hazard_susceptibility where city_code=? limit 3", ("1380700000",))
+hz = con.execute("select count(*), sum(label not in ('high','medium','low','none')), sum(class_high_pct + class_medium_pct + class_low_pct > 100.2),"
+                 " sum(layer not in ('flood_100yr','landslide','storm_surge')) from hazard_susceptibility").fetchone()
+print(f"\n土地の危険度: {hz[0]} 行(CSV {len(tables['hazard_susceptibility'])} 行)| 区分の値が変 {hz[1] or 0} | 率の合計 > 100% {hz[2] or 0} | 層の名前が変 {hz[3] or 0}"
+      f" {'OK' if hz[0] == len(tables['hazard_susceptibility']) and not (hz[1] or hz[2] or hz[3]) else '不一致!'}")
+
 for name, (sql, params) in queries.items():
     how = " / ".join(r[3] for r in con.execute("explain query plan " + sql, params))
     bad = "SCAN" in how and "USING" not in how  # インデックス順に読んで LIMIT で止まる SCAN は問題ない
