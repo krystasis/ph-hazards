@@ -47,6 +47,7 @@
 Queenie は全公報が「No Tropical Cyclone Wind Signal」だったので、シグナルの出た実物をまだ見ていない。
 読み方は PAGASA が公表している TCB の書式から作り、手で作った欄(`tests/fixtures/pagasa_tcb_signals_SYNTHETIC.txt`)でだけ確かめた。
 **シグナルの出た最初の公報で、必ず実物と突き合わせる**(ページの表の組み方によっては文字の並びが想定と違う)。
+- 見張り: 新しく足した公報でシグナルの行が 1 つでも読めたら、収集の出力に「[pagasa-tcb] ★ シグナル N 行を解析…」が出る。**初めての回だけ**その実行が 0 以外で終わり(Actions が赤くなる)、`state/pagasa-tcb.json` の `signals_seen_first` に時刻が残る(以後は緑。`collector/run.py` の `signal_watch`)。
 - 「TCWS No. N」「Wind Signal No. N」「Signal No. N」の後に、その段階の地域が並ぶと想定。「Luzon / Visayas / Mindanao」の見出しは読み飛ばし、
   「Wind threat / Warning lead time / Range of wind speeds / Potential impacts」から後ろは場所として読まない。
 - 地域は括弧の外のコンマと「and」で区切る(「the northern and central portions of」の and は区切らない)。

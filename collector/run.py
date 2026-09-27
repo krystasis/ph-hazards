@@ -11,7 +11,7 @@ import sys
 import time
 from datetime import datetime, timedelta, timezone
 
-from . import pagasa_dams, pagasa_ffws, pagasa_regional, pagasa_tcb, phivolcs_eq, phivolcs_volcano
+from . import pagasa_dams, pagasa_ffws, pagasa_regional, pagasa_tcb, phivolcs_eq, phivolcs_volcano, tcb_parse
 from .fetch import Blocked, fetch, in_cooldown, load_state, save_state
 from .store import DATA, append_jsonl, replace_csv, upsert_csv
 
@@ -135,8 +135,8 @@ def run_regional(now, force) -> tuple[bool, str]:
     return ok, note
 
 
-def save_tcb(page: str, now: datetime) -> tuple[int, int]:
-    """発令中の公報を月のファイルに足す。(発令中の件数, 新しく足した件数) を返す。"""
+def save_tcb(page: str, now: datetime, stored: list[dict] | None = None) -> tuple[int, int]:
+    """発令中の公報を月のファイルに足す。(発令中の件数, 新しく足した件数) を返す。stored を渡すと足した行をそこへ入れる。"""
     snaps = pagasa_tcb.parse_all(page)
     if not snaps:
         return 0, 0
@@ -144,7 +144,28 @@ def save_tcb(page: str, now: datetime) -> tuple[int, int]:
     # 整える前に入った行は sha が本文と合わない(pagasa_tcb.py の説明)。本文そのものでも重なりを見る。
     have = {json.loads(ln)["text"] for ln in path.read_text(encoding="utf-8").splitlines() if ln.strip()} if path.exists() else set()
     fresh = [dict(s, fetched_utc=now.isoformat()) for s in snaps if s["text"] not in have]
-    return len(snaps), append_jsonl(path, fresh, "sha")
+    n = append_jsonl(path, fresh, "sha")
+    if stored is not None and n:
+        stored.extend(fresh)
+    return len(snaps), n
+
+
+SIGNAL_LINE = "[pagasa-tcb] ★ シグナル {n} 行を解析(書式は実物未確認 — docs/sources/pagasa-tcb.md を見て突き合わせる)"
+
+
+def signal_watch(stored: list[dict], state: dict, now: datetime) -> tuple[int, bool]:
+    """新しく足した公報のシグナルの行数と、「シグナルを見たのが初めてか」を返す。
+
+    シグナルの読み方(collector/tcb_parse.py)は実物で確かめていない。行が出たら目に付く 1 行を出し、
+    **初めて出た回だけ**赤くする(state の signals_seen_first に時刻を残す。2 回目からは緑のまま)。
+    """
+    n = sum(len(tcb_parse.parse(pagasa_tcb.clean_text(r["text"]))["signals"]) for r in stored)
+    if not n:
+        return 0, False
+    first = not state.get("signals_seen_first")
+    if first:
+        state["signals_seen_first"] = now.isoformat()
+    return n, first
 
 
 def run_tcb(now, force) -> tuple[bool, str]:
@@ -155,10 +176,20 @@ def run_tcb(now, force) -> tuple[bool, str]:
         return True, "not due"
     resp = fetch(key, pagasa_tcb.URL, {}, now)
     ok = "Tropical Cyclone" in resp.text
-    active, fresh = save_tcb(resp.text, now)
+    stored: list[dict] = []
+    active, fresh = save_tcb(resp.text, now, stored)
     note = "発令なし" if not active else f"公報あり{f'({active} 件)' if active > 1 else ''}、新規 {fresh} 件"
+    first = False
+    try:
+        signals, first = signal_watch(stored, state, now)
+    except Exception as e:  # noqa: BLE001 — 解析の失敗で公報の保存を止めない(本文は残っている)
+        print(f"[{key}] ★ シグナルの解析に失敗: {e!r}(docs/sources/pagasa-tcb.md)")
+        signals = 0
+    if signals:
+        print(SIGNAL_LINE.format(n=signals))
+        note += f"、シグナル {signals} 行{'(初めて。書式を突き合わせる)' if first else ''}"
     _finish(key, state, now, resp, ok, note)
-    return ok, note
+    return ok and not first, note
 
 
 def run_ffws(now, force) -> tuple[bool, str]:

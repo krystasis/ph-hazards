@@ -176,3 +176,53 @@ class Save(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d, mock.patch.object(run, "DATA", Path(d)):
             self.assertEqual(run.save_tcb(page, now), (1, 1))
             self.assertEqual(run.save_tcb(page, now), (1, 0))
+
+
+class SignalWatch(unittest.TestCase):
+    """シグナルの行が出たら目立つ 1 行を出し、初めての回だけ赤くする(collector/run.py の signal_watch)。"""
+
+    def setUp(self):
+        from datetime import datetime, timezone
+        self.now = datetime(2026, 10, 1, 0, 0, tzinfo=timezone.utc)
+        base = fix("pagasa_tcb_queenie_2026-09-27T11.txt")
+        self.quiet = {"sha": "q", "text": base}
+        # 実物の本文のシグナル欄を、手で作った欄に差し替えた物(SYNTHETIC)
+        head, _, _ = base.partition("Wind Signal")
+        self.loud = {"sha": "s", "text": head + fix("pagasa_tcb_signals_SYNTHETIC.txt").split("\n", 1)[1]}
+
+    def test_シグナルが無ければ何もしない(self):
+        from collector import run
+        state = {}
+        self.assertEqual(run.signal_watch([self.quiet], state, self.now), (0, False))
+        self.assertEqual(run.signal_watch([], state, self.now), (0, False))
+        self.assertNotIn("signals_seen_first", state)
+
+    def test_初めての回だけ赤_以後は緑(self):
+        from collector import run
+        state = {}
+        n, first = run.signal_watch([self.loud], state, self.now)
+        self.assertGreater(n, 5)
+        self.assertTrue(first)
+        self.assertEqual(state["signals_seen_first"], self.now.isoformat())
+        n2, first2 = run.signal_watch([self.loud], state, self.now)
+        self.assertEqual((n2, first2), (n, False))
+        self.assertEqual(state["signals_seen_first"], self.now.isoformat())
+
+    def test_run_tcb_の終了コード(self):
+        from unittest import mock
+        from collector import run
+        page = "<html>Tropical Cyclone</html>"
+        resp = mock.Mock(text=page, status=200, etag="", last_modified="")
+        saved = {}
+        with mock.patch.object(run, "fetch", return_value=resp), \
+             mock.patch.object(run, "load_state", side_effect=lambda k: dict(saved)), \
+             mock.patch.object(run, "save_state", side_effect=lambda k, st: saved.update(st)), \
+             mock.patch.object(run, "save_tcb", side_effect=lambda p, now, stored: (stored.append(self.loud), (1, 1))[1]), \
+             mock.patch("builtins.print") as out:
+            ok, note = run.run_tcb(self.now, True)
+            self.assertFalse(ok)                                   # 初めて → 赤
+            self.assertIn("★ シグナル", out.call_args_list[0].args[0])
+            ok2, _ = run.run_tcb(self.now, True)
+            self.assertTrue(ok2)                                   # 2 回目 → 緑
+        self.assertIn("signals_seen_first", saved)
+        self.assertIn("シグナル", note)
