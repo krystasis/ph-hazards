@@ -55,5 +55,5 @@
 - `data/outlook/YYYY-MM.jsonl` — 地域別ページの週間予報(1 地域 × 1 発表で 1 行、追記のみ)。静的な欄は既定の州 1 つぶん、州別は `provinces`
 - `data/river_levels/YYYY-MM.csv` — 河川水位(10 分値)。値が動いたときと 1 時間ごとだけ残す
 - `data/volcano_alert/YYYY.csv` — 火山の警戒レベル(1 日 1 行)
-- `data/tcb/YYYY-MM.jsonl` — 台風公報の本文。発令中のみ。シグナルの構造化は実物が出てから書く
+- `data/tcb/YYYY-MM.jsonl` — 台風公報の本文(整えた物)。発令中のみ。構造化は `collector/tcb_parse.py`(シグナルは実物で未確認。docs/sources/pagasa-tcb.md)
 - `state/<key>.json` — etag、最終取得、クールダウン。Actions には永続ディスクが無いのでコミットする

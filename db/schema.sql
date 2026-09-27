@@ -152,3 +152,27 @@ CREATE TABLE IF NOT EXISTS province_outlook (
   PRIMARY KEY (province_code, issued_at, day_index)
 ) WITHOUT ROWID;
 CREATE INDEX IF NOT EXISTS poutlook_prov_issued ON province_outlook (province_code, issued_at DESC);
+
+-- 台風公報の構造化(collector/tcb_parse.py、docs/sources/pagasa-tcb.md)。1 公報 1 行。sha は cyclone_bulletins.sha と同じ。
+-- 時刻は +08:00 の ISO。本文に無い値は NULL(作らない)。par_status は inside / exiting / outside / entering / unknown。
+-- forecast_json は [{"at", "text", "outside_par"}] の JSON。台風が終わっても行は残るので、「いま発令中か」は
+-- issued_at / next_advisory_at と source_status('pagasa-tcb') の note(「発令なし」)で決める。
+CREATE TABLE IF NOT EXISTS cyclone_advisories (
+  sha TEXT PRIMARY KEY, name TEXT, category TEXT, issued_at TEXT, next_advisory_at TEXT, par_status TEXT,
+  headline TEXT, center_lat REAL, center_lon REAL, movement TEXT, max_wind_kmh INTEGER, gust_kmh INTEGER,
+  land_hazards_text TEXT, coastal_text TEXT, forecast_json TEXT
+);
+CREATE INDEX IF NOT EXISTS cyca_issued ON cyclone_advisories (issued_at DESC);
+
+-- 公報ごとの風のシグナル。area は本文の書き方のまま。area_kind:
+--   province = 州全体(Metro Manila は province_code に地域コード 1300000000)
+--   city     = 括弧の中などに名前が出た市町(city_code。当たらなければ NULL)
+--   portion  = 州の一部(「the northern portion of X」「the rest of X」「Babuyan Islands」)。province_code は X
+-- 市町の段階 = その公報で「city_code が一致する行」「province_code が一致する province の行」
+--   「province_code が一致し area が 'the rest of' で始まる portion の行」の signal の最大(書式は実物で未確認)。
+CREATE TABLE IF NOT EXISTS cyclone_signals (
+  sha TEXT, signal INTEGER, area TEXT, area_kind TEXT, province_code TEXT, city_code TEXT,
+  PRIMARY KEY (sha, signal, area)
+) WITHOUT ROWID;
+CREATE INDEX IF NOT EXISTS cycs_prov ON cyclone_signals (province_code, sha);
+CREATE INDEX IF NOT EXISTS cycs_city ON cyclone_signals (city_code, sha);

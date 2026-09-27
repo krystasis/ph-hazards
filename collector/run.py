@@ -6,6 +6,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import sys
 import time
 from datetime import datetime, timedelta, timezone
@@ -134,6 +135,18 @@ def run_regional(now, force) -> tuple[bool, str]:
     return ok, note
 
 
+def save_tcb(page: str, now: datetime) -> tuple[int, int]:
+    """発令中の公報を月のファイルに足す。(発令中の件数, 新しく足した件数) を返す。"""
+    snaps = pagasa_tcb.parse_all(page)
+    if not snaps:
+        return 0, 0
+    path = DATA / "tcb" / f"{now.astimezone(PHT).strftime('%Y-%m')}.jsonl"
+    # 整える前に入った行は sha が本文と合わない(pagasa_tcb.py の説明)。本文そのものでも重なりを見る。
+    have = {json.loads(ln)["text"] for ln in path.read_text(encoding="utf-8").splitlines() if ln.strip()} if path.exists() else set()
+    fresh = [dict(s, fetched_utc=now.isoformat()) for s in snaps if s["text"] not in have]
+    return len(snaps), append_jsonl(path, fresh, "sha")
+
+
 def run_tcb(now, force) -> tuple[bool, str]:
     key, state = pagasa_tcb.KEY, load_state(pagasa_tcb.KEY)
     if in_cooldown(state, now):
@@ -142,13 +155,8 @@ def run_tcb(now, force) -> tuple[bool, str]:
         return True, "not due"
     resp = fetch(key, pagasa_tcb.URL, {}, now)
     ok = "Tropical Cyclone" in resp.text
-    snap = pagasa_tcb.parse(resp.text)
-    fresh = 0
-    if snap:
-        snap["fetched_utc"] = now.isoformat()
-        month = now.astimezone(PHT).strftime("%Y-%m")
-        fresh = append_jsonl(DATA / "tcb" / f"{month}.jsonl", [snap], "sha")
-    note = "発令なし" if not snap else f"公報あり、新規 {fresh} 件"
+    active, fresh = save_tcb(resp.text, now)
+    note = "発令なし" if not active else f"公報あり{f'({active} 件)' if active > 1 else ''}、新規 {fresh} 件"
     _finish(key, state, now, resp, ok, note)
     return ok, note
 

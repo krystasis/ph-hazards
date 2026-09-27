@@ -64,6 +64,11 @@ queries = {
     "州の最新の週間予報(発表時刻だけ)": ("select issued_at from province_outlook where province_code=? order by issued_at desc limit 1", ("1401100000",)),
     "州のその発表の 5 日": ("select * from province_outlook where province_code=? and issued_at=? order by day_index limit 7", ("1401100000", "2026-09-26T09:00:00+08:00")),
     "州の最新の週間予報(1 本)": ("select * from province_outlook where province_code=? order by issued_at desc limit 5", ("1401100000",)),
+    "最新の台風公報": ("select * from cyclone_advisories order by issued_at desc limit 1", ()),
+    "最新の台風公報(複数の台風を並べる)": ("select * from cyclone_advisories order by issued_at desc limit 5", ()),
+    "公報の州のシグナル": ("select signal, area, area_kind from cyclone_signals where province_code=? and sha=?", ("0201500000", "x")),
+    "公報の市町のシグナル": ("select signal, area from cyclone_signals where city_code=? and sha=?", (city, "x")),
+    "公報のシグナル全部": ("select * from cyclone_signals where sha=? order by signal desc", ("x",)),
     "消えた集計行の削除(主キーの OR)": ("delete from city_quake_years where (city_code = ? and year = 2019) or (city_code = ? and year = 2020)", (city, city)),
 }
 for name, (sql, params) in queries.items():

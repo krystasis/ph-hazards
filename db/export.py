@@ -21,6 +21,8 @@ from pathlib import Path
 
 from places.advisory_places import city_codes, extract
 from collector.pagasa_regional import PROVINCE_DAY
+from collector.pagasa_tcb import clean_text as clean_tcb
+from collector.tcb_parse import parse as parse_tcb
 from places.eq_places import resolve
 from places.gazetteer import load as load_gazetteer
 from . import rates
@@ -48,6 +50,10 @@ COLUMNS = {
     "river_levels": ["station_code", "time_pht", "station", "wl_m", "flag", "alert_m", "alarm_m", "critical_m"],
     "volcano_alert": ["volcano", "date_pht", "alert_level"],
     "cyclone_bulletins": ["sha", "fetched_utc", "text"],
+    "cyclone_advisories": ["sha", "name", "category", "issued_at", "next_advisory_at", "par_status", "headline",
+                           "center_lat", "center_lon", "movement", "max_wind_kmh", "gust_kmh", "land_hazards_text",
+                           "coastal_text", "forecast_json"],
+    "cyclone_signals": ["sha", "signal", "area", "area_kind", "province_code", "city_code"],
     "source_status": ["source", "last_ok", "last_fetch", "note"],
 }
 KEYS = {
@@ -58,20 +64,23 @@ KEYS = {
     "city_quake_years": ["city_code", "year"], "city_quake_bands": ["city_code"], "city_quake_months": ["city_code", "month"],
     "daily_quake_counts": ["day"], "regional_outlook": ["region", "issued_at", "day_index"],
     "province_outlook": ["province_code", "issued_at", "day_index"],
+    "cyclone_advisories": ["sha"], "cyclone_signals": ["sha", "signal", "area"],
 }
 NUMERIC = {"lat", "lon", "depth_km", "mag", "distance_km", "total", "m4_plus", "max_mag", "radius_km", "years",
            "n_m3", "n_m4", "n_m5", "m4_per_year", "p30_m4", "p365_m4", "rwl_m", "dev_24h_m",
            "nhwl_m", "dev_nhwl_m", "rule_curve_m", "dev_rule_curve_m", "wl_m", "alert_m", "alarm_m", "critical_m",
-           "alert_level", "year", "n", "lt3", "m3", "m4", "m5", "latest_30d", "latest_30d_max", "day_index", "tmin", "tmax"}
+           "alert_level", "year", "n", "lt3", "m3", "m4", "m5", "latest_30d", "latest_30d_max", "day_index", "tmin", "tmax",
+           "center_lat", "center_lon", "max_wind_kmh", "gust_kmh", "signal"}
 
 # 追記しかされない表は、行ごとのハッシュを持たずに「どこまで送ったか」だけ覚える(manifest を小さく保つ)。
 WATERMARK = {"river_levels": "time_pht", "cyclone_bulletins": "fetched_utc", "advisories": None, "advisory_cities": None}
 # 送る順。新しいデータを過去分の積み残しで待たせないため、小さい表を先に置く(地震はこの後ろ)。
 APPEND_ORDER = ("advisories", "advisory_cities", "river_levels", "cyclone_bulletins")
-ROWHASH_ORDER = ("source_status", "regional_outlook", "province_outlook", "city_quake_stats", "city_quake_rates", "big_quakes", "city_quake_years",
+ROWHASH_ORDER = ("source_status", "cyclone_advisories", "cyclone_signals", "regional_outlook", "province_outlook", "city_quake_stats", "city_quake_rates", "big_quakes", "city_quake_years",
                  "city_quake_bands", "city_quake_months", "daily_quake_counts", "dam_levels", "flood_watch", "volcano_alert")
 # 集計の表は、元の地震の付け替え(aliases.json の追加など)で行が消えることがある。manifest にあって今回無い行は D1 からも消す。
-DELETE_GONE = {"city_quake_years", "city_quake_bands", "city_quake_months"}
+# 台風の 2 表も、解析の直しで行が消えることがある(シグナルの読み違いを直したときなど)。
+DELETE_GONE = {"city_quake_years", "city_quake_bands", "city_quake_months", "cyclone_advisories", "cyclone_signals"}
 MONTHS_KEPT = 24   # city_quake_months は最新の地震の月から数えて 24 か月ぶんだけ持つ
 BANDS_DAYS = 30    # city_quake_bands.latest_30d の窓
 RECENT_MONTHS = 2  # 地震は直近 2 か月だけ行ごとに比べ、それより古い月は月の要約で比べる
@@ -192,7 +201,32 @@ def build(data: Path, state: Path | None = None) -> dict[str, dict[tuple, dict]]
                 if table in WATERMARK:
                     row["_wm"] = row[WATERMARK[table]]
                 t[table][tuple(row[k] for k in KEYS[table])] = row
+    cyclone_tables(data, t)
     return t
+
+
+def cyclone_tables(data: Path, t: dict) -> None:
+    """data/tcb → cyclone_advisories / cyclone_signals。
+
+    本文が同じ公報(月をまたいで取り直した物など)は、先に取れた行の sha だけを使う。
+    """
+    seen: set[str] = set()
+    rows = [r for f in sorted((data / "tcb").glob("*.jsonl")) for r in _jsonl(f)]
+    for r in sorted(rows, key=lambda r: r.get("fetched_utc", "")):
+        text = clean_tcb(r["text"])
+        if text in seen:
+            continue
+        seen.add(text)
+        a = parse_tcb(text)
+        sha = r["sha"]
+        row = {c: _s(a.get(c)) for c in COLUMNS["cyclone_advisories"] if c not in ("sha", "forecast_json")}
+        row["sha"] = sha
+        row["forecast_json"] = json.dumps(a["forecast_positions"], ensure_ascii=False) if a["forecast_positions"] else ""
+        t["cyclone_advisories"][(sha,)] = row
+        for sg in a["signals"]:
+            srow = {"sha": sha, "signal": str(sg["signal"]), "area": sg["area"], "area_kind": sg["area_kind"],
+                    "province_code": sg["province_code"] or "", "city_code": sg["city_code"] or ""}
+            t["cyclone_signals"][(sha, srow["signal"], srow["area"])] = srow
 
 
 def outlook_place(name: str, gaz=None) -> str:
