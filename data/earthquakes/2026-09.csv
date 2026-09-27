@@ -1637,7 +1637,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260926T2319_6.73_125.77,2026-09-26T23:19:00+08:00,6.73,125.77,30.0,1.7,035 km N 78° W of Governor Generoso (Davao Oriental),2026_Earthquake_Information/September/2026_0926_1519_B1.html
 20260926T2324_16.86_120.4,2026-09-26T23:24:00+08:00,16.86,120.4,30.0,2.1,003 km N 77° E of Luna (La Union),2026_Earthquake_Information/September/2026_0926_1524_B1.html
 20260926T2326_5.8_126.34,2026-09-26T23:26:00+08:00,5.8,126.34,131.0,2.0,078 km S 80° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/September/2026_0926_1526_B1.html
-20260927T0003_14.18_124.57,2026-09-27T00:03:00+08:00,14.18,124.57,10.0,1.7,040 km N 48° E of Bagamanoc (Catanduanes),2026_Earthquake_Information/September/2026_0926_1603_B1.html
+20260927T0003_14.02_124.55,2026-09-27T00:03:00+08:00,14.02,124.55,13.0,1.8,029 km N 72° E of Bagamanoc (Catanduanes),2026_Earthquake_Information/September/2026_0926_1603_B2.html
 20260927T0004_7.7_126.39,2026-09-27T00:04:00+08:00,7.7,126.39,21.0,2.0,012 km S 37° W of Cateel (Davao Oriental),2026_Earthquake_Information/September/2026_0926_1604_B1.html
 20260927T0011_6.35_126.77,2026-09-27T00:11:00+08:00,6.35,126.77,55.0,2.7,084 km S 67° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/September/2026_0926_1611_B1.html
 20260927T0043_12.52_124.39,2026-09-27T00:43:00+08:00,12.52,124.39,124.0,2.6,003 km S 81° W of Rosario (Northern Samar),2026_Earthquake_Information/September/2026_0926_1643_B1.html
@@ -1722,3 +1722,9 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260927T2107_13.66_120.64,2026-09-27T21:07:00+08:00,13.66,120.64,111.0,1.5,019 km S 03° E of Calatagan (Batangas),2026_Earthquake_Information/September/2026_0927_1307_B1.html
 20260927T2117_10.84_123.96,2026-09-27T21:17:00+08:00,10.84,123.96,1.0,2.4,008 km N 87° W of Borbon (Cebu),2026_Earthquake_Information/September/2026_0927_1317_B1.html
 20260927T2118_6.59_125.74,2026-09-27T21:18:00+08:00,6.59,125.74,61.0,1.6,024 km N 36° E of Malita (Davao Occidental),2026_Earthquake_Information/September/2026_0927_1318_B1.html
+20260927T2236_10.46_123.19,2026-09-27T22:36:00+08:00,10.46,123.19,5.0,1.9,009 km N 19° W of City Of Canlaon (Negros Oriental),2026_Earthquake_Information/September/2026_0927_1436_B1.html
+20260927T2239_16.14_121.62,2026-09-27T22:39:00+08:00,16.14,121.62,32.0,1.5,010 km S 06° E of Nagtipunan (Quirino),2026_Earthquake_Information/September/2026_0927_1439_B1.html
+20260927T2242_20.21_120.57,2026-09-27T22:42:00+08:00,20.21,120.57,27.0,3.1,137 km S 84° W of Sabtang (Batanes),2026_Earthquake_Information/September/2026_0927_1442_B1.html
+20260927T2247_10.95_123.88,2026-09-27T22:47:00+08:00,10.95,123.88,19.0,1.9,015 km S 45° W of City Of Bogo (Cebu),2026_Earthquake_Information/September/2026_0927_1447_B1F.html
+20260927T2249_15.56_120.03,2026-09-27T22:49:00+08:00,15.56,120.03,21.0,1.8,008 km N 71° E of Masinloc (Zambales),2026_Earthquake_Information/September/2026_0927_1449_B1.html
+20260927T2301_6.71_126.26,2026-09-27T23:01:00+08:00,6.71,126.26,32.0,1.7,022 km N 75° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/September/2026_0927_1501_B1.html
