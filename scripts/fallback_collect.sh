@@ -155,11 +155,24 @@ if ! git push -q; then
 fi
 log "push した"
 
-# --- DB 送信のフック(未実装・無効) ----------------------------------------
-# D1 への送信はここに入る。別の担当が db/ 側を作っている最中なので、**まだ呼ばない**。
-# 有効にするときは 1 行のコメントを外し、失敗しても収集は完走扱いにする(D1 は写しで作り直せる)。
-#   python3 -m db.send data || log "⚠ db.send が失敗した(次回に持ち越す)"
-# ---------------------------------------------------------------------------
+# --- D1 への送信 ------------------------------------------------------------
+# 正(Actions)と同じ物を、同じ予算(state/d1-usage.json は commit されているので両者で共有)で送る。
+# 資格情報はリポジトリの外(~/.config/ph-hazards/d1.env、CLOUDFLARE_API_TOKEN / CLOUDFLARE_ACCOUNT_ID / D1_DATABASE_ID)。
+# 無ければ何もしない。失敗しても収集は完走扱い(D1 は写しで、次の回が送り直す)。
+D1_ENV="$HOME/.config/ph-hazards/d1.env"
+if [ -r "$D1_ENV" ]; then
+  set -a; . "$D1_ENV"; set +a
+  if python3 -m db.send data; then
+    git add state/d1-manifest.json state/d1-usage.json 2>/dev/null
+    if ! git diff --cached --quiet; then
+      git "${BOT[@]}" commit -q -m "d1: $(date -u +%Y-%m-%dT%H:%MZ) (mac fallback)" \
+        && { git "${BOT[@]}" pull -q --rebase && git push -q || log "⚠ d1 state の push に失敗(次回に持ち越す)"; }
+    fi
+  else
+    log "⚠ db.send が失敗した(次回に持ち越す)"
+    git checkout -q -- state/d1-manifest.json state/d1-usage.json 2>/dev/null || true
+  fi
+fi
 
 touch "logs/stamps/$JOB-$(date +%Y-%m-%d)"
 log "== done"

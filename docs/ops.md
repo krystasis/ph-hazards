@@ -163,3 +163,9 @@ docs.github.com「Events that trigger workflows」で確認した(2026-09-21 に
 
 切り分けは `gh run list --workflow collect.yml -L 50` で `schedule` の行が何分おきに出ているかを見る。
 数日ぶんたまったら、ここに実測を書き足す。
+
+## D1 への送信(予備側、2026-09-27 追加)
+
+- 予備も、正(Actions)と同じ `python3 -m db.send data` で D1 に送る。予算(1 日の書き込み行数)は `state/d1-usage.json` がコミットされて共有されるので、両方が走っても合計で守られる。
+- 資格情報は `~/.config/ph-hazards/d1.env`(`CLOUDFLARE_API_TOKEN` / `CLOUDFLARE_ACCOUNT_ID` / `D1_DATABASE_ID`、`chmod 600`)。無ければ送らない。
+- 正の GitHub の定期実行は数時間遅れることがあり、予備だけが動いている時間帯はサイトの D1 が古くなる。それを防ぐための追加。

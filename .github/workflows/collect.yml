@@ -48,6 +48,7 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           D1_DATABASE_ID: ${{ secrets.D1_DATABASE_ID }}
+          D1_DAILY_BUDGET: "50000"   # 同じアカウントの opsboard の分を残す。過去分の投入が終わったら 60000 に戻してよい
         run: python3 -m db.send data
 
       # 送れたところまでの manifest と、その日に書いた行数。次の回がここから続ける。
