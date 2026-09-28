@@ -1724,7 +1724,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260927T2118_6.59_125.74,2026-09-27T21:18:00+08:00,6.59,125.74,61.0,1.6,024 km N 36° E of Malita (Davao Occidental),2026_Earthquake_Information/September/2026_0927_1318_B1.html
 20260927T2236_10.46_123.2,2026-09-27T22:36:00+08:00,10.46,123.2,4.0,2.4,008 km N 13 W of City Of Canlaon (Negros Oriental),2026_Earthquake_Information/September/2026_0927_1436_B2.html
 20260927T2239_16.14_121.62,2026-09-27T22:39:00+08:00,16.14,121.62,32.0,1.5,010 km S 06° E of Nagtipunan (Quirino),2026_Earthquake_Information/September/2026_0927_1439_B1.html
-20260927T2242_20.21_120.57,2026-09-27T22:42:00+08:00,20.21,120.57,27.0,3.1,137 km S 84° W of Sabtang (Batanes),2026_Earthquake_Information/September/2026_0927_1442_B1.html
+20260927T2242_20.15_120.55,2026-09-27T22:42:00+08:00,20.15,120.55,28.0,3.5,140 km S 82° W of Sabtang (Batanes),2026_Earthquake_Information/September/2026_0927_1442_B2.html
 20260927T2247_10.95_123.88,2026-09-27T22:47:00+08:00,10.95,123.88,19.0,1.9,015 km S 45° W of City Of Bogo (Cebu),2026_Earthquake_Information/September/2026_0927_1447_B1F.html
 20260927T2249_15.56_120.03,2026-09-27T22:49:00+08:00,15.56,120.03,21.0,1.8,008 km N 71° E of Masinloc (Zambales),2026_Earthquake_Information/September/2026_0927_1449_B1.html
 20260927T2301_6.71_126.26,2026-09-27T23:01:00+08:00,6.71,126.26,32.0,1.7,022 km N 75° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/September/2026_0927_1501_B1.html
@@ -1780,3 +1780,5 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260928T1543_15.12_122.46,2026-09-28T15:43:00+08:00,15.12,122.46,33.0,2.7,049 km N 16° E of Jomalig (Quezon),2026_Earthquake_Information/September/2026_0928_0743_B1.html
 20260928T1557_9.08_125.59,2026-09-28T15:57:00+08:00,9.08,125.59,27.0,2.0,003 km N 11° E of Remedios T. Romualdez (Agusan Del Norte),2026_Earthquake_Information/September/2026_0928_0757_B1.html
 20260928T1616_10.14_126.57,2026-09-28T16:16:00+08:00,10.14,126.57,12.0,3.7,056 km N 76° E of Burgos (Surigao Del Norte),2026_Earthquake_Information/September/2026_0928_0816_B1.html
+20260928T1626_9.49_126.17,2026-09-28T16:26:00+08:00,9.49,126.17,16.0,1.8,023 km N 05° W of Cortes (Surigao Del Sur),2026_Earthquake_Information/September/2026_0928_0826_B1.html
+20260928T1705_9.7_125.92,2026-09-28T17:05:00+08:00,9.7,125.92,67.0,2.5,010 km N 29° W of Socorro (Surigao Del Norte),2026_Earthquake_Information/September/2026_0928_0905_B1.html
