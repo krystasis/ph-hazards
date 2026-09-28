@@ -1685,8 +1685,8 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260927T1159_10.93_124.83,2026-09-27T11:59:00+08:00,10.93,124.83,9.0,2.0,009 km S 55° W of Burauen (Leyte),2026_Earthquake_Information/September/2026_0927_0359_B1.html
 20260927T1209_12.76_123.12,2026-09-27T12:09:00+08:00,12.76,123.12,30.0,1.5,021 km S 42° W of Claveria (Masbate),2026_Earthquake_Information/September/2026_0927_0409_B1.html
 20260927T1211_7.89_126.86,2026-09-27T12:11:00+08:00,7.89,126.86,15.0,2.3,046 km N 76° E of Cateel (Davao Oriental),2026_Earthquake_Information/September/2026_0927_0411_B1.html
-20260927T1220_21.67_121.11,2026-09-27T12:20:00+08:00,21.67,121.11,15.0,3.4,123 km N 38° W of Itbayat (Batanes),2026_Earthquake_Information/September/2026_0927_0420_B1.html
-20260927T1242_11.3_124.58,2026-09-27T12:42:00+08:00,11.3,124.58,8.0,2.5,007 km N 88° W of Capoocan (Leyte),2026_Earthquake_Information/September/2026_0927_0442_B1.html
+20260927T1220_21.84_121.69,2026-09-27T12:20:00+08:00,21.84,121.69,117.0,3.5,117 km N 08° W of Itbayat (Batanes),2026_Earthquake_Information/September/2026_0927_0420_B2.html
+20260927T1242_11.3_124.6,2026-09-27T12:42:00+08:00,11.3,124.6,5.0,2.6,007 km N 75° W of Capoocan (Leyte),2026_Earthquake_Information/September/2026_0927_0442_B2.html
 20260927T1245_10.25_123.13,2026-09-27T12:45:00+08:00,10.25,123.13,9.0,2.8,007 km S 72° E of Moises Padilla (Negros Occidental),2026_Earthquake_Information/September/2026_0927_0445_B2.html
 20260927T1306_6.74_124.58,2026-09-27T13:06:00+08:00,6.74,124.58,25.0,2.5,007 km N 70° E of Esperanza (Sultan Kudarat),2026_Earthquake_Information/September/2026_0927_0506_B1.html
 20260927T1311_12.68_124.4,2026-09-27T13:11:00+08:00,12.68,124.4,35.0,1.6,004 km S 83° E of Biri (Northern Samar),2026_Earthquake_Information/September/2026_0927_0511_B1.html
@@ -1772,3 +1772,5 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260928T0910_4.26_127.26,2026-09-28T09:10:00+08:00,4.26,127.26,15.0,3.1,238 km S 56° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/September/2026_0928_0110_B1.html
 20260928T0932_7.62_126.6,2026-09-28T09:32:00+08:00,7.62,126.6,23.0,3.0,006 km N 39° E of Baganga (Davao Oriental),2026_Earthquake_Information/September/2026_0928_0132_B1.html
 20260928T0934_9.04_126.47,2026-09-28T09:34:00+08:00,9.04,126.47,28.0,2.6,021 km N 69° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/September/2026_0928_0134_B1.html
+20260928T1043_13.76_123.41,2026-09-28T10:43:00+08:00,13.76,123.41,16.0,2.4,010 km N 45° W of Goa (Camarines Sur),2026_Earthquake_Information/September/2026_0928_0243_B1.html
+20260928T1118_6.39_123.7,2026-09-28T11:18:00+08:00,6.39,123.7,20.0,3.0,042 km S 65° W of Kalamansig (Sultan Kudarat),2026_Earthquake_Information/September/2026_0928_0318_B1F.html
