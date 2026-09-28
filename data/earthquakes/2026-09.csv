@@ -1692,7 +1692,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260927T1311_12.68_124.4,2026-09-27T13:11:00+08:00,12.68,124.4,35.0,1.6,004 km S 83° E of Biri (Northern Samar),2026_Earthquake_Information/September/2026_0927_0511_B1.html
 20260927T1316_10.28_123.12,2026-09-27T13:16:00+08:00,10.28,123.12,11.0,1.8,005 km N 72° E of Moises Padilla (Negros Occidental),2026_Earthquake_Information/September/2026_0927_0516_B2.html
 20260927T1345_6.74_124.69,2026-09-27T13:45:00+08:00,6.74,124.69,3.0,2.1,006 km N 21° E of City Of Tacurong (Sultan Kudarat),2026_Earthquake_Information/September/2026_0927_0545_B2.html
-20260927T1425_10.01_123.21,2026-09-27T14:25:00+08:00,10.01,123.21,7.0,2.8,003 km S 64° W of La Libertad (Negros Oriental),2026_Earthquake_Information/September/2026_0927_0625_B1.html
+20260927T1425_9.99_123.22,2026-09-27T14:25:00+08:00,9.99,123.22,4.0,2.7,004 km S 24° W of La Libertad (Negros Oriental),2026_Earthquake_Information/September/2026_0927_0625_B2.html
 20260927T1434_16.42_121.32,2026-09-27T14:34:00+08:00,16.42,121.32,33.0,1.5,010 km S 36° E of Quezon (Nueva Vizcaya),2026_Earthquake_Information/September/2026_0927_0634_B1.html
 20260927T1450_20.24_120.57,2026-09-27T14:50:00+08:00,20.24,120.57,18.0,3.0,136 km S 85° W of Sabtang (Batanes),2026_Earthquake_Information/September/2026_0927_0650_B1.html
 20260927T1511_10.93_123.98,2026-09-27T15:11:00+08:00,10.93,123.98,7.0,2.0,013 km S 01° W of City Of Bogo (Cebu),2026_Earthquake_Information/September/2026_0927_0711_B2F.html
@@ -1775,3 +1775,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260928T1043_13.76_123.41,2026-09-28T10:43:00+08:00,13.76,123.41,16.0,2.4,010 km N 45° W of Goa (Camarines Sur),2026_Earthquake_Information/September/2026_0928_0243_B1.html
 20260928T1118_6.39_123.7,2026-09-28T11:18:00+08:00,6.39,123.7,20.0,3.0,042 km S 65° W of Kalamansig (Sultan Kudarat),2026_Earthquake_Information/September/2026_0928_0318_B1F.html
 20260928T1212_18.42_120.51,2026-09-28T12:12:00+08:00,18.42,120.51,21.0,2.0,015 km N 51° W of Pasuquin (Ilocos Norte),2026_Earthquake_Information/September/2026_0928_0412_B1.html
+20260928T1442_8.45_125.74,2026-09-28T14:42:00+08:00,8.45,125.74,23.0,2.5,005 km N 85° W of Talacogon (Agusan Del Sur),2026_Earthquake_Information/September/2026_0928_0642_B1.html
