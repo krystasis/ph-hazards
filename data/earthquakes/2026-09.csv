@@ -1839,12 +1839,12 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260929T0916_5.58_125.24,2026-09-29T09:16:00+08:00,5.58,125.24,21.0,1.7,027 km S 07° E of Glan (Sarangani),2026_Earthquake_Information/September/2026_0929_0116_B1F.html
 20260929T0934_12.55_125.84,2026-09-29T09:34:00+08:00,12.55,125.84,32.0,1.9,055 km N 42° E of San Policarpo (Eastern Samar),2026_Earthquake_Information/September/2026_0929_0134_B1.html
 20260929T0954_19.22_121.47,2026-09-29T09:54:00+08:00,19.22,121.47,10.0,1.7,004 km S 01° W of Calayan (Cagayan),2026_Earthquake_Information/September/2026_0929_0154_B1.html
-20260929T1016_12.96_123.08,2026-09-29T10:16:00+08:00,12.96,123.08,8.0,1.8,019 km N 70° W of Claveria (Masbate),2026_Earthquake_Information/September/2026_0929_0216_B1.html
-20260929T1025_7.31_121.51,2026-09-29T10:25:00+08:00,7.31,121.51,30.0,2.7,062 km N 89° W of Sibuco (Zamboanga Del Norte),2026_Earthquake_Information/September/2026_0929_0225_B1.html
+20260929T1016_12.88_123.01,2026-09-29T10:16:00+08:00,12.88,123.01,13.0,2.0,026 km S 86° W of Claveria (Masbate),2026_Earthquake_Information/September/2026_0929_0216_B2.html
+20260929T1025_7.29_121.53,2026-09-29T10:25:00+08:00,7.29,121.53,16.0,2.7,059 km S 90° W of Sibuco (Zamboanga Del Norte),2026_Earthquake_Information/September/2026_0929_0225_B2.html
 20260929T1112_13.14_120.92,2026-09-29T11:12:00+08:00,13.14,120.92,29.0,1.6,023 km N 75° E of Santa Cruz (Occidental Mindoro),2026_Earthquake_Information/September/2026_0929_0312_B1.html
-20260929T1128_5.88_125.32,2026-09-29T11:28:00+08:00,5.88,125.32,11.0,1.7,011 km S 19° E of Malapatan (Sarangani),2026_Earthquake_Information/September/2026_0929_0328_B1F.html
-20260929T1254_15.53_119.86,2026-09-29T12:54:00+08:00,15.53,119.86,18.0,1.5,010 km N 89° W of Masinloc (Zambales),2026_Earthquake_Information/September/2026_0929_0454_B1.html
-20260929T1317_13.74_120.24,2026-09-29T13:17:00+08:00,13.74,120.24,68.0,2.0,002 km N 26° W of Looc (Occidental Mindoro),2026_Earthquake_Information/September/2026_0929_0517_B1.html
+20260929T1128_5.77_125.32,2026-09-29T11:28:00+08:00,5.77,125.32,5.0,2.0,014 km S 65° E of Glan (Sarangani),2026_Earthquake_Information/September/2026_0929_0328_B2F.html
+20260929T1254_15.58_119.71,2026-09-29T12:54:00+08:00,15.58,119.71,30.0,1.5,024 km S 77° W of Candelaria (Zambales),2026_Earthquake_Information/September/2026_0929_0454_B2.html
+20260929T1317_13.91_120.43,2026-09-29T13:17:00+08:00,13.91,120.43,77.0,2.0,024 km N 70° W of Calatagan (Batangas),2026_Earthquake_Information/September/2026_0929_0517_B2.html
 20260929T1334_7.73_126.6,2026-09-29T13:34:00+08:00,7.73,126.6,22.0,1.9,017 km N 14° E of Baganga (Davao Oriental),2026_Earthquake_Information/September/2026_0929_0534_B1.html
 20260929T1400_9.64_126.24,2026-09-29T14:00:00+08:00,9.64,126.24,32.0,1.8,018 km S 29° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/September/2026_0929_0600_B1.html
 20260929T1419_17.75_121.01,2026-09-29T14:19:00+08:00,17.75,121.01,20.0,1.6,011 km N 37° E of Lacub (Abra),2026_Earthquake_Information/September/2026_0929_0619_B1.html
@@ -1913,3 +1913,8 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20260930T0651_5.69_126.32,2026-09-30T06:51:00+08:00,5.69,126.32,10.0,2.4,079 km S 72° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/September/2026_0929_2251_B1.html
 20260930T0656_5.34_125.22,2026-09-30T06:56:00+08:00,5.34,125.22,32.0,3.1,024 km S 70° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/September/2026_0929_2256_B1F.html
 20260930T0712_12.84_124.87,2026-09-30T07:12:00+08:00,12.84,124.87,5.0,2.7,031 km N 10° W of Pambujan (Northern Samar),2026_Earthquake_Information/September/2026_0929_2312_B1.html
+20260930T0755_6.42_124.03,2026-09-30T07:55:00+08:00,6.42,124.03,9.0,1.6,016 km S 08° W of Kalamansig (Sultan Kudarat),2026_Earthquake_Information/September/2026_0929_2355_B1.html
+20260930T0756_4.83_125.64,2026-09-30T07:56:00+08:00,4.83,125.64,10.0,2.4,067 km S 21° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/September/2026_0929_2356_B1F.html
+20260930T0758_7.68_124.72,2026-09-30T07:58:00+08:00,7.68,124.72,31.0,1.5,004 km N 07° W of Wao (Lanao Del Sur),2026_Earthquake_Information/September/2026_0929_2358_B1.html
+20260930T0934_13.19_120.38,2026-09-30T09:34:00+08:00,13.19,120.38,10.0,5.0,023 km S 80° W of Mamburao (Occidental Mindoro),2026_Earthquake_Information/September/2026_0930_013408_B1.html
+20260930T0955_13.21_120.32,2026-09-30T09:55:00+08:00,13.21,120.32,25.0,2.4,027 km S 34° W of Paluan (Occidental Mindoro),2026_Earthquake_Information/September/2026_0930_0155_B1.html
