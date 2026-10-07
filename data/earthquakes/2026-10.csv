@@ -376,13 +376,13 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261006T0954_12.12_125.09,2026-10-06T09:54:00+08:00,12.12,125.09,34.0,2.5,010 km N 48° E of San Jose De Buan (Samar),2026_Earthquake_Information/October/2026_1006_0154_B2.html
 20261006T1028_5.64_125.33,2026-10-06T10:28:00+08:00,5.64,125.33,28.0,2.0,027 km N 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1006_0228_B1F.html
 20261006T1042_5.61_125.28,2026-10-06T10:42:00+08:00,5.61,125.28,29.0,1.8,025 km S 20° E of Glan (Sarangani),2026_Earthquake_Information/October/2026_1006_0242_B1F.html
-20261006T1123_12.13_125.08,2026-10-06T11:23:00+08:00,12.13,125.08,41.0,1.7,010 km N 36° E of San Jose De Buan (Samar),2026_Earthquake_Information/October/2026_1006_0323_B1.html
+20261006T1123_12.1_125.1,2026-10-06T11:23:00+08:00,12.1,125.1,32.0,1.6,010 km N 61° E of San Jose De Buan (Samar),2026_Earthquake_Information/October/2026_1006_0323_B2.html
 20261006T1155_5.34_125.19,2026-10-06T11:55:00+08:00,5.34,125.19,29.0,1.8,027 km S 74° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1006_0355_B1F.html
-20261006T1242_9.52_123.07,2026-10-06T12:42:00+08:00,9.52,123.07,4.0,2.1,008 km N 47° W of Pamplona (Negros Oriental),2026_Earthquake_Information/October/2026_1006_0442_B1.html
-20261006T1312_18.73_120.77,2026-10-06T13:12:00+08:00,18.73,120.77,28.0,3.3,019 km N 05° W of Pagudpud (Ilocos Norte),2026_Earthquake_Information/October/2026_1006_0512_B1F.html
-20261006T1614_6.91_123.93,2026-10-06T16:14:00+08:00,6.91,123.93,20.0,2.5,020 km S 28° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),2026_Earthquake_Information/October/2026_1006_0814_B1.html
-20261006T1631_9.35_122.18,2026-10-06T16:31:00+08:00,9.35,122.18,18.0,2.9,042 km S 48° W of Hinoba-an (Negros Occidental),2026_Earthquake_Information/October/2026_1006_0831_B1.html
-20261006T1645_11.59_124.78,2026-10-06T16:45:00+08:00,11.59,124.78,18.0,2.0,005 km S 22° W of Daram (Samar),2026_Earthquake_Information/October/2026_1006_0845_B1.html
+20261006T1242_9.57_123.04,2026-10-06T12:42:00+08:00,9.57,123.04,6.0,2.2,010 km S 75° W of City Of Bais (Negros Oriental),2026_Earthquake_Information/October/2026_1006_0442_B2.html
+20261006T1312_18.75_120.72,2026-10-06T13:12:00+08:00,18.75,120.72,16.0,3.3,022 km N 19° W of Pagudpud (Ilocos Norte),2026_Earthquake_Information/October/2026_1006_0512_B2F.html
+20261006T1614_6.91_123.94,2026-10-06T16:14:00+08:00,6.91,123.94,19.0,2.5,020 km S 27° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),2026_Earthquake_Information/October/2026_1006_0814_B2.html
+20261006T1631_9.34_122.15,2026-10-06T16:31:00+08:00,9.34,122.15,24.0,2.9,045 km S 50° W of Hinoba-an (Negros Occidental),2026_Earthquake_Information/October/2026_1006_0831_B2.html
+20261006T1645_11.59_124.8,2026-10-06T16:45:00+08:00,11.59,124.8,18.0,2.2,006 km S 08° E of Daram (Samar),2026_Earthquake_Information/October/2026_1006_0845_B2.html
 20261006T1652_9.65_126.09,2026-10-06T16:52:00+08:00,9.65,126.09,21.0,2.2,013 km S 17° E of Dapa (Surigao Del Norte),2026_Earthquake_Information/October/2026_1006_0852_B1.html
 20261006T1725_17.14_120.36,2026-10-06T17:25:00+08:00,17.14,120.36,18.0,1.7,009 km S 73° W of City Of Candon (Ilocos Sur),2026_Earthquake_Information/October/2026_1006_0925_B1.html
 20261006T1809_5.02_125.44,2026-10-06T18:09:00+08:00,5.02,125.44,2.0,1.9,043 km S 03° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1006_1009_B1F.html
@@ -434,3 +434,16 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261007T0616_12.62_121.78,2026-10-07T06:16:00+08:00,12.62,121.78,34.0,1.5,029 km N 83° E of Roxas (Oriental Mindoro),2026_Earthquake_Information/October/2026_1006_2216_B1.html
 20261007T0624_11.51_126.27,2026-10-07T06:24:00+08:00,11.51,126.27,2.0,2.9,073 km N 75° E of Hernani (Eastern Samar),2026_Earthquake_Information/October/2026_1006_2224_B1.html
 20261007T0713_10.79_124.94,2026-10-07T07:13:00+08:00,10.79,124.94,29.0,1.3,001 km S 18° E of Javier (Leyte),2026_Earthquake_Information/October/2026_1006_2313_B1.html
+20261007T0757_7.93_123.12,2026-10-07T07:57:00+08:00,7.93,123.12,32.0,1.5,009 km N 29° E of Lakewood (Zamboanga Del Sur),2026_Earthquake_Information/October/2026_1006_2357_B1.html
+20261007T0806_5.83_125.3,2026-10-07T08:06:00+08:00,5.83,125.3,16.0,1.9,011 km N 85° E of Glan (Sarangani),2026_Earthquake_Information/October/2026_1007_0006_B1F.html
+20261007T0823_16.48_120.56,2026-10-07T08:23:00+08:00,16.48,120.56,17.0,2.9,005 km N 46° W of La Trinidad (Benguet),2026_Earthquake_Information/October/2026_1007_0023_B1.html
+20261007T0824_10.46_123.1,2026-10-07T08:24:00+08:00,10.46,123.1,3.0,2.0,016 km N 58° W of City Of Canlaon (Negros Oriental),2026_Earthquake_Information/October/2026_1007_0024_B2.html
+20261007T0839_4.2_127.0,2026-10-07T08:39:00+08:00,4.2,127.0,18.0,3.7,221 km S 53° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1007_0039_B1.html
+20261007T0843_15.53_119.64,2026-10-07T08:43:00+08:00,15.53,119.64,14.0,3.4,031 km N 70° W of Palauig (Zambales),2026_Earthquake_Information/October/2026_1007_0043_B1.html
+20261007T0913_5.38_125.27,2026-10-07T09:13:00+08:00,5.38,125.27,31.0,1.7,017 km S 77° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1007_0113_B1F.html
+20261007T1051_9.64_126.18,2026-10-07T10:51:00+08:00,9.64,126.18,34.0,1.5,016 km S 08° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/October/2026_1007_0251_B1.html
+20261007T1102_11.18_124.09,2026-10-07T11:02:00+08:00,11.18,124.09,8.0,3.5,019 km N 38° E of City Of Bogo (Cebu),2026_Earthquake_Information/October/2026_1007_0302_B2F.html
+20261007T1116_12.6_121.78,2026-10-07T11:16:00+08:00,12.6,121.78,31.0,1.5,027 km N 70° W of San Andres (Romblon),2026_Earthquake_Information/October/2026_1007_0316_B1.html
+20261007T1238_6.56_126.47,2026-10-07T12:38:00+08:00,6.56,126.47,33.0,2.7,045 km S 77° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/October/2026_1007_0438_B1.html
+20261007T1246_19.27_121.47,2026-10-07T12:46:00+08:00,19.27,121.47,17.0,1.6,001 km N 25° W of Calayan (Cagayan),2026_Earthquake_Information/October/2026_1007_0446_B1.html
+20261007T1306_17.86_120.7,2026-10-07T13:06:00+08:00,17.86,120.7,7.0,1.7,007 km S 36° E of Nueva Era (Ilocos Norte),2026_Earthquake_Information/October/2026_1007_0506_B1.html
