@@ -5,7 +5,7 @@
 	<key>Label</key>
 	<string>com.kazuki.ph_hazards.fallback</string>
 	<key>Comment</key>
-	<string>収集の予備(実質の正)。登録上の正は GitHub Actions だが実測 1 日 4〜7 回しか発火しないので、15 分おきに起動して origin/main の state を見て、20 分以上成功していなければこの Mac が 1 回収集して data/state を push し、D1 へも送る。Actions が動いた直後は何もしない。rebase の衝突は自分のコミットを捨てて抜ける。3 時間収集できなければ通知。失敗時は logs/launchd-fallback.log と docs/ops.md を見る</string>
+	<string>収集の予備(実質の正)。登録上の正は GitHub Actions だが実測 1 日 4〜7 回しか発火しないので、15 分おきに起動して origin/main の state を見て、10 分以上成功していなければこの Mac が 1 回収集して data/state を push し、D1 へも送る。Actions が動いた直後は何もしない。rebase の衝突は自分のコミットを捨てて抜ける。3 時間収集できなければ通知。失敗時は logs/launchd-fallback.log と docs/ops.md を見る</string>
 	<key>ProgramArguments</key>
 	<array>
 		<string>/bin/bash</string>

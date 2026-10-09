@@ -18,7 +18,7 @@
 set -uo pipefail
 cd "$(dirname "$0")/.." || exit 2
 JOB=fallback
-FRESH_MIN=20                                            # origin/main がこの分数以内に成功していれば見送る
+FRESH_MIN=10                                            # origin/main がこの分数以内に成功していれば見送る。15 分の起動間隔より短くしないと 1 回おきに見送って 30 分間隔になる。取得元への間隔は collector 側の 14 分が守る
 STUCK_MIN=180                                           # 古いのに収集できない状態がこの分数続いたら macOS 通知
 FAST_KEYS=(phivolcs-eq pagasa-regional pagasa-ffws)      # 15 分間隔の取得元。判定はこの 3 つだけで行う
 BOT=(-c user.name=ph-hazards-bot -c user.email=actions@users.noreply.github.com)  # 持ち主のメールを出さない
