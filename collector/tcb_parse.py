@@ -114,6 +114,16 @@ def par_status(headline: str | None, center_text: str | None, outlook: str | Non
     return "unknown"
 
 
+def not_bulletin(a: dict) -> str | None:
+    """parse() の結果が公報として成立していなければ理由を返す(成立していれば None)。収集が保存の前に使う。
+
+    公報の本文は必ず題(「Typhoon "Queenie"」)と発表時刻(「Issued at …」)で始まる(2026-09 の実物 14 件すべて)。
+    発令が終わった後のページは過去の PDF の一覧(「TCB#1_queenie.pdf」…)だけになり、どちらも無い。
+    """
+    missing = [k for k in ("name", "issued_at") if not a.get(k)]
+    return f"公報の題・発表時刻が無い({' / '.join(missing)})" if missing else None
+
+
 def parse(text: str, gaz: Gazetteer | None = None) -> dict:
     text = clean_text(text)
     out: dict = {k: None for k in ("name", "category", "issued_at", "next_advisory_at", "headline", "par_status",

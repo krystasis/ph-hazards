@@ -135,9 +135,21 @@ def run_regional(now, force) -> tuple[bool, str]:
     return ok, note
 
 
-def save_tcb(page: str, now: datetime, stored: list[dict] | None = None) -> tuple[int, int]:
-    """発令中の公報を月のファイルに足す。(発令中の件数, 新しく足した件数) を返す。stored を渡すと足した行をそこへ入れる。"""
-    snaps = pagasa_tcb.parse_all(page)
+def save_tcb(page: str, now: datetime, stored: list[dict] | None = None,
+             rejected: list[str] | None = None) -> tuple[int, int]:
+    """発令中の公報を月のファイルに足す。(発令中の件数, 新しく足した件数) を返す。stored を渡すと足した行をそこへ入れる。
+
+    公報として成立していない本文(発令終了後の PDF の一覧など。tcb_parse.not_bulletin)は保存せず、数にも入れない
+    (「発令なし」と同じ扱い)。rejected を渡すと、はじいた理由をそこへ入れる。
+    """
+    snaps = []
+    for s in pagasa_tcb.parse_all(page):
+        why = tcb_parse.not_bulletin(tcb_parse.parse(s["text"]))
+        if why:
+            if rejected is not None:
+                rejected.append(why)
+        else:
+            snaps.append(s)
     if not snaps:
         return 0, 0
     path = DATA / "tcb" / f"{now.astimezone(PHT).strftime('%Y-%m')}.jsonl"
@@ -177,8 +189,11 @@ def run_tcb(now, force) -> tuple[bool, str]:
     resp = fetch(key, pagasa_tcb.URL, {}, now)
     ok = "Tropical Cyclone" in resp.text
     stored: list[dict] = []
-    active, fresh = save_tcb(resp.text, now, stored)
+    rejected: list[str] = []
+    active, fresh = save_tcb(resp.text, now, stored, rejected)
     note = "発令なし" if not active else f"公報あり{f'({active} 件)' if active > 1 else ''}、新規 {fresh} 件"
+    if rejected:
+        note += f"(公報でない本文 {len(rejected)} 件を保存せず: {rejected[0]})"
     first = False
     try:
         signals, first = signal_watch(stored, state, now)

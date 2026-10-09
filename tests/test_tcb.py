@@ -178,6 +178,57 @@ class Save(unittest.TestCase):
             self.assertEqual(run.save_tcb(page, now), (1, 0))
 
 
+# 発令終了後(Queenie が PAR を出た後)のページの本文。2026-09-27T23:50Z と 09-30T20:20Z に誤って保存された実物(470 文字)
+ARCHIVE_ONLY = ("\n\n".join(f"TCB#{i}_queenie.pdf" for i in range(1, 15)) + "\n\nNote: This archive of previously issued "
+                "bulletins for a particular tropical cyclone will remain available on this website within one (1) calendar week "
+                "only from the termination of bulletin issuances.")
+
+
+class ArchiveOnlyPage(unittest.TestCase):
+    """発令が終わると、ページは過去の PDF の一覧だけになる。公報として保存しない(発令なしと同じ扱い)。"""
+
+    PAGE = ('<html><div class="article-content"><div role="tabpanel" class="tab-pane active" id="tcwb-1">'
+            + "".join(f"\n<p>{ln}</p>\n" for ln in ARCHIVE_ONLY.split("\n\n")) + "</div></div><footer></footer></html>")
+
+    def test_実物の本文(self):
+        self.assertEqual(len(ARCHIVE_ONLY), 470)
+        self.assertEqual(T.sha_of(ARCHIVE_ONLY), "b876945f938d5b5c")
+        self.assertEqual([i["text"] for i in T.parse_all(self.PAGE)], [ARCHIVE_ONLY])   # 抜き出しまでは通ってしまう
+        self.assertIsNotNone(tcb_parse.not_bulletin(tcb_parse.parse(ARCHIVE_ONLY)))
+
+    def test_本物の公報は通す(self):
+        for ln in DATA.read_text(encoding="utf-8").splitlines():
+            self.assertIsNone(tcb_parse.not_bulletin(tcb_parse.parse(json.loads(ln)["text"])))
+
+    def test_保存しない(self):
+        from datetime import datetime, timezone
+        from unittest import mock
+        from collector import run
+        now = datetime(2026, 9, 30, 20, 20, tzinfo=timezone.utc)
+        with tempfile.TemporaryDirectory() as d, mock.patch.object(run, "DATA", Path(d)):
+            rejected: list[str] = []
+            self.assertEqual(run.save_tcb(self.PAGE, now, [], rejected), (0, 0))
+            self.assertFalse((Path(d) / "tcb").exists())
+            self.assertEqual(len(rejected), 1)
+
+    def test_run_tcb_は発令なし扱いで緑(self):
+        from datetime import datetime, timezone
+        from unittest import mock
+        from collector import run
+        now = datetime(2026, 9, 30, 20, 20, tzinfo=timezone.utc)
+        resp = mock.Mock(text=self.PAGE + "Tropical Cyclone", status=200, etag="", last_modified="")
+        saved = {}
+        with tempfile.TemporaryDirectory() as d, mock.patch.object(run, "DATA", Path(d)), \
+             mock.patch.object(run, "fetch", return_value=resp), \
+             mock.patch.object(run, "load_state", side_effect=lambda k: dict(saved)), \
+             mock.patch.object(run, "save_state", side_effect=lambda k, st: saved.update(st)):
+            ok, note = run.run_tcb(now, True)
+            self.assertFalse((Path(d) / "tcb").exists())
+        self.assertTrue(ok)
+        self.assertTrue(note.startswith("発令なし(公報でない本文 1 件を保存せず"), note)
+        self.assertEqual(saved["last_note"], note)
+
+
 class SignalWatch(unittest.TestCase):
     """シグナルの行が出たら目立つ 1 行を出し、初めての回だけ赤くする(collector/run.py の signal_watch)。"""
 
@@ -217,7 +268,7 @@ class SignalWatch(unittest.TestCase):
         with mock.patch.object(run, "fetch", return_value=resp), \
              mock.patch.object(run, "load_state", side_effect=lambda k: dict(saved)), \
              mock.patch.object(run, "save_state", side_effect=lambda k, st: saved.update(st)), \
-             mock.patch.object(run, "save_tcb", side_effect=lambda p, now, stored: (stored.append(self.loud), (1, 1))[1]), \
+             mock.patch.object(run, "save_tcb", side_effect=lambda p, now, stored, rejected=None: (stored.append(self.loud), (1, 1))[1]), \
              mock.patch("builtins.print") as out:
             ok, note = run.run_tcb(self.now, True)
             self.assertFalse(ok)                                   # 初めて → 赤

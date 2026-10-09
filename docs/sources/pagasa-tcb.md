@@ -12,6 +12,8 @@
 
 ## サイト構造
 - 静的 HTML。発令なしのときは "No Active Tropical Cyclone within the Philippine Area of Responsibility"。
+- 発令が終わった後しばらく(1 週間)は、ページが過去の PDF の一覧(「TCB#1_queenie.pdf」…)だけになる。公報の題・発表時刻が無いので
+  本文として保存しない(`tcb_parse.not_bulletin`。「発令なし」と同じ扱いで、`last_note` に理由を足す)。2026-09-27〜30 に 2 行誤って入れ、消した。
 - 発令中は台風ごとのタブ(`tab-pane`)。1 タブ = 1 公報。2026-09-24〜27 の Typhoon "Queenie"(14 公報)で実物を見た。
   中身は題(「Typhoon "Queenie"」)→ 発表時刻「Issued at 11:00 am, 27 September 2026」→「(Valid for broadcast until the next advisory
   to be issued at 5:00 PM today)」→ 全部大文字の見出し → HAZARDS AFFECTING LAND AREAS / COASTAL WATERS / TRACK AND INTENSITY OUTLOOK
