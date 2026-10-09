@@ -14,7 +14,9 @@
 - 依存は標準ライブラリだけ(Actions で pip install しない)。
 
 ## 定期実行の例外
-**収集は GitHub Actions(`.github/workflows/collect.yml`)で回す。** 手元のマシンの停電・回線断に左右されないようにするため。
+**収集の登録上の正は GitHub Actions(`.github/workflows/collect.yml`)。** 手元のマシンの停電・回線断に左右されないようにするため。
+ただし GitHub の schedule は実測で 1 日 4〜7 回しか発火しないので、15 分間隔は Mac の予備(`scripts/fallback_collect.sh`、launchd、
+予備専用 clone `~/Library/Application Support/ph-hazards-fallback`)が実質担っている。両方の役割と故障の抜け方は `docs/ops.md`。
 
 ## 場所の名寄せと D1 への書き出し
 - `vendor/psgc/` — PSGC の地域・州・市町(PyPI `psgc`、MIT)。四半期に 1 回差し替える。
