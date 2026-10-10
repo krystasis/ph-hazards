@@ -614,8 +614,8 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261010T0705_5.06_125.14,2026-10-10T07:05:00+08:00,5.06,125.14,45.0,2.4,050 km S 39° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1009_2305_B1F.html
 20261010T0747_20.07_120.76,2026-10-10T07:47:00+08:00,20.07,120.76,19.0,2.2,120 km S 75° W of Sabtang (Batanes),2026_Earthquake_Information/October/2026_1009_2347_B2.html
 20261010T0755_2.11_126.95,2026-10-10T07:55:00+08:00,2.11,126.95,95.0,3.9,402 km S 25° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1009_2355_B1.html
-20261010T0808_7.0_126.41,2026-10-10T08:08:00+08:00,7.0,126.41,23.0,2.4,007 km S 38° W of Tarragona (Davao Oriental),2026_Earthquake_Information/October/2026_1010_0008_B1.html
-20261010T0820_8.52_126.63,2026-10-10T08:20:00+08:00,8.52,126.63,22.0,3.0,036 km N 62° E of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/October/2026_1010_0020_B2.html
+20261010T0808_6.96_126.17,2026-10-10T08:08:00+08:00,6.96,126.17,17.0,2.4,005 km N 83° W of City Of Mati (Davao Oriental),2026_Earthquake_Information/October/2026_1010_0008_B2.html
+20261010T0820_8.53_126.61,2026-10-10T08:20:00+08:00,8.53,126.61,43.0,3.4,035 km N 58° E of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/October/2026_1010_0020_B3.html
 20261010T0854_5.63_125.27,2026-10-10T08:54:00+08:00,5.63,125.27,33.0,2.1,022 km S 19° E of Glan (Sarangani),2026_Earthquake_Information/October/2026_1010_0054_B1F.html
 20261010T0907_12.6_125.4,2026-10-10T09:07:00+08:00,12.6,125.4,25.0,3.4,021 km N 49° E of Mapanas (Northern Samar),2026_Earthquake_Information/October/2026_1010_0107_B2.html
 20261010T0917_15.41_120.13,2026-10-10T09:17:00+08:00,15.41,120.13,33.0,1.6,018 km N 40° E of Botolan (Zambales),2026_Earthquake_Information/October/2026_1010_0117_B1.html
@@ -652,3 +652,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261010T2102_13.48_119.87,2026-10-10T21:02:00+08:00,13.48,119.87,33.0,2.2,049 km S 57° W of Looc (Occidental Mindoro),2026_Earthquake_Information/October/2026_1010_1302_B1.html
 20261010T2134_12.76_123.5,2026-10-10T21:34:00+08:00,12.76,123.5,16.0,1.5,019 km S 31° W of Donsol (Sorsogon),2026_Earthquake_Information/October/2026_1010_1334_B1.html
 20261010T2135_5.63_125.27,2026-10-10T21:35:00+08:00,5.63,125.27,28.0,1.9,022 km S 19° E of Glan (Sarangani),2026_Earthquake_Information/October/2026_1010_1335_B1F.html
+20261010T2213_15.59_121.6,2026-10-10T22:13:00+08:00,15.59,121.6,5.0,1.6,017 km S 29° E of San Luis (Aurora),2026_Earthquake_Information/October/2026_1010_1413_B1.html
