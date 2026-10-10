@@ -587,7 +587,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261009T1924_12.91_123.04,2026-10-09T19:24:00+08:00,12.91,123.04,8.0,2.0,023 km N 86° W of Claveria (Masbate),2026_Earthquake_Information/October/2026_1009_1124_B2.html
 20261009T2004_5.65_125.3,2026-10-09T20:04:00+08:00,5.65,125.3,29.0,1.6,022 km S 29° E of Glan (Sarangani),2026_Earthquake_Information/October/2026_1009_1204_B2F.html
 20261009T2026_18.36_120.84,2026-10-09T20:26:00+08:00,18.36,120.84,8.0,2.1,013 km S 32° W of Adams (Ilocos Norte),2026_Earthquake_Information/October/2026_1009_1226_B2.html
-20261009T2045_9.4_125.63,2026-10-09T20:45:00+08:00,9.4,125.63,19.0,2.0,008 km S 50° E of Kitcharao (Agusan Del Norte),2026_Earthquake_Information/October/2026_1009_1245_B1.html
+20261009T2045_9.37_125.54,2026-10-09T20:45:00+08:00,9.37,125.54,6.0,3.2,003 km N 40° E of Jabonga (Agusan Del Norte),2026_Earthquake_Information/October/2026_1009_1245_B2.html
 20261009T2046_8.51_126.86,2026-10-09T20:46:00+08:00,8.51,126.86,3.0,3.4,060 km N 74° E of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/October/2026_1009_1246_B1.html
 20261009T2058_19.42_121.19,2026-10-09T20:58:00+08:00,19.42,121.19,11.0,3.1,035 km N 02° W of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/October/2026_1009_1258_B1.html
 20261009T2109_9.64_126.16,2026-10-09T21:09:00+08:00,9.64,126.16,34.0,2.0,015 km S 01° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/October/2026_1009_1309_B1.html
@@ -641,3 +641,5 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261010T1926_5.65_125.23,2026-10-10T19:26:00+08:00,5.65,125.23,33.0,2.0,020 km S 09° E of Glan (Sarangani),2026_Earthquake_Information/October/2026_1010_1126_B1F.html
 20261010T1953_6.76_126.07,2026-10-10T19:53:00+08:00,6.76,126.07,23.0,2.1,008 km S 07° W of San Isidro (Davao Oriental),2026_Earthquake_Information/October/2026_1010_1153_B1.html
 20261010T2001_10.56_122.32,2026-10-10T20:01:00+08:00,10.56,122.32,28.0,1.9,011 km S 02° W of Guimbal (Iloilo),2026_Earthquake_Information/October/2026_1010_1201_B1.html
+20261010T2008_7.09_123.73,2026-10-10T20:08:00+08:00,7.09,123.73,24.0,1.8,032 km N 85° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),2026_Earthquake_Information/October/2026_1010_1208_B1.html
+20261010T2013_7.78_126.84,2026-10-10T20:13:00+08:00,7.78,126.84,94.0,1.7,038 km N 53° E of Baganga (Davao Oriental),2026_Earthquake_Information/October/2026_1010_1213_B1.html
