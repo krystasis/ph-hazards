@@ -782,7 +782,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261013T0052_6.48_124.93,2026-10-13T00:52:00+08:00,6.48,124.93,19.0,2.4,005 km N 11° E of Tampakan (South Cotabato),2026_Earthquake_Information/October/2026_1012_1652_B2.html
 20261013T0120_16.72_119.94,2026-10-13T01:20:00+08:00,16.72,119.94,19.0,2.7,037 km N 09° E of Bolinao (Pangasinan),2026_Earthquake_Information/October/2026_1012_1720_B2.html
 20261013T0122_9.63_126.03,2026-10-13T01:22:00+08:00,9.63,126.03,14.0,1.9,007 km N 84° E of Socorro (Surigao Del Norte),2026_Earthquake_Information/October/2026_1012_1722_B2.html
-20261013T0205_9.75_126.05,2026-10-13T02:05:00+08:00,9.75,126.05,16.0,1.7,000 km S 26° W of Dapa (Surigao Del Norte),2026_Earthquake_Information/October/2026_1012_1805_B1.html
+20261013T0205_9.69_126.18,2026-10-13T02:05:00+08:00,9.69,126.18,22.0,1.7,010 km S 12° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/October/2026_1012_1805_B2.html
 20261013T0224_4.35_125.77,2026-10-13T02:24:00+08:00,4.35,125.77,32.0,2.7,124 km S 18° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1012_1824_B2.html
 20261013T0234_5.53_125.39,2026-10-13T02:34:00+08:00,5.53,125.39,30.0,1.6,012 km N 54° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1012_1834_B1F.html
 20261013T0237_5.35_125.07,2026-10-13T02:37:00+08:00,5.35,125.07,32.0,1.5,040 km S 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1012_1837_B1F.html
@@ -825,3 +825,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261013T1913_12.61_123.64,2026-10-13T19:13:00+08:00,12.61,123.64,32.0,1.8,004 km S 28° W of Monreal (Masbate),2026_Earthquake_Information/October/2026_1013_1113_B1.html
 20261013T1952_13.19_120.48,2026-10-13T19:52:00+08:00,13.19,120.48,31.0,2.1,013 km S 73° W of Mamburao (Occidental Mindoro),2026_Earthquake_Information/October/2026_1013_1152_B1.html
 20261013T2000_17.26_121.96,2026-10-13T20:00:00+08:00,17.26,121.96,10.0,4.2,015 km N 31° E of City Of Ilagan (Isabela),2026_Earthquake_Information/October/2026_1013_120007_B1.html
+20261013T2009_9.35_126.33,2026-10-13T20:09:00+08:00,9.35,126.33,35.0,1.9,017 km N 61° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/October/2026_1013_1209_B1.html
