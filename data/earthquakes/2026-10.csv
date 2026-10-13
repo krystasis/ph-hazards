@@ -779,7 +779,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261013T0004_5.05_125.43,2026-10-13T00:04:00+08:00,5.05,125.43,9.0,2.1,040 km S 01° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1012_1604_B1F.html
 20261013T0031_5.59_125.5,2026-10-13T00:31:00+08:00,5.59,125.5,33.0,2.4,013 km N 12° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1012_1631_B2F.html
 20261013T0032_17.85_120.31,2026-10-13T00:32:00+08:00,17.85,120.31,25.0,2.3,016 km S 85° W of Sinait (Ilocos Sur),2026_Earthquake_Information/October/2026_1012_1632_B1.html
-20261013T0052_6.55_124.96,2026-10-13T00:52:00+08:00,6.55,124.96,29.0,2.4,012 km N 17° E of Tampakan (South Cotabato),2026_Earthquake_Information/October/2026_1012_1652_B1.html
+20261013T0052_6.48_124.93,2026-10-13T00:52:00+08:00,6.48,124.93,19.0,2.4,005 km N 11° E of Tampakan (South Cotabato),2026_Earthquake_Information/October/2026_1012_1652_B2.html
 20261013T0120_16.69_119.98,2026-10-13T01:20:00+08:00,16.69,119.98,23.0,2.7,035 km N 15° E of Bolinao (Pangasinan),2026_Earthquake_Information/October/2026_1012_1720_B1.html
 20261013T0122_9.63_126.03,2026-10-13T01:22:00+08:00,9.63,126.03,14.0,1.9,007 km N 84° E of Socorro (Surigao Del Norte),2026_Earthquake_Information/October/2026_1012_1722_B2.html
 20261013T0205_9.75_126.05,2026-10-13T02:05:00+08:00,9.75,126.05,16.0,1.7,000 km S 26° W of Dapa (Surigao Del Norte),2026_Earthquake_Information/October/2026_1012_1805_B1.html
@@ -816,3 +816,6 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261013T1741_9.6_126.07,2026-10-13T17:41:00+08:00,9.6,126.07,33.0,1.7,012 km S 78° E of Socorro (Surigao Del Norte),2026_Earthquake_Information/October/2026_1013_0941_B1.html
 20261013T1756_15.06_119.93,2026-10-13T17:56:00+08:00,15.06,119.93,1.0,1.7,015 km S 89° W of San Felipe (Zambales),2026_Earthquake_Information/October/2026_1013_0956_B1.html
 20261013T1802_15.33_122.23,2026-10-13T18:02:00+08:00,15.33,122.23,28.0,2.8,061 km N 27° E of Burdeos (Quezon),2026_Earthquake_Information/October/2026_1013_100223_B1.html
+20261013T1834_8.7_122.52,2026-10-13T18:34:00+08:00,8.7,122.52,30.0,1.5,062 km N 63° W of Jose Dalman (Zamboanga Del Norte),2026_Earthquake_Information/October/2026_1013_1034_B1.html
+20261013T1837_11.87_126.08,2026-10-13T18:37:00+08:00,11.87,126.08,10.0,4.0,067 km S 74° E of Dolores (Eastern Samar),2026_Earthquake_Information/October/2026_1013_103729_B1.html
+20261013T1838_15.29_122.24,2026-10-13T18:38:00+08:00,15.29,122.24,30.0,2.2,057 km N 30° E of Burdeos (Quezon),2026_Earthquake_Information/October/2026_1013_1038_B1.html
