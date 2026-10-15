@@ -902,7 +902,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261014T2339_7.45_126.72,2026-10-14T23:39:00+08:00,7.45,126.72,10.0,2.2,022 km N 53° E of Caraga (Davao Oriental),2026_Earthquake_Information/October/2026_1014_1539_B1.html
 20261014T2356_5.95_124.86,2026-10-14T23:56:00+08:00,5.95,124.86,8.0,2.2,018 km N 57° W of Maasim (Sarangani),2026_Earthquake_Information/October/2026_1014_1556_B1F.html
 20261015T0003_19.49_121.62,2026-10-15T00:03:00+08:00,19.49,121.62,29.0,1.6,029 km N 32° E of Calayan (Cagayan),2026_Earthquake_Information/October/2026_1014_1603_B1.html
-20261015T0141_5.12_124.78,2026-10-15T01:41:00+08:00,5.12,124.78,27.0,3.1,078 km S 65° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1014_1741_B1F.html
+20261015T0141_5.08_124.82,2026-10-15T01:41:00+08:00,5.08,124.82,26.0,3.1,076 km S 61° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1014_1741_B2F.html
 20261015T0222_15.49_121.72,2026-10-15T02:22:00+08:00,15.49,121.72,8.0,2.0,033 km S 40° E of San Luis (Aurora),2026_Earthquake_Information/October/2026_1014_1822_B1.html
 20261015T0306_8.88_126.28,2026-10-15T03:06:00+08:00,8.88,126.28,21.0,2.4,005 km S 32° W of Cagwait (Surigao Del Sur),2026_Earthquake_Information/October/2026_1014_1906_B1.html
 20261015T0328_15.08_123.9,2026-10-15T03:28:00+08:00,15.08,123.9,34.0,3.0,118 km N 14° W of Pandan (Catanduanes),2026_Earthquake_Information/October/2026_1014_1928_B1.html
@@ -939,3 +939,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261015T1740_16.29_120.1,2026-10-15T17:40:00+08:00,16.29,120.1,18.0,2.9,016 km S 89° E of Anda (Pangasinan),2026_Earthquake_Information/October/2026_1015_0940_B1.html
 20261015T1831_5.57_125.37,2026-10-15T18:31:00+08:00,5.57,125.37,34.0,2.8,016 km N 45° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1015_1031_B1F.html
 20261015T1904_9.56_122.45,2026-10-15T19:04:00+08:00,9.56,122.45,33.0,2.8,004 km S 20° W of Hinoba-an (Negros Occidental),2026_Earthquake_Information/October/2026_1015_1104_B1.html
+20261015T1917_16.31_121.6,2026-10-15T19:17:00+08:00,16.31,121.6,34.0,1.4,009 km N 08° W of Nagtipunan (Quirino),2026_Earthquake_Information/October/2026_1015_1117_B1.html
