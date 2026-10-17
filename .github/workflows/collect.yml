@@ -15,7 +15,21 @@ permissions:
   contents: write
 
 jobs:
+  # 直近 10 分以内に誰か(ほぼ Mac の予備)が取れていれば、この回は見送る(push の衝突を減らす)。
+  # Mac が止まっていれば古くなるので取りに行く。手動実行(workflow_dispatch)は常に取りに行く。
+  gate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    outputs:
+      run: ${{ github.event_name == 'workflow_dispatch' || steps.fresh.outputs.run == 'true' }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: fresh
+        run: python3 scripts/primary_fresh.py 10
+
   collect:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 12
     steps:
@@ -29,7 +43,8 @@ jobs:
       # 取れた分はここで確定させる。この後の D1 送信が失敗しても、データは残る。
       # 予備(Mac)と同じ分に push がぶつかったら、今回の分を捨てて origin/main に揃える(scripts/push_commit.sh)。
       - name: Commit
-        run: scripts/push_commit.sh "data: $(date -u +%Y-%m-%dT%H:%MZ)" data state
+        run: |
+          scripts/push_commit.sh "data: $(date -u +%Y-%m-%dT%H:%MZ)" data state
 
       # 変わった行だけ D1 へ。secrets が無いフォークでは何もせずに 0 で終わる。
       # 1 日の書き込み上限に当たって止まるのも 0(失敗ではない)。
@@ -46,7 +61,8 @@ jobs:
       # 送れたところまでの manifest と、その日に書いた行数。次の回がここから続ける。
       - name: Commit D1 state
         if: always()
-        run: scripts/push_commit.sh "d1: $(date -u +%Y-%m-%dT%H:%MZ)" state/d1-manifest.json state/d1-usage.json
+        run: |
+          scripts/push_commit.sh "d1: $(date -u +%Y-%m-%dT%H:%MZ)" state/d1-manifest.json state/d1-usage.json
 
       - name: 解析失敗・拒否・D1 の失敗があれば赤にする
         if: steps.collect.outcome == 'failure' || steps.d1.outcome == 'failure'
