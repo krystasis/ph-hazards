@@ -27,17 +27,9 @@ jobs:
         continue-on-error: true  # 失敗しても取れた分と state(クールダウン等)は残す
 
       # 取れた分はここで確定させる。この後の D1 送信が失敗しても、データは残る。
+      # 予備(Mac)と同じ分に push がぶつかったら、今回の分を捨てて origin/main に揃える(scripts/push_commit.sh)。
       - name: Commit
-        run: |
-          git config user.name "ph-hazards-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data state
-          if git diff --cached --quiet; then
-            echo "変更なし"
-          else
-            git commit -q -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull -q --rebase && git push -q
-          fi
+        run: scripts/push_commit.sh "data: $(date -u +%Y-%m-%dT%H:%MZ)" data state
 
       # 変わった行だけ D1 へ。secrets が無いフォークでは何もせずに 0 で終わる。
       # 1 日の書き込み上限に当たって止まるのも 0(失敗ではない)。
@@ -54,18 +46,7 @@ jobs:
       # 送れたところまでの manifest と、その日に書いた行数。次の回がここから続ける。
       - name: Commit D1 state
         if: always()
-        run: |
-          git config user.name "ph-hazards-bot"
-          git config user.email "actions@users.noreply.github.com"
-          for f in state/d1-manifest.json state/d1-usage.json; do
-            if [ -f "$f" ]; then git add "$f"; fi
-          done
-          if git diff --cached --quiet; then
-            echo "変更なし"
-          else
-            git commit -q -m "d1: $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull -q --rebase && git push -q
-          fi
+        run: scripts/push_commit.sh "d1: $(date -u +%Y-%m-%dT%H:%MZ)" state/d1-manifest.json state/d1-usage.json
 
       - name: 解析失敗・拒否・D1 の失敗があれば赤にする
         if: steps.collect.outcome == 'failure' || steps.d1.outcome == 'failure'
