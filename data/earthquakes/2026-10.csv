@@ -1083,7 +1083,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261018T0622_11.17_124.1,2026-10-18T06:22:00+08:00,11.17,124.1,7.0,2.6,019 km N 44° E of City Of Bogo (Cebu),2026_Earthquake_Information/October/2026_1017_2222_B2F.html
 20261018T0641_11.17_124.06,2026-10-18T06:41:00+08:00,11.17,124.06,9.0,2.2,011 km S 36° E of Daanbantayan (Cebu),2026_Earthquake_Information/October/2026_1017_2241_B1F.html
 20261018T0650_17.83_120.9,2026-10-18T06:50:00+08:00,17.83,120.9,7.0,3.3,015 km N 33° E of Tineg (Abra),2026_Earthquake_Information/October/2026_1017_2250_B2.html
-20261018T0716_5.38_125.4,2026-10-18T07:16:00+08:00,5.38,125.4,21.0,2.4,005 km S 36° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1017_2316_B1F.html
+20261018T0716_5.37_125.29,2026-10-18T07:16:00+08:00,5.37,125.29,22.0,2.6,015 km S 73° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1017_2316_B2F.html
 20261018T0823_14.06_120.49,2026-10-18T08:23:00+08:00,14.06,120.49,114.0,1.8,016 km S 82° W of Nasugbu (Batangas),2026_Earthquake_Information/October/2026_1018_0023_B1.html
 20261018T0847_5.55_125.16,2026-10-18T08:47:00+08:00,5.55,125.16,24.0,2.5,030 km S 09° W of Glan (Sarangani),2026_Earthquake_Information/October/2026_1018_0047_B2F.html
 20261018T0852_9.35_126.35,2026-10-18T08:52:00+08:00,9.35,126.35,11.0,1.8,020 km N 63° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/October/2026_1018_0052_B1.html
@@ -1109,3 +1109,6 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261018T2137_6.59_126.48,2026-10-18T21:37:00+08:00,6.59,126.48,27.0,2.4,045 km S 81° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/October/2026_1018_1337_B1.html
 20261018T2139_7.72_122.18,2026-10-18T21:39:00+08:00,7.72,122.18,11.0,1.4,005 km N 77° E of Siocon (Zamboanga Del Norte),2026_Earthquake_Information/October/2026_1018_1339_B1.html
 20261018T2146_15.03_119.91,2026-10-18T21:46:00+08:00,15.03,119.91,33.0,1.6,017 km S 80° W of San Felipe (Zambales),2026_Earthquake_Information/October/2026_1018_1346_B1.html
+20261018T2203_13.24_121.35,2026-10-18T22:03:00+08:00,13.24,121.35,33.0,1.8,010 km N 45° E of Victoria (Oriental Mindoro),2026_Earthquake_Information/October/2026_1018_140352_B1.html
+20261018T2203_9.41_126.3,2026-10-18T22:03:00+08:00,9.41,126.3,35.0,1.4,019 km N 37° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/October/2026_1018_140330_B1.html
+20261018T2204_19.85_121.6,2026-10-18T22:04:00+08:00,19.85,121.6,41.0,2.1,049 km N 42° W of Babuyan Island (Calayan) (Cagayan),2026_Earthquake_Information/October/2026_1018_1404_B1.html
