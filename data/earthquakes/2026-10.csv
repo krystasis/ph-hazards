@@ -1045,7 +1045,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261017T2300_8.98_123.99,2026-10-17T23:00:00+08:00,8.98,123.99,23.0,2.1,043 km S 67° E of Lazi (Siquijor),2026_Earthquake_Information/October/2026_1017_1500_B2.html
 20261017T2324_7.36_126.43,2026-10-17T23:24:00+08:00,7.36,126.43,14.0,1.8,015 km N 77° W of Caraga (Davao Oriental),2026_Earthquake_Information/October/2026_1017_1524_B2.html
 20261017T2355_13.23_123.91,2026-10-17T23:55:00+08:00,13.23,123.91,7.0,1.9,014 km S 85° E of Santo Domingo (Albay),2026_Earthquake_Information/October/2026_1017_1555_B2.html
-20261018T0002_7.75_126.9,2026-10-18T00:02:00+08:00,7.75,126.9,10.0,2.2,042 km N 63° E of Baganga (Davao Oriental),2026_Earthquake_Information/October/2026_1017_1602_B1.html
+20261018T0002_7.78_126.89,2026-10-18T00:02:00+08:00,7.78,126.89,10.0,2.4,042 km N 58° E of Baganga (Davao Oriental),2026_Earthquake_Information/October/2026_1017_1602_B2.html
 20261018T0003_6.29_126.5,2026-10-18T00:03:00+08:00,6.29,126.5,107.0,2.0,063 km S 50° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/October/2026_1017_1603_B1.html
 20261018T0032_9.13_125.99,2026-10-18T00:32:00+08:00,9.13,125.99,103.0,1.7,011 km S 15° W of Carmen (Surigao Del Sur),2026_Earthquake_Information/October/2026_1017_1632_B1.html
 20261018T0037_18.44_122.36,2026-10-18T00:37:00+08:00,18.44,122.36,14.0,2.6,023 km S 86° E of Santa Ana (Cagayan),2026_Earthquake_Information/October/2026_1017_1637_B1.html
@@ -1099,3 +1099,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261018T1520_5.75_125.1,2026-10-18T15:20:00+08:00,5.75,125.1,24.0,2.1,014 km S 56° W of Glan (Sarangani),2026_Earthquake_Information/October/2026_1018_0720_B1F.html
 20261018T1639_13.14_123.97,2026-10-18T16:39:00+08:00,13.14,123.97,15.0,2.1,012 km N 78° E of Manito (Albay),2026_Earthquake_Information/October/2026_1018_0839_B1.html
 20261018T1736_6.65_126.36,2026-10-18T17:36:00+08:00,6.65,126.36,26.0,2.1,032 km S 89° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/October/2026_1018_0936_B1.html
+20261018T1859_6.61_125.77,2026-10-18T18:59:00+08:00,6.61,125.77,67.0,1.6,028 km N 40° E of Malita (Davao Occidental),2026_Earthquake_Information/October/2026_1018_1059_B1.html
