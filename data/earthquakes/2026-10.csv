@@ -1053,7 +1053,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261018T0102_8.61_127.77,2026-10-18T01:02:00+08:00,8.61,127.77,37.0,2.0,160 km N 80° E of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/October/2026_1017_1702_B1.html
 20261018T0117_10.97_125.92,2026-10-18T01:17:00+08:00,10.97,125.92,12.0,2.2,023 km S 72° E of Guiuan (Eastern Samar),2026_Earthquake_Information/October/2026_1017_171736_B1.html
 20261018T0117_19.09_121.21,2026-10-18T01:17:00+08:00,19.09,121.21,8.0,1.9,002 km S 27° E of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/October/2026_1017_171718_B1.html
-20261018T0127_6.74_125.16,2026-10-18T01:27:00+08:00,6.74,125.16,22.0,2.0,001 km S 05° E of Magsaysay (Davao Del Sur),2026_Earthquake_Information/October/2026_1017_1727_B1.html
+20261018T0127_6.73_125.15,2026-10-18T01:27:00+08:00,6.73,125.15,18.0,3.1,003 km S 18° W of Magsaysay (Davao Del Sur),2026_Earthquake_Information/October/2026_1017_1727_B2.html
 20261018T0136_12.81_124.83,2026-10-18T01:36:00+08:00,12.81,124.83,26.0,2.1,030 km N 20° W of Pambujan (Northern Samar),2026_Earthquake_Information/October/2026_1017_1736_B1.html
 20261018T0140_5.32_125.32,2026-10-18T01:40:00+08:00,5.32,125.32,25.0,2.0,015 km S 48° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1017_1740_B1F.html
 20261018T0144_12.76_124.76,2026-10-18T01:44:00+08:00,12.76,124.76,18.0,2.0,027 km N 02° E of Mondragon (Northern Samar),2026_Earthquake_Information/October/2026_1017_1744_B1.html
@@ -1066,7 +1066,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261018T0225_6.53_127.33,2026-10-18T02:25:00+08:00,6.53,127.33,24.0,3.7,113 km S 59° E of Tarragona (Davao Oriental),2026_Earthquake_Information/October/2026_1017_1825_B1.html
 20261018T0227_13.81_119.79,2026-10-18T02:27:00+08:00,13.81,119.79,17.0,2.5,036 km S 82° W of Lubang (Occidental Mindoro),2026_Earthquake_Information/October/2026_1017_1827_B1.html
 20261018T0235_13.4_120.65,2026-10-18T02:35:00+08:00,13.4,120.65,31.0,1.8,009 km S 58° W of Abra De Ilog (Occidental Mindoro),2026_Earthquake_Information/October/2026_1017_183512_B1.html
-20261018T0235_6.81_123.8,2026-10-18T02:35:00+08:00,6.81,123.8,7.0,2.0,035 km N 57° W of Lebak (Sultan Kudarat),2026_Earthquake_Information/October/2026_1017_183519_B1.html
+20261018T0235_6.86_123.86,2026-10-18T02:35:00+08:00,6.86,123.86,25.0,2.0,029 km S 37° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),2026_Earthquake_Information/October/2026_1017_183521_B2.html
 20261018T0242_6.46_126.43,2026-10-18T02:42:00+08:00,6.46,126.43,52.0,2.4,045 km S 62° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/October/2026_1017_1842_B1.html
 20261018T0250_15.47_121.86,2026-10-18T02:50:00+08:00,15.47,121.86,3.0,2.3,045 km S 45° E of Baler (Aurora),2026_Earthquake_Information/October/2026_1017_1850_B1.html
 20261018T0254_5.56_126.51,2026-10-18T02:54:00+08:00,5.56,126.51,106.0,2.4,104 km S 68° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/October/2026_1017_1854_B1.html
@@ -1100,3 +1100,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261018T1639_13.14_123.97,2026-10-18T16:39:00+08:00,13.14,123.97,15.0,2.1,012 km N 78° E of Manito (Albay),2026_Earthquake_Information/October/2026_1018_0839_B1.html
 20261018T1736_6.65_126.36,2026-10-18T17:36:00+08:00,6.65,126.36,26.0,2.1,032 km S 89° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/October/2026_1018_0936_B1.html
 20261018T1859_6.61_125.77,2026-10-18T18:59:00+08:00,6.61,125.77,67.0,1.6,028 km N 40° E of Malita (Davao Occidental),2026_Earthquake_Information/October/2026_1018_1059_B1.html
+20261018T2017_10.58_122.24,2026-10-18T20:17:00+08:00,10.58,122.24,21.0,2.5,007 km S 08° E of Miagao (Iloilo),2026_Earthquake_Information/October/2026_1018_1217_B1.html
