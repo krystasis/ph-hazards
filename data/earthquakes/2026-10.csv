@@ -1140,7 +1140,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261019T0748_2.93_127.86,2026-10-19T07:48:00+08:00,2.93,127.86,24.0,3.6,385 km S 45° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1018_2348_B1.html
 20261019T0751_3.11_128.04,2026-10-19T07:51:00+08:00,3.11,128.04,133.0,4.2,386 km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1018_2351_B1.html
 20261019T0811_8.5_125.9,2026-10-19T08:11:00+08:00,8.5,125.9,9.0,2.5,008 km S 83° W of San Francisco (Agusan Del Sur),2026_Earthquake_Information/October/2026_1019_0011_B1.html
-20261019T0920_15.77_121.16,2026-10-19T09:20:00+08:00,15.77,121.16,32.0,1.6,004 km S 29° E of Pantabangan (Nueva Ecija),2026_Earthquake_Information/October/2026_1019_0120_B1.html
+20261019T0920_15.81_121.06,2026-10-19T09:20:00+08:00,15.81,121.06,33.0,1.4,009 km N 87° W of Pantabangan (Nueva Ecija),2026_Earthquake_Information/October/2026_1019_0120_B2.html
 20261019T0921_16.69_122.21,2026-10-19T09:21:00+08:00,16.69,122.21,18.0,1.9,019 km N 16° W of Dinapigue (Isabela),2026_Earthquake_Information/October/2026_1019_012112_B1.html
 20261019T1000_6.61_126.47,2026-10-19T10:00:00+08:00,6.61,126.47,35.0,2.7,044 km S 83° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/October/2026_1019_0200_B1.html
 20261019T1002_5.55_125.35,2026-10-19T10:02:00+08:00,5.55,125.35,17.0,3.7,016 km N 58° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1019_0202_B1F.html
@@ -1162,3 +1162,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261019T1650_6.11_127.0,2026-10-19T16:50:00+08:00,6.11,127.0,31.0,2.8,119 km S 59° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/October/2026_1019_0850_B1.html
 20261019T1656_11.08_124.05,2026-10-19T16:56:00+08:00,11.08,124.05,29.0,1.4,008 km N 60° E of City Of Bogo (Cebu),2026_Earthquake_Information/October/2026_1019_0856_B1F.html
 20261019T1700_2.35_126.78,2026-10-19T17:00:00+08:00,2.35,126.78,106.0,4.7,371 km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1019_0900_B1.html
+20261019T1759_7.35_126.63,2026-10-19T17:59:00+08:00,7.35,126.63,14.0,2.7,008 km N 69° E of Caraga (Davao Oriental),2026_Earthquake_Information/October/2026_1019_0959_B1.html
