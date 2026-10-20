@@ -1192,7 +1192,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261020T0344_5.75_125.43,2026-10-20T03:44:00+08:00,5.75,125.43,32.0,1.6,026 km S 73° E of Glan (Sarangani),2026_Earthquake_Information/October/2026_1019_1944_B1F.html
 20261020T0354_8.8_126.53,2026-10-20T03:54:00+08:00,8.8,126.53,11.0,2.9,025 km N 89° E of Marihatag (Surigao Del Sur),2026_Earthquake_Information/October/2026_1019_1954_B2.html
 20261020T0405_5.7_124.29,2026-10-20T04:05:00+08:00,5.7,124.29,19.0,2.4,057 km S 12° E of Palimbang (Sultan Kudarat),2026_Earthquake_Information/October/2026_1019_2005_B2.html
-20261020T0424_7.17_126.84,2026-10-20T04:24:00+08:00,7.17,126.84,3.0,2.4,034 km S 83° E of Manay (Davao Oriental),2026_Earthquake_Information/October/2026_1019_2024_B1.html
+20261020T0424_7.26_126.83,2026-10-20T04:24:00+08:00,7.26,126.83,24.0,2.4,032 km N 80° E of Manay (Davao Oriental),2026_Earthquake_Information/October/2026_1019_2024_B2.html
 20261020T0430_10.94_123.9,2026-10-20T04:30:00+08:00,10.94,123.9,10.0,2.3,014 km S 38° W of City Of Bogo (Cebu),2026_Earthquake_Information/October/2026_1019_2030_B2F.html
 20261020T0438_5.5_125.37,2026-10-20T04:38:00+08:00,5.5,125.37,27.0,1.9,011 km N 31° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1019_2038_B2F.html
 20261020T0512_11.77_125.4,2026-10-20T05:12:00+08:00,11.77,125.4,26.0,2.6,007 km N 72° W of San Julian (Eastern Samar),2026_Earthquake_Information/October/2026_1019_2112_B1.html
@@ -1234,3 +1234,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261020T2255_11.16_124.1,2026-10-20T22:55:00+08:00,11.16,124.1,10.0,2.1,015 km S 49° E of Daanbantayan (Cebu),2026_Earthquake_Information/October/2026_1020_1455_B1F.html
 20261020T2258_12.09_121.42,2026-10-20T22:58:00+08:00,12.09,121.42,31.0,1.6,022 km N 39° W of Caluya (Antique),2026_Earthquake_Information/October/2026_1020_145812_B1.html
 20261020T2258_6.57_123.8,2026-10-20T22:58:00+08:00,6.57,123.8,5.0,2.0,027 km N 88° W of Kalamansig (Sultan Kudarat),2026_Earthquake_Information/October/2026_1020_1458_B1.html
+20261020T2316_6.37_123.76,2026-10-20T23:16:00+08:00,6.37,123.76,2.0,2.4,038 km S 58° W of Kalamansig (Sultan Kudarat),2026_Earthquake_Information/October/2026_1020_1516_B1.html
