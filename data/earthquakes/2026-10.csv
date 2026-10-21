@@ -1247,7 +1247,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261021T0113_16.47_122.17,2026-10-21T01:13:00+08:00,16.47,122.17,14.0,2.0,010 km N 25° W of Dilasag (Aurora),2026_Earthquake_Information/October/2026_1020_1713_B2.html
 20261021T0201_19.55_121.46,2026-10-21T02:01:00+08:00,19.55,121.46,25.0,2.3,032 km N 04° W of Calayan (Cagayan),2026_Earthquake_Information/October/2026_1020_1801_B2.html
 20261021T0203_17.85_120.76,2026-10-21T02:03:00+08:00,17.85,120.76,4.0,1.7,012 km S 54° E of Nueva Era (Ilocos Norte),2026_Earthquake_Information/October/2026_1020_180322_B1.html
-20261021T0203_2.61_126.66,2026-10-21T02:03:00+08:00,2.61,126.66,146.0,4.0,339 km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1020_180301_B1.html
+20261021T0203_2.53_126.35,2026-10-21T02:03:00+08:00,2.53,126.35,37.0,4.0,336 km S 18° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1020_180303_B2.html
 20261021T0217_12.83_121.23,2026-10-21T02:17:00+08:00,12.83,121.23,12.0,2.2,025 km S 80° W of Bansud (Oriental Mindoro),2026_Earthquake_Information/October/2026_1020_1817_B1.html
 20261021T0308_13.02_121.03,2026-10-21T03:08:00+08:00,13.02,121.03,32.0,1.5,032 km S 57° W of Victoria (Oriental Mindoro),2026_Earthquake_Information/October/2026_1020_1908_B1.html
 20261021T0332_5.63_125.26,2026-10-21T03:32:00+08:00,5.63,125.26,6.0,1.5,022 km S 15° E of Glan (Sarangani),2026_Earthquake_Information/October/2026_1020_1932_B1F.html
@@ -1282,3 +1282,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261021T2245_13.18_124.48,2026-10-21T22:45:00+08:00,13.18,124.48,1.0,2.0,035 km N 64° E of Prieto Diaz (Sorsogon),2026_Earthquake_Information/October/2026_1021_1445_B1.html
 20261021T2342_4.65_125.08,2026-10-21T23:42:00+08:00,4.65,125.08,33.0,2.1,092 km S 24° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1021_1542_B1F.html
 20261022T0026_9.59_125.4,2026-10-22T00:26:00+08:00,9.59,125.4,3.0,3.1,003 km S 08° W of Malimono (Surigao Del Norte),2026_Earthquake_Information/October/2026_1021_1626_B1.html
+20261022T0105_11.53_125.31,2026-10-22T01:05:00+08:00,11.53,125.31,26.0,2.3,016 km S 57° W of City Of Borongan (Eastern Samar),2026_Earthquake_Information/October/2026_1021_1705_B1.html
