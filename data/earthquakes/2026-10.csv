@@ -1236,7 +1236,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261020T2258_6.57_123.8,2026-10-20T22:58:00+08:00,6.57,123.8,5.0,2.0,027 km N 88° W of Kalamansig (Sultan Kudarat),2026_Earthquake_Information/October/2026_1020_1458_B1.html
 20261020T2316_6.42_123.74,2026-10-20T23:16:00+08:00,6.42,123.74,1.0,2.5,037 km S 67° W of Kalamansig (Sultan Kudarat),2026_Earthquake_Information/October/2026_1020_1516_B2.html
 20261020T2339_10.9_123.91,2026-10-20T23:39:00+08:00,10.9,123.91,1.0,2.2,018 km S 24° W of City Of Bogo (Cebu),2026_Earthquake_Information/October/2026_1020_1539_B2F.html
-20261020T2340_10.38_123.28,2026-10-20T23:40:00+08:00,10.38,123.28,17.0,3.0,007 km S 80° E of City Of Canlaon (Negros Oriental),2026_Earthquake_Information/October/2026_1020_1540_B1.html
+20261020T2340_10.39_123.33,2026-10-20T23:40:00+08:00,10.39,123.33,5.0,3.0,014 km S 38° W of City Of San Carlos (Negros Occidental),2026_Earthquake_Information/October/2026_1020_1540_B2.html
 20261020T2353_5.35_125.17,2026-10-20T23:53:00+08:00,5.35,125.17,23.0,2.1,029 km S 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1020_1553_B1F.html
 20261020T2358_6.31_123.45,2026-10-20T23:58:00+08:00,6.31,123.45,33.0,1.7,072 km S 67° W of Kalamansig (Sultan Kudarat),2026_Earthquake_Information/October/2026_1020_1558_B1.html
 20261021T0006_4.87_125.2,2026-10-21T00:06:00+08:00,4.87,125.2,2.0,2.6,065 km S 23° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1020_1606_B1F.html
@@ -1256,7 +1256,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261021T0350_4.83_125.26,2026-10-21T03:50:00+08:00,4.83,125.26,8.0,2.5,067 km S 15° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1020_1950_B1F.html
 20261021T0430_3.89_127.1,2026-10-21T04:30:00+08:00,3.89,127.1,172.0,3.2,252 km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1020_2030_B1.html
 20261021T0432_8.56_122.65,2026-10-21T04:32:00+08:00,8.56,122.65,27.0,2.2,043 km N 73° W of Jose Dalman (Zamboanga Del Norte),2026_Earthquake_Information/October/2026_1020_2032_B1.html
-20261021T0445_5.49_125.4,2026-10-21T04:45:00+08:00,5.49,125.4,32.0,2.4,008 km N 73° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1020_2045_B1F.html
+20261021T0445_5.49_125.4,2026-10-21T04:45:00+08:00,5.49,125.4,31.0,2.4,009 km N 16° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1020_2045_B2F.html
 20261021T0452_13.74_120.53,2026-10-21T04:52:00+08:00,13.74,120.53,94.0,1.7,015 km S 50° W of Calatagan (Batangas),2026_Earthquake_Information/October/2026_1020_2052_B1.html
 20261021T0459_15.1_120.08,2026-10-21T04:59:00+08:00,15.1,120.08,13.0,2.2,004 km N 17° E of San Felipe (Zambales),2026_Earthquake_Information/October/2026_1020_2059_B2.html
 20261021T0532_12.41_121.78,2026-10-21T05:32:00+08:00,12.41,121.78,4.0,2.1,019 km N 65° W of Ferrol (Romblon),2026_Earthquake_Information/October/2026_1020_2132_B2.html
@@ -1266,7 +1266,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261021T0634_10.58_123.05,2026-10-21T06:34:00+08:00,10.58,123.05,20.0,3.0,003 km S 23° E of Murcia (Negros Occidental),2026_Earthquake_Information/October/2026_1020_2234_B2F.html
 20261021T0639_5.77_124.99,2026-10-21T06:39:00+08:00,5.77,124.99,33.0,2.1,011 km S 04° W of Maasim (Sarangani),2026_Earthquake_Information/October/2026_1020_2239_B1F.html
 20261021T0751_18.35_120.93,2026-10-21T07:51:00+08:00,18.35,120.93,26.0,1.8,012 km S 13° E of Adams (Ilocos Norte),2026_Earthquake_Information/October/2026_1020_2351_B1.html
-20261021T1036_10.81_121.93,2026-10-21T10:36:00+08:00,10.81,121.93,15.0,3.4,010 km N 78° W of Sibalom (Antique),2026_Earthquake_Information/October/2026_1021_0236_B2F.html
+20261021T1036_10.75_122.02,2026-10-21T10:36:00+08:00,10.75,122.02,4.0,3.4,005 km S 03° W of Sibalom (Antique),2026_Earthquake_Information/October/2026_1021_0236_B3F.html
 20261021T1312_5.47_125.45,2026-10-21T13:12:00+08:00,5.47,125.45,2.0,2.5,002 km N 82° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1021_0512_B1.html
 20261021T1402_5.49_125.38,2026-10-21T14:02:00+08:00,5.49,125.38,29.0,1.4,010 km N 28° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1021_0602_B1F.html
 20261021T1637_13.24_125.68,2026-10-21T16:37:00+08:00,13.24,125.68,31.0,4.8,096 km N 29° E of Mapanas (Northern Samar),2026_Earthquake_Information/October/2026_1021_0837_B2.html
