@@ -1234,8 +1234,8 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261020T2255_11.16_124.1,2026-10-20T22:55:00+08:00,11.16,124.1,10.0,2.1,015 km S 49° E of Daanbantayan (Cebu),2026_Earthquake_Information/October/2026_1020_1455_B1F.html
 20261020T2258_12.09_121.42,2026-10-20T22:58:00+08:00,12.09,121.42,31.0,1.6,022 km N 39° W of Caluya (Antique),2026_Earthquake_Information/October/2026_1020_145812_B1.html
 20261020T2258_6.57_123.8,2026-10-20T22:58:00+08:00,6.57,123.8,5.0,2.0,027 km N 88° W of Kalamansig (Sultan Kudarat),2026_Earthquake_Information/October/2026_1020_1458_B1.html
-20261020T2316_6.37_123.76,2026-10-20T23:16:00+08:00,6.37,123.76,2.0,2.4,038 km S 58° W of Kalamansig (Sultan Kudarat),2026_Earthquake_Information/October/2026_1020_1516_B1.html
-20261020T2339_10.88_123.98,2026-10-20T23:39:00+08:00,10.88,123.98,3.0,2.1,007 km N 48° W of Borbon (Cebu),2026_Earthquake_Information/October/2026_1020_1539_B1F.html
+20261020T2316_6.42_123.74,2026-10-20T23:16:00+08:00,6.42,123.74,1.0,2.5,037 km S 67° W of Kalamansig (Sultan Kudarat),2026_Earthquake_Information/October/2026_1020_1516_B2.html
+20261020T2339_10.9_123.91,2026-10-20T23:39:00+08:00,10.9,123.91,1.0,2.2,018 km S 24° W of City Of Bogo (Cebu),2026_Earthquake_Information/October/2026_1020_1539_B2F.html
 20261020T2340_10.38_123.28,2026-10-20T23:40:00+08:00,10.38,123.28,17.0,3.0,007 km S 80° E of City Of Canlaon (Negros Oriental),2026_Earthquake_Information/October/2026_1020_1540_B1.html
 20261020T2353_5.35_125.17,2026-10-20T23:53:00+08:00,5.35,125.17,23.0,2.1,029 km S 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1020_1553_B1F.html
 20261020T2358_6.31_123.45,2026-10-20T23:58:00+08:00,6.31,123.45,33.0,1.7,072 km S 67° W of Kalamansig (Sultan Kudarat),2026_Earthquake_Information/October/2026_1020_1558_B1.html
@@ -1258,9 +1258,9 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261021T0432_8.56_122.65,2026-10-21T04:32:00+08:00,8.56,122.65,27.0,2.2,043 km N 73° W of Jose Dalman (Zamboanga Del Norte),2026_Earthquake_Information/October/2026_1020_2032_B1.html
 20261021T0445_5.49_125.4,2026-10-21T04:45:00+08:00,5.49,125.4,32.0,2.4,008 km N 73° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1020_2045_B1F.html
 20261021T0452_13.74_120.53,2026-10-21T04:52:00+08:00,13.74,120.53,94.0,1.7,015 km S 50° W of Calatagan (Batangas),2026_Earthquake_Information/October/2026_1020_2052_B1.html
-20261021T0459_15.07_119.86,2026-10-21T04:59:00+08:00,15.07,119.86,33.0,2.2,023 km N 88° W of San Felipe (Zambales),2026_Earthquake_Information/October/2026_1020_2059_B1.html
-20261021T0532_12.43_121.8,2026-10-21T05:32:00+08:00,12.43,121.8,6.0,2.1,019 km N 54° W of Ferrol (Romblon),2026_Earthquake_Information/October/2026_1020_2132_B1.html
-20261021T0550_5.62_125.33,2026-10-21T05:50:00+08:00,5.62,125.33,29.0,1.9,023 km N 44° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1020_2150_B1F.html
+20261021T0459_15.1_120.08,2026-10-21T04:59:00+08:00,15.1,120.08,13.0,2.2,004 km N 17° E of San Felipe (Zambales),2026_Earthquake_Information/October/2026_1020_2059_B2.html
+20261021T0532_12.41_121.78,2026-10-21T05:32:00+08:00,12.41,121.78,4.0,2.1,019 km N 65° W of Ferrol (Romblon),2026_Earthquake_Information/October/2026_1020_2132_B2.html
+20261021T0550_5.63_125.34,2026-10-21T05:50:00+08:00,5.63,125.34,27.0,2.0,023 km N 41° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1020_2150_B2F.html
 20261021T0559_12.44_121.9,2026-10-21T05:59:00+08:00,12.44,121.9,33.0,2.3,010 km N 65° W of Odiongan (Romblon),2026_Earthquake_Information/October/2026_1020_2159_B1.html
 20261021T0619_7.25_127.08,2026-10-21T06:19:00+08:00,7.25,127.08,5.0,3.1,057 km S 81° E of Caraga (Davao Oriental),2026_Earthquake_Information/October/2026_1020_2219_B1.html
 20261021T0634_10.58_123.05,2026-10-21T06:34:00+08:00,10.58,123.05,20.0,3.0,003 km S 23° E of Murcia (Negros Occidental),2026_Earthquake_Information/October/2026_1020_2234_B2F.html
