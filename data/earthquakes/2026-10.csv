@@ -1333,7 +1333,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261023T0823_4.95_126.31,2026-10-23T08:23:00+08:00,4.95,126.31,6.0,3.1,109 km S 58° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1023_0023_B2.html
 20261023T0825_9.35_125.84,2026-10-23T08:25:00+08:00,9.35,125.84,20.0,3.0,012 km S 82° W of Carrascal (Surigao Del Sur),2026_Earthquake_Information/October/2026_1023_0025_B2.html
 20261023T0916_18.51_120.85,2026-10-23T09:16:00+08:00,18.51,120.85,12.0,2.4,005 km S 74° E of Dumalneg (Ilocos Norte),2026_Earthquake_Information/October/2026_1023_0116_B2.html
-20261023T0930_10.29_122.96,2026-10-23T09:30:00+08:00,10.29,122.96,11.0,1.6,007 km S 62° W of La Castellana (Negros Occidental),2026_Earthquake_Information/October/2026_1023_0130_B1.html
+20261023T0930_10.61_122.98,2026-10-23T09:30:00+08:00,10.61,122.98,4.0,1.6,006 km N 87° W of Murcia (Negros Occidental),2026_Earthquake_Information/October/2026_1023_0130_B2.html
 20261023T1038_5.99_125.86,2026-10-23T10:38:00+08:00,5.99,125.86,130.0,3.0,026 km N 71° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/October/2026_1023_0238_B1.html
 20261023T1041_7.86_126.47,2026-10-23T10:41:00+08:00,7.86,126.47,93.0,3.4,007 km N 09° E of Cateel (Davao Oriental),2026_Earthquake_Information/October/2026_1023_0241_B1.html
 20261023T1201_11.73_125.33,2026-10-23T12:01:00+08:00,11.73,125.33,25.0,2.3,014 km S 77° W of San Julian (Eastern Samar),2026_Earthquake_Information/October/2026_1023_0401_B1.html
@@ -1373,3 +1373,15 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261024T0022_5.64_125.18,2026-10-24T00:22:00+08:00,5.64,125.18,13.0,3.0,021 km S 07° W of Glan (Sarangani),2026_Earthquake_Information/October/2026_1023_1622_B1F.html
 20261024T0035_5.7_126.55,2026-10-24T00:35:00+08:00,5.7,126.55,5.0,2.7,103 km S 77° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/October/2026_1023_1635_B1.html
 20261024T0048_7.38_126.75,2026-10-24T00:48:00+08:00,7.38,126.75,8.0,2.0,022 km N 74° E of Caraga (Davao Oriental),2026_Earthquake_Information/October/2026_1023_1648_B1.html
+20261024T0054_16.28_120.89,2026-10-24T00:54:00+08:00,16.28,120.89,35.0,1.5,009 km S 06° E of Kayapa (Nueva Vizcaya),2026_Earthquake_Information/October/2026_1023_1654_B1.html
+20261024T0056_16.36_121.02,2026-10-24T00:56:00+08:00,16.36,121.02,32.0,1.4,008 km N 14° W of Aritao (Nueva Vizcaya),2026_Earthquake_Information/October/2026_1023_1656_B1.html
+20261024T0057_16.28_120.78,2026-10-24T00:57:00+08:00,16.28,120.78,26.0,2.1,014 km S 51° E of Itogon (Benguet),2026_Earthquake_Information/October/2026_1023_1657_B1.html
+20261024T0105_5.42_125.33,2026-10-24T01:05:00+08:00,5.42,125.33,37.0,1.4,010 km N 88° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1023_1705_B1F.html
+20261024T0125_5.92_122.23,2026-10-24T01:25:00+08:00,5.92,122.23,89.0,3.2,052 km S 71° E of Tongkil (Sulu),2026_Earthquake_Information/October/2026_1023_1725_B1.html
+20261024T0155_12.9_123.15,2026-10-24T01:55:00+08:00,12.9,123.15,11.0,1.4,010 km S 87° W of Claveria (Masbate),2026_Earthquake_Information/October/2026_1023_1755_B1.html
+20261024T0201_16.55_122.08,2026-10-24T02:01:00+08:00,16.55,122.08,18.0,2.5,019 km N 81° W of Dinapigue (Isabela),2026_Earthquake_Information/October/2026_1023_1801_B1.html
+20261024T0225_5.51_125.41,2026-10-24T02:25:00+08:00,5.51,125.41,32.0,1.3,008 km N 56° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1023_1825_B1F.html
+20261024T0241_3.93_127.82,2026-10-24T02:41:00+08:00,3.93,127.82,26.0,3.2,312 km S 57° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1023_1841_B1.html
+20261024T0257_5.31_125.33,2026-10-24T02:57:00+08:00,5.31,125.33,34.0,1.6,015 km S 44° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1023_1857_B1F.html
+20261024T0320_8.27_123.71,2026-10-24T03:20:00+08:00,8.27,123.71,33.0,1.2,015 km S 85° W of Sinacaban (Misamis Occidental),2026_Earthquake_Information/October/2026_1023_1920_B1.html
+20261024T0333_5.66_124.81,2026-10-24T03:33:00+08:00,5.66,124.81,30.0,1.8,031 km S 43° W of Maasim (Sarangani),2026_Earthquake_Information/October/2026_1023_1933_B1F.html
