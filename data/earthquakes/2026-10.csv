@@ -1475,7 +1475,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261026T0140_5.23_125.81,2026-10-26T01:40:00+08:00,5.23,125.81,26.0,1.3,046 km S 54° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1025_1740_B1F.html
 20261026T0210_9.17_126.37,2026-10-26T02:10:00+08:00,9.17,126.37,29.0,2.1,022 km S 59° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/October/2026_1025_1810_B2.html
 20261026T0217_5.05_125.07,2026-10-26T02:17:00+08:00,5.05,125.07,8.0,3.8,056 km S 44° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1025_181747_B2F.html
-20261026T0217_9.15_126.22,2026-10-26T02:17:00+08:00,9.15,126.22,30.0,1.7,011 km N 33° E of City Of Tandag (Surigao Del Sur),2026_Earthquake_Information/October/2026_1025_181705_B1.html
+20261026T0217_9.19_126.35,2026-10-26T02:17:00+08:00,9.19,126.35,34.0,1.8,020 km S 62° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/October/2026_1025_181705_B2.html
 20261026T0232_19.57_121.56,2026-10-26T02:32:00+08:00,19.57,121.56,43.0,2.0,035 km N 15° E of Calayan (Cagayan),2026_Earthquake_Information/October/2026_1025_1832_B2.html
 20261026T0320_5.6_125.31,2026-10-26T03:20:00+08:00,5.6,125.31,28.0,1.4,023 km N 50° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1025_1920_B1F.html
 20261026T0325_17.43_120.27,2026-10-26T03:25:00+08:00,17.43,120.27,15.0,3.0,018 km S 44° W of Caoayan (Ilocos Sur),2026_Earthquake_Information/October/2026_1025_1925_B2.html
@@ -1483,15 +1483,15 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261026T0327_9.08_126.45,2026-10-26T03:27:00+08:00,9.08,126.45,13.0,2.2,023 km N 56° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/October/2026_1025_192726_B2.html
 20261026T0331_5.41_124.94,2026-10-26T03:31:00+08:00,5.41,124.94,8.0,3.3,050 km S 08° W of Maasim (Sarangani),2026_Earthquake_Information/October/2026_1025_1931_B2F.html
 20261026T0359_16.14_120.58,2026-10-26T03:59:00+08:00,16.14,120.58,10.0,1.6,005 km N 53° E of Pozorrubio (Pangasinan),2026_Earthquake_Information/October/2026_1025_1959_B1.html
-20261026T0413_5.64_124.57,2026-10-26T04:13:00+08:00,5.64,124.57,25.0,2.4,039 km S 09° W of Kiamba (Sarangani),2026_Earthquake_Information/October/2026_1025_2013_B1F.html
+20261026T0413_5.67_124.53,2026-10-26T04:13:00+08:00,5.67,124.53,32.0,2.4,036 km S 17° W of Kiamba (Sarangani),2026_Earthquake_Information/October/2026_1025_2013_B2F.html
 20261026T0418_12.85_123.29,2026-10-26T04:18:00+08:00,12.85,123.29,6.0,1.7,007 km S 41° E of Claveria (Masbate),2026_Earthquake_Information/October/2026_1025_2018_B2.html
 20261026T0434_5.72_125.41,2026-10-26T04:34:00+08:00,5.72,125.41,30.0,1.8,025 km S 64° E of Glan (Sarangani),2026_Earthquake_Information/October/2026_1025_2034_B2F.html
 20261026T0452_18.42_121.45,2026-10-26T04:52:00+08:00,18.42,121.45,74.0,2.4,007 km N 81° W of Ballesteros (Cagayan),2026_Earthquake_Information/October/2026_1025_2052_B2.html
-20261026T0509_8.37_126.46,2026-10-26T05:09:00+08:00,8.37,126.46,55.0,1.7,014 km N 89° E of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/October/2026_1025_2109_B1.html
+20261026T0509_8.37_126.39,2026-10-26T05:09:00+08:00,8.37,126.39,50.0,2.0,006 km N 88° E of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/October/2026_1025_2109_B2.html
 20261026T0510_7.36_126.61,2026-10-26T05:10:00+08:00,7.36,126.61,129.0,2.2,006 km N 54° E of Caraga (Davao Oriental),2026_Earthquake_Information/October/2026_1025_2110_B1.html
 20261026T0511_5.82_127.11,2026-10-26T05:11:00+08:00,5.82,127.11,33.0,2.7,147 km S 51° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/October/2026_1025_211153_B2.html
 20261026T0512_18.98_121.23,2026-10-26T05:12:00+08:00,18.98,121.23,15.0,2.5,014 km S 11° E of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/October/2026_1025_2112_B2.html
-20261026T0658_5.27_125.11,2026-10-26T06:58:00+08:00,5.27,125.11,24.0,2.0,038 km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1025_2258_B1.html
+20261026T0658_5.35_125.11,2026-10-26T06:58:00+08:00,5.35,125.11,30.0,2.0,035 km S 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1025_2258_B2F.html
 20261026T0750_7.37_126.73,2026-10-26T07:50:00+08:00,7.37,126.73,132.0,2.4,019 km N 74° E of Caraga (Davao Oriental),2026_Earthquake_Information/October/2026_1025_2350_B2.html
 20261026T0824_9.87_126.09,2026-10-26T08:24:00+08:00,9.87,126.09,34.0,1.8,001 km N 51° W of Pilar (Surigao Del Norte),2026_Earthquake_Information/October/2026_1026_0024_B2.html
 20261026T0858_18.99_121.31,2026-10-26T08:58:00+08:00,18.99,121.31,9.0,2.2,017 km S 38° E of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/October/2026_1026_0058_B2.html
@@ -1529,3 +1529,6 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261026T2346_5.65_125.37,2026-10-26T23:46:00+08:00,5.65,125.37,30.0,1.4,022 km N 30° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1026_1546_B1F.html
 20261026T2357_20.07_121.4,2026-10-26T23:57:00+08:00,20.07,121.4,2.0,3.3,057 km S 59° W of Sabtang (Batanes),2026_Earthquake_Information/October/2026_1026_1557_B1.html
 20261027T0000_5.49_125.33,2026-10-27T00:00:00+08:00,5.49,125.33,32.0,2.2,014 km N 51° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1026_1600_B1F.html
+20261027T0013_9.5_123.76,2026-10-27T00:13:00+08:00,9.5,123.76,32.0,1.3,009 km S 04° E of Panglao (Bohol),2026_Earthquake_Information/October/2026_1026_1613_B1.html
+20261027T0018_8.26_123.61,2026-10-27T00:18:00+08:00,8.26,123.61,6.0,1.5,005 km N 76° E of Don Victoriano Chiongbian (Misamis Occidental),2026_Earthquake_Information/October/2026_1026_1618_B1.html
+20261027T0025_8.86_126.22,2026-10-27T00:25:00+08:00,8.86,126.22,40.0,1.4,011 km S 55° W of Cagwait (Surigao Del Sur),2026_Earthquake_Information/October/2026_1026_1625_B1.html
