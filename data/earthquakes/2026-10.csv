@@ -1524,7 +1524,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261026T2249_8.12_125.48,2026-10-26T22:49:00+08:00,8.12,125.48,16.0,2.5,020 km N 76° E of Cabanglasan (Bukidnon),2026_Earthquake_Information/October/2026_1026_1449_B1.html
 20261026T2257_17.63_120.46,2026-10-26T22:57:00+08:00,17.63,120.46,2.0,2.5,006 km S 76° E of Santo Domingo (Ilocos Sur),2026_Earthquake_Information/October/2026_1026_1457_B1.html
 20261026T2301_16.31_120.88,2026-10-26T23:01:00+08:00,16.31,120.88,32.0,1.7,005 km S 09° W of Kayapa (Nueva Vizcaya),2026_Earthquake_Information/October/2026_1026_1501_B1.html
-20261026T2309_9.44_123.81,2026-10-26T23:09:00+08:00,9.44,123.81,10.0,3.5,017 km S 20° E of Panglao (Bohol),2026_Earthquake_Information/October/2026_1026_1509_B2F.html
+20261026T2309_9.43_123.81,2026-10-26T23:09:00+08:00,9.43,123.81,12.0,3.5,017 km S 20° E of Panglao (Bohol),2026_Earthquake_Information/October/2026_1026_1509_B3F.html
 20261026T2328_8.13_125.49,2026-10-26T23:28:00+08:00,8.13,125.49,19.0,2.3,021 km N 75° E of Cabanglasan (Bukidnon),2026_Earthquake_Information/October/2026_1026_1528_B1.html
 20261026T2346_5.65_125.37,2026-10-26T23:46:00+08:00,5.65,125.37,30.0,1.4,022 km N 30° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1026_1546_B1F.html
 20261026T2357_20.07_121.4,2026-10-26T23:57:00+08:00,20.07,121.4,2.0,3.3,057 km S 59° W of Sabtang (Batanes),2026_Earthquake_Information/October/2026_1026_1557_B1.html
@@ -1569,3 +1569,5 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261027T0815_5.92_125.82,2026-10-27T08:15:00+08:00,5.92,125.82,149.0,2.5,019 km N 88° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/October/2026_1027_0015_B1.html
 20261027T1005_12.92_122.66,2026-10-27T10:05:00+08:00,12.92,122.66,3.0,1.9,041 km S 56° W of San Pascual (Masbate),2026_Earthquake_Information/October/2026_1027_0205_B1.html
 20261027T1045_16.31_120.82,2026-10-27T10:45:00+08:00,16.31,120.82,27.0,1.5,009 km S 54° W of Kayapa (Nueva Vizcaya),2026_Earthquake_Information/October/2026_1027_0245_B1.html
+20261027T1111_9.62_126.16,2026-10-27T11:11:00+08:00,9.62,126.16,33.0,2.0,018 km S 01° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/October/2026_1027_0311_B1.html
+20261027T1115_7.77_127.03,2026-10-27T11:15:00+08:00,7.77,127.03,19.0,3.2,056 km N 68° E of Baganga (Davao Oriental),2026_Earthquake_Information/October/2026_1027_0315_B1.html
