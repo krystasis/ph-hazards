@@ -1497,7 +1497,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261026T0858_18.99_121.31,2026-10-26T08:58:00+08:00,18.99,121.31,9.0,2.2,017 km S 38° E of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/October/2026_1026_0058_B2.html
 20261026T0901_18.36_120.8,2026-10-26T09:01:00+08:00,18.36,120.8,7.0,1.9,018 km S 03° W of Dumalneg (Ilocos Norte),2026_Earthquake_Information/October/2026_1026_0101_B2.html
 20261026T1007_5.54_125.3,2026-10-26T10:07:00+08:00,5.54,125.3,27.0,2.0,019 km N 45° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1026_0207_B1F.html
-20261026T1008_7.97_126.23,2026-10-26T10:08:00+08:00,7.97,126.23,11.0,2.5,019 km N 56° W of Boston (Davao Oriental),2026_Earthquake_Information/October/2026_1026_0208_B1.html
+20261026T1008_8.02_126.23,2026-10-26T10:08:00+08:00,8.02,126.23,5.0,2.4,023 km N 43° W of Boston (Davao Oriental),2026_Earthquake_Information/October/2026_1026_0208_B2.html
 20261026T1052_19.08_121.42,2026-10-26T10:52:00+08:00,19.08,121.42,13.0,2.0,023 km S 81° E of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/October/2026_1026_0252_B2.html
 20261026T1146_12.82_121.24,2026-10-26T11:46:00+08:00,12.82,121.24,39.0,1.3,023 km S 79° W of Bansud (Oriental Mindoro),2026_Earthquake_Information/October/2026_1026_0346_B1.html
 20261026T1157_11.11_124.12,2026-10-26T11:57:00+08:00,11.11,124.12,5.0,2.1,016 km N 65° E of City Of Bogo (Cebu),2026_Earthquake_Information/October/2026_1026_0357_B1F.html
@@ -1568,3 +1568,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261027T0807_9.56_126.2,2026-10-27T08:07:00+08:00,9.56,126.2,31.0,1.4,025 km S 11° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/October/2026_1027_0007_B1.html
 20261027T0815_5.92_125.82,2026-10-27T08:15:00+08:00,5.92,125.82,149.0,2.5,019 km N 88° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/October/2026_1027_0015_B1.html
 20261027T1005_12.92_122.66,2026-10-27T10:05:00+08:00,12.92,122.66,3.0,1.9,041 km S 56° W of San Pascual (Masbate),2026_Earthquake_Information/October/2026_1027_0205_B1.html
+20261027T1045_16.31_120.82,2026-10-27T10:45:00+08:00,16.31,120.82,27.0,1.5,009 km S 54° W of Kayapa (Nueva Vizcaya),2026_Earthquake_Information/October/2026_1027_0245_B1.html
