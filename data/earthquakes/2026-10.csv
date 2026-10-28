@@ -1600,7 +1600,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261027T2343_5.42_125.45,2026-10-27T23:43:00+08:00,5.42,125.45,50.0,1.9,004 km N 73° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1027_1543_B1F.html
 20261028T0007_18.34_119.72,2026-10-28T00:07:00+08:00,18.34,119.72,5.0,4.4,089 km N 67° W of Currimao (Ilocos Norte),2026_Earthquake_Information/October/2026_1027_1607_B3.html
 20261028T0014_3.42_122.46,2026-10-28T00:14:00+08:00,3.42,122.46,508.0,3.6,293 km S 48° E of South Ubian (Tawi-tawi),2026_Earthquake_Information/October/2026_1027_1614_B2.html
-20261028T0028_5.87_127.16,2026-10-28T00:28:00+08:00,5.87,127.16,104.0,2.4,149 km S 54° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/October/2026_1027_1628_B1.html
+20261028T0028_5.86_127.07,2026-10-28T00:28:00+08:00,5.86,127.07,101.0,2.5,142 km S 51° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/October/2026_1027_1628_B2.html
 20261028T0032_9.23_125.86,2026-10-28T00:32:00+08:00,9.23,125.86,15.0,2.1,012 km S 71° W of Madrid (Surigao Del Sur),2026_Earthquake_Information/October/2026_1027_1632_B2.html
 20261028T0100_8.16_125.9,2026-10-28T01:00:00+08:00,8.16,125.9,49.0,1.5,010 km S 80° W of Bunawan (Agusan Del Sur),2026_Earthquake_Information/October/2026_1027_1700_B2.html
 20261028T0125_12.55_121.3,2026-10-28T01:25:00+08:00,12.55,121.3,33.0,1.4,015 km N 77° W of Mansalay (Oriental Mindoro),2026_Earthquake_Information/October/2026_1027_1725_B1.html
@@ -1649,7 +1649,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261028T1925_5.66_125.28,2026-10-28T19:25:00+08:00,5.66,125.28,34.0,2.6,020 km S 23° E of Glan (Sarangani),2026_Earthquake_Information/October/2026_1028_1125_B1F.html
 20261028T1928_5.6_125.28,2026-10-28T19:28:00+08:00,5.6,125.28,32.0,2.0,025 km N 55° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1028_1128_B1F.html
 20261028T2013_11.14_124.09,2026-10-28T20:13:00+08:00,11.14,124.09,7.0,2.1,015 km N 84° E of Medellin (Cebu),2026_Earthquake_Information/October/2026_1028_1213_B1F.html
-20261028T2014_5.37_125.45,2026-10-28T20:14:00+08:00,5.37,125.45,10.0,4.8,005 km S 34° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1028_121449_B1.html
+20261028T2014_5.68_125.31,2026-10-28T20:14:00+08:00,5.68,125.31,18.0,4.5,019 km S 38° E of Glan (Sarangani),2026_Earthquake_Information/October/2026_1028_1214_B2F.html
 20261028T2034_7.16_127.16,2026-10-28T20:34:00+08:00,7.16,127.16,18.0,3.1,068 km S 74° E of Caraga (Davao Oriental),2026_Earthquake_Information/October/2026_1028_1234_B1.html
 20261028T2045_9.64_126.18,2026-10-28T20:45:00+08:00,9.64,126.18,42.0,1.8,016 km S 08° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/October/2026_1028_1245_B1.html
 20261028T2050_5.62_125.43,2026-10-28T20:50:00+08:00,5.62,125.43,29.0,2.1,017 km N 16° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1028_125043_B1F.html
@@ -1675,3 +1675,11 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261029T0312_9.03_126.2,2026-10-29T03:12:00+08:00,9.03,126.2,74.0,1.6,003 km N 75° W of Tago (Surigao Del Sur),2026_Earthquake_Information/October/2026_1028_1912_B1.html
 20261029T0319_5.35_125.38,2026-10-29T03:19:00+08:00,5.35,125.38,30.0,2.5,008 km S 36° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1028_1919_B1F.html
 20261029T0342_12.84_123.03,2026-10-29T03:42:00+08:00,12.84,123.03,6.0,2.4,024 km S 73° W of Claveria (Masbate),2026_Earthquake_Information/October/2026_1028_1942_B1.html
+20261029T0356_2.4_126.52,2026-10-29T03:56:00+08:00,2.4,126.52,61.0,5.0,354 km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1028_1956_B2.html
+20261029T0356_6.05_125.97,2026-10-29T03:56:00+08:00,6.05,125.97,140.0,2.9,035 km S 62° E of Don Marcelino (Davao Occidental),2026_Earthquake_Information/October/2026_1028_195631_B1.html
+20261029T0409_4.49_125.22,2026-10-29T04:09:00+08:00,4.49,125.22,19.0,2.2,105 km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1028_2009_B1F.html
+20261029T0421_6.18_125.92,2026-10-29T04:21:00+08:00,6.18,125.92,128.0,3.5,025 km S 87° E of Don Marcelino (Davao Occidental),2026_Earthquake_Information/October/2026_1028_2021_B1.html
+20261029T0430_5.51_125.32,2026-10-29T04:30:00+08:00,5.51,125.32,31.0,1.8,016 km N 48° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1028_2030_B1F.html
+20261029T0437_6.54_126.52,2026-10-29T04:37:00+08:00,6.54,126.52,29.0,2.6,051 km S 76° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/October/2026_1028_2037_B1.html
+20261029T0706_7.87_122.73,2026-10-29T07:06:00+08:00,7.87,122.73,32.0,1.8,008 km N 22° W of Kabasalan (Zamboanga Sibugay),2026_Earthquake_Information/October/2026_1028_2306_B1.html
+20261029T0727_9.35_126.26,2026-10-29T07:27:00+08:00,9.35,126.26,21.0,2.0,011 km N 42° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/October/2026_1028_2327_B1.html
