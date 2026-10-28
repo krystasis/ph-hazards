@@ -1595,7 +1595,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261027T2106_7.66_124.8,2026-10-27T21:06:00+08:00,7.66,124.8,15.0,1.6,009 km N 76° E of Wao (Lanao Del Sur),2026_Earthquake_Information/October/2026_1027_1306_B2.html
 20261027T2229_8.76_126.46,2026-10-27T22:29:00+08:00,8.76,126.46,32.0,2.9,018 km S 75° E of Marihatag (Surigao Del Sur),2026_Earthquake_Information/October/2026_1027_1429_B2.html
 20261027T2232_11.86_124.1,2026-10-27T22:32:00+08:00,11.86,124.1,9.0,2.0,006 km S 68° E of Pio V. Corpus (Masbate),2026_Earthquake_Information/October/2026_1027_1432_B2.html
-20261027T2241_13.7_125.18,2026-10-27T22:41:00+08:00,13.7,125.18,33.0,3.5,086 km S 84° E of Gigmoto (Catanduanes),2026_Earthquake_Information/October/2026_1027_1441_B1.html
+20261027T2241_13.72_125.26,2026-10-27T22:41:00+08:00,13.72,125.26,41.0,3.5,094 km S 85° E of Gigmoto (Catanduanes),2026_Earthquake_Information/October/2026_1027_1441_B2.html
 20261027T2259_9.76_126.13,2026-10-27T22:59:00+08:00,9.76,126.13,24.0,1.8,004 km S 51° W of General Luna (Surigao Del Norte),2026_Earthquake_Information/October/2026_1027_1459_B1.html
 20261027T2343_5.42_125.45,2026-10-27T23:43:00+08:00,5.42,125.45,50.0,1.9,004 km N 73° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1027_1543_B1F.html
 20261028T0007_18.26_119.79,2026-10-28T00:07:00+08:00,18.26,119.79,15.0,4.4,078 km N 70° W of Currimao (Ilocos Norte),2026_Earthquake_Information/October/2026_1027_1607_B2.html
@@ -1654,3 +1654,5 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261028T2045_9.64_126.18,2026-10-28T20:45:00+08:00,9.64,126.18,42.0,1.8,016 km S 08° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/October/2026_1028_1245_B1.html
 20261028T2050_5.62_125.43,2026-10-28T20:50:00+08:00,5.62,125.43,29.0,2.1,017 km N 16° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1028_125043_B1F.html
 20261028T2050_9.74_126.03,2026-10-28T20:50:00+08:00,9.74,126.03,23.0,3.0,003 km S 48° W of Dapa (Surigao Del Norte),2026_Earthquake_Information/October/2026_1028_125011_B1.html
+20261028T2052_9.65_126.15,2026-10-28T20:52:00+08:00,9.65,126.15,32.0,1.9,015 km S 41° E of Dapa (Surigao Del Norte),2026_Earthquake_Information/October/2026_1028_1252_B1.html
+20261028T2103_12.75_123.05,2026-10-28T21:03:00+08:00,12.75,123.05,8.0,2.2,027 km S 52° W of Claveria (Masbate),2026_Earthquake_Information/October/2026_1028_1303_B1.html
