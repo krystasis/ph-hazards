@@ -1636,10 +1636,10 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261028T1141_5.47_125.2,2026-10-28T11:41:00+08:00,5.47,125.2,24.0,1.8,025 km N 76° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1028_0341_B1F.html
 20261028T1159_5.37_125.35,2026-10-28T11:59:00+08:00,5.37,125.35,34.0,2.0,009 km S 60° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1028_0359_B1F.html
 20261028T1233_15.16_122.78,2026-10-28T12:33:00+08:00,15.16,122.78,10.0,3.3,069 km N 43° E of Jomalig (Quezon),2026_Earthquake_Information/October/2026_1028_0433_B2.html
-20261028T1417_4.26_126.23,2026-10-28T14:17:00+08:00,4.26,126.23,122.0,2.9,156 km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1028_0617_B1F.html
+20261028T1417_4.39_126.17,2026-10-28T14:17:00+08:00,4.39,126.17,125.0,3.4,141 km S 36° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1028_0617_B2F.html
 20261028T1555_10.46_123.07,2026-10-28T15:55:00+08:00,10.46,123.07,10.0,2.6,016 km N 77° E of City Of La Carlota (Negros Occidental),2026_Earthquake_Information/October/2026_1028_0755_B2F.html
 20261028T1656_13.56_120.65,2026-10-28T16:56:00+08:00,13.56,120.65,112.0,1.8,016 km N 33° W of Abra De Ilog (Occidental Mindoro),2026_Earthquake_Information/October/2026_1028_0856_B1.html
-20261028T1732_5.25_125.3,2026-10-28T17:32:00+08:00,5.25,125.3,23.0,4.4,022 km S 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1028_0932_B1F.html
+20261028T1732_5.07_125.43,2026-10-28T17:32:00+08:00,5.07,125.43,38.0,4.7,038 km S 01° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1028_0932_B2F.html
 20261028T1735_9.24_121.88,2026-10-28T17:35:00+08:00,9.24,121.88,32.0,2.4,076 km S 58° W of Hinoba-an (Negros Occidental),2026_Earthquake_Information/October/2026_1028_0935_B2.html
 20261028T1806_9.39_126.09,2026-10-28T18:06:00+08:00,9.39,126.09,17.0,2.3,014 km N 64° E of Cantilan (Surigao Del Sur),2026_Earthquake_Information/October/2026_1028_1006_B1.html
 20261028T1815_8.59_126.56,2026-10-28T18:15:00+08:00,8.59,126.56,8.0,1.6,035 km N 45° E of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/October/2026_1028_1015_B1.html
@@ -1686,3 +1686,14 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261029T0738_5.63_125.31,2026-10-29T07:38:00+08:00,5.63,125.31,29.0,1.9,024 km S 28° E of Glan (Sarangani),2026_Earthquake_Information/October/2026_1028_2338_B1F.html
 20261029T0825_9.19_126.23,2026-10-29T08:25:00+08:00,9.19,126.23,26.0,1.6,010 km S 27° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_0025_B1.html
 20261029T0912_5.25_125.31,2026-10-29T09:12:00+08:00,5.25,125.31,3.0,2.5,021 km S 35° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1029_0112_B1F.html
+20261029T1117_8.45_127.42,2026-10-29T11:17:00+08:00,8.45,127.42,29.0,1.9,120 km N 68° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_0317_B1.html
+20261029T1119_8.41_127.49,2026-10-29T11:19:00+08:00,8.41,127.49,10.0,5.7,125 km N 70° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_031906_B1.html
+20261029T1119_8.46_127.35,2026-10-29T11:19:00+08:00,8.46,127.35,27.0,4.2,113 km N 66° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_031909_B1.html
+20261029T1133_8.56_127.46,2026-10-29T11:33:00+08:00,8.56,127.46,33.0,4.3,129 km N 64° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_033307_B2.html
+20261029T1140_8.45_127.39,2026-10-29T11:40:00+08:00,8.45,127.39,33.0,2.8,117 km N 67° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_0340_B1.html
+20261029T1201_8.49_127.48,2026-10-29T12:01:00+08:00,8.49,127.48,33.0,2.1,128 km N 67° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_040144_B1.html
+20261029T1202_8.54_127.38,2026-10-29T12:02:00+08:00,8.54,127.38,36.0,2.2,117 km N 81° E of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_040247_B1.html
+20261029T1223_8.5_127.28,2026-10-29T12:23:00+08:00,8.5,127.28,17.0,2.9,109 km N 62° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_042351_B1.html
+20261029T1230_8.45_127.45,2026-10-29T12:30:00+08:00,8.45,127.45,33.0,2.2,123 km N 68° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_043041_B1.html
+20261029T1234_8.53_127.32,2026-10-29T12:34:00+08:00,8.53,127.32,18.0,3.0,113 km N 62° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_043436_B1.html
+20261029T1243_5.76_125.18,2026-10-29T12:43:00+08:00,5.76,125.18,18.0,1.6,008 km S 21° W of Glan (Sarangani),2026_Earthquake_Information/October/2026_1029_044314_B1.html
