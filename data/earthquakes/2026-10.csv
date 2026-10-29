@@ -1687,8 +1687,8 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261029T0825_9.19_126.23,2026-10-29T08:25:00+08:00,9.19,126.23,26.0,1.6,010 km S 27° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_0025_B1.html
 20261029T0912_5.25_125.31,2026-10-29T09:12:00+08:00,5.25,125.31,3.0,2.5,021 km S 35° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/October/2026_1029_0112_B1F.html
 20261029T1117_8.45_127.42,2026-10-29T11:17:00+08:00,8.45,127.42,29.0,1.9,120 km N 68° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_0317_B1.html
-20261029T1119_8.41_127.49,2026-10-29T11:19:00+08:00,8.41,127.49,10.0,5.7,125 km N 70° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_031906_B1.html
 20261029T1119_8.46_127.35,2026-10-29T11:19:00+08:00,8.46,127.35,27.0,4.2,113 km N 66° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_031909_B1.html
+20261029T1119_8.48_127.26,2026-10-29T11:19:00+08:00,8.48,127.26,2.0,5.9,104 km N 62° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_031907_B2F.html
 20261029T1133_8.56_127.46,2026-10-29T11:33:00+08:00,8.56,127.46,33.0,4.3,129 km N 64° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_033307_B2.html
 20261029T1140_8.45_127.39,2026-10-29T11:40:00+08:00,8.45,127.39,33.0,2.8,117 km N 67° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_0340_B1.html
 20261029T1201_8.49_127.48,2026-10-29T12:01:00+08:00,8.49,127.48,33.0,2.1,128 km N 67° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_040144_B1.html
@@ -1698,3 +1698,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261029T1234_8.53_127.32,2026-10-29T12:34:00+08:00,8.53,127.32,18.0,3.0,113 km N 62° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/October/2026_1029_043436_B1.html
 20261029T1243_5.76_125.18,2026-10-29T12:43:00+08:00,5.76,125.18,18.0,1.6,008 km S 21° W of Glan (Sarangani),2026_Earthquake_Information/October/2026_1029_044314_B1.html
 20261029T1312_5.82_125.26,2026-10-29T13:12:00+08:00,5.82,125.26,35.0,1.5,006 km S 84° E of Glan (Sarangani),2026_Earthquake_Information/October/2026_1029_051256_B1F.html
+20261029T1325_5.88_125.36,2026-10-29T13:25:00+08:00,5.88,125.36,19.0,1.4,013 km S 40° E of Malapatan (Sarangani),2026_Earthquake_Information/October/2026_1029_052505_B1F.html
