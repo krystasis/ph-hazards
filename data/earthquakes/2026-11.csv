@@ -28,7 +28,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261101T0854_7.97_126.83,2026-11-01T08:54:00+08:00,7.97,126.83,11.0,1.9,045 km N 64° E of Cateel (Davao Oriental),2026_Earthquake_Information/November/2026_1101_005426_B2F.html
 20261101T1057_8.48_127.43,2026-11-01T10:57:00+08:00,8.48,127.43,33.0,2.9,122 km N 67° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1101_025738_B1F.html
 20261101T1104_11.01_123.98,2026-11-01T11:04:00+08:00,11.01,123.98,10.0,1.8,004 km S 06° E of City Of Bogo (Cebu),2026_Earthquake_Information/November/2026_1101_030410_B1F.html
-20261101T1105_9.6_124.15,2026-11-01T11:05:00+08:00,9.6,124.15,35.0,1.7,002 km S 69° W of Dimiao (Bohol),2026_Earthquake_Information/November/2026_1101_030537_B2.html
+20261101T1105_9.62_124.1,2026-11-01T11:05:00+08:00,9.62,124.1,32.0,1.7,007 km N 75° W of Dimiao (Bohol),2026_Earthquake_Information/November/2026_1101_030538_B2.html
 20261101T1124_12.85_122.9,2026-11-01T11:24:00+08:00,12.85,122.9,3.0,1.8,032 km S 15° W of San Pascual (Masbate),2026_Earthquake_Information/November/2026_1101_032440_B1.html
 20261101T1128_12.87_123.19,2026-11-01T11:28:00+08:00,12.87,123.19,6.0,1.5,007 km S 59° W of Claveria (Masbate),2026_Earthquake_Information/November/2026_1101_032815_B1.html
 20261101T1145_7.82_126.69,2026-11-01T11:45:00+08:00,7.82,126.69,32.0,2.4,026 km N 82° E of Cateel (Davao Oriental),2026_Earthquake_Information/November/2026_1101_034501_B1.html
@@ -37,9 +37,9 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261101T1457_12.81_122.99,2026-11-01T14:57:00+08:00,12.81,122.99,31.0,1.8,030 km S 69° W of Claveria (Masbate),2026_Earthquake_Information/November/2026_1101_065750_B1.html
 20261101T1535_8.07_127.09,2026-11-01T15:35:00+08:00,8.07,127.09,17.0,2.8,075 km N 87° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1101_073539_B1F.html
 20261101T1611_12.58_123.57,2026-11-01T16:11:00+08:00,12.58,123.57,7.0,3.7,012 km S 57° W of Monreal (Masbate),2026_Earthquake_Information/November/2026_1101_081131_B3F.html
-20261101T1702_20.14_121.84,2026-11-01T17:02:00+08:00,20.14,121.84,32.0,1.7,021 km S 09° W of Sabtang (Batanes),2026_Earthquake_Information/November/2026_1101_090259_B1.html
-20261101T1712_8.34_127.41,2026-11-01T17:12:00+08:00,8.34,127.41,13.0,4.2,115 km N 73° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1101_091221_B1.html
-20261101T1716_14.35_124.31,2026-11-01T17:16:00+08:00,14.35,124.31,5.0,2.4,037 km N 24° E of Pandan (Catanduanes),2026_Earthquake_Information/November/2026_1101_091657_B1.html
+20261101T1703_20.2_121.8,2026-11-01T17:03:00+08:00,20.2,121.8,31.0,2.6,017 km S 26° W of Sabtang (Batanes),2026_Earthquake_Information/November/2026_1101_090300_B2.html
+20261101T1712_8.51_127.56,2026-11-01T17:12:00+08:00,8.51,127.56,14.0,4.2,137 km N 68° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1101_091218_B2F.html
+20261101T1716_14.47_124.46,2026-11-01T17:16:00+08:00,14.47,124.46,25.0,2.6,056 km N 34° E of Pandan (Catanduanes),2026_Earthquake_Information/November/2026_1101_091656_B2.html
 20261101T1734_7.08_126.98,2026-11-01T17:34:00+08:00,7.08,126.98,17.0,2.3,051 km S 73° E of Manay (Davao Oriental),2026_Earthquake_Information/November/2026_1101_093437_B1.html
 20261101T1815_19.06_121.07,2026-11-01T18:15:00+08:00,19.06,121.07,24.0,2.8,015 km S 68° W of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/November/2026_1101_101558_B1.html
 20261101T1850_19.15_121.22,2026-11-01T18:50:00+08:00,19.15,121.22,24.0,2.1,005 km N 13° E of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/November/2026_1101_105034_B1.html
