@@ -59,11 +59,11 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261102T0144_8.58_127.55,2026-11-02T01:44:00+08:00,8.58,127.55,15.0,3.2,139 km N 64° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1101_174437_B2F.html
 20261102T0221_9.4_126.61,2026-11-02T02:21:00+08:00,9.4,126.61,11.0,2.6,048 km N 74° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/November/2026_1101_182148_B2.html
 20261102T0225_13.52_126.64,2026-11-02T02:25:00+08:00,13.52,126.64,42.0,4.0,190 km N 53° E of Mapanas (Northern Samar),2026_Earthquake_Information/November/2026_1101_182547_B3.html
-20261102T0242_19.82_121.19,2026-11-02T02:42:00+08:00,19.82,121.19,6.0,3.7,069 km N 26° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1101_184251_B1.html
-20261102T0244_19.67_121.44,2026-11-02T02:44:00+08:00,19.67,121.44,8.0,1.8,045 km N 05° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1101_184440_B1.html
-20261102T0246_19.82_121.02,2026-11-02T02:46:00+08:00,19.82,121.02,11.0,1.9,078 km N 38° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1101_184625_B1.html
-20261102T0248_19.65_120.94,2026-11-02T02:48:00+08:00,19.65,120.94,9.0,3.7,067 km N 25° W of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/November/2026_1101_184808_B1.html
-20261102T0252_19.35_121.47,2026-11-02T02:52:00+08:00,19.35,121.47,2.0,2.2,010 km N 05° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1101_185215_B1.html
+20261102T0242_19.8_121.3,2026-11-02T02:42:00+08:00,19.8,121.3,4.0,4.1,063 km N 17° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1101_184251_B2.html
+20261102T0244_19.61_121.32,2026-11-02T02:44:00+08:00,19.61,121.32,13.0,1.9,042 km N 22° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1101_184441_B2.html
+20261102T0246_19.73_121.25,2026-11-02T02:46:00+08:00,19.73,121.25,17.0,2.1,057 km N 25° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1101_184629_B2.html
+20261102T0248_19.58_121.18,2026-11-02T02:48:00+08:00,19.58,121.18,18.0,3.6,047 km N 42° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1101_184811_B2.html
+20261102T0252_19.61_121.51,2026-11-02T02:52:00+08:00,19.61,121.51,2.0,2.2,039 km N 06° E of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1101_185209_B2.html
 20261102T0317_19.51_121.13,2026-11-02T03:17:00+08:00,19.51,121.13,18.0,2.6,045 km N 10° W of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/November/2026_1101_191726_B1.html
 20261102T0320_19.69_121.17,2026-11-02T03:20:00+08:00,19.69,121.17,8.0,2.3,057 km N 34° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1101_192053_B1.html
 20261102T0322_19.29_121.48,2026-11-02T03:22:00+08:00,19.29,121.48,2.0,2.1,003 km N 16° E of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1101_192225_B1.html
@@ -115,3 +115,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261102T2122_10.13_122.14,2026-11-02T21:22:00+08:00,10.13,122.14,30.0,1.6,041 km S 35° E of Anini-y (Antique),2026_Earthquake_Information/November/2026_1102_132245_B1.html
 20261102T2207_15.59_119.97,2026-11-02T22:07:00+08:00,15.59,119.97,29.0,1.9,006 km S 45° E of Candelaria (Zambales),2026_Earthquake_Information/November/2026_1102_140717_B1.html
 20261102T2217_19.63_121.18,2026-11-02T22:17:00+08:00,19.63,121.18,16.0,2.8,051 km N 37° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1102_141750_B1.html
+20261102T2312_5.55_125.21,2026-11-02T23:12:00+08:00,5.55,125.21,4.0,3.6,028 km N 56° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1102_1512_B1F.html
