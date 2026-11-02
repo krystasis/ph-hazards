@@ -78,9 +78,9 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261102T0526_5.28_125.28,2026-11-02T05:26:00+08:00,5.28,125.28,33.0,2.7,021 km S 46° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1101_2126_B2F.html
 20261102T0533_9.3_126.73,2026-11-02T05:33:00+08:00,9.3,126.73,8.0,3.2,059 km N 87° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/November/2026_1101_2133_B2.html
 20261102T0552_12.63_123.53,2026-11-02T05:52:00+08:00,12.63,123.53,5.0,2.6,015 km S 87° W of Monreal (Masbate),2026_Earthquake_Information/November/2026_1101_2152_B2.html
-20261102T0635_8.89_126.58,2026-11-02T06:35:00+08:00,8.89,126.58,31.0,2.1,030 km S 84° E of Cagwait (Surigao Del Sur),2026_Earthquake_Information/November/2026_1101_223523_B1.html
+20261102T0635_8.89_126.49,2026-11-02T06:35:00+08:00,8.89,126.49,29.0,2.0,021 km S 82° E of Cagwait (Surigao Del Sur),2026_Earthquake_Information/November/2026_1101_2235_B2.html
 20261102T0658_18.0_122.09,2026-11-02T06:58:00+08:00,18.0,122.09,23.0,2.2,026 km N 62° E of Baggao (Cagayan),2026_Earthquake_Information/November/2026_1101_225829_B1.html
-20261102T0849_8.56_126.66,2026-11-02T08:49:00+08:00,8.56,126.66,12.0,2.2,041 km N 59° E of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/November/2026_1102_004926_B1.html
+20261102T0849_8.55_126.57,2026-11-02T08:49:00+08:00,8.55,126.57,11.0,2.2,033 km N 51° E of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/November/2026_1102_0049_B2.html
 20261102T1010_8.57_127.25,2026-11-02T10:10:00+08:00,8.57,127.25,14.0,2.5,103 km N 77° E of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/November/2026_1102_021034_B1F.html
 20261102T1038_19.2_121.43,2026-11-02T10:38:00+08:00,19.2,121.43,19.0,2.0,008 km S 36° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1102_0238_B1.html
 20261102T1112_13.03_124.44,2026-11-02T11:12:00+08:00,13.03,124.44,11.0,3.3,026 km S 87° E of Prieto Diaz (Sorsogon),2026_Earthquake_Information/November/2026_1102_031241_B1.html
@@ -121,3 +121,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261103T0038_12.81_123.03,2026-11-03T00:38:00+08:00,12.81,123.03,12.0,2.1,026 km S 66° W of Claveria (Masbate),2026_Earthquake_Information/November/2026_1102_163859_B1.html
 20261103T0041_14.35_124.03,2026-11-03T00:41:00+08:00,14.35,124.03,9.0,1.9,037 km N 27° W of Pandan (Catanduanes),2026_Earthquake_Information/November/2026_1102_164137_B1.html
 20261103T0047_11.63_124.35,2026-11-03T00:47:00+08:00,11.63,124.35,8.0,2.2,004 km N 65° W of Almeria (Biliran),2026_Earthquake_Information/November/2026_1102_164758_B1.html
+20261103T0147_5.97_126.19,2026-11-03T01:47:00+08:00,5.97,126.19,138.0,3.1,061 km S 65° E of Don Marcelino (Davao Occidental),2026_Earthquake_Information/November/2026_1102_174709_B1.html
