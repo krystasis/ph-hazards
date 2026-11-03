@@ -103,9 +103,9 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261102T1718_19.32_121.2,2026-11-02T17:18:00+08:00,19.32,121.2,8.0,2.6,030 km N 77° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1102_0918_B2.html
 20261102T1740_19.52_121.38,2026-11-02T17:40:00+08:00,19.52,121.38,7.0,3.0,030 km N 19° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1102_0940_B2.html
 20261102T1745_19.42_121.21,2026-11-02T17:45:00+08:00,19.42,121.21,17.0,2.8,033 km N 57° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1102_0945_B2.html
-20261102T1805_16.64_119.7,2026-11-02T18:05:00+08:00,16.64,119.7,15.0,2.9,035 km N 37° W of Bolinao (Pangasinan),2026_Earthquake_Information/November/2026_1102_100535_B1.html
-20261102T1815_19.61_121.33,2026-11-02T18:15:00+08:00,19.61,121.33,10.0,2.9,042 km N 22° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1102_101541_B1.html
-20261102T1917_19.81_121.55,2026-11-02T19:17:00+08:00,19.81,121.55,2.0,2.2,061 km N 07° E of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1102_111757_B1.html
+20261102T1805_16.63_119.68,2026-11-02T18:05:00+08:00,16.63,119.68,13.0,2.9,035 km N 40° W of Bolinao (Pangasinan),2026_Earthquake_Information/November/2026_1102_100536_B2.html
+20261102T1815_19.63_121.34,2026-11-02T18:15:00+08:00,19.63,121.34,12.0,2.9,043 km N 19° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1102_101541_B2.html
+20261102T1917_19.94_121.23,2026-11-02T19:17:00+08:00,19.94,121.23,8.0,2.4,080 km N 19° W of Calayan (Cagayan),2026_Earthquake_Information/November/2026_1102_111756_B2.html
 20261102T1928_19.04_121.86,2026-11-02T19:28:00+08:00,19.04,121.86,11.0,2.0,014 km N 03° W of Camiguin Island (Calayan) (Cagayan),2026_Earthquake_Information/November/2026_1102_112839_B1.html
 20261102T1938_9.57_126.34,2026-11-02T19:38:00+08:00,9.57,126.34,32.0,1.6,031 km S 40° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1102_113844_B1.html
 20261102T1944_6.2_127.09,2026-11-02T19:44:00+08:00,6.2,127.09,29.0,3.0,118 km S 37° E of Tarragona (Davao Oriental),2026_Earthquake_Information/November/2026_1102_114417_B1.html
@@ -165,3 +165,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261103T1701_7.81_123.29,2026-11-03T17:01:00+08:00,7.81,123.29,28.0,1.4,008 km S 82° W of Dumalinao (Zamboanga Del Sur),2026_Earthquake_Information/November/2026_1103_090124_B1.html
 20261103T1706_6.94_125.71,2026-11-03T17:06:00+08:00,6.94,125.71,20.0,2.1,015 km S 01° W of Island Garden City Of Samal (Davao Del Norte),2026_Earthquake_Information/November/2026_1103_090648_B1.html
 20261103T1707_17.82_121.06,2026-11-03T17:07:00+08:00,17.82,121.06,35.0,1.4,021 km N 36° E of Lacub (Abra),2026_Earthquake_Information/November/2026_1103_090714_B1.html
+20261103T1754_14.14_120.42,2026-11-03T17:54:00+08:00,14.14,120.42,106.0,4.0,024 km N 72° W of Nasugbu (Batangas),2026_Earthquake_Information/November/2026_1103_095457_B1.html
