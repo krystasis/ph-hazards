@@ -188,11 +188,11 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261104T0127_16.68_120.5,2026-11-04T01:27:00+08:00,16.68,120.5,2.0,1.9,010 km N 88° E of San Gabriel (La Union),2026_Earthquake_Information/November/2026_1103_172719_B2.html
 20261104T0137_11.72_125.2,2026-11-04T01:37:00+08:00,11.72,125.2,34.0,1.5,014 km N 82° E of Hinabangan (Samar),2026_Earthquake_Information/November/2026_1103_173759_B1.html
 20261104T0139_14.1_120.5,2026-11-04T01:39:00+08:00,14.1,120.5,113.0,1.7,015 km N 80° W of Nasugbu (Batangas),2026_Earthquake_Information/November/2026_1103_173916_B1.html
-20261104T0143_9.26_126.98,2026-11-04T01:43:00+08:00,9.26,126.98,17.0,2.0,083 km N 67° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/November/2026_1103_174334_B1.html
+20261104T0143_9.2_127.06,2026-11-04T01:43:00+08:00,9.2,127.06,2.0,2.0,090 km N 68° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/November/2026_1103_174331_B2.html
 20261104T0201_8.46_127.12,2026-11-04T02:01:00+08:00,8.46,127.12,2.0,2.7,091 km N 59° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1103_180100_B1F.html
 20261104T0202_8.35_127.31,2026-11-04T02:02:00+08:00,8.35,127.31,33.0,2.6,105 km N 71° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1103_180221_B1F.html
 20261104T0209_11.89_121.0,2026-11-04T02:09:00+08:00,11.89,121.0,31.0,1.4,049 km S 19° W of Magsaysay (Occidental Mindoro),2026_Earthquake_Information/November/2026_1103_180958_B1.html
-20261104T0219_8.19_127.24,2026-11-04T02:19:00+08:00,8.19,127.24,9.0,2.7,092 km N 79° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1103_181934_B1F.html
+20261104T0219_8.59_127.35,2026-11-04T02:19:00+08:00,8.59,127.35,17.0,2.9,119 km N 60° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1103_181931_B2F.html
 20261104T0241_17.3_120.37,2026-11-04T02:41:00+08:00,17.3,120.37,27.0,1.7,008 km N 88° W of Santiago (Ilocos Sur),2026_Earthquake_Information/November/2026_1103_184107_B1.html
 20261104T0243_14.88_123.15,2026-11-04T02:43:00+08:00,14.88,123.15,21.0,2.4,049 km N 26° E of Tinaga Island (Vinzons) (Camarines Norte),2026_Earthquake_Information/November/2026_1103_184319_B1.html
 20261104T0253_14.53_122.88,2026-11-04T02:53:00+08:00,14.53,122.88,46.0,1.7,009 km N 48° W of Tinaga Island (Vinzons) (Camarines Norte),2026_Earthquake_Information/November/2026_1103_185359_B1.html
@@ -213,7 +213,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261104T0539_18.97_122.13,2026-11-04T05:39:00+08:00,18.97,122.13,11.0,3.7,029 km N 76° E of Camiguin Island (Calayan) (Cagayan),2026_Earthquake_Information/November/2026_1103_213938_B1.html
 20261104T0541_10.47_125.97,2026-11-04T05:41:00+08:00,10.47,125.97,18.0,2.4,041 km S 42° E of Homonhon Island (Guiuan) (Eastern Samar),2026_Earthquake_Information/November/2026_1103_214119_B1.html
 20261104T0545_10.55_122.28,2026-11-04T05:45:00+08:00,10.55,122.28,7.0,2.7,011 km S 27° E of Miagao (Iloilo),2026_Earthquake_Information/November/2026_1103_214552_B1.html
-20261104T0555_11.27_124.61,2026-11-04T05:55:00+08:00,11.27,124.61,6.0,3.1,005 km S 51° W of Capoocan (Leyte),2026_Earthquake_Information/November/2026_1103_215539_B1.html
+20261104T0555_11.26_124.62,2026-11-04T05:55:00+08:00,11.26,124.62,5.0,3.2,004 km S 39° W of Capoocan (Leyte),2026_Earthquake_Information/November/2026_1103_215539_B2F.html
 20261104T0629_5.4_125.36,2026-11-04T06:29:00+08:00,5.4,125.36,33.0,1.5,007 km S 79° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1103_222950_B1F.html
 20261104T0702_10.55_122.26,2026-11-04T07:02:00+08:00,10.55,122.26,20.0,1.7,010 km S 17° E of Miagao (Iloilo),2026_Earthquake_Information/November/2026_1103_230202_B1.html
 20261104T0740_10.6_122.32,2026-11-04T07:40:00+08:00,10.6,122.32,2.0,2.2,006 km S 08° W of Guimbal (Iloilo),2026_Earthquake_Information/November/2026_1103_234049_B1.html
