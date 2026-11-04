@@ -166,12 +166,12 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261103T1706_6.92_125.72,2026-11-03T17:06:00+08:00,6.92,125.72,21.0,2.2,017 km S 04° E of Island Garden City Of Samal (Davao Del Norte),2026_Earthquake_Information/November/2026_1103_090648_B2.html
 20261103T1707_17.8_121.18,2026-11-03T17:07:00+08:00,17.8,121.18,26.0,1.4,015 km N 90° W of Conner (Apayao),2026_Earthquake_Information/November/2026_1103_090714_B2.html
 20261103T1754_14.09_120.44,2026-11-03T17:54:00+08:00,14.09,120.44,118.0,3.8,021 km N 86° W of Nasugbu (Batangas),2026_Earthquake_Information/November/2026_1103_095454_B3.html
-20261103T1813_8.42_123.21,2026-11-03T18:13:00+08:00,8.42,123.21,32.0,1.6,011 km S 14° W of President Manuel A. Roxas (Zamboanga Del Norte),2026_Earthquake_Information/November/2026_1103_101325_B1.html
-20261103T1827_14.34_120.36,2026-11-03T18:27:00+08:00,14.34,120.36,102.0,1.8,018 km S 54° W of Mariveles (Bataan),2026_Earthquake_Information/November/2026_1103_102710_B1.html
-20261103T1832_8.42_127.45,2026-11-03T18:32:00+08:00,8.42,127.45,33.0,2.3,122 km N 70° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1103_103213_B1F.html
+20261103T1813_8.41_123.13,2026-11-03T18:13:00+08:00,8.41,123.13,25.0,1.8,016 km S 42° W of President Manuel A. Roxas (Zamboanga Del Norte),2026_Earthquake_Information/November/2026_1103_101325_B2.html
+20261103T1827_14.37_120.42,2026-11-03T18:27:00+08:00,14.37,120.42,113.0,1.8,010 km S 46° W of Mariveles (Bataan),2026_Earthquake_Information/November/2026_1103_102708_B2.html
+20261103T1832_8.44_127.43,2026-11-03T18:32:00+08:00,8.44,127.43,34.0,2.3,121 km N 86° E of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/November/2026_1103_103213_B2F.html
 20261103T1859_5.68_125.17,2026-11-03T18:59:00+08:00,5.68,125.17,4.0,2.0,016 km S 15° W of Glan (Sarangani),2026_Earthquake_Information/November/2026_1103_105915_B1F.html
 20261103T1916_6.44_126.05,2026-11-03T19:16:00+08:00,6.44,126.05,46.0,1.9,024 km S 06° W of Governor Generoso (Davao Oriental),2026_Earthquake_Information/November/2026_1103_111642_B1.html
-20261103T1949_11.83_124.17,2026-11-03T19:49:00+08:00,11.83,124.17,4.0,2.5,015 km S 66° E of Pio V. Corpus (Masbate),2026_Earthquake_Information/November/2026_1103_114915_B1.html
+20261103T1949_11.81_124.17,2026-11-03T19:49:00+08:00,11.81,124.17,7.0,2.6,016 km S 59° E of Pio V. Corpus (Masbate),2026_Earthquake_Information/November/2026_1103_114915_B2.html
 20261103T2006_5.02_125.44,2026-11-03T20:06:00+08:00,5.02,125.44,12.0,2.3,043 km S 03° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1103_120642_B1F.html
 20261103T2033_11.59_125.23,2026-11-03T20:33:00+08:00,11.59,125.23,11.0,2.4,021 km S 55° E of Hinabangan (Samar),2026_Earthquake_Information/November/2026_1103_123345_B1.html
 20261103T2140_4.4_125.18,2026-11-03T21:40:00+08:00,4.4,125.18,301.0,3.2,115 km S 13° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1103_134041_B1.html
@@ -180,12 +180,12 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261103T2315_5.67_125.49,2026-11-03T23:15:00+08:00,5.67,125.49,25.0,2.1,022 km N 06° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1103_151513_B1F.html
 20261104T0000_9.26_126.83,2026-11-04T00:00:00+08:00,9.26,126.83,15.0,2.5,068 km N 62° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/November/2026_1103_160039_B1.html
 20261104T0002_7.96_126.62,2026-11-04T00:02:00+08:00,7.96,126.62,25.0,2.6,025 km S 71° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1103_160228_B1F.html
-20261104T0014_9.27_126.83,2026-11-04T00:14:00+08:00,9.27,126.83,8.0,2.8,069 km N 61° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/November/2026_1103_161423_B1.html
+20261104T0014_9.24_127.08,2026-11-04T00:14:00+08:00,9.24,127.08,4.0,4.1,092 km N 71° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/November/2026_1103_161418_B2.html
 20261104T0100_6.9_126.2,2026-11-04T01:00:00+08:00,6.9,126.2,17.0,1.5,006 km S 16° W of City Of Mati (Davao Oriental),2026_Earthquake_Information/November/2026_1103_170056_B1.html
 20261104T0101_4.66_125.24,2026-11-04T01:01:00+08:00,4.66,125.24,8.0,4.0,085 km S 14° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1103_170140_B1F.html
 20261104T0112_5.29_125.3,2026-11-04T01:12:00+08:00,5.29,125.3,32.0,1.6,019 km S 44° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1103_171215_B1F.html
 20261104T0122_5.64_125.34,2026-11-04T01:22:00+08:00,5.64,125.34,26.0,1.6,023 km N 38° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1103_172235_B1F.html
-20261104T0127_16.7_120.45,2026-11-04T01:27:00+08:00,16.7,120.45,14.0,2.0,006 km N 59° E of San Gabriel (La Union),2026_Earthquake_Information/November/2026_1103_172719_B1.html
+20261104T0127_16.68_120.5,2026-11-04T01:27:00+08:00,16.68,120.5,2.0,1.9,010 km N 88° E of San Gabriel (La Union),2026_Earthquake_Information/November/2026_1103_172719_B2.html
 20261104T0137_11.72_125.2,2026-11-04T01:37:00+08:00,11.72,125.2,34.0,1.5,014 km N 82° E of Hinabangan (Samar),2026_Earthquake_Information/November/2026_1103_173759_B1.html
 20261104T0139_14.1_120.5,2026-11-04T01:39:00+08:00,14.1,120.5,113.0,1.7,015 km N 80° W of Nasugbu (Batangas),2026_Earthquake_Information/November/2026_1103_173916_B1.html
 20261104T0143_9.26_126.98,2026-11-04T01:43:00+08:00,9.26,126.98,17.0,2.0,083 km N 67° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/November/2026_1103_174334_B1.html
@@ -201,7 +201,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261104T0316_13.85_123.28,2026-11-04T03:16:00+08:00,13.85,123.28,9.0,1.9,008 km N 58° W of Tinambac (Camarines Sur),2026_Earthquake_Information/November/2026_1103_191617_B1.html
 20261104T0320_7.27_123.38,2026-11-04T03:20:00+08:00,7.27,123.38,17.0,1.7,021 km S 19° E of Pitogo (Zamboanga Del Sur),2026_Earthquake_Information/November/2026_1103_192036_B1.html
 20261104T0334_15.38_119.96,2026-11-04T03:34:00+08:00,15.38,119.96,19.0,1.4,006 km N 13° W of Iba (Zambales),2026_Earthquake_Information/November/2026_1103_193430_B1.html
-20261104T0339_6.05_126.51,2026-11-04T03:39:00+08:00,6.05,126.51,74.0,3.0,083 km S 36° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/November/2026_1103_193958_B1.html
+20261104T0339_6.06_126.56,2026-11-04T03:39:00+08:00,6.06,126.56,70.0,3.0,085 km S 39° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/November/2026_1103_193958_B2.html
 20261104T0409_19.07_121.17,2026-11-04T04:09:00+08:00,19.07,121.17,11.0,2.2,005 km S 48° W of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/November/2026_1103_200918_B1.html
 20261104T0410_6.47_123.67,2026-11-04T04:10:00+08:00,6.47,123.67,18.0,1.9,043 km S 77° W of Kalamansig (Sultan Kudarat),2026_Earthquake_Information/November/2026_1103_201016_B1.html
 20261104T0424_10.57_122.26,2026-11-04T04:24:00+08:00,10.57,122.26,2.0,2.1,008 km S 19° E of Miagao (Iloilo),2026_Earthquake_Information/November/2026_1103_202456_B1.html
@@ -234,3 +234,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261104T1539_3.81_128.03,2026-11-04T15:39:00+08:00,3.81,128.03,160.0,4.9,339 km S 57° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1104_073957_B1.html
 20261104T1646_5.31_125.25,2026-11-04T16:46:00+08:00,5.31,125.25,33.0,3.0,022 km S 60° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1104_084652_B1F.html
 20261104T1711_12.92_123.9,2026-11-04T17:11:00+08:00,12.92,123.9,33.0,1.3,012 km S 59° E of Castilla (Sorsogon),2026_Earthquake_Information/November/2026_1104_091147_B1.html
+20261104T1837_3.64_126.35,2026-11-04T18:37:00+08:00,3.64,126.35,110.0,3.7,222 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1104_103710_B1.html
