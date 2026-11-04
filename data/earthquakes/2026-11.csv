@@ -148,7 +148,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261103T0849_10.4_125.09,2026-11-03T08:49:00+08:00,10.4,125.09,9.0,2.4,012 km N 85° W of Hinunangan (Southern Leyte),2026_Earthquake_Information/November/2026_1103_004918_B2.html
 20261103T0854_17.46_122.33,2026-11-03T08:54:00+08:00,17.46,122.33,32.0,2.8,016 km N 15° E of Divilacan (Isabela),2026_Earthquake_Information/November/2026_1103_005412_B2.html
 20261103T0953_10.34_126.23,2026-11-03T09:53:00+08:00,10.34,126.23,6.0,3.0,039 km N 26° E of Burgos (Surigao Del Norte),2026_Earthquake_Information/November/2026_1103_015341_B2.html
-20261103T1051_5.87_125.96,2026-11-03T10:51:00+08:00,5.87,125.96,86.0,4.3,035 km S 83° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/November/2026_1103_025136_B2.html
+20261103T1051_5.82_125.96,2026-11-03T10:51:00+08:00,5.82,125.96,84.0,4.4,036 km S 74° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/November/2026_1103_025136_B3.html
 20261103T1318_7.42_122.74,2026-11-03T13:18:00+08:00,7.42,122.74,33.0,1.9,008 km S 81° W of Talusan (Zamboanga Sibugay),2026_Earthquake_Information/November/2026_1103_051854_B1.html
 20261103T1325_6.19_125.07,2026-11-03T13:25:00+08:00,6.19,125.07,32.0,1.7,003 km S 19° E of Polomolok (South Cotabato),2026_Earthquake_Information/November/2026_1103_052546_B1.html
 20261103T1328_13.43_121.35,2026-11-03T13:28:00+08:00,13.43,121.35,15.0,1.7,013 km N 24° E of Naujan (Oriental Mindoro),2026_Earthquake_Information/November/2026_1103_052841_B1.html
@@ -224,3 +224,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261104T1034_14.3_122.71,2026-11-04T10:34:00+08:00,14.3,122.71,16.0,2.2,002 km N 68° E of Jose Panganiban (Camarines Norte),2026_Earthquake_Information/November/2026_1104_023415_B1.html
 20261104T1111_10.27_126.21,2026-11-04T11:11:00+08:00,10.27,126.21,15.0,3.5,031 km N 28° E of Burgos (Surigao Del Norte),2026_Earthquake_Information/November/2026_1104_031126_B1.html
 20261104T1121_4.05_126.96,2026-11-04T11:21:00+08:00,4.05,126.96,16.0,3.8,228 km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1104_032157_B1.html
+20261104T1211_9.08_125.3,2026-11-04T12:11:00+08:00,9.08,125.3,29.0,2.2,010 km North of Carmen (Agusan Del Norte),2026_Earthquake_Information/November/2026_1104_041151_B1.html
