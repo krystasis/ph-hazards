@@ -258,7 +258,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261104T2334_5.55_125.38,2026-11-04T23:34:00+08:00,5.55,125.38,29.0,2.3,013 km N 49° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1104_153439_B1F.html
 20261104T2342_6.15_124.84,2026-11-04T23:42:00+08:00,6.15,124.84,6.0,1.7,007 km S 13° E of T'boli (South Cotabato),2026_Earthquake_Information/November/2026_1104_154255_B1.html
 20261105T0009_5.96_124.22,2026-11-05T00:09:00+08:00,5.96,124.22,30.0,1.5,027 km S 10° E of Palimbang (Sultan Kudarat),2026_Earthquake_Information/November/2026_1104_160931_B1.html
-20261105T0014_11.28_124.59,2026-11-05T00:14:00+08:00,11.28,124.59,7.0,4.4,006 km S 73° W of Capoocan (Leyte),2026_Earthquake_Information/November/2026_1104_161432_B2F.html
+20261105T0014_11.27_124.58,2026-11-05T00:14:00+08:00,11.27,124.58,6.0,4.4,007 km S 72° W of Capoocan (Leyte),2026_Earthquake_Information/November/2026_1104_161432_B3F.html
 20261105T0038_5.65_125.08,2026-11-05T00:38:00+08:00,5.65,125.08,32.0,1.5,023 km S 35° W of Glan (Sarangani),2026_Earthquake_Information/November/2026_1104_163854_B1F.html
 20261105T0047_5.23_125.16,2026-11-05T00:47:00+08:00,5.23,125.16,5.0,1.8,035 km S 56° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1104_164722_B1F.html
 20261105T0117_11.34_124.72,2026-11-05T01:17:00+08:00,11.34,124.72,12.0,2.2,002 km N 51° W of Barugo (Leyte),2026_Earthquake_Information/November/2026_1104_171751_B1.html
@@ -288,3 +288,5 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261105T1049_11.25_124.56,2026-11-05T10:49:00+08:00,11.25,124.56,29.0,1.5,007 km N 20° W of Kananga (Leyte),2026_Earthquake_Information/November/2026_1105_024948_B1.html
 20261105T1108_17.84_121.17,2026-11-05T11:08:00+08:00,17.84,121.17,32.0,1.4,017 km N 71° W of Conner (Apayao),2026_Earthquake_Information/November/2026_1105_030815_B1.html
 20261105T1132_12.12_125.41,2026-11-05T11:32:00+08:00,12.12,125.41,33.0,1.5,004 km S 58° W of Oras (Eastern Samar),2026_Earthquake_Information/November/2026_1105_033217_B1.html
+20261105T1148_8.5_127.65,2026-11-05T11:48:00+08:00,8.5,127.65,21.0,3.1,145 km N 69° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1105_034855_B1F.html
+20261105T1200_17.48_120.61,2026-11-05T12:00:00+08:00,17.48,120.61,23.0,2.1,002 km N 27° E of San Isidro (Abra),2026_Earthquake_Information/November/2026_1105_040040_B1.html
