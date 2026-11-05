@@ -235,15 +235,15 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261104T1646_5.25_125.3,2026-11-04T16:46:00+08:00,5.25,125.3,49.0,3.1,022 km S 36° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1104_084651_B2F.html
 20261104T1711_12.92_123.9,2026-11-04T17:11:00+08:00,12.92,123.9,33.0,1.3,012 km S 59° E of Castilla (Sorsogon),2026_Earthquake_Information/November/2026_1104_091147_B1.html
 20261104T1837_3.64_126.35,2026-11-04T18:37:00+08:00,3.64,126.35,110.0,3.7,222 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1104_103710_B1.html
-20261104T1922_19.13_121.01,2026-11-04T19:22:00+08:00,19.13,121.01,20.0,3.2,021 km N 84° W of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/November/2026_1104_112226_B1.html
+20261104T1922_19.07_121.11,2026-11-04T19:22:00+08:00,19.07,121.11,22.0,3.2,011 km S 68° W of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/November/2026_1104_112227_B2.html
 20261104T1929_4.36_127.95,2026-11-04T19:29:00+08:00,4.36,127.95,32.0,2.8,301 km S 66° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1104_112905_B1.html
 20261104T2003_5.67_125.31,2026-11-04T20:03:00+08:00,5.67,125.31,22.0,2.2,021 km S 34° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1104_120358_B1F.html
 20261104T2012_18.71_120.21,2026-11-04T20:12:00+08:00,18.71,120.21,13.0,2.9,051 km N 64° W of Burgos (Ilocos Norte),2026_Earthquake_Information/November/2026_1104_121250_B1.html
-20261104T2025_19.22_119.67,2026-11-04T20:25:00+08:00,19.22,119.67,44.0,3.0,129 km N 53° W of Burgos (Ilocos Norte),2026_Earthquake_Information/November/2026_1104_122527_B1.html
+20261104T2025_18.9_119.94,2026-11-04T20:25:00+08:00,18.9,119.94,7.0,3.1,086 km N 60° W of Burgos (Ilocos Norte),2026_Earthquake_Information/November/2026_1104_122527_B2.html
 20261104T2030_12.79_124.68,2026-11-04T20:30:00+08:00,12.79,124.68,30.0,2.2,032 km N 23° E of Bobon (Northern Samar),2026_Earthquake_Information/November/2026_1104_123020_B1.html
 20261104T2044_10.2_126.05,2026-11-04T20:44:00+08:00,10.2,126.05,13.0,2.0,020 km N 08° W of Burgos (Surigao Del Norte),2026_Earthquake_Information/November/2026_1104_124414_B1.html
 20261104T2048_20.18_122.24,2026-11-04T20:48:00+08:00,20.18,122.24,18.0,3.0,037 km S 58° E of Uyugan (Batanes),2026_Earthquake_Information/November/2026_1104_124852_B1.html
-20261104T2051_19.12_119.83,2026-11-04T20:51:00+08:00,19.12,119.83,14.0,2.7,110 km N 52° W of Burgos (Ilocos Norte),2026_Earthquake_Information/November/2026_1104_125142_B1.html
+20261104T2051_18.87_120.09,2026-11-04T20:51:00+08:00,18.87,120.09,13.0,2.9,070 km N 56° W of Burgos (Ilocos Norte),2026_Earthquake_Information/November/2026_1104_125146_B2.html
 20261104T2110_19.21_119.66,2026-11-04T21:10:00+08:00,19.21,119.66,46.0,2.7,130 km N 53° W of Burgos (Ilocos Norte),2026_Earthquake_Information/November/2026_1104_131020_B1.html
 20261104T2116_19.07_119.91,2026-11-04T21:16:00+08:00,19.07,119.91,42.0,3.4,097 km N 50° W of Burgos (Ilocos Norte),2026_Earthquake_Information/November/2026_1104_131640_B1.html
 20261104T2127_5.52_125.59,2026-11-04T21:27:00+08:00,5.52,125.59,35.0,1.7,014 km N 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1104_132737_B1F.html
@@ -300,3 +300,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261105T1601_7.22_126.87,2026-11-05T16:01:00+08:00,7.22,126.87,6.0,2.9,035 km S 71° E of Caraga (Davao Oriental),2026_Earthquake_Information/November/2026_1105_080131_B1.html
 20261105T1719_14.75_119.3,2026-11-05T17:19:00+08:00,14.75,119.3,12.0,2.4,087 km S 75° W of San Antonio (Zambales),2026_Earthquake_Information/November/2026_1105_091950_B1.html
 20261105T1747_5.7_125.06,2026-11-05T17:47:00+08:00,5.7,125.06,20.0,1.8,021 km S 49° W of Glan (Sarangani),2026_Earthquake_Information/November/2026_1105_094751_B1F.html
+20261105T1842_5.37_125.17,2026-11-05T18:42:00+08:00,5.37,125.17,33.0,2.7,028 km S 80° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1105_104241_B1F.html
