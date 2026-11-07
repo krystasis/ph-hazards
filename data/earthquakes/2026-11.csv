@@ -359,7 +359,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261106T1108_5.33_125.06,2026-11-06T11:08:00+08:00,5.33,125.06,23.0,2.9,041 km S 78° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1106_030832_B2F.html
 20261106T1227_5.35_125.26,2026-11-06T12:27:00+08:00,5.35,125.26,33.0,1.9,019 km S 70° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1106_042732_B1F.html
 20261106T1338_12.46_120.84,2026-11-06T13:38:00+08:00,12.46,120.84,7.0,1.8,014 km S 89° W of Rizal (Occidental Mindoro),2026_Earthquake_Information/November/2026_1106_053809_B1.html
-20261106T1428_5.22_125.24,2026-11-06T14:28:00+08:00,5.22,125.24,22.0,4.8,029 km S 44° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1106_062824_B3F.html
+20261106T1428_5.31_125.19,2026-11-06T14:28:00+08:00,5.31,125.19,20.0,4.8,028 km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1106_062825_B4F.html
 20261106T1511_13.68_120.62,2026-11-06T15:11:00+08:00,13.68,120.62,109.0,1.6,017 km S 06° W of Calatagan (Batangas),2026_Earthquake_Information/November/2026_1106_071143_B1.html
 20261106T1638_12.81_122.99,2026-11-06T16:38:00+08:00,12.81,122.99,11.0,2.5,030 km S 71° W of Claveria (Masbate),2026_Earthquake_Information/November/2026_1106_083855_B2.html
 20261106T1841_5.66_125.29,2026-11-06T18:41:00+08:00,5.66,125.29,32.0,2.7,020 km S 27° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1106_104100_B1F.html
@@ -395,3 +395,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261107T0846_6.14_124.31,2026-11-07T08:46:00+08:00,6.14,124.31,33.0,1.2,016 km S 62° E of Palimbang (Sultan Kudarat),2026_Earthquake_Information/November/2026_1107_004656_B1.html
 20261107T0920_12.13_123.91,2026-11-07T09:20:00+08:00,12.13,123.91,4.0,3.3,002 km S 46° W of Palanas (Masbate),2026_Earthquake_Information/November/2026_1107_012018_B2F.html
 20261107T0926_6.04_125.01,2026-11-07T09:26:00+08:00,6.04,125.01,25.0,1.5,020 km N 04° E of Maasim (Sarangani),2026_Earthquake_Information/November/2026_1107_012644_B1F.html
+20261107T1101_13.63_120.66,2026-11-07T11:01:00+08:00,13.63,120.66,148.0,1.8,022 km N 20° W of Abra De Ilog (Occidental Mindoro),2026_Earthquake_Information/November/2026_1107_030131_B1.html
