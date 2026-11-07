@@ -374,7 +374,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261107T0005_12.9_123.1,2026-11-07T00:05:00+08:00,12.9,123.1,10.0,1.8,016 km S 89° W of Claveria (Masbate),2026_Earthquake_Information/November/2026_1106_160517_B1.html
 20261107T0020_11.7_125.54,2026-11-07T00:20:00+08:00,11.7,125.54,17.0,2.1,011 km S 58° E of San Julian (Eastern Samar),2026_Earthquake_Information/November/2026_1106_162059_B1.html
 20261107T0021_11.63_125.55,2026-11-07T00:21:00+08:00,11.63,125.55,30.0,1.8,013 km N 81° E of City Of Borongan (Eastern Samar),2026_Earthquake_Information/November/2026_1106_162159_B1.html
-20261107T0043_5.73_125.32,2026-11-07T00:43:00+08:00,5.73,125.32,35.0,2.0,017 km S 52° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1106_164338_B1F.html
+20261107T0043_5.75_125.33,2026-11-07T00:43:00+08:00,5.75,125.33,17.0,2.1,016 km S 62° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1106_164340_B2F.html
 20261107T0051_9.75_126.08,2026-11-07T00:51:00+08:00,9.75,126.08,27.0,2.1,003 km S 82° E of Dapa (Surigao Del Norte),2026_Earthquake_Information/November/2026_1106_165128_B1.html
 20261107T0125_5.34_125.26,2026-11-07T01:25:00+08:00,5.34,125.26,29.0,2.0,019 km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1106_172538_B1F.html
 20261107T0127_9.5_126.01,2026-11-07T01:27:00+08:00,9.5,126.01,46.0,1.5,014 km S 21° E of Socorro (Surigao Del Norte),2026_Earthquake_Information/November/2026_1106_172751_B1.html
@@ -413,3 +413,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261107T1540_4.35_126.08,2026-11-07T15:40:00+08:00,4.35,126.08,15.0,3.0,138 km S 32° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1107_074036_B1.html
 20261107T1544_5.54_125.37,2026-11-07T15:44:00+08:00,5.54,125.37,26.0,2.1,014 km N 56° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1107_074401_B1F.html
 20261107T1631_6.37_126.21,2026-11-07T16:31:00+08:00,6.37,126.21,122.0,1.8,034 km S 26° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/November/2026_1107_083151_B1.html
+20261107T1743_6.57_125.32,2026-11-07T17:43:00+08:00,6.57,125.32,6.0,1.8,004 km S 43° W of Sulop (Davao Del Sur),2026_Earthquake_Information/November/2026_1107_094342_B1.html
