@@ -523,7 +523,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261109T1523_5.62_125.5,2026-11-09T15:23:00+08:00,5.62,125.5,44.0,1.9,016 km N 10° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1109_072353_B1F.html
 20261109T1617_7.12_123.46,2026-11-09T16:17:00+08:00,7.12,123.46,30.0,2.0,038 km S 07° E of Tabina (Zamboanga Del Sur),2026_Earthquake_Information/November/2026_1109_081721_B2.html
 20261109T1649_9.65_122.27,2026-11-09T16:49:00+08:00,9.65,122.27,11.0,2.3,022 km S 54° W of City Of Sipalay (Negros Occidental),2026_Earthquake_Information/November/2026_1109_084918_B2.html
-20261109T1846_5.94_125.37,2026-11-09T18:46:00+08:00,5.94,125.37,22.0,2.3,009 km S 70° E of Malapatan (Sarangani),2026_Earthquake_Information/November/2026_1109_104652_B1F.html
+20261109T1846_5.62_125.36,2026-11-09T18:46:00+08:00,5.62,125.36,21.0,2.3,021 km N 37° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1109_104648_B2F.html
 20261109T1925_4.23_127.97,2026-11-09T19:25:00+08:00,4.23,127.97,116.0,4.4,309 km S 63° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1109_112505_B1.html
 20261109T1941_9.46_122.46,2026-11-09T19:41:00+08:00,9.46,122.46,33.0,1.5,015 km S 04° W of Hinoba-an (Negros Occidental),2026_Earthquake_Information/November/2026_1109_114147_B1.html
 20261109T1942_15.75_120.2,2026-11-09T19:42:00+08:00,15.75,120.2,20.0,1.8,011 km S 68° W of Mangatarem (Pangasinan),2026_Earthquake_Information/November/2026_1109_114259_B1.html
@@ -573,3 +573,5 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261110T1533_18.26_122.39,2026-11-10T15:33:00+08:00,18.26,122.39,28.0,2.0,034 km S 49° E of Santa Ana (Cagayan),2026_Earthquake_Information/November/2026_1110_073311_B1.html
 20261110T1553_8.44_126.29,2026-11-10T15:53:00+08:00,8.44,126.29,73.0,2.6,009 km N 30° W of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/November/2026_1110_075304_B1F.html
 20261110T1714_13.07_124.48,2026-11-10T17:14:00+08:00,13.07,124.48,9.0,2.0,031 km N 84° E of Prieto Diaz (Sorsogon),2026_Earthquake_Information/November/2026_1110_091456_B1.html
+20261110T1741_13.47_123.83,2026-11-10T17:41:00+08:00,13.47,123.83,5.0,1.8,016 km N 40° E of City Of Tabaco (Albay),2026_Earthquake_Information/November/2026_1110_094137_B1.html
+20261110T1753_5.61_125.21,2026-11-10T17:53:00+08:00,5.61,125.21,34.0,2.3,024 km S 02° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1110_095323_B1F.html
