@@ -592,10 +592,10 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261110T2223_5.85_127.18,2026-11-10T22:23:00+08:00,5.85,127.18,124.0,3.1,152 km S 54° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/November/2026_1110_142310_B2.html
 20261110T2312_12.61_123.45,2026-11-10T23:12:00+08:00,12.61,123.45,15.0,1.5,012 km N 27° E of Aroroy (Masbate),2026_Earthquake_Information/November/2026_1110_151226_B1.html
 20261111T0003_9.81_125.97,2026-11-11T00:03:00+08:00,9.81,125.97,27.0,1.6,007 km S 05° W of Del Carmen (Surigao Del Norte),2026_Earthquake_Information/November/2026_1110_160338_B2.html
-20261111T0011_9.58_122.19,2026-11-11T00:11:00+08:00,9.58,122.19,20.0,1.8,030 km S 86° W of Hinoba-an (Negros Occidental),2026_Earthquake_Information/November/2026_1110_161150_B1.html
+20261111T0011_9.61_122.19,2026-11-11T00:11:00+08:00,9.61,122.19,23.0,2.2,031 km N 88° W of Hinoba-an (Negros Occidental),2026_Earthquake_Information/November/2026_1110_161150_B2.html
 20261111T0027_5.36_124.87,2026-11-11T00:27:00+08:00,5.36,124.87,8.0,4.6,057 km S 14° W of Maasim (Sarangani),2026_Earthquake_Information/November/2026_1110_162712_B3F.html
-20261111T0036_8.0_126.34,2026-11-11T00:36:00+08:00,8.0,126.34,29.0,2.3,009 km S 63° W of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1110_163605_B1F.html
-20261111T0116_8.98_122.48,2026-11-11T01:16:00+08:00,8.98,122.48,8.0,2.7,051 km S 20° W of Basay (Negros Oriental),2026_Earthquake_Information/November/2026_1110_171617_B1.html
+20261111T0036_8.03_126.37,2026-11-11T00:36:00+08:00,8.03,126.37,33.0,2.5,005 km S 75° W of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1110_163605_B2.html
+20261111T0116_8.96_122.42,2026-11-11T01:16:00+08:00,8.96,122.42,25.0,2.7,055 km S 26° W of Basay (Negros Oriental),2026_Earthquake_Information/November/2026_1110_171618_B2.html
 20261111T0123_10.35_126.32,2026-11-11T01:23:00+08:00,10.35,126.32,23.0,1.5,046 km N 36° E of Burgos (Surigao Del Norte),2026_Earthquake_Information/November/2026_1110_172338_B1.html
 20261111T0127_13.72_120.43,2026-11-11T01:27:00+08:00,13.72,120.43,28.0,3.4,019 km N 88° E of Looc (Occidental Mindoro),2026_Earthquake_Information/November/2026_1110_172752_B2.html
 20261111T0152_17.45_120.23,2026-11-11T01:52:00+08:00,17.45,120.23,32.0,2.1,020 km S 58° W of Caoayan (Ilocos Sur),2026_Earthquake_Information/November/2026_1110_175223_B2.html
@@ -655,4 +655,6 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261111T2103_18.68_121.4,2026-11-11T21:03:00+08:00,18.68,121.4,39.0,1.6,019 km S 11° E of Fuga Island (Aparri) (Cagayan),2026_Earthquake_Information/November/2026_1111_1303_B1.html
 20261111T2159_15.49_120.54,2026-11-11T21:59:00+08:00,15.49,120.54,33.0,2.0,005 km N 86° W of City Of Tarlac (Tarlac),2026_Earthquake_Information/November/2026_1111_135957_B1.html
 20261111T2215_9.16_125.78,2026-11-11T22:15:00+08:00,9.16,125.78,26.0,1.5,023 km S 62° W of Madrid (Surigao Del Sur),2026_Earthquake_Information/November/2026_1111_141522_B1.html
-20261111T2342_12.15_123.99,2026-11-11T23:42:00+08:00,12.15,123.99,5.0,1.5,007 km N 87° E of Palanas (Masbate),2026_Earthquake_Information/November/2026_1111_154217_B1.html
+20261111T2342_12.15_124.0,2026-11-11T23:42:00+08:00,12.15,124.0,4.0,1.5,008 km N 85° E of Palanas (Masbate),2026_Earthquake_Information/November/2026_1111_154217_B1.html
+20261112T0001_10.17_124.87,2026-11-12T00:01:00+08:00,10.17,124.87,29.0,1.8,006 km N 36° E of City Of Maasin (Southern Leyte),2026_Earthquake_Information/November/2026_1111_160102_B1.html
+20261112T0006_16.11_120.6,2026-11-12T00:06:00+08:00,16.11,120.6,23.0,1.8,006 km N 86° E of Pozorrubio (Pangasinan),2026_Earthquake_Information/November/2026_1111_160628_B1.html
