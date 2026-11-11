@@ -618,9 +618,9 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261111T0452_19.87_121.46,2026-11-11T04:52:00+08:00,19.87,121.46,21.0,2.7,062 km N 50° W of Babuyan Island (Calayan) (Cagayan),2026_Earthquake_Information/November/2026_1110_2052_B2.html
 20261111T0507_8.98_126.44,2026-11-11T05:07:00+08:00,8.98,126.44,20.0,4.0,016 km N 65° E of Cagwait (Surigao Del Sur),2026_Earthquake_Information/November/2026_1110_210744_B3F.html
 20261111T0514_7.6_122.14,2026-11-11T05:14:00+08:00,7.6,122.14,7.0,2.2,001 km N 15° E of Sirawai (Zamboanga Del Norte),2026_Earthquake_Information/November/2026_1110_211449_B2.html
-20261111T0525_15.95_120.85,2026-11-11T05:25:00+08:00,15.95,120.85,36.0,1.4,002 km N 21° E of Umingan (Pangasinan),2026_Earthquake_Information/November/2026_1110_212543_B1.html
-20261111T0525_5.23_126.41,2026-11-11T05:25:00+08:00,5.23,126.41,156.0,2.5,107 km S 75° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1110_212521_B1.html
-20261111T0533_4.97_125.96,2026-11-11T05:33:00+08:00,4.97,125.96,96.0,2.2,077 km S 50° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1110_213332_B1.html
+20261111T0525_15.95_120.77,2026-11-11T05:25:00+08:00,15.95,120.77,32.0,1.8,008 km N 72° W of Umingan (Pangasinan),2026_Earthquake_Information/November/2026_1110_212544_B2.html
+20261111T0525_5.22_126.79,2026-11-11T05:25:00+08:00,5.22,126.79,44.0,2.7,149 km S 79° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1110_2125_B2.html
+20261111T0533_5.03_125.86,2026-11-11T05:33:00+08:00,5.03,125.86,87.0,2.3,065 km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1110_2133_B2.html
 20261111T0556_9.65_126.22,2026-11-11T05:56:00+08:00,9.65,126.22,29.0,1.8,017 km S 25° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1110_215647_B1.html
 20261111T0618_8.02_122.59,2026-11-11T06:18:00+08:00,8.02,122.59,34.0,1.6,008 km S 57° E of Labason (Zamboanga Del Norte),2026_Earthquake_Information/November/2026_1110_221855_B1.html
 20261111T0752_16.5_121.29,2026-11-11T07:52:00+08:00,16.5,121.29,33.0,1.5,003 km N 60° E of Quezon (Nueva Vizcaya),2026_Earthquake_Information/November/2026_1110_235247_B1.html
@@ -664,3 +664,5 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261112T0221_13.67_120.64,2026-11-12T02:21:00+08:00,13.67,120.64,120.0,3.6,018 km S 02° E of Calatagan (Batangas),2026_Earthquake_Information/November/2026_1111_182136_B2F.html
 20261112T0357_7.26_123.56,2026-11-12T03:57:00+08:00,7.26,123.56,30.0,1.5,027 km S 36° E of Tabina (Zamboanga Del Sur),2026_Earthquake_Information/November/2026_1111_195715_B1.html
 20261112T0429_9.67_126.2,2026-11-12T04:29:00+08:00,9.67,126.2,31.0,2.2,013 km S 19° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1111_202948_B1.html
+20261112T0506_15.45_121.75,2026-11-12T05:06:00+08:00,15.45,121.75,11.0,2.5,039 km N 80° E of Dingalan (Aurora),2026_Earthquake_Information/November/2026_1111_210659_B1.html
+20261112T0518_11.07_123.95,2026-11-12T05:18:00+08:00,11.07,123.95,5.0,2.8,002 km S 37° E of San Remigio (Cebu),2026_Earthquake_Information/November/2026_1111_211847_B1.html
