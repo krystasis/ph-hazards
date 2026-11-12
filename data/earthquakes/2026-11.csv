@@ -611,7 +611,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261111T0323_9.7_126.27,2026-11-11T03:23:00+08:00,9.7,126.27,15.0,4.0,016 km S 59° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1110_1923_B3.html
 20261111T0334_9.17_126.32,2026-11-11T03:34:00+08:00,9.17,126.32,32.0,2.6,018 km S 50° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/November/2026_1110_1934_B2.html
 20261111T0346_9.6_126.23,2026-11-11T03:46:00+08:00,9.6,126.23,33.0,2.3,022 km S 23° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1110_1946_B2.html
-20261111T0354_11.06_123.97,2026-11-11T03:54:00+08:00,11.06,123.97,3.0,3.5,002 km N 55° W of City Of Bogo (Cebu),2026_Earthquake_Information/November/2026_1110_195454_B3F.html
+20261111T0354_11.06_123.97,2026-11-11T03:54:00+08:00,11.06,123.97,3.0,3.5,002 km N 55° W of City Of Bogo (Cebu),2026_Earthquake_Information/November/2026_1110_195454_B4F.html
 20261111T0404_5.53_125.2,2026-11-11T04:04:00+08:00,5.53,125.2,24.0,2.7,033 km S 01° W of Glan (Sarangani),2026_Earthquake_Information/November/2026_1110_2004_B2F.html
 20261111T0409_12.68_120.85,2026-11-11T04:09:00+08:00,12.68,120.85,5.0,2.3,016 km N 41° W of Calintaan (Occidental Mindoro),2026_Earthquake_Information/November/2026_1110_200907_B1.html
 20261111T0420_5.63_125.22,2026-11-11T04:20:00+08:00,5.63,125.22,32.0,2.0,021 km S 03° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1110_202041_B1F.html
@@ -676,3 +676,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261112T1328_6.73_123.63,2026-11-12T13:28:00+08:00,6.73,123.63,5.0,2.8,049 km N 77° W of Lebak (Sultan Kudarat),2026_Earthquake_Information/November/2026_1112_052806_B1.html
 20261112T1332_9.25_125.71,2026-11-12T13:32:00+08:00,9.25,125.71,28.0,1.5,017 km S 85° E of Santiago (Agusan Del Norte),2026_Earthquake_Information/November/2026_1112_053255_B1.html
 20261112T1338_17.57_122.37,2026-11-12T13:38:00+08:00,17.57,122.37,11.0,1.9,025 km N 35° E of Maconacon (Isabela),2026_Earthquake_Information/November/2026_1112_053838_B1.html
+20261112T1407_6.43_125.85,2026-11-12T14:07:00+08:00,6.43,125.85,126.0,2.7,026 km N 85° E of Malita (Davao Occidental),2026_Earthquake_Information/November/2026_1112_060757_B1.html
