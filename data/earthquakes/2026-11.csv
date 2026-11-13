@@ -682,7 +682,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261112T1525_7.72_124.46,2026-11-12T15:25:00+08:00,7.72,124.46,6.0,3.2,016 km S 80° E of Butig (Lanao Del Sur),2026_Earthquake_Information/November/2026_1112_072555_B1.html
 20261112T1610_9.24_126.43,2026-11-12T16:10:00+08:00,9.24,126.43,15.0,1.9,026 km S 83° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/November/2026_1112_081027_B1.html
 20261112T1630_9.63_126.15,2026-11-12T16:30:00+08:00,9.63,126.15,33.0,1.7,016 km S 01° W of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1112_083049_B1.html
-20261112T1708_7.78_127.12,2026-11-12T17:08:00+08:00,7.78,127.12,6.0,2.7,066 km N 69° E of Baganga (Davao Oriental),2026_Earthquake_Information/November/2026_1112_090818_B1.html
+20261112T1708_7.8_127.12,2026-11-12T17:08:00+08:00,7.8,127.12,2.0,2.8,070 km N 68° E of Baganga (Davao Oriental),2026_Earthquake_Information/November/2026_1112_090813_B2.html
 20261112T1745_7.55_126.37,2026-11-12T17:45:00+08:00,7.55,126.37,33.0,1.8,021 km S 82° W of Baganga (Davao Oriental),2026_Earthquake_Information/November/2026_1112_094531_B1.html
 20261112T1917_8.41_126.73,2026-11-12T19:17:00+08:00,8.41,126.73,25.0,2.1,044 km N 84° E of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/November/2026_1112_111726_B1.html
 20261112T1926_9.11_126.4,2026-11-12T19:26:00+08:00,9.11,126.4,30.0,1.4,020 km N 38° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/November/2026_1112_112637_B1.html
@@ -723,3 +723,5 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261113T0943_17.8_121.0,2026-11-13T09:43:00+08:00,17.8,121.0,8.0,2.2,016 km N 22° E of Lacub (Abra),2026_Earthquake_Information/November/2026_1113_014335_B1.html
 20261113T0957_6.18_126.53,2026-11-13T09:57:00+08:00,6.18,126.53,48.0,2.4,073 km S 44° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/November/2026_1113_015751_B1.html
 20261113T1103_6.38_126.02,2026-11-13T11:03:00+08:00,6.38,126.02,129.0,2.6,031 km S 11° W of Governor Generoso (Davao Oriental),2026_Earthquake_Information/November/2026_1113_030315_B1.html
+20261113T1123_11.26_124.34,2026-11-13T11:23:00+08:00,11.26,124.34,28.0,1.6,006 km S 31° W of Tabango (Leyte),2026_Earthquake_Information/November/2026_1113_032321_B1.html
+20261113T1126_8.36_125.1,2026-11-13T11:26:00+08:00,8.36,125.1,37.0,1.6,012 km N 61° E of Impasug-ong (Bukidnon),2026_Earthquake_Information/November/2026_1113_032621_B1.html
