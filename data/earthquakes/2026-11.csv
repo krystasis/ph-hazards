@@ -678,8 +678,8 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261112T1338_17.57_122.37,2026-11-12T13:38:00+08:00,17.57,122.37,11.0,1.9,025 km N 35° E of Maconacon (Isabela),2026_Earthquake_Information/November/2026_1112_053838_B1.html
 20261112T1407_6.43_125.85,2026-11-12T14:07:00+08:00,6.43,125.85,126.0,2.7,026 km N 85° E of Malita (Davao Occidental),2026_Earthquake_Information/November/2026_1112_060757_B1.html
 20261112T1452_13.77_120.41,2026-11-12T14:52:00+08:00,13.77,120.41,84.0,3.8,018 km N 71° E of Looc (Occidental Mindoro),2026_Earthquake_Information/November/2026_1112_065238_B3F.html
-20261112T1512_16.22_120.14,2026-11-12T15:12:00+08:00,16.22,120.14,19.0,2.1,018 km N 67° E of City Of Alaminos (Pangasinan),2026_Earthquake_Information/November/2026_1112_071252_B1.html
-20261112T1525_7.72_124.46,2026-11-12T15:25:00+08:00,7.72,124.46,6.0,3.2,016 km S 80° E of Butig (Lanao Del Sur),2026_Earthquake_Information/November/2026_1112_072555_B1.html
+20261112T1512_16.23_120.11,2026-11-12T15:12:00+08:00,16.23,120.11,32.0,2.4,016 km N 60° E of City Of Alaminos (Pangasinan),2026_Earthquake_Information/November/2026_1112_071251_B2.html
+20261112T1525_7.7_124.42,2026-11-12T15:25:00+08:00,7.7,124.42,8.0,3.4,013 km S 69° E of Butig (Lanao Del Sur),2026_Earthquake_Information/November/2026_1112_072555_B2.html
 20261112T1610_9.24_126.43,2026-11-12T16:10:00+08:00,9.24,126.43,15.0,1.9,026 km S 83° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/November/2026_1112_081027_B1.html
 20261112T1630_9.63_126.15,2026-11-12T16:30:00+08:00,9.63,126.15,33.0,1.7,016 km S 01° W of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1112_083049_B1.html
 20261112T1708_7.8_127.12,2026-11-12T17:08:00+08:00,7.8,127.12,2.0,2.8,070 km N 68° E of Baganga (Davao Oriental),2026_Earthquake_Information/November/2026_1112_090813_B2.html
@@ -691,7 +691,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261112T2102_9.36_122.39,2026-11-12T21:02:00+08:00,9.36,122.39,11.0,2.3,028 km S 18° W of Hinoba-an (Negros Occidental),2026_Earthquake_Information/November/2026_1112_130240_B1.html
 20261112T2115_15.06_119.91,2026-11-12T21:15:00+08:00,15.06,119.91,35.0,1.4,017 km S 89° W of San Felipe (Zambales),2026_Earthquake_Information/November/2026_1112_131534_B1.html
 20261112T2209_8.17_122.39,2026-11-12T22:09:00+08:00,8.17,122.39,33.0,1.6,019 km N 53° W of Labason (Zamboanga Del Norte),2026_Earthquake_Information/November/2026_1112_140915_B1.html
-20261112T2223_5.48_125.19,2026-11-12T22:23:00+08:00,5.48,125.19,12.0,4.2,027 km N 75° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1112_142350_B2F.html
+20261112T2223_5.54_125.27,2026-11-12T22:23:00+08:00,5.54,125.27,16.0,4.4,023 km N 51° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1112_142350_B3F.html
 20261112T2305_17.12_120.53,2026-11-12T23:05:00+08:00,17.12,120.53,32.0,1.5,004 km S 17° W of Salcedo (Ilocos Sur),2026_Earthquake_Information/November/2026_1112_150539_B1.html
 20261112T2324_13.76_119.66,2026-11-12T23:24:00+08:00,13.76,119.66,33.0,1.6,051 km S 78° W of Lubang (Occidental Mindoro),2026_Earthquake_Information/November/2026_1112_152438_B1.html
 20261112T2328_11.66_125.17,2026-11-12T23:28:00+08:00,11.66,125.17,15.0,1.8,012 km S 65° E of Hinabangan (Samar),2026_Earthquake_Information/November/2026_1112_152815_B1.html
@@ -727,3 +727,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261113T1126_7.92_126.86,2026-11-13T11:26:00+08:00,7.92,126.86,22.0,1.6,051 km N 41° E of Baganga (Davao Oriental),2026_Earthquake_Information/November/2026_1113_032636_B1.html
 20261113T1158_18.67_121.88,2026-11-13T11:58:00+08:00,18.67,121.88,33.0,1.5,026 km S 02° E of Camiguin Island (Calayan) (Cagayan),2026_Earthquake_Information/November/2026_1113_035806_B1.html
 20261113T1158_9.3_126.69,2026-11-13T11:58:00+08:00,9.3,126.69,17.0,3.3,055 km N 87° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/November/2026_1113_035855_B1.html
+20261113T1212_9.01_126.37,2026-11-13T12:12:00+08:00,9.01,126.37,32.0,2.1,011 km N 63° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/November/2026_1113_041213_B1.html
