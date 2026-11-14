@@ -726,13 +726,13 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261113T1123_11.26_124.34,2026-11-13T11:23:00+08:00,11.26,124.34,28.0,1.6,006 km S 31° W of Tabango (Leyte),2026_Earthquake_Information/November/2026_1113_032321_B1.html
 20261113T1126_7.92_126.86,2026-11-13T11:26:00+08:00,7.92,126.86,22.0,1.6,051 km N 41° E of Baganga (Davao Oriental),2026_Earthquake_Information/November/2026_1113_032636_B1.html
 20261113T1158_18.67_121.88,2026-11-13T11:58:00+08:00,18.67,121.88,33.0,1.5,026 km S 02° E of Camiguin Island (Calayan) (Cagayan),2026_Earthquake_Information/November/2026_1113_035806_B1.html
-20261113T1158_9.3_126.69,2026-11-13T11:58:00+08:00,9.3,126.69,17.0,3.3,055 km N 87° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/November/2026_1113_035855_B1.html
+20261113T1158_9.3_126.74,2026-11-13T11:58:00+08:00,9.3,126.74,13.0,3.2,060 km N 87° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/November/2026_1113_035855_B2.html
 20261113T1212_9.01_126.37,2026-11-13T12:12:00+08:00,9.01,126.37,32.0,2.1,011 km N 63° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/November/2026_1113_041213_B1.html
 20261113T1247_8.74_126.55,2026-11-13T12:47:00+08:00,8.74,126.55,26.0,1.7,028 km S 77° E of Marihatag (Surigao Del Sur),2026_Earthquake_Information/November/2026_1113_044705_B1.html
 20261113T1325_18.5_121.17,2026-11-13T13:25:00+08:00,18.5,121.17,20.0,1.9,010 km S 48° W of Sanchez-mira (Cagayan),2026_Earthquake_Information/November/2026_1113_052550_B1.html
 20261113T1352_9.19_126.45,2026-11-13T13:52:00+08:00,9.19,126.45,27.0,1.8,030 km N 37° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/November/2026_1113_055219_B1.html
 20261113T1507_9.21_126.63,2026-11-13T15:07:00+08:00,9.21,126.63,8.0,2.5,048 km N 49° E of Cagwait (Surigao Del Sur),2026_Earthquake_Information/November/2026_1113_070752_B1.html
-20261113T1512_9.62_126.3,2026-11-13T15:12:00+08:00,9.62,126.3,17.0,2.3,023 km S 42° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1113_071255_B1.html
+20261113T1512_9.96_126.63,2026-11-13T15:12:00+08:00,9.96,126.63,48.0,2.4,056 km N 69° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1113_071249_B2.html
 20261113T1533_18.74_121.14,2026-11-13T15:33:00+08:00,18.74,121.14,42.0,1.6,016 km N 22° E of Claveria (Cagayan),2026_Earthquake_Information/November/2026_1113_073354_B1.html
 20261113T1555_18.54_121.99,2026-11-13T15:55:00+08:00,18.54,121.99,31.0,1.9,018 km N 59° W of Santa Ana (Cagayan),2026_Earthquake_Information/November/2026_1113_075548_B1.html
 20261113T1642_17.83_121.99,2026-11-13T16:42:00+08:00,17.83,121.99,16.0,2.0,014 km S 64° E of Baggao (Cagayan),2026_Earthquake_Information/November/2026_1113_084259_B1.html
@@ -794,4 +794,6 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261114T0851_6.8_124.99,2026-11-14T08:51:00+08:00,6.8,124.99,22.0,1.8,013 km S 75° E of Tulunan (Cotabato),2026_Earthquake_Information/November/2026_1114_005157_B1.html
 20261114T0851_9.12_126.72,2026-11-14T08:51:00+08:00,9.12,126.72,33.0,1.7,051 km N 63° E of Cagwait (Surigao Del Sur),2026_Earthquake_Information/November/2026_1114_005117_B1.html
 20261114T0857_9.25_126.67,2026-11-14T08:57:00+08:00,9.25,126.67,14.0,2.2,053 km S 87° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/November/2026_1114_005740_B1.html
-20261114T0926_7.44_126.79,2026-11-14T09:26:00+08:00,7.44,126.79,10.0,4.1,027 km N 63° E of Caraga (Davao Oriental),2026_Earthquake_Information/November/2026_1114_012653_B1.html
+20261114T0926_7.44_126.83,2026-11-14T09:26:00+08:00,7.44,126.83,23.0,3.5,032 km N 68° E of Caraga (Davao Oriental),2026_Earthquake_Information/November/2026_1114_012653_B2.html
+20261114T0941_12.88_124.23,2026-11-14T09:41:00+08:00,12.88,124.23,3.0,2.0,010 km N 75° E of Barcelona (Sorsogon),2026_Earthquake_Information/November/2026_1114_014114_B1.html
+20261114T0958_9.25_126.25,2026-11-14T09:58:00+08:00,9.25,126.25,19.0,1.8,007 km S 67° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/November/2026_1114_015857_B1.html
