@@ -864,7 +864,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261115T2152_9.68_126.28,2026-11-15T21:52:00+08:00,9.68,126.28,28.0,2.1,018 km S 51° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_135253_B1.html
 20261115T2154_9.77_126.36,2026-11-15T21:54:00+08:00,9.77,126.36,26.0,2.4,023 km S 86° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_1354_B1.html
 20261115T2157_9.69_126.12,2026-11-15T21:57:00+08:00,9.69,126.12,21.0,1.7,010 km S 20° W of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_135700_B1.html
-20261115T2159_9.69_126.21,2026-11-15T21:59:00+08:00,9.69,126.21,35.0,1.5,039 km S 23° E of Burgos (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_135922_B1.html
+20261115T2159_9.69_126.21,2026-11-15T21:59:00+08:00,9.69,126.21,35.0,1.5,012 km S 33° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_135922_B1.html
 20261115T2201_9.67_126.28,2026-11-15T22:01:00+08:00,9.67,126.28,33.0,1.5,019 km S 48° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_140110_B1.html
 20261115T2202_9.88_126.08,2026-11-15T22:02:00+08:00,9.88,126.08,33.0,1.6,013 km N 38° W of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_1402_B1.html
 20261115T2204_9.59_126.22,2026-11-15T22:04:00+08:00,9.59,126.22,20.0,1.6,022 km S 18° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_140418_B1.html
@@ -886,3 +886,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261115T2251_9.63_126.26,2026-11-15T22:51:00+08:00,9.63,126.26,34.0,2.1,020 km S 35° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_145136_B1.html
 20261115T2253_9.71_126.27,2026-11-15T22:53:00+08:00,9.71,126.27,32.0,1.5,015 km S 57° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_145316_B1.html
 20261115T2254_9.67_126.11,2026-11-15T22:54:00+08:00,9.67,126.11,20.0,2.2,013 km S 21° W of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_145448_B1.html
+20261115T2255_9.76_126.4,2026-11-15T22:55:00+08:00,9.76,126.4,20.0,1.5,027 km S 84° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_145540_B1.html
+20261115T2257_9.69_126.25,2026-11-15T22:57:00+08:00,9.69,126.25,32.0,1.5,015 km S 45° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_145749_B1.html
+20261115T2259_9.57_126.16,2026-11-15T22:59:00+08:00,9.57,126.16,21.0,1.8,023 km S 01° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_145926_B1.html
+20261115T2302_9.68_126.34,2026-11-15T23:02:00+08:00,9.68,126.34,32.0,1.5,024 km S 60° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_150225_B1.html
