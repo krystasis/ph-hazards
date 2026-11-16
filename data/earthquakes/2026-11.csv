@@ -929,7 +929,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261116T0234_5.89_126.22,2026-11-16T02:34:00+08:00,5.89,126.22,119.0,2.9,064 km S 88° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/November/2026_1115_183425_B1.html
 20261116T0247_9.64_126.19,2026-11-16T02:47:00+08:00,9.64,126.19,24.0,2.1,016 km S 14° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1115_184704_B1.html
 20261116T0248_7.77_127.1,2026-11-16T02:48:00+08:00,7.77,127.1,7.0,2.7,063 km N 70° E of Baganga (Davao Oriental),2026_Earthquake_Information/November/2026_1115_184822_B1.html
-20261116T0249_10.39_125.15,2026-11-16T02:49:00+08:00,10.39,125.15,1.0,3.2,006 km S 87° W of Hinunangan (Southern Leyte),2026_Earthquake_Information/November/2026_1115_184951_B2F.html
+20261116T0249_10.39_125.15,2026-11-16T02:49:00+08:00,10.39,125.15,2.0,3.2,005 km S 89° W of Hinunangan (Southern Leyte),2026_Earthquake_Information/November/2026_1115_184951_B3F.html
 20261116T0300_19.16_120.8,2026-11-16T03:00:00+08:00,19.16,120.8,26.0,2.3,043 km N 83° W of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/November/2026_1115_190025_B1.html
 20261116T0306_13.75_122.34,2026-11-16T03:06:00+08:00,13.75,122.34,2.0,3.3,014 km N 83° W of Buenavista (Quezon),2026_Earthquake_Information/November/2026_1115_190639_B3F.html
 20261116T0313_13.77_122.36,2026-11-16T03:13:00+08:00,13.77,122.36,3.0,2.3,012 km N 74° W of Buenavista (Quezon),2026_Earthquake_Information/November/2026_1115_191337_B1.html
@@ -956,3 +956,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261116T0924_9.75_126.26,2026-11-16T09:24:00+08:00,9.75,126.26,32.0,1.5,012 km S 71° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1116_012451_B1.html
 20261116T1000_12.82_123.52,2026-11-16T10:00:00+08:00,12.82,123.52,36.0,1.9,013 km S 43° W of Donsol (Sorsogon),2026_Earthquake_Information/November/2026_1116_020045_B1.html
 20261116T1152_11.29_124.58,2026-11-16T11:52:00+08:00,11.29,124.58,6.0,1.9,007 km S 86° W of Capoocan (Leyte),2026_Earthquake_Information/November/2026_1116_035208_B1.html
+20261116T1355_11.44_123.73,2026-11-16T13:55:00+08:00,11.44,123.73,3.0,3.6,016 km N 02° W of Madridejos (Cebu),2026_Earthquake_Information/November/2026_1116_055541_B1.html
