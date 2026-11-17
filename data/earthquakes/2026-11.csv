@@ -1023,7 +1023,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261117T0655_18.31_120.93,2026-11-17T06:55:00+08:00,18.31,120.93,25.0,1.5,013 km N 66° W of Calanasan (Apayao),2026_Earthquake_Information/November/2026_1116_225509_B2.html
 20261117T0809_6.39_126.7,2026-11-17T08:09:00+08:00,6.39,126.7,28.0,2.3,076 km S 67° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/November/2026_1117_000905_B1.html
 20261117T0844_7.59_126.67,2026-11-17T08:44:00+08:00,7.59,126.67,23.0,2.3,012 km N 82° E of Baganga (Davao Oriental),2026_Earthquake_Information/November/2026_1117_004445_B1.html
-20261117T0945_9.72_126.39,2026-11-17T09:45:00+08:00,9.72,126.39,17.0,2.4,026 km S 75° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1117_014533_B1.html
+20261117T0945_9.66_126.36,2026-11-17T09:45:00+08:00,9.66,126.36,12.0,3.1,026 km S 59° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1117_014534_B2.html
 20261117T1000_9.69_126.46,2026-11-17T10:00:00+08:00,9.69,126.46,13.0,4.3,035 km S 73° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1117_020058_B3F.html
 20261117T1003_9.68_126.23,2026-11-17T10:03:00+08:00,9.68,126.23,27.0,2.5,014 km S 35° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1117_020324_B1.html
 20261117T1052_9.74_126.4,2026-11-17T10:52:00+08:00,9.74,126.4,11.0,4.2,027 km S 81° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1117_025229_B2.html
@@ -1067,3 +1067,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261118T0354_9.32_124.65,2026-11-18T03:54:00+08:00,9.32,124.65,35.0,1.6,012 km N 46° W of Mambajao (Camiguin),2026_Earthquake_Information/November/2026_1117_195401_B1.html
 20261118T0412_15.51_119.55,2026-11-18T04:12:00+08:00,15.51,119.55,10.0,4.4,039 km N 78° W of Palauig (Zambales),2026_Earthquake_Information/November/2026_1117_201232_B1.html
 20261118T0514_8.7_126.23,2026-11-18T05:14:00+08:00,8.7,126.23,33.0,1.5,005 km S 06° E of San Agustin (Surigao Del Sur),2026_Earthquake_Information/November/2026_1117_211442_B1.html
+20261118T0517_5.69_124.8,2026-11-18T05:17:00+08:00,5.69,124.8,10.0,2.6,030 km S 49° W of Maasim (Sarangani),2026_Earthquake_Information/November/2026_1117_211754_B1F.html
