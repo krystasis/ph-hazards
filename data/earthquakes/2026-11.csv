@@ -1019,8 +1019,8 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261117T0458_17.98_122.5,2026-11-17T04:58:00+08:00,17.98,122.5,24.0,2.8,062 km S 60° E of Gonzaga (Cagayan),2026_Earthquake_Information/November/2026_1116_205836_B2.html
 20261117T0504_14.98_121.5,2026-11-17T05:04:00+08:00,14.98,121.5,4.0,3.4,028 km N 28° W of General Nakar (Quezon),2026_Earthquake_Information/November/2026_1116_210403_B3F.html
 20261117T0553_9.7_126.26,2026-11-17T05:53:00+08:00,9.7,126.26,35.0,1.7,014 km S 52° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1116_215355_B2.html
-20261117T0622_18.83_121.43,2026-11-17T06:22:00+08:00,18.83,121.43,29.0,1.6,006 km S 70° E of Fuga Island (Aparri) (Cagayan),2026_Earthquake_Information/November/2026_1116_222224_B1.html
-20261117T0655_18.36_120.97,2026-11-17T06:55:00+08:00,18.36,120.97,35.0,1.5,013 km S 32° E of Adams (Ilocos Norte),2026_Earthquake_Information/November/2026_1116_225508_B1.html
+20261117T0622_18.85_121.38,2026-11-17T06:22:00+08:00,18.85,121.38,31.0,1.6,001 km S 81° E of Fuga Island (Aparri) (Cagayan),2026_Earthquake_Information/November/2026_1116_222224_B2.html
+20261117T0655_18.31_120.93,2026-11-17T06:55:00+08:00,18.31,120.93,25.0,1.5,013 km N 66° W of Calanasan (Apayao),2026_Earthquake_Information/November/2026_1116_225509_B2.html
 20261117T0809_6.39_126.7,2026-11-17T08:09:00+08:00,6.39,126.7,28.0,2.3,076 km S 67° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/November/2026_1117_000905_B1.html
 20261117T0844_7.59_126.67,2026-11-17T08:44:00+08:00,7.59,126.67,23.0,2.3,012 km N 82° E of Baganga (Davao Oriental),2026_Earthquake_Information/November/2026_1117_004445_B1.html
 20261117T0945_9.72_126.39,2026-11-17T09:45:00+08:00,9.72,126.39,17.0,2.4,026 km S 75° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1117_014533_B1.html
@@ -1066,3 +1066,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261118T0314_7.02_125.65,2026-11-18T03:14:00+08:00,7.02,125.65,24.0,2.1,009 km S 47° W of Island Garden City Of Samal (Davao Del Norte),2026_Earthquake_Information/November/2026_1117_191433_B1.html
 20261118T0354_9.32_124.65,2026-11-18T03:54:00+08:00,9.32,124.65,35.0,1.6,012 km N 46° W of Mambajao (Camiguin),2026_Earthquake_Information/November/2026_1117_195401_B1.html
 20261118T0412_15.51_119.55,2026-11-18T04:12:00+08:00,15.51,119.55,10.0,4.4,039 km N 78° W of Palauig (Zambales),2026_Earthquake_Information/November/2026_1117_201232_B1.html
+20261118T0514_8.7_126.23,2026-11-18T05:14:00+08:00,8.7,126.23,33.0,1.5,005 km S 06° E of San Agustin (Surigao Del Sur),2026_Earthquake_Information/November/2026_1117_211442_B1.html
