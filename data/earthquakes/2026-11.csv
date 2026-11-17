@@ -1024,7 +1024,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261117T0809_6.39_126.7,2026-11-17T08:09:00+08:00,6.39,126.7,28.0,2.3,076 km S 67° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/November/2026_1117_000905_B1.html
 20261117T0844_7.59_126.67,2026-11-17T08:44:00+08:00,7.59,126.67,23.0,2.3,012 km N 82° E of Baganga (Davao Oriental),2026_Earthquake_Information/November/2026_1117_004445_B1.html
 20261117T0945_9.72_126.39,2026-11-17T09:45:00+08:00,9.72,126.39,17.0,2.4,026 km S 75° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1117_014533_B1.html
-20261117T1000_9.71_126.42,2026-11-17T10:00:00+08:00,9.71,126.42,18.0,4.3,030 km S 75° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1117_020058_B2F.html
+20261117T1000_9.69_126.46,2026-11-17T10:00:00+08:00,9.69,126.46,13.0,4.3,035 km S 73° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1117_020058_B3F.html
 20261117T1003_9.68_126.23,2026-11-17T10:03:00+08:00,9.68,126.23,27.0,2.5,014 km S 35° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1117_020324_B1.html
 20261117T1052_9.74_126.4,2026-11-17T10:52:00+08:00,9.74,126.4,11.0,4.2,027 km S 81° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1117_025229_B2.html
 20261117T1110_18.63_120.69,2026-11-17T11:10:00+08:00,18.63,120.69,1.0,2.0,013 km N 36° W of Bangui (Ilocos Norte),2026_Earthquake_Information/November/2026_1117_031038_B1.html
@@ -1054,3 +1054,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261118T0018_17.0_120.65,2026-11-18T00:18:00+08:00,17.0,120.65,29.0,1.6,009 km S 25° E of Sigay (Ilocos Sur),2026_Earthquake_Information/November/2026_1117_161843_B1.html
 20261118T0109_7.85_122.06,2026-11-18T01:09:00+08:00,7.85,122.06,15.0,2.0,010 km N 65° W of Baliguian (Zamboanga Del Norte),2026_Earthquake_Information/November/2026_1117_170905_B1.html
 20261118T0109_9.5_126.58,2026-11-18T01:09:00+08:00,9.5,126.58,12.0,1.9,049 km N 60° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/November/2026_1117_170942_B1.html
+20261118T0137_15.06_122.96,2026-11-18T01:37:00+08:00,15.06,122.96,21.0,2.5,065 km N 01° E of Tinaga Island (Vinzons) (Camarines Norte),2026_Earthquake_Information/November/2026_1117_173720_B1.html
