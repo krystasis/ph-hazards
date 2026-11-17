@@ -966,11 +966,11 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261116T1657_14.38_120.83,2026-11-16T16:57:00+08:00,14.38,120.83,105.0,1.4,003 km S 63° E of Naic (Cavite),2026_Earthquake_Information/November/2026_1116_085702_B1.html
 20261116T1700_10.64_122.9,2026-11-16T17:00:00+08:00,10.64,122.9,28.0,1.5,013 km N 30° E of City Of Bago (Negros Occidental),2026_Earthquake_Information/November/2026_1116_090054_B1.html
 20261116T1703_9.3_126.12,2026-11-16T17:03:00+08:00,9.3,126.12,7.0,1.5,009 km N 70° W of Cortes (Surigao Del Sur),2026_Earthquake_Information/November/2026_1116_090344_B1.html
-20261116T1735_5.63_125.31,2026-11-16T17:35:00+08:00,5.63,125.31,22.0,1.6,024 km S 29° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1116_093542_B1F.html
-20261116T1740_17.56_120.87,2026-11-16T17:40:00+08:00,17.56,120.87,25.0,1.6,003 km S 66° W of Licuan,2026_Earthquake_Information/November/2026_1116_094032_B1.html
+20261116T1735_5.7_125.3,2026-11-16T17:35:00+08:00,5.7,125.3,22.0,1.8,018 km S 39° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1116_093543_B2F.html
+20261116T1740_17.53_120.88,2026-11-16T17:40:00+08:00,17.53,120.88,18.0,1.8,006 km S 29° W of Licuan,2026_Earthquake_Information/November/2026_1116_094032_B2.html
 20261116T1747_17.23_120.0,2026-11-16T17:47:00+08:00,17.23,120.0,3.0,2.3,047 km N 82° W of City Of Candon (Ilocos Sur),2026_Earthquake_Information/November/2026_1116_094743_B1.html
 20261116T1747_4.36_127.69,2026-11-16T17:47:00+08:00,4.36,127.69,29.0,2.7,275 km S 63° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1116_094725_B1.html
-20261116T1752_8.6_123.13,2026-11-16T17:52:00+08:00,8.6,123.13,24.0,2.3,010 km N 24° E of Manukan (Zamboanga Del Norte),2026_Earthquake_Information/November/2026_1116_095202_B1.html
+20261116T1752_8.53_123.16,2026-11-16T17:52:00+08:00,8.53,123.16,13.0,2.4,008 km N 83° E of Manukan (Zamboanga Del Norte),2026_Earthquake_Information/November/2026_1116_095203_B2.html
 20261116T1755_9.73_126.32,2026-11-16T17:55:00+08:00,9.73,126.32,33.0,1.3,019 km S 73° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1116_095541_B1.html
 20261116T1756_11.99_122.2,2026-11-16T17:56:00+08:00,11.99,122.2,33.0,1.7,020 km N 13° E of Ibajay (Aklan),2026_Earthquake_Information/November/2026_1116_095632_B1.html
 20261116T1811_12.49_124.67,2026-11-16T18:11:00+08:00,12.49,124.67,38.0,1.5,004 km S 70° E of Catarman (Northern Samar),2026_Earthquake_Information/November/2026_1116_101126_B1.html
@@ -1031,3 +1031,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261117T1128_17.76_120.39,2026-11-17T11:28:00+08:00,17.76,120.39,26.0,1.8,007 km S 62° W of Cabugao (Ilocos Sur),2026_Earthquake_Information/November/2026_1117_032849_B1.html
 20261117T1143_13.98_125.33,2026-11-17T11:43:00+08:00,13.98,125.33,72.0,2.5,103 km N 78° E of Gigmoto (Catanduanes),2026_Earthquake_Information/November/2026_1117_034330_B1.html
 20261117T1233_9.65_126.13,2026-11-17T12:33:00+08:00,9.65,126.13,37.0,1.4,015 km S 10° W of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1117_043344_B1.html
+20261117T1355_11.45_123.75,2026-11-17T13:55:00+08:00,11.45,123.75,10.0,4.1,017 km N 6° E of Madridejos (Cebu),2026_Earthquake_Information/November/2026_1117_055557_B1.html
