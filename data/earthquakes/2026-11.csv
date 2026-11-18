@@ -1057,7 +1057,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261118T0137_15.06_122.96,2026-11-18T01:37:00+08:00,15.06,122.96,22.0,2.6,064 km N 01° E of Tinaga Island (Vinzons) (Camarines Norte),2026_Earthquake_Information/November/2026_1117_173720_B2.html
 20261118T0152_17.91_120.67,2026-11-18T01:52:00+08:00,17.91,120.67,20.0,1.7,009 km S 49° W of Nueva Era (Ilocos Norte),2026_Earthquake_Information/November/2026_1117_175201_B2.html
 20261118T0154_10.42_123.17,2026-11-18T01:54:00+08:00,10.42,123.17,6.0,2.2,007 km N 53° W of City Of Canlaon (Negros Oriental),2026_Earthquake_Information/November/2026_1117_175438_B2.html
-20261118T0201_5.96_126.73,2026-11-18T02:01:00+08:00,5.96,126.73,102.0,3.7,108 km S 44° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/November/2026_1117_180101_B1.html
+20261118T0201_6.12_126.56,2026-11-18T02:01:00+08:00,6.12,126.56,55.0,3.7,080 km S 42° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/November/2026_1117_180101_B2.html
 20261118T0206_5.62_125.24,2026-11-18T02:06:00+08:00,5.62,125.24,35.0,1.9,023 km S 10° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1117_180635_B1.html
 20261118T0238_7.41_126.84,2026-11-18T02:38:00+08:00,7.41,126.84,20.0,2.8,032 km N 73° E of Caraga (Davao Oriental),2026_Earthquake_Information/November/2026_1117_183850_B2.html
 20261118T0245_13.18_123.9,2026-11-18T02:45:00+08:00,13.18,123.9,20.0,1.7,007 km N 32° E of Manito (Albay),2026_Earthquake_Information/November/2026_1117_184510_B1.html
@@ -1115,3 +1115,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261118T2315_9.29_126.3,2026-11-18T23:15:00+08:00,9.29,126.3,26.0,2.6,012 km N 83° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/November/2026_1118_151524_B1.html
 20261119T0001_8.48_127.63,2026-11-19T00:01:00+08:00,8.48,127.63,14.0,2.7,143 km N 85° E of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/November/2026_1118_160109_B1.html
 20261119T0005_16.44_122.11,2026-11-19T00:05:00+08:00,16.44,122.11,5.0,2.2,012 km N 62° W of Dilasag (Aurora),2026_Earthquake_Information/November/2026_1118_160550_B1.html
+20261119T0038_6.2_125.95,2026-11-19T00:38:00+08:00,6.2,125.95,28.0,2.0,028 km N 89° E of Don Marcelino (Davao Occidental),2026_Earthquake_Information/November/2026_1118_163813_B1.html
