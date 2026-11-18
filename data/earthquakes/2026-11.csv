@@ -1073,7 +1073,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261118T0818_6.21_124.3,2026-11-18T08:18:00+08:00,6.21,124.3,46.0,1.6,013 km N 90° E of Palimbang (Sultan Kudarat),2026_Earthquake_Information/November/2026_1118_001841_B1.html
 20261118T0841_8.14_126.77,2026-11-18T08:41:00+08:00,8.14,126.77,19.0,2.0,040 km N 74° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1118_004112_B1.html
 20261118T0854_18.21_121.0,2026-11-18T08:54:00+08:00,18.21,121.0,44.0,1.9,007 km S 44° W of Calanasan (Apayao),2026_Earthquake_Information/November/2026_1118_0054_B1.html
-20261118T0911_7.51_127.08,2026-11-18T09:11:00+08:00,7.51,127.08,15.0,2.9,057 km S 83° E of Baganga (Davao Oriental),2026_Earthquake_Information/November/2026_1118_0111_B1.html
+20261118T0911_7.52_127.13,2026-11-18T09:11:00+08:00,7.52,127.13,21.0,3.2,063 km S 84° E of Baganga (Davao Oriental),2026_Earthquake_Information/November/2026_1118_011144_B2.html
 20261118T0913_11.47_123.68,2026-11-18T09:13:00+08:00,11.47,123.68,2.0,3.3,020 km N 17° W of Madridejos (Cebu),2026_Earthquake_Information/November/2026_1118_0113_B2F.html
 20261118T1001_16.38_120.69,2026-11-18T10:01:00+08:00,16.38,120.69,1.0,1.6,003 km N 25° E of Itogon (Benguet),2026_Earthquake_Information/November/2026_1118_020104_B1.html
 20261118T1002_13.14_120.49,2026-11-18T10:02:00+08:00,13.14,120.49,54.0,3.0,015 km S 49° W of Mamburao (Occidental Mindoro),2026_Earthquake_Information/November/2026_1118_020213_B1F.html
@@ -1089,3 +1089,5 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261118T1514_6.36_127.47,2026-11-18T15:14:00+08:00,6.36,127.47,35.0,3.2,136 km S 56° E of Tarragona (Davao Oriental),2026_Earthquake_Information/November/2026_1118_0714_B1.html
 20261118T1533_13.53_121.44,2026-11-18T15:33:00+08:00,13.53,121.44,1.0,2.0,027 km N 34° E of Naujan (Oriental Mindoro),2026_Earthquake_Information/November/2026_1118_0733_B1.html
 20261118T1611_13.62_121.69,2026-11-18T16:11:00+08:00,13.62,121.69,28.0,1.9,024 km N 48° W of Mogpog (Marinduque),2026_Earthquake_Information/November/2026_1118_081115_B1.html
+20261118T1703_9.19_126.82,2026-11-18T17:03:00+08:00,9.19,126.82,2.0,2.6,064 km N 67° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/November/2026_1118_090318_B1.html
+20261118T1712_8.61_126.04,2026-11-18T17:12:00+08:00,8.61,126.04,30.0,2.2,006 km S 68° W of Lianga (Surigao Del Sur),2026_Earthquake_Information/November/2026_1118_091222_B1.html
