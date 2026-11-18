@@ -1044,10 +1044,10 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261117T1918_14.11_124.18,2026-11-17T19:18:00+08:00,14.11,124.18,20.0,1.8,007 km N 06° E of Pandan (Catanduanes),2026_Earthquake_Information/November/2026_1117_111833_B1.html
 20261117T1940_5.5_125.27,2026-11-17T19:40:00+08:00,5.5,125.27,23.0,1.5,019 km N 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1117_114021_B1F.html
 20261117T1946_7.72_122.16,2026-11-17T19:46:00+08:00,7.72,122.16,17.0,1.8,003 km N 54° E of Siocon (Zamboanga Del Norte),2026_Earthquake_Information/November/2026_1117_114611_B1.html
-20261117T1953_7.22_126.83,2026-11-17T19:53:00+08:00,7.22,126.83,5.0,2.5,032 km S 68° E of Caraga (Davao Oriental),2026_Earthquake_Information/November/2026_1117_115326_B1.html
+20261117T1953_7.38_127.1,2026-11-17T19:53:00+08:00,7.38,127.1,28.0,2.5,059 km N 85° E of Caraga (Davao Oriental),2026_Earthquake_Information/November/2026_1117_115325_B2.html
 20261117T2020_13.7_120.6,2026-11-17T20:20:00+08:00,13.7,120.6,93.0,1.4,015 km S 13° W of Calatagan (Batangas),2026_Earthquake_Information/November/2026_1117_122055_B1.html
 20261117T2117_6.59_127.64,2026-11-17T21:17:00+08:00,6.59,127.64,33.0,3.0,140 km S 61° E of Manay (Davao Oriental),2026_Earthquake_Information/November/2026_1117_131724_B1.html
-20261117T2121_15.17_122.06,2026-11-17T21:21:00+08:00,15.17,122.06,37.0,2.1,038 km N 15° E of Burdeos (Quezon),2026_Earthquake_Information/November/2026_1117_132158_B1.html
+20261117T2121_15.2_122.12,2026-11-17T21:21:00+08:00,15.2,122.12,23.0,2.1,042 km N 22° E of Burdeos (Quezon),2026_Earthquake_Information/November/2026_1117_132158_B2.html
 20261117T2125_18.87_121.5,2026-11-17T21:25:00+08:00,18.87,121.5,32.0,1.7,014 km N 79° E of Fuga Island (Aparri) (Cagayan),2026_Earthquake_Information/November/2026_1117_132521_B1.html
 20261117T2221_8.76_126.13,2026-11-17T22:21:00+08:00,8.76,126.13,32.0,1.5,011 km N 81° W of San Agustin (Surigao Del Sur),2026_Earthquake_Information/November/2026_1117_142118_B1.html
 20261117T2243_10.34_126.11,2026-11-17T22:43:00+08:00,10.34,126.11,26.0,1.7,036 km N 07° E of Burgos (Surigao Del Norte),2026_Earthquake_Information/November/2026_1117_144310_B1.html
@@ -1094,3 +1094,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261118T1734_5.65_125.27,2026-11-18T17:34:00+08:00,5.65,125.27,32.0,1.5,020 km S 21° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1118_093416_B1F.html
 20261118T1742_5.36_125.27,2026-11-18T17:42:00+08:00,5.36,125.27,34.0,1.5,016 km S 61° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1118_094225_B1F.html
 20261118T1745_5.37_125.29,2026-11-18T17:45:00+08:00,5.37,125.29,14.0,2.3,015 km S 72° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1118_094526_B1F.html
+20261118T1807_6.22_125.47,2026-11-18T18:07:00+08:00,6.22,125.47,16.0,1.6,024 km N 56° E of Alabel (Sarangani),2026_Earthquake_Information/November/2026_1118_100754_B1.html
