@@ -1294,7 +1294,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261122T0819_6.08_126.53,2026-11-22T08:19:00+08:00,6.08,126.53,19.0,2.8,081 km S 39° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/November/2026_1122_001926_B1.html
 20261122T0823_5.26_125.25,2026-11-22T08:23:00+08:00,5.26,125.25,38.0,4.4,026 km S 48° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1122_002307_B3F.html
 20261122T0833_5.53_125.26,2026-11-22T08:33:00+08:00,5.53,125.26,7.0,2.2,022 km N 55° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1122_003333_B2F.html
-20261122T0854_9.66_126.13,2026-11-22T08:54:00+08:00,9.66,126.13,15.0,3.4,014 km S 37° E of Dapa (Surigao Del Norte),2026_Earthquake_Information/November/2026_1122_005456_B2.html
+20261122T0854_9.66_126.21,2026-11-22T08:54:00+08:00,9.66,126.21,17.0,3.4,020 km S 58° E of Dapa (Surigao Del Norte),2026_Earthquake_Information/November/2026_1122_005456_B3.html
 20261122T1117_12.78_123.06,2026-11-22T11:17:00+08:00,12.78,123.06,9.0,2.1,024 km S 57° W of Claveria (Masbate),2026_Earthquake_Information/November/2026_1122_031708_B1.html
 20261122T1139_9.64_125.98,2026-11-22T11:39:00+08:00,9.64,125.98,14.0,1.7,003 km N 38° E of Socorro (Surigao Del Norte),2026_Earthquake_Information/November/2026_1122_033951_B1.html
 20261122T1209_8.03_126.2,2026-11-22T12:09:00+08:00,8.03,126.2,3.0,2.6,015 km S 87° E of Trento (Agusan Del Sur),2026_Earthquake_Information/November/2026_1122_040937_B1.html
@@ -1317,3 +1317,5 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261122T2228_9.26_126.03,2026-11-22T22:28:00+08:00,9.26,126.03,34.0,1.4,003 km N 18° E of Carmen (Surigao Del Sur),2026_Earthquake_Information/November/2026_1122_142843_B1.html
 20261122T2236_5.46_126.75,2026-11-22T22:36:00+08:00,5.46,126.75,83.0,2.6,132 km S 68° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/November/2026_1122_143637_B1.html
 20261122T2246_11.89_124.1,2026-11-22T22:46:00+08:00,11.89,124.1,3.0,2.0,006 km N 84° E of Pio V. Corpus (Masbate),2026_Earthquake_Information/November/2026_1122_144608_B1.html
+20261122T2342_14.66_122.37,2026-11-22T23:42:00+08:00,14.66,122.37,8.0,1.6,006 km S 47° E of Jomalig (Quezon),2026_Earthquake_Information/November/2026_1122_154245_B1.html
+20261122T2342_15.65_119.89,2026-11-22T23:42:00+08:00,15.65,119.89,25.0,1.7,004 km N 62° W of Candelaria (Zambales),2026_Earthquake_Information/November/2026_1122_154229_B1.html
