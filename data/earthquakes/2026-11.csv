@@ -1401,7 +1401,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261124T0856_5.77_125.14,2026-11-24T08:56:00+08:00,5.77,125.14,20.0,2.0,010 km S 51° W of Glan (Sarangani),2026_Earthquake_Information/November/2026_1124_005651_B1F.html
 20261124T0935_15.26_120.4,2026-11-24T09:35:00+08:00,15.26,120.4,46.0,1.5,018 km N 86° W of Mabalacat City (Pampanga),2026_Earthquake_Information/November/2026_1124_013551_B1.html
 20261124T1111_7.93_126.65,2026-11-24T11:11:00+08:00,7.93,126.65,15.0,1.7,027 km N 54° E of Cateel (Davao Oriental),2026_Earthquake_Information/November/2026_1124_031135_B1.html
-20261124T1203_7.22_122.93,2026-11-24T12:03:00+08:00,7.22,122.93,32.0,2.0,014 km S 42° E of Olutanga (Zamboanga Sibugay),2026_Earthquake_Information/November/2026_1124_0403_B1.html
+20261124T1203_7.22_122.93,2026-11-24T12:03:00+08:00,7.22,122.93,32.0,2.0,014 km S 42° E of Olutanga (Zamboanga Sibugay),2026_Earthquake_Information/November/2026_1124_040353_B1.html
 20261124T1241_7.2_123.65,2026-11-24T12:41:00+08:00,7.2,123.65,31.0,1.8,039 km S 42° E of Tabina (Zamboanga Del Sur),2026_Earthquake_Information/November/2026_1124_044135_B1.html
 20261124T1242_17.03_121.49,2026-11-24T12:42:00+08:00,17.03,121.49,10.0,2.3,012 km N 01° W of Alfonso Lista (Ifugao),2026_Earthquake_Information/November/2026_1124_044203_B1.html
 20261124T1304_19.17_121.28,2026-11-24T13:04:00+08:00,19.17,121.28,14.0,2.5,011 km N 48° E of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/November/2026_1124_050408_B1.html
@@ -1413,3 +1413,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261124T1617_7.71_122.17,2026-11-24T16:17:00+08:00,7.71,122.17,11.0,1.4,004 km N 80° E of Siocon (Zamboanga Del Norte),2026_Earthquake_Information/November/2026_1124_081703_B1.html
 20261124T1618_5.88_124.88,2026-11-24T16:18:00+08:00,5.88,124.88,20.0,1.8,013 km N 84° W of Maasim (Sarangani),2026_Earthquake_Information/November/2026_1124_081823_B1F.html
 20261124T1634_18.02_120.85,2026-11-24T16:34:00+08:00,18.02,120.85,31.0,1.4,011 km S 46° E of Solsona (Ilocos Norte),2026_Earthquake_Information/November/2026_1124_083412_B1.html
+20261124T1648_5.87_125.33,2026-11-24T16:48:00+08:00,5.87,125.33,18.0,1.5,012 km S 19° E of Malapatan (Sarangani),2026_Earthquake_Information/November/2026_1124_084844_B1F.html
