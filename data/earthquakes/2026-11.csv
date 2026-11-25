@@ -1444,7 +1444,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261125T0346_9.75_126.31,2026-11-25T03:46:00+08:00,9.75,126.31,32.0,1.5,018 km S 77° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1124_194624_B1.html
 20261125T0348_17.04_121.51,2026-11-25T03:48:00+08:00,17.04,121.51,14.0,2.8,013 km N 82° W of San Manuel (Isabela),2026_Earthquake_Information/November/2026_1124_194817_B2.html
 20261125T0525_8.8_126.43,2026-11-25T05:25:00+08:00,8.8,126.43,22.0,3.0,015 km East of Marihatag (Surigao Del Sur),2026_Earthquake_Information/November/2026_1124_212545_B2.html
-20261125T0546_5.69_125.25,2026-11-25T05:46:00+08:00,5.69,125.25,31.0,2.0,015 km S 18° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1124_214636_B1F.html
+20261125T0546_5.65_125.25,2026-11-25T05:46:00+08:00,5.65,125.25,32.0,2.0,020 km S 14° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1124_214636_B2F.html
 20261125T0549_12.4_121.89,2026-11-25T05:49:00+08:00,12.4,121.89,79.0,1.3,009 km N 33° W of Ferrol (Romblon),2026_Earthquake_Information/November/2026_1124_214954_B1.html
 20261125T0729_10.93_122.22,2026-11-25T07:29:00+08:00,10.93,122.22,19.0,5.1,013 km S 47° E of Valderrama (Antique),2026_Earthquake_Information/November/2026_1124_232954_B4F.html
 20261125T0746_10.0_126.35,2026-11-25T07:46:00+08:00,10.0,126.35,23.0,2.5,030 km S 86° E of Burgos (Surigao Del Norte),2026_Earthquake_Information/November/2026_1124_234609_B2.html
@@ -1497,3 +1497,5 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261126T0046_5.56_125.24,2026-11-26T00:46:00+08:00,5.56,125.24,5.0,3.4,026 km N 50° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1125_164633_B1F.html
 20261126T0133_6.01_124.8,2026-11-26T01:33:00+08:00,6.01,124.8,32.0,2.0,020 km N 83° E of Kiamba (Sarangani),2026_Earthquake_Information/November/2026_1125_173357_B1F.html
 20261126T0211_17.57_119.91,2026-11-26T02:11:00+08:00,17.57,119.91,2.0,2.3,049 km S 87° W of Santa Catalina (Ilocos Sur),2026_Earthquake_Information/November/2026_1125_181141_B1.html
+20261126T0213_12.92_123.08,2026-11-26T02:13:00+08:00,12.92,123.08,12.0,1.7,018 km N 82° W of Claveria (Masbate),2026_Earthquake_Information/November/2026_1125_181307_B1.html
+20261126T0228_17.88_120.4,2026-11-26T02:28:00+08:00,17.88,120.4,10.0,1.8,006 km N 71° W of Sinait (Ilocos Sur),2026_Earthquake_Information/November/2026_1125_182839_B1.html
