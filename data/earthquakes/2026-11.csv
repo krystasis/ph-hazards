@@ -1489,7 +1489,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261125T2350_12.81_123.02,2026-11-25T23:50:00+08:00,12.81,123.02,5.0,3.6,026 km S 66° W of Claveria (Masbate),2026_Earthquake_Information/November/2026_1125_155032_B2.html
 20261126T0003_9.2_126.41,2026-11-26T00:03:00+08:00,9.2,126.41,18.0,2.1,025 km S 70° E of Cortes (Surigao Del Sur),2026_Earthquake_Information/November/2026_1125_160312_B2.html
 20261126T0028_12.84_123.02,2026-11-26T00:28:00+08:00,12.84,123.02,6.0,1.7,025 km S 75° W of Claveria (Masbate),2026_Earthquake_Information/November/2026_1125_162851_B1.html
-20261126T0038_13.96_120.5,2026-11-26T00:38:00+08:00,13.96,120.5,112.0,1.8,019 km S 62° W of Lian (Batangas),2026_Earthquake_Information/November/2026_1125_163822_B1.html
+20261126T0038_13.95_120.47,2026-11-26T00:38:00+08:00,13.95,120.47,108.0,1.8,022 km S 65° W of Lian (Batangas),2026_Earthquake_Information/November/2026_1125_163822_B2.html
 20261126T0039_10.94_122.27,2026-11-26T00:39:00+08:00,10.94,122.27,25.0,1.8,017 km S 66° E of Valderrama (Antique),2026_Earthquake_Information/November/2026_1125_163914_B1F.html
 20261126T0039_9.61_126.28,2026-11-26T00:39:00+08:00,9.61,126.28,33.0,1.7,023 km S 34° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1125_163946_B2.html
 20261126T0045_12.9_124.59,2026-11-26T00:45:00+08:00,12.9,124.59,55.0,1.9,035 km N 46° E of Biri (Northern Samar),2026_Earthquake_Information/November/2026_1125_164539_B1.html
@@ -1524,3 +1524,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261126T1854_6.02_125.48,2026-11-26T18:54:00+08:00,6.02,125.48,70.0,1.6,021 km N 57° W of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/November/2026_1126_105409_B1.html
 20261126T1927_6.08_125.39,2026-11-26T19:27:00+08:00,6.08,125.39,21.0,1.5,011 km S 76° E of Alabel (Sarangani),2026_Earthquake_Information/November/2026_1126_112742_B1F.html
 20261126T1928_16.23_120.49,2026-11-26T19:28:00+08:00,16.23,120.49,13.0,2.7,000 km N 44° E of Rosario (La Union),2026_Earthquake_Information/November/2026_1126_112806_B1.html
+20261126T2004_11.03_124.06,2026-11-26T20:04:00+08:00,11.03,124.06,2.0,2.5,009 km S 78° E of City Of Bogo (Cebu),2026_Earthquake_Information/November/2026_1126_120424_B1F.html
