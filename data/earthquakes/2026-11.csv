@@ -1468,11 +1468,11 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261125T1637_6.32_125.49,2026-11-25T16:37:00+08:00,6.32,125.49,30.0,1.8,018 km S 52° W of Malita (Davao Occidental),2026_Earthquake_Information/November/2026_1125_083752_B1.html
 20261125T1741_6.41_126.46,2026-11-25T17:41:00+08:00,6.41,126.46,27.0,2.8,051 km S 58° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/November/2026_1125_094148_B2.html
 20261125T1756_11.01_122.32,2026-11-25T17:56:00+08:00,11.01,122.32,15.0,2.0,021 km N 89° E of Valderrama (Antique),2026_Earthquake_Information/November/2026_1125_095630_B2F.html
-20261125T1833_10.9_122.26,2026-11-25T18:33:00+08:00,10.9,122.26,25.0,2.3,018 km S 53° E of Valderrama (Antique),2026_Earthquake_Information/November/2026_1125_103307_B1F.html
+20261125T1833_10.93_122.24,2026-11-25T18:33:00+08:00,10.93,122.24,23.0,2.4,014 km S 56° E of Valderrama (Antique),2026_Earthquake_Information/November/2026_1125_103307_B2F.html
 20261125T1905_15.59_120.25,2026-11-25T19:05:00+08:00,15.59,120.25,33.0,1.6,014 km S 76° W of Mayantoc (Tarlac),2026_Earthquake_Information/November/2026_1125_110515_B1.html
 20261125T1923_17.84_120.75,2026-11-25T19:23:00+08:00,17.84,120.75,9.0,1.9,012 km S 45° E of Nueva Era (Ilocos Norte),2026_Earthquake_Information/November/2026_1125_112357_B1.html
 20261125T1926_8.41_126.35,2026-11-25T19:26:00+08:00,8.41,126.35,25.0,2.6,005 km N 21° E of Hinatuan (Surigao Del Sur),2026_Earthquake_Information/November/2026_1125_112607_B1.html
-20261125T1945_17.85_120.74,2026-11-25T19:45:00+08:00,17.85,120.74,11.0,1.7,011 km S 47° E of Nueva Era (Ilocos Norte),2026_Earthquake_Information/November/2026_1125_114520_B1.html
+20261125T1945_17.85_120.73,2026-11-25T19:45:00+08:00,17.85,120.73,10.0,1.8,010 km S 44° E of Nueva Era (Ilocos Norte),2026_Earthquake_Information/November/2026_1125_114520_B2.html
 20261125T2017_5.87_125.41,2026-11-25T20:17:00+08:00,5.87,125.41,33.0,1.5,018 km S 49° E of Malapatan (Sarangani),2026_Earthquake_Information/November/2026_1125_121730_B1F.html
 20261125T2113_5.92_126.48,2026-11-25T21:13:00+08:00,5.92,126.48,126.0,2.8,092 km S 70° E of Don Marcelino (Davao Occidental),2026_Earthquake_Information/November/2026_1125_131328_B1.html
 20261125T2133_13.55_119.88,2026-11-25T21:33:00+08:00,13.55,119.88,32.0,4.0,043 km S 37° W of Lubang (Occidental Mindoro),2026_Earthquake_Information/November/2026_1125_133310_B4F.html
@@ -1495,7 +1495,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261126T0045_12.9_124.59,2026-11-26T00:45:00+08:00,12.9,124.59,55.0,1.9,035 km N 46° E of Biri (Northern Samar),2026_Earthquake_Information/November/2026_1125_164539_B1.html
 20261126T0046_5.56_125.24,2026-11-26T00:46:00+08:00,5.56,125.24,5.0,3.4,026 km N 50° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1125_164633_B1F.html
 20261126T0133_6.01_124.8,2026-11-26T01:33:00+08:00,6.01,124.8,32.0,2.0,020 km N 83° E of Kiamba (Sarangani),2026_Earthquake_Information/November/2026_1125_173357_B1F.html
-20261126T0211_17.57_119.91,2026-11-26T02:11:00+08:00,17.57,119.91,2.0,2.3,049 km S 87° W of Santa Catalina (Ilocos Sur),2026_Earthquake_Information/November/2026_1125_181141_B1.html
+20261126T0211_17.65_119.84,2026-11-26T02:11:00+08:00,17.65,119.84,4.0,2.7,056 km N 83° W of Santa Catalina (Ilocos Sur),2026_Earthquake_Information/November/2026_1125_181140_B2.html
 20261126T0213_12.92_123.08,2026-11-26T02:13:00+08:00,12.92,123.08,12.0,1.7,018 km N 82° W of Claveria (Masbate),2026_Earthquake_Information/November/2026_1125_181307_B1.html
 20261126T0228_17.88_120.4,2026-11-26T02:28:00+08:00,17.88,120.4,10.0,1.8,006 km N 71° W of Sinait (Ilocos Sur),2026_Earthquake_Information/November/2026_1125_182839_B1.html
 20261126T0318_5.26_125.72,2026-11-26T03:18:00+08:00,5.26,125.72,114.0,2.1,036 km S 49° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1125_191822_B1.html
