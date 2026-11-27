@@ -1523,7 +1523,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261126T1709_13.86_122.56,2026-11-26T17:09:00+08:00,13.86,122.56,3.0,1.9,008 km S 34° W of Del Gallego (Camarines Sur),2026_Earthquake_Information/November/2026_1126_090921_B2.html
 20261126T1854_6.02_125.48,2026-11-26T18:54:00+08:00,6.02,125.48,70.0,1.6,021 km N 57° W of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/November/2026_1126_105409_B1.html
 20261126T1927_6.08_125.39,2026-11-26T19:27:00+08:00,6.08,125.39,21.0,1.5,011 km S 76° E of Alabel (Sarangani),2026_Earthquake_Information/November/2026_1126_112742_B1F.html
-20261126T1928_16.23_120.49,2026-11-26T19:28:00+08:00,16.23,120.49,13.0,2.7,000 km N 44° E of Rosario (La Union),2026_Earthquake_Information/November/2026_1126_112806_B1.html
+20261126T1928_16.25_120.5,2026-11-26T19:28:00+08:00,16.25,120.5,19.0,2.8,002 km N 31° E of Rosario (La Union),2026_Earthquake_Information/November/2026_1126_112807_B2.html
 20261126T2004_11.05_124.08,2026-11-26T20:04:00+08:00,11.05,124.08,7.0,2.6,011 km N 89° E of City Of Bogo (Cebu),2026_Earthquake_Information/November/2026_1126_120424_B2F.html
 20261126T2016_12.45_125.71,2026-11-26T20:16:00+08:00,12.45,125.71,12.0,3.0,037 km N 37° E of San Policarpo (Eastern Samar),2026_Earthquake_Information/November/2026_1126_121647_B1.html
 20261126T2020_6.2_125.05,2026-11-26T20:20:00+08:00,6.2,125.05,96.0,1.7,003 km S 42° W of Polomolok (South Cotabato),2026_Earthquake_Information/November/2026_1126_122042_B1.html
@@ -1535,10 +1535,10 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261126T2335_9.84_125.8,2026-11-26T23:35:00+08:00,9.84,125.8,31.0,2.1,017 km S 56° E of Cagdianao (Dinagat Islands),2026_Earthquake_Information/November/2026_1126_153552_B1.html
 20261126T2349_5.46_125.61,2026-11-26T23:49:00+08:00,5.46,125.61,24.0,2.5,015 km S 85° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1126_154950_B2F.html
 20261127T0001_8.11_127.06,2026-11-27T00:01:00+08:00,8.11,127.06,5.0,2.7,071 km N 84° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1126_160131_B1.html
-20261127T0018_4.67_125.81,2026-11-27T00:18:00+08:00,4.67,125.81,168.0,3.7,093 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1126_161800_B1F.html
+20261127T0018_4.69_125.89,2026-11-27T00:18:00+08:00,4.69,125.89,164.0,4.5,096 km S 33° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1126_161800_B2.html
 20261127T0040_10.87_123.77,2026-11-27T00:40:00+08:00,10.87,123.77,13.0,2.1,013 km N 63° W of Tabuelan (Cebu),2026_Earthquake_Information/November/2026_1126_164015_B1.html
 20261127T0113_11.04_122.32,2026-11-27T01:13:00+08:00,11.04,122.32,32.0,2.1,022 km N 79° E of Valderrama (Antique),2026_Earthquake_Information/November/2026_1126_171309_B1F.html
-20261127T0120_18.43_120.66,2026-11-27T01:20:00+08:00,18.43,120.66,30.0,1.6,009 km S 13° E of Burgos (Ilocos Norte),2026_Earthquake_Information/November/2026_1126_172023_B1.html
+20261127T0120_18.4_120.72,2026-11-27T01:20:00+08:00,18.4,120.72,27.0,1.8,013 km N 57° E of Pasuquin (Ilocos Norte),2026_Earthquake_Information/November/2026_1126_172023_B2.html
 20261127T0124_8.93_126.51,2026-11-27T01:24:00+08:00,8.93,126.51,8.0,1.8,023 km N 86° E of Cagwait (Surigao Del Sur),2026_Earthquake_Information/November/2026_1126_172455_B1.html
 20261127T0128_12.4_123.65,2026-11-27T01:28:00+08:00,12.4,123.65,11.0,2.0,004 km N 51° E of City Of Masbate (Masbate),2026_Earthquake_Information/November/2026_1126_172820_B1.html
 20261127T0255_9.71_126.3,2026-11-27T02:55:00+08:00,9.71,126.3,35.0,1.5,017 km S 63° E of General Luna (Surigao Del Norte),2026_Earthquake_Information/November/2026_1126_185513_B1.html
@@ -1547,7 +1547,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261127T0323_5.53_125.21,2026-11-27T03:23:00+08:00,5.53,125.21,17.0,1.9,027 km N 61° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1126_192357_B1F.html
 20261127T0412_5.7_126.64,2026-11-27T04:12:00+08:00,5.7,126.64,17.0,2.4,112 km S 78° E of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/November/2026_1126_201256_B1.html
 20261127T0432_5.73_125.32,2026-11-27T04:32:00+08:00,5.73,125.32,10.0,2.8,016 km S 53° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1126_203216_B1F.html
-20261127T0705_12.73_123.22,2026-11-27T07:05:00+08:00,12.73,123.22,11.0,2.0,019 km S 07° W of Claveria (Masbate),2026_Earthquake_Information/November/2026_1126_230504_B1.html
+20261127T0705_12.69_123.24,2026-11-27T07:05:00+08:00,12.69,123.24,25.0,2.2,023 km S 01° W of Claveria (Masbate),2026_Earthquake_Information/November/2026_1126_230505_B2.html
 20261127T0713_11.48_121.83,2026-11-27T07:13:00+08:00,11.48,121.83,4.0,2.2,026 km N 76° W of Culasi (Antique),2026_Earthquake_Information/November/2026_1126_231347_B1.html
 20261127T0821_5.77_125.23,2026-11-27T08:21:00+08:00,5.77,125.23,32.0,1.5,006 km S 25° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1127_002154_B1F.html
 20261127T1037_11.04_123.98,2026-11-27T10:37:00+08:00,11.04,123.98,8.0,2.1,001 km S 05° E of City Of Bogo (Cebu),2026_Earthquake_Information/November/2026_1127_023720_B1F.html
@@ -1568,3 +1568,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261127T1830_20.31_122.02,2026-11-27T18:30:00+08:00,20.31,122.02,34.0,1.8,009 km S 62° E of Uyugan (Batanes),2026_Earthquake_Information/November/2026_1127_103003_B1.html
 20261127T1830_20.3_122.03,2026-11-27T18:30:00+08:00,20.3,122.03,34.0,1.8,011 km S 58° E of Uyugan (Batanes),2026_Earthquake_Information/November/2026_1127_103003_B1.html
 20261127T1905_8.58_124.78,2026-11-27T19:05:00+08:00,8.58,124.78,25.0,1.9,001 km S 41° E of Villanueva (Misamis Oriental),2026_Earthquake_Information/November/2026_1127_110535_B1.html
+20261127T1920_8.95_126.29,2026-11-27T19:20:00+08:00,8.95,126.29,30.0,2.5,002 km S 23° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/November/2026_1127_112044_B1.html
