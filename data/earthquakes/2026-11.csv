@@ -1565,7 +1565,6 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261127T1659_12.62_123.52,2026-11-27T16:59:00+08:00,12.62,123.52,10.0,2.4,016 km N 08° E of Baleno (Masbate),2026_Earthquake_Information/November/2026_1127_085903_B1.html
 20261127T1820_8.53_124.57,2026-11-27T18:20:00+08:00,8.53,124.57,6.0,2.1,001 km N 40° W of Opol (Misamis Oriental),2026_Earthquake_Information/November/2026_1127_102035_B1.html
 20261127T1821_13.63_120.69,2026-11-27T18:21:00+08:00,13.63,120.69,195.0,1.9,020 km S 81° W of Tingloy (Batangas),2026_Earthquake_Information/November/2026_1127_102126_B1.html
-20261127T1830_20.31_122.02,2026-11-27T18:30:00+08:00,20.31,122.02,34.0,1.8,009 km S 62° E of Uyugan (Batanes),2026_Earthquake_Information/November/2026_1127_103003_B1.html
 20261127T1830_20.3_122.03,2026-11-27T18:30:00+08:00,20.3,122.03,34.0,1.8,011 km S 58° E of Uyugan (Batanes),2026_Earthquake_Information/November/2026_1127_103003_B1.html
 20261127T1905_8.58_124.78,2026-11-27T19:05:00+08:00,8.58,124.78,25.0,1.9,001 km S 41° E of Villanueva (Misamis Oriental),2026_Earthquake_Information/November/2026_1127_110535_B1.html
 20261127T1920_8.95_126.29,2026-11-27T19:20:00+08:00,8.95,126.29,30.0,2.5,002 km S 23° E of Bayabas (Surigao Del Sur),2026_Earthquake_Information/November/2026_1127_112044_B1.html
@@ -1593,3 +1592,5 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261128T0440_11.09_124.69,2026-11-28T04:40:00+08:00,11.09,124.69,26.0,1.7,015 km S 41° W of Jaro (Leyte),2026_Earthquake_Information/November/2026_1127_204000_B1.html
 20261128T0454_20.43_121.99,2026-11-28T04:54:00+08:00,20.43,121.99,22.0,2.3,003 km S 48° E of Basco (Batanes),2026_Earthquake_Information/November/2026_1127_205457_B1.html
 20261128T0517_11.2_124.67,2026-11-28T05:17:00+08:00,11.2,124.67,11.0,2.0,011 km S 13° E of Capoocan (Leyte),2026_Earthquake_Information/November/2026_1127_211721_B1.html
+20261128T0607_6.83_126.93,2026-11-28T06:07:00+08:00,6.83,126.93,23.0,2.5,058 km S 66° E of Tarragona (Davao Oriental),2026_Earthquake_Information/November/2026_1127_220737_B1.html
+20261128T0614_5.53_125.46,2026-11-28T06:14:00+08:00,5.53,125.46,33.0,1.6,007 km N 14° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1127_221404_B1F.html
