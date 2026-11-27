@@ -1524,16 +1524,16 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261126T1854_6.02_125.48,2026-11-26T18:54:00+08:00,6.02,125.48,70.0,1.6,021 km N 57° W of Jose Abad Santos (Davao Occidental),2026_Earthquake_Information/November/2026_1126_105409_B1.html
 20261126T1927_6.08_125.39,2026-11-26T19:27:00+08:00,6.08,125.39,21.0,1.5,011 km S 76° E of Alabel (Sarangani),2026_Earthquake_Information/November/2026_1126_112742_B1F.html
 20261126T1928_16.23_120.49,2026-11-26T19:28:00+08:00,16.23,120.49,13.0,2.7,000 km N 44° E of Rosario (La Union),2026_Earthquake_Information/November/2026_1126_112806_B1.html
-20261126T2004_11.03_124.06,2026-11-26T20:04:00+08:00,11.03,124.06,2.0,2.5,009 km S 78° E of City Of Bogo (Cebu),2026_Earthquake_Information/November/2026_1126_120424_B1F.html
+20261126T2004_11.05_124.08,2026-11-26T20:04:00+08:00,11.05,124.08,7.0,2.6,011 km N 89° E of City Of Bogo (Cebu),2026_Earthquake_Information/November/2026_1126_120424_B2F.html
 20261126T2016_12.45_125.71,2026-11-26T20:16:00+08:00,12.45,125.71,12.0,3.0,037 km N 37° E of San Policarpo (Eastern Samar),2026_Earthquake_Information/November/2026_1126_121647_B1.html
 20261126T2020_6.2_125.05,2026-11-26T20:20:00+08:00,6.2,125.05,96.0,1.7,003 km S 42° W of Polomolok (South Cotabato),2026_Earthquake_Information/November/2026_1126_122042_B1.html
-20261126T2119_6.93_127.48,2026-11-26T21:19:00+08:00,6.93,127.48,32.0,2.8,108 km S 73° E of Manay (Davao Oriental),2026_Earthquake_Information/November/2026_1126_131943_B1.html
+20261126T2119_6.97_127.6,2026-11-26T21:19:00+08:00,6.97,127.6,34.0,2.9,120 km S 77° E of Manay (Davao Oriental),2026_Earthquake_Information/November/2026_1126_131942_B2.html
 20261126T2201_5.56_125.23,2026-11-26T22:01:00+08:00,5.56,125.23,14.0,2.8,027 km N 51° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1126_140158_B1F.html
-20261126T2209_17.57_120.8,2026-11-26T22:09:00+08:00,17.57,120.8,7.0,1.8,009 km N 70° E of Bucay (Abra),2026_Earthquake_Information/November/2026_1126_140948_B1.html
-20261126T2220_7.24_126.67,2026-11-26T22:20:00+08:00,7.24,126.67,130.0,2.1,015 km S 50° E of Caraga (Davao Oriental),2026_Earthquake_Information/November/2026_1126_142054_B1.html
+20261126T2209_17.61_120.75,2026-11-26T22:09:00+08:00,17.61,120.75,12.0,2.0,002 km S 87° E of Lagangilang (Abra),2026_Earthquake_Information/November/2026_1126_140949_B2.html
+20261126T2220_7.27_126.54,2026-11-26T22:20:00+08:00,7.27,126.54,121.0,2.5,007 km S 20° W of Caraga (Davao Oriental),2026_Earthquake_Information/November/2026_1126_142055_B2.html
 20261126T2322_5.41_125.39,2026-11-26T23:22:00+08:00,5.41,125.39,35.0,2.4,004 km S 80° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1126_152233_B1F.html
 20261126T2335_9.84_125.8,2026-11-26T23:35:00+08:00,9.84,125.8,31.0,2.1,017 km S 56° E of Cagdianao (Dinagat Islands),2026_Earthquake_Information/November/2026_1126_153552_B1.html
-20261126T2349_5.43_125.38,2026-11-26T23:49:00+08:00,5.43,125.38,30.0,2.5,005 km N 69° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1126_154951_B1F.html
+20261126T2349_5.46_125.61,2026-11-26T23:49:00+08:00,5.46,125.61,24.0,2.5,015 km S 85° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1126_154950_B2F.html
 20261127T0001_8.11_127.06,2026-11-27T00:01:00+08:00,8.11,127.06,5.0,2.7,071 km N 84° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1126_160131_B1.html
 20261127T0018_4.67_125.81,2026-11-27T00:18:00+08:00,4.67,125.81,168.0,3.7,093 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1126_161800_B1F.html
 20261127T0040_10.87_123.77,2026-11-27T00:40:00+08:00,10.87,123.77,13.0,2.1,013 km N 63° W of Tabuelan (Cebu),2026_Earthquake_Information/November/2026_1126_164015_B1.html
@@ -1567,3 +1567,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261127T1821_13.63_120.69,2026-11-27T18:21:00+08:00,13.63,120.69,195.0,1.9,020 km S 81° W of Tingloy (Batangas),2026_Earthquake_Information/November/2026_1127_102126_B1.html
 20261127T1830_20.31_122.02,2026-11-27T18:30:00+08:00,20.31,122.02,34.0,1.8,009 km S 62° E of Uyugan (Batanes),2026_Earthquake_Information/November/2026_1127_103003_B1.html
 20261127T1830_20.3_122.03,2026-11-27T18:30:00+08:00,20.3,122.03,34.0,1.8,011 km S 58° E of Uyugan (Batanes),2026_Earthquake_Information/November/2026_1127_103003_B1.html
+20261127T1905_8.58_124.78,2026-11-27T19:05:00+08:00,8.58,124.78,25.0,1.9,001 km S 41° E of Villanueva (Misamis Oriental),2026_Earthquake_Information/November/2026_1127_110535_B1.html
