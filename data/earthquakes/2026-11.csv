@@ -1555,7 +1555,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261127T1135_6.75_125.37,2026-11-27T11:35:00+08:00,6.75,125.37,4.0,1.9,002 km N 79° E of City Of Digos (Davao Del Sur),2026_Earthquake_Information/November/2026_1127_033544_B1.html
 20261127T1217_2.43_127.37,2026-11-27T12:17:00+08:00,2.43,127.37,164.0,3.4,394 km S 33° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1127_041709_B1.html
 20261127T1250_10.63_126.11,2026-11-27T12:50:00+08:00,10.63,126.11,5.0,3.0,044 km S 74° E of Homonhon Island (Guiuan) (Eastern Samar),2026_Earthquake_Information/November/2026_1127_045019_B2.html
-20261127T1519_15.02_119.88,2026-11-27T15:19:00+08:00,15.02,119.88,3.0,2.2,021 km S 77° W of San Felipe (Zambales),2026_Earthquake_Information/November/2026_1127_071905_B1.html
+20261127T1519_15.04_119.93,2026-11-27T15:19:00+08:00,15.04,119.93,9.0,2.0,015 km S 81° W of San Felipe (Zambales),2026_Earthquake_Information/November/2026_1127_071906_B2.html
 20261127T1624_5.03_126.32,2026-11-27T16:24:00+08:00,5.03,126.32,67.0,2.8,107 km S 63° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1127_082451_B1.html
 20261127T1639_10.94_122.31,2026-11-27T16:39:00+08:00,10.94,122.31,16.0,2.4,021 km S 70° E of Valderrama (Antique),2026_Earthquake_Information/November/2026_1127_083928_B2F.html
 20261127T1642_18.02_120.45,2026-11-27T16:42:00+08:00,18.02,120.45,33.0,1.6,003 km N 88° W of Currimao (Ilocos Norte),2026_Earthquake_Information/November/2026_1127_084221_B2.html
@@ -1605,5 +1605,5 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261128T1020_6.37_126.36,2026-11-28T10:20:00+08:00,6.37,126.36,120.0,2.2,045 km S 46° E of Governor Generoso (Davao Oriental),2026_Earthquake_Information/November/2026_1128_022043_B1.html
 20261128T1021_12.89_122.84,2026-11-28T10:21:00+08:00,12.89,122.84,6.0,2.3,030 km S 30° W of San Pascual (Masbate),2026_Earthquake_Information/November/2026_1128_022121_B1.html
 20261128T1037_13.82_120.32,2026-11-28T10:37:00+08:00,13.82,120.32,75.0,1.6,013 km N 34° E of Looc (Occidental Mindoro),2026_Earthquake_Information/November/2026_1128_023730_B1.html
-20261128T1043_17.91_120.25,2026-11-28T10:43:00+08:00,17.91,120.25,10.0,4.2,022 km N 77° W of Sinait (Ilocos Sur),2026_Earthquake_Information/November/2026_1128_024318_B1.html
+20261128T1043_17.91_120.21,2026-11-28T10:43:00+08:00,17.91,120.21,23.0,4.2,026 km N 80° W of Sinait (Ilocos Sur),2026_Earthquake_Information/November/2026_1128_024318_B2F.html
 20261128T1129_5.7_125.31,2026-11-28T11:29:00+08:00,5.7,125.31,10.0,2.4,017 km S 41° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1128_032914_B1F.html
