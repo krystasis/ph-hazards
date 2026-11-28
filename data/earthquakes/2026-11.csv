@@ -1550,8 +1550,8 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261127T0705_12.69_123.24,2026-11-27T07:05:00+08:00,12.69,123.24,25.0,2.2,023 km S 01° W of Claveria (Masbate),2026_Earthquake_Information/November/2026_1126_230505_B2.html
 20261127T0713_11.46_121.98,2026-11-27T07:13:00+08:00,11.46,121.98,2.0,2.3,009 km N 69° W of Culasi (Antique),2026_Earthquake_Information/November/2026_1126_231348_B2.html
 20261127T0821_5.78_125.24,2026-11-27T08:21:00+08:00,5.78,125.24,35.0,2.0,007 km S 40° E of Glan (Sarangani),2026_Earthquake_Information/November/2026_1127_002153_B2F.html
-20261127T1037_11.04_123.98,2026-11-27T10:37:00+08:00,11.04,123.98,8.0,2.1,001 km S 05° E of City Of Bogo (Cebu),2026_Earthquake_Information/November/2026_1127_023720_B1F.html
-20261127T1117_3.1_126.23,2026-11-27T11:17:00+08:00,3.1,126.23,115.0,3.4,271 km S 19° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1127_031737_B1.html
+20261127T1037_10.92_123.94,2026-11-27T10:37:00+08:00,10.92,123.94,4.0,2.1,015 km S 15° W of City Of Bogo (Cebu),2026_Earthquake_Information/November/2026_1127_023722_B2F.html
+20261127T1117_3.13_126.4,2026-11-27T11:17:00+08:00,3.13,126.4,102.0,3.4,275 km S 23° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1127_031736_B2.html
 20261127T1135_6.75_125.37,2026-11-27T11:35:00+08:00,6.75,125.37,4.0,1.9,002 km N 79° E of City Of Digos (Davao Del Sur),2026_Earthquake_Information/November/2026_1127_033544_B1.html
 20261127T1217_2.43_127.37,2026-11-27T12:17:00+08:00,2.43,127.37,164.0,3.4,394 km S 33° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1127_041709_B1.html
 20261127T1250_10.57_126.12,2026-11-27T12:50:00+08:00,10.57,126.12,14.0,3.0,048 km S 66° E of Homonhon Island (Guiuan) (Eastern Samar),2026_Earthquake_Information/November/2026_1127_045020_B1.html
@@ -1598,3 +1598,6 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261128T0651_10.49_126.69,2026-11-28T06:51:00+08:00,10.49,126.69,9.0,3.1,085 km N 52° E of Burgos (Surigao Del Norte),2026_Earthquake_Information/November/2026_1127_225122_B1.html
 20261128T0745_11.04_123.95,2026-11-28T07:45:00+08:00,11.04,123.95,31.0,2.0,003 km S 70° W of City Of Bogo (Cebu),2026_Earthquake_Information/November/2026_1127_234545_B1F.html
 20261128T0831_15.26_123.0,2026-11-28T08:31:00+08:00,15.26,123.0,21.0,2.6,087 km N 04° E of Tinaga Island (Vinzons) (Camarines Norte),2026_Earthquake_Information/November/2026_1128_003144_B1.html
+20261128T0933_13.71_124.32,2026-11-28T09:33:00+08:00,13.71,124.32,11.0,1.6,008 km N 11° E of San Miguel (Catanduanes),2026_Earthquake_Information/November/2026_1128_013332_B1.html
+20261128T0935_17.17_121.49,2026-11-28T09:35:00+08:00,17.17,121.49,16.0,2.6,010 km S 80° E of Paracelis (Mountain Province),2026_Earthquake_Information/November/2026_1128_013517_B1.html
+20261128T0936_2.29_125.98,2026-11-28T09:36:00+08:00,2.29,125.98,52.0,4.0,351 km S 10° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1128_013647_B1.html
