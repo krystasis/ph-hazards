@@ -1582,8 +1582,8 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261128T0100_11.26_124.62,2026-11-28T01:00:00+08:00,11.26,124.62,5.0,3.1,005 km S 35° W of Capoocan (Leyte),2026_Earthquake_Information/November/2026_1127_170028_B2.html
 20261128T0145_16.22_122.17,2026-11-28T01:45:00+08:00,16.22,122.17,47.0,2.3,008 km S 38° E of Casiguran (Aurora),2026_Earthquake_Information/November/2026_1127_174549_B1.html
 20261128T0203_10.35_125.17,2026-11-28T02:03:00+08:00,10.35,125.17,24.0,1.7,006 km S 28° W of Hinunangan (Southern Leyte),2026_Earthquake_Information/November/2026_1127_180304_B1.html
-20261128T0220_7.12_127.03,2026-11-28T02:20:00+08:00,7.12,127.03,22.0,3.6,055 km S 80° E of Manay (Davao Oriental),2026_Earthquake_Information/November/2026_1127_182034_B1.html
-20261128T0234_9.64_122.57,2026-11-28T02:34:00+08:00,9.64,122.57,23.0,2.1,012 km N 69° E of Hinoba-an (Negros Occidental),2026_Earthquake_Information/November/2026_1127_183425_B1.html
+20261128T0220_6.99_127.32,2026-11-28T02:20:00+08:00,6.99,127.32,16.0,3.7,089 km S 74° E of Manay (Davao Oriental),2026_Earthquake_Information/November/2026_1127_182031_B2.html
+20261128T0234_9.51_122.49,2026-11-28T02:34:00+08:00,9.51,122.49,24.0,2.2,010 km S 16° E of Hinoba-an (Negros Occidental),2026_Earthquake_Information/November/2026_1127_183424_B2.html
 20261128T0240_19.19_121.13,2026-11-28T02:40:00+08:00,19.19,121.13,17.0,1.6,013 km N 42° W of Dalupiri Island (Calayan) (Cagayan),2026_Earthquake_Information/November/2026_1127_184049_B1.html
 20261128T0307_16.07_121.97,2026-11-28T03:07:00+08:00,16.07,121.97,12.0,2.5,008 km S 11° E of Dinalungan (Aurora),2026_Earthquake_Information/November/2026_1127_190728_B2.html
 20261128T0314_7.64_126.65,2026-11-28T03:14:00+08:00,7.64,126.65,23.0,2.6,012 km N 54° E of Baganga (Davao Oriental),2026_Earthquake_Information/November/2026_1127_191451_B2.html
@@ -1623,3 +1623,6 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261128T2036_18.08_120.27,2026-11-28T20:36:00+08:00,18.08,120.27,29.0,2.6,024 km N 73° W of Currimao (Ilocos Norte),2026_Earthquake_Information/November/2026_1128_123647_B1.html
 20261128T2042_10.87_125.46,2026-11-28T20:42:00+08:00,10.87,125.46,10.0,2.1,027 km S 18° E of Balangiga (Eastern Samar),2026_Earthquake_Information/November/2026_1128_124205_B1.html
 20261128T2046_8.35_127.13,2026-11-28T20:46:00+08:00,8.35,127.13,12.0,2.0,087 km N 67° E of Lingig (Surigao Del Sur),2026_Earthquake_Information/November/2026_1128_124652_B1F.html
+20261128T2159_4.92_125.07,2026-11-28T21:59:00+08:00,4.92,125.07,6.0,3.5,067 km S 36° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1128_135933_B1F.html
+20261128T2159_9.65_126.14,2026-11-28T21:59:00+08:00,9.65,126.14,35.0,1.4,015 km S 37° E of Dapa (Surigao Del Norte),2026_Earthquake_Information/November/2026_1128_135907_B1.html
+20261128T2201_18.6_121.3,2026-11-28T22:01:00+08:00,18.6,121.3,13.0,2.0,009 km N 57° E of Sanchez-mira (Cagayan),2026_Earthquake_Information/November/2026_1128_140154_B1.html
