@@ -1558,7 +1558,7 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261127T1519_15.02_119.88,2026-11-27T15:19:00+08:00,15.02,119.88,3.0,2.2,021 km S 77° W of San Felipe (Zambales),2026_Earthquake_Information/November/2026_1127_071905_B1.html
 20261127T1624_5.03_126.32,2026-11-27T16:24:00+08:00,5.03,126.32,67.0,2.8,107 km S 63° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1127_082451_B1.html
 20261127T1639_10.94_122.31,2026-11-27T16:39:00+08:00,10.94,122.31,16.0,2.4,021 km S 70° E of Valderrama (Antique),2026_Earthquake_Information/November/2026_1127_083928_B2F.html
-20261127T1642_17.9_120.53,2026-11-27T16:42:00+08:00,17.9,120.53,34.0,1.1,006 km S 03° E of Pinili (Ilocos Norte),2026_Earthquake_Information/November/2026_1127_084222_B1.html
+20261127T1642_18.02_120.45,2026-11-27T16:42:00+08:00,18.02,120.45,33.0,1.6,003 km N 88° W of Currimao (Ilocos Norte),2026_Earthquake_Information/November/2026_1127_084221_B2.html
 20261127T1643_18.77_121.39,2026-11-27T16:43:00+08:00,18.77,121.39,23.0,1.8,009 km S 11° E of Fuga Island (Aparri) (Cagayan),2026_Earthquake_Information/November/2026_1127_084338_B1.html
 20261127T1646_15.24_120.08,2026-11-27T16:46:00+08:00,15.24,120.08,19.0,2.4,008 km S 50° E of Botolan (Zambales),2026_Earthquake_Information/November/2026_1127_084655_B1.html
 20261127T1650_10.6_126.32,2026-11-27T16:50:00+08:00,10.6,126.32,8.0,3.4,068 km S 76° E of Homonhon Island (Guiuan) (Eastern Samar),2026_Earthquake_Information/November/2026_1127_085017_B1.html
@@ -1601,3 +1601,4 @@ event_id,datetime_pht,lat,lon,depth_km,mag,location,bulletin
 20261128T0933_13.71_124.32,2026-11-28T09:33:00+08:00,13.71,124.32,11.0,1.6,008 km N 11° E of San Miguel (Catanduanes),2026_Earthquake_Information/November/2026_1128_013332_B1.html
 20261128T0935_17.17_121.49,2026-11-28T09:35:00+08:00,17.17,121.49,16.0,2.6,010 km S 80° E of Paracelis (Mountain Province),2026_Earthquake_Information/November/2026_1128_013517_B1.html
 20261128T0936_2.29_125.98,2026-11-28T09:36:00+08:00,2.29,125.98,52.0,4.0,351 km S 10° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),2026_Earthquake_Information/November/2026_1128_013647_B1.html
+20261128T1012_5.59_125.14,2026-11-28T10:12:00+08:00,5.59,125.14,29.0,2.0,026 km S 15° W of Glan (Sarangani),2026_Earthquake_Information/November/2026_1128_021235_B1F.html
